@@ -1,0 +1,366 @@
+[
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Benimaru_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000300, 
+        "MasterCharacterId": 3001000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Benimaru_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000301, 
+        "MasterCharacterId": 3001000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Benimaru_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000302, 
+        "MasterCharacterId": 3001000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Gobta_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000400, 
+        "MasterCharacterId": 3001000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Gobta_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000401, 
+        "MasterCharacterId": 3001000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Gobta_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000402, 
+        "MasterCharacterId": 3001000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Shion_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000500, 
+        "MasterCharacterId": 3001000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Shion_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000501, 
+        "MasterCharacterId": 3001000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Shion_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000502, 
+        "MasterCharacterId": 3001000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Ranga_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000600, 
+        "MasterCharacterId": 3001000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Ranga_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000601, 
+        "MasterCharacterId": 3001000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Ranga_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000602, 
+        "MasterCharacterId": 3001000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Ranga_4", 
+        "MasterCharacterHomeAffectionActingId": 3014000603, 
+        "MasterCharacterId": 3001000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Soei_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000700, 
+        "MasterCharacterId": 3001000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Soei_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000701, 
+        "MasterCharacterId": 3001000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Soei_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000702, 
+        "MasterCharacterId": 3001000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Rigurd_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000800, 
+        "MasterCharacterId": 3001000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Rigurd_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000801, 
+        "MasterCharacterId": 3001000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010001005, 
+        "Luascriptoffset": "UnitChange_Rigurd_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000802, 
+        "MasterCharacterId": 3001000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007007, 
+        "Luascriptoffset": "UnitChange_GazelDwargo_1", 
+        "MasterCharacterHomeAffectionActingId": 3014000900, 
+        "MasterCharacterId": 3001000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007007, 
+        "Luascriptoffset": "UnitChange_GazelDwargo_2", 
+        "MasterCharacterHomeAffectionActingId": 3014000901, 
+        "MasterCharacterId": 3001000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007007, 
+        "Luascriptoffset": "UnitChange_GazelDwargo_3", 
+        "MasterCharacterHomeAffectionActingId": 3014000902, 
+        "MasterCharacterId": 3001000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Shuna_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001000, 
+        "MasterCharacterId": 3001000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Shuna_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001001, 
+        "MasterCharacterId": 3001000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Shuna_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001002, 
+        "MasterCharacterId": 3001000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007001, 
+        "Luascriptoffset": "UnitChange_Treyni_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001100, 
+        "MasterCharacterId": 3001000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007001, 
+        "Luascriptoffset": "UnitChange_Treyni_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001101, 
+        "MasterCharacterId": 3001000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007001, 
+        "Luascriptoffset": "UnitChange_Treyni_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001102, 
+        "MasterCharacterId": 3001000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010008010, 
+        "Luascriptoffset": "UnitChange_Trya_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001200, 
+        "MasterCharacterId": 3001000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010008010, 
+        "Luascriptoffset": "UnitChange_Trya_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001201, 
+        "MasterCharacterId": 3001000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010008010, 
+        "Luascriptoffset": "UnitChange_Trya_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001202, 
+        "MasterCharacterId": 3001000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007010, 
+        "Luascriptoffset": "UnitChange_Milim_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001500, 
+        "MasterCharacterId": 3001000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007010, 
+        "Luascriptoffset": "UnitChange_Milim_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001501, 
+        "MasterCharacterId": 3001000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007010, 
+        "Luascriptoffset": "UnitChange_Milim_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001502, 
+        "MasterCharacterId": 3001000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007008, 
+        "Luascriptoffset": "UnitChange_Gabiru_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001600, 
+        "MasterCharacterId": 3001000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007008, 
+        "Luascriptoffset": "UnitChange_Gabiru_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001601, 
+        "MasterCharacterId": 3001000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007008, 
+        "Luascriptoffset": "UnitChange_Gabiru_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001602, 
+        "MasterCharacterId": 3001000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007002, 
+        "Luascriptoffset": "UnitChange_Geld_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001700, 
+        "MasterCharacterId": 3001000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007002, 
+        "Luascriptoffset": "UnitChange_Geld_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001701, 
+        "MasterCharacterId": 3001000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007002, 
+        "Luascriptoffset": "UnitChange_Geld_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001702, 
+        "MasterCharacterId": 3001000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Hakuro_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001800, 
+        "MasterCharacterId": 3001000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Hakuro_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001801, 
+        "MasterCharacterId": 3001000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Hakuro_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001802, 
+        "MasterCharacterId": 3001000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Kurobei_1", 
+        "MasterCharacterHomeAffectionActingId": 3014001900, 
+        "MasterCharacterId": 3001000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Kurobei_2", 
+        "MasterCharacterHomeAffectionActingId": 3014001901, 
+        "MasterCharacterId": 3001000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010005001, 
+        "Luascriptoffset": "UnitChange_Kurobei_3", 
+        "MasterCharacterHomeAffectionActingId": 3014001902, 
+        "MasterCharacterId": 3001000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007008, 
+        "Luascriptoffset": "UnitChange_Vesta_1", 
+        "MasterCharacterHomeAffectionActingId": 3014051000, 
+        "MasterCharacterId": 3001000510, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007008, 
+        "Luascriptoffset": "UnitChange_Vesta_2", 
+        "MasterCharacterHomeAffectionActingId": 3014051001, 
+        "MasterCharacterId": 3001000510, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010007008, 
+        "Luascriptoffset": "UnitChange_Vesta_3", 
+        "MasterCharacterHomeAffectionActingId": 3014051002, 
+        "MasterCharacterId": 3001000510, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010002008, 
+        "Luascriptoffset": "UnitChange_Kaijin_1", 
+        "MasterCharacterHomeAffectionActingId": 3014052000, 
+        "MasterCharacterId": 3001000520, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010002008, 
+        "Luascriptoffset": "UnitChange_Kaijin_2", 
+        "MasterCharacterHomeAffectionActingId": 3014052001, 
+        "MasterCharacterId": 3001000520, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ClearQuestId": 4010002008, 
+        "Luascriptoffset": "UnitChange_Kaijin_3", 
+        "MasterCharacterHomeAffectionActingId": 3014052002, 
+        "MasterCharacterId": 3001000520, 
+        "ReleaseLabeloffset": ""
+    }
+]

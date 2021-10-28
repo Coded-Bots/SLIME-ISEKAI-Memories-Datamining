@@ -1,0 +1,12 @@
+[
+    {
+        "DefineNameoffset": "MasterAttackType.Physics", 
+        "MasterAttackTypeMessageId": 804000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterAttackType.Magic", 
+        "MasterAttackTypeMessageId": 804000002, 
+        "ReleaseLabeloffset": ""
+    }
+]

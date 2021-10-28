@@ -1,0 +1,102 @@
+[
+    {
+        "DefineNameoffset": "Equipment.No.Effect", 
+        "MasterEquipmentDetailMessageId": 812000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.LimitGift", 
+        "MasterEquipmentDetailMessageId": 812000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.OutOfTerm", 
+        "MasterEquipmentDetailMessageId": 812000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.LessFoundingLv.Format", 
+        "MasterEquipmentDetailMessageId": 812000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.NoMaterial.Mini", 
+        "MasterEquipmentDetailMessageId": 812000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.LessFoundingLv", 
+        "MasterEquipmentDetailMessageId": 812000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.NoMaterial.Full", 
+        "MasterEquipmentDetailMessageId": 812000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Craft.Left.Format", 
+        "MasterEquipmentDetailMessageId": 812000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.Result.MaxPoint", 
+        "MasterEquipmentDetailMessageId": 812000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.MaxEffective", 
+        "MasterEquipmentDetailMessageId": 812000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.NoItem", 
+        "MasterEquipmentDetailMessageId": 812000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.LackEquipmentLevel", 
+        "MasterEquipmentDetailMessageId": 812000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.LackFacilityLevel", 
+        "MasterEquipmentDetailMessageId": 812000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.LackMaterial", 
+        "MasterEquipmentDetailMessageId": 812000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.NoLongerEvolution", 
+        "MasterEquipmentDetailMessageId": 812000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.NoLongerEnhance", 
+        "MasterEquipmentDetailMessageId": 812000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.NoLongerUpdateStock", 
+        "MasterEquipmentDetailMessageId": 812000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Enhance.Remake.MaxGauge", 
+        "MasterEquipmentDetailMessageId": 812000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Leave.Confirm.Title", 
+        "MasterEquipmentDetailMessageId": 812000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Leave.Confirm.Text", 
+        "MasterEquipmentDetailMessageId": 812000020, 
+        "ReleaseLabeloffset": ""
+    }
+]

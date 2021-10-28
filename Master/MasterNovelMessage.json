@@ -1,0 +1,17 @@
+[
+    {
+        "DefineNameoffset": "Novel.GreatSage", 
+        "MasterNovelMessageId": 800000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Novel.SkipModalTitle", 
+        "MasterNovelMessageId": 800000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Novel.NewRaceModalTitle", 
+        "MasterNovelMessageId": 800000003, 
+        "ReleaseLabeloffset": ""
+    }
+]

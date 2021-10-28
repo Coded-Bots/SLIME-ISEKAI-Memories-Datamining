@@ -1,0 +1,19 @@
+[
+    {
+        "CharacterChangeEffectPathoffset": "Setting/Effect/Battle/Common/C_Change_Normal_Default", 
+        "DeathEffectPathoffset": "Setting/Effect/Battle/Common/C_Death_Default", 
+        "DeathSePathoffset": "battle/other/se_battle_other_184", 
+        "EvasionEffectPathoffset": "Setting/Effect/Battle/Common/C_Dodge_Normal_Default", 
+        "GuardEffectPathoffset": "Setting/Effect/Battle/Common/C_Guard_Normal_Default", 
+        "GuardSuperEffectPathoffset": "Setting/Effect/Battle/Common/C_Guard_Extra_Default", 
+        "MasterBattleEffectId": 2004000001, 
+        "ReleaseLabeloffset": "", 
+        "SpecialPointInEffectPathoffset": "Setting/Effect/Battle/Common/C_SpecialSkill_In", 
+        "SpecialPointInSePathoffset": "battle/other/se_battle_other_275", 
+        "SpecialPointMaxEffectPathoffset": "Setting/Effect/Battle/Common/C_SpecialSkill_Max", 
+        "SpecialPointOutEffectPathoffset": "Setting/Effect/Battle/Common/C_SpecialSkill_Out", 
+        "SpecialPointOutSePathoffset": "battle/other/se_battle_other_276", 
+        "StepEffectPathoffset": "Setting/Effect/Battle/Common/C_Step_Smoke_Default", 
+        "WarpAttackEffectPathoffset": "Setting/Effect/Battle/Common/C_Dodge_Normal_Default"
+    }
+]

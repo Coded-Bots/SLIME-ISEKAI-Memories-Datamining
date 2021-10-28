@@ -1,0 +1,37 @@
+[
+    {
+        "DefineNameoffset": "MasterWeaponType.Sword", 
+        "MasterWeaponTypeMessageId": 806000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterWeaponType.Katana", 
+        "MasterWeaponTypeMessageId": 806000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterWeaponType.Largesword", 
+        "MasterWeaponTypeMessageId": 806000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterWeaponType.Spear", 
+        "MasterWeaponTypeMessageId": 806000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterWeaponType.Hammer", 
+        "MasterWeaponTypeMessageId": 806000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterWeaponType.Knuckle", 
+        "MasterWeaponTypeMessageId": 806000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterWeaponType.Book", 
+        "MasterWeaponTypeMessageId": 806000007, 
+        "ReleaseLabeloffset": ""
+    }
+]

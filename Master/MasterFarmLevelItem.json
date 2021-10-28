@@ -1,0 +1,6057 @@
+[
+    {
+        "MasterFacilityLevelFarmId": 404130101, 
+        "MasterFarmLevelItemId": 405301011, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130102, 
+        "MasterFarmLevelItemId": 405301021, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130102, 
+        "MasterFarmLevelItemId": 405301022, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130103, 
+        "MasterFarmLevelItemId": 405301031, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130103, 
+        "MasterFarmLevelItemId": 405301032, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130104, 
+        "MasterFarmLevelItemId": 405301041, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130104, 
+        "MasterFarmLevelItemId": 405301042, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130105, 
+        "MasterFarmLevelItemId": 405301051, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130105, 
+        "MasterFarmLevelItemId": 405301052, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130106, 
+        "MasterFarmLevelItemId": 405301061, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130106, 
+        "MasterFarmLevelItemId": 405301062, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130107, 
+        "MasterFarmLevelItemId": 405301071, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130107, 
+        "MasterFarmLevelItemId": 405301072, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130108, 
+        "MasterFarmLevelItemId": 405301081, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130108, 
+        "MasterFarmLevelItemId": 405301082, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130109, 
+        "MasterFarmLevelItemId": 405301091, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130109, 
+        "MasterFarmLevelItemId": 405301092, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130110, 
+        "MasterFarmLevelItemId": 405301101, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130110, 
+        "MasterFarmLevelItemId": 405301102, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130111, 
+        "MasterFarmLevelItemId": 405301111, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130111, 
+        "MasterFarmLevelItemId": 405301112, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130112, 
+        "MasterFarmLevelItemId": 405301121, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130112, 
+        "MasterFarmLevelItemId": 405301122, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130113, 
+        "MasterFarmLevelItemId": 405301131, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130113, 
+        "MasterFarmLevelItemId": 405301132, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130114, 
+        "MasterFarmLevelItemId": 405301141, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130114, 
+        "MasterFarmLevelItemId": 405301142, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130115, 
+        "MasterFarmLevelItemId": 405301151, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130115, 
+        "MasterFarmLevelItemId": 405301152, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130116, 
+        "MasterFarmLevelItemId": 405301161, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130116, 
+        "MasterFarmLevelItemId": 405301162, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130116, 
+        "MasterFarmLevelItemId": 405301163, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130117, 
+        "MasterFarmLevelItemId": 405301171, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130117, 
+        "MasterFarmLevelItemId": 405301172, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130117, 
+        "MasterFarmLevelItemId": 405301173, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130118, 
+        "MasterFarmLevelItemId": 405301181, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130118, 
+        "MasterFarmLevelItemId": 405301182, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130118, 
+        "MasterFarmLevelItemId": 405301183, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130119, 
+        "MasterFarmLevelItemId": 405301191, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130119, 
+        "MasterFarmLevelItemId": 405301192, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130119, 
+        "MasterFarmLevelItemId": 405301193, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130120, 
+        "MasterFarmLevelItemId": 405301201, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130120, 
+        "MasterFarmLevelItemId": 405301202, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130120, 
+        "MasterFarmLevelItemId": 405301203, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130121, 
+        "MasterFarmLevelItemId": 405301211, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130121, 
+        "MasterFarmLevelItemId": 405301212, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130121, 
+        "MasterFarmLevelItemId": 405301213, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130122, 
+        "MasterFarmLevelItemId": 405301221, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130122, 
+        "MasterFarmLevelItemId": 405301222, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130122, 
+        "MasterFarmLevelItemId": 405301223, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130123, 
+        "MasterFarmLevelItemId": 405301231, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130123, 
+        "MasterFarmLevelItemId": 405301232, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130123, 
+        "MasterFarmLevelItemId": 405301233, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130124, 
+        "MasterFarmLevelItemId": 405301241, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130124, 
+        "MasterFarmLevelItemId": 405301242, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130124, 
+        "MasterFarmLevelItemId": 405301243, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130125, 
+        "MasterFarmLevelItemId": 405301251, 
+        "MasterRewardGroupId": 802514010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130125, 
+        "MasterFarmLevelItemId": 405301252, 
+        "MasterRewardGroupId": 802514020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130125, 
+        "MasterFarmLevelItemId": 405301253, 
+        "MasterRewardGroupId": 802514030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130201, 
+        "MasterFarmLevelItemId": 405302011, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130202, 
+        "MasterFarmLevelItemId": 405302021, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130202, 
+        "MasterFarmLevelItemId": 405302022, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130203, 
+        "MasterFarmLevelItemId": 405302031, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130203, 
+        "MasterFarmLevelItemId": 405302032, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130204, 
+        "MasterFarmLevelItemId": 405302041, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130204, 
+        "MasterFarmLevelItemId": 405302042, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130205, 
+        "MasterFarmLevelItemId": 405302051, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130205, 
+        "MasterFarmLevelItemId": 405302052, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130206, 
+        "MasterFarmLevelItemId": 405302061, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130206, 
+        "MasterFarmLevelItemId": 405302062, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130207, 
+        "MasterFarmLevelItemId": 405302071, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130207, 
+        "MasterFarmLevelItemId": 405302072, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130208, 
+        "MasterFarmLevelItemId": 405302081, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130208, 
+        "MasterFarmLevelItemId": 405302082, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130209, 
+        "MasterFarmLevelItemId": 405302091, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130209, 
+        "MasterFarmLevelItemId": 405302092, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130210, 
+        "MasterFarmLevelItemId": 405302101, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130210, 
+        "MasterFarmLevelItemId": 405302102, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130211, 
+        "MasterFarmLevelItemId": 405302111, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130211, 
+        "MasterFarmLevelItemId": 405302112, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130212, 
+        "MasterFarmLevelItemId": 405302121, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130212, 
+        "MasterFarmLevelItemId": 405302122, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130213, 
+        "MasterFarmLevelItemId": 405302131, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130213, 
+        "MasterFarmLevelItemId": 405302132, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130214, 
+        "MasterFarmLevelItemId": 405302141, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130214, 
+        "MasterFarmLevelItemId": 405302142, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130215, 
+        "MasterFarmLevelItemId": 405302151, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130215, 
+        "MasterFarmLevelItemId": 405302152, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130216, 
+        "MasterFarmLevelItemId": 405302161, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130216, 
+        "MasterFarmLevelItemId": 405302162, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130216, 
+        "MasterFarmLevelItemId": 405302163, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130217, 
+        "MasterFarmLevelItemId": 405302171, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130217, 
+        "MasterFarmLevelItemId": 405302172, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130217, 
+        "MasterFarmLevelItemId": 405302173, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130218, 
+        "MasterFarmLevelItemId": 405302181, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130218, 
+        "MasterFarmLevelItemId": 405302182, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130218, 
+        "MasterFarmLevelItemId": 405302183, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130219, 
+        "MasterFarmLevelItemId": 405302191, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130219, 
+        "MasterFarmLevelItemId": 405302192, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130219, 
+        "MasterFarmLevelItemId": 405302193, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130220, 
+        "MasterFarmLevelItemId": 405302201, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130220, 
+        "MasterFarmLevelItemId": 405302202, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130220, 
+        "MasterFarmLevelItemId": 405302203, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130221, 
+        "MasterFarmLevelItemId": 405302211, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130221, 
+        "MasterFarmLevelItemId": 405302212, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130221, 
+        "MasterFarmLevelItemId": 405302213, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130222, 
+        "MasterFarmLevelItemId": 405302221, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130222, 
+        "MasterFarmLevelItemId": 405302222, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130222, 
+        "MasterFarmLevelItemId": 405302223, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130223, 
+        "MasterFarmLevelItemId": 405302231, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130223, 
+        "MasterFarmLevelItemId": 405302232, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130223, 
+        "MasterFarmLevelItemId": 405302233, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130224, 
+        "MasterFarmLevelItemId": 405302241, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130224, 
+        "MasterFarmLevelItemId": 405302242, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130224, 
+        "MasterFarmLevelItemId": 405302243, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130225, 
+        "MasterFarmLevelItemId": 405302251, 
+        "MasterRewardGroupId": 802514070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130225, 
+        "MasterFarmLevelItemId": 405302252, 
+        "MasterRewardGroupId": 802514080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130225, 
+        "MasterFarmLevelItemId": 405302253, 
+        "MasterRewardGroupId": 802514090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130301, 
+        "MasterFarmLevelItemId": 405303011, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130302, 
+        "MasterFarmLevelItemId": 405303021, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130302, 
+        "MasterFarmLevelItemId": 405303022, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130303, 
+        "MasterFarmLevelItemId": 405303031, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130303, 
+        "MasterFarmLevelItemId": 405303032, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130304, 
+        "MasterFarmLevelItemId": 405303041, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130304, 
+        "MasterFarmLevelItemId": 405303042, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130305, 
+        "MasterFarmLevelItemId": 405303051, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130305, 
+        "MasterFarmLevelItemId": 405303052, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130306, 
+        "MasterFarmLevelItemId": 405303061, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130306, 
+        "MasterFarmLevelItemId": 405303062, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130307, 
+        "MasterFarmLevelItemId": 405303071, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130307, 
+        "MasterFarmLevelItemId": 405303072, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130308, 
+        "MasterFarmLevelItemId": 405303081, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130308, 
+        "MasterFarmLevelItemId": 405303082, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130309, 
+        "MasterFarmLevelItemId": 405303091, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130309, 
+        "MasterFarmLevelItemId": 405303092, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130310, 
+        "MasterFarmLevelItemId": 405303101, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130310, 
+        "MasterFarmLevelItemId": 405303102, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130311, 
+        "MasterFarmLevelItemId": 405303111, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130311, 
+        "MasterFarmLevelItemId": 405303112, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130312, 
+        "MasterFarmLevelItemId": 405303121, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130312, 
+        "MasterFarmLevelItemId": 405303122, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130313, 
+        "MasterFarmLevelItemId": 405303131, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130313, 
+        "MasterFarmLevelItemId": 405303132, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130314, 
+        "MasterFarmLevelItemId": 405303141, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130314, 
+        "MasterFarmLevelItemId": 405303142, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130315, 
+        "MasterFarmLevelItemId": 405303151, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130315, 
+        "MasterFarmLevelItemId": 405303152, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130316, 
+        "MasterFarmLevelItemId": 405303161, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130316, 
+        "MasterFarmLevelItemId": 405303162, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130316, 
+        "MasterFarmLevelItemId": 405303163, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130317, 
+        "MasterFarmLevelItemId": 405303171, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130317, 
+        "MasterFarmLevelItemId": 405303172, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130317, 
+        "MasterFarmLevelItemId": 405303173, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130318, 
+        "MasterFarmLevelItemId": 405303181, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130318, 
+        "MasterFarmLevelItemId": 405303182, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130318, 
+        "MasterFarmLevelItemId": 405303183, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130319, 
+        "MasterFarmLevelItemId": 405303191, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130319, 
+        "MasterFarmLevelItemId": 405303192, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130319, 
+        "MasterFarmLevelItemId": 405303193, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130320, 
+        "MasterFarmLevelItemId": 405303201, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130320, 
+        "MasterFarmLevelItemId": 405303202, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130320, 
+        "MasterFarmLevelItemId": 405303203, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130321, 
+        "MasterFarmLevelItemId": 405303211, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130321, 
+        "MasterFarmLevelItemId": 405303212, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130321, 
+        "MasterFarmLevelItemId": 405303213, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130322, 
+        "MasterFarmLevelItemId": 405303221, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130322, 
+        "MasterFarmLevelItemId": 405303222, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130322, 
+        "MasterFarmLevelItemId": 405303223, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130323, 
+        "MasterFarmLevelItemId": 405303231, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130323, 
+        "MasterFarmLevelItemId": 405303232, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130323, 
+        "MasterFarmLevelItemId": 405303233, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130324, 
+        "MasterFarmLevelItemId": 405303241, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130324, 
+        "MasterFarmLevelItemId": 405303242, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130324, 
+        "MasterFarmLevelItemId": 405303243, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130325, 
+        "MasterFarmLevelItemId": 405303251, 
+        "MasterRewardGroupId": 802514100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130325, 
+        "MasterFarmLevelItemId": 405303252, 
+        "MasterRewardGroupId": 802514110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130325, 
+        "MasterFarmLevelItemId": 405303253, 
+        "MasterRewardGroupId": 802514120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130401, 
+        "MasterFarmLevelItemId": 405304011, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130402, 
+        "MasterFarmLevelItemId": 405304021, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130402, 
+        "MasterFarmLevelItemId": 405304022, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130403, 
+        "MasterFarmLevelItemId": 405304031, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130403, 
+        "MasterFarmLevelItemId": 405304032, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130404, 
+        "MasterFarmLevelItemId": 405304041, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130404, 
+        "MasterFarmLevelItemId": 405304042, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130405, 
+        "MasterFarmLevelItemId": 405304051, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130405, 
+        "MasterFarmLevelItemId": 405304052, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130406, 
+        "MasterFarmLevelItemId": 405304061, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130406, 
+        "MasterFarmLevelItemId": 405304062, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130407, 
+        "MasterFarmLevelItemId": 405304071, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130407, 
+        "MasterFarmLevelItemId": 405304072, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130408, 
+        "MasterFarmLevelItemId": 405304081, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130408, 
+        "MasterFarmLevelItemId": 405304082, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130409, 
+        "MasterFarmLevelItemId": 405304091, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130409, 
+        "MasterFarmLevelItemId": 405304092, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130410, 
+        "MasterFarmLevelItemId": 405304101, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130410, 
+        "MasterFarmLevelItemId": 405304102, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130411, 
+        "MasterFarmLevelItemId": 405304111, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130411, 
+        "MasterFarmLevelItemId": 405304112, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130412, 
+        "MasterFarmLevelItemId": 405304121, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130412, 
+        "MasterFarmLevelItemId": 405304122, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130413, 
+        "MasterFarmLevelItemId": 405304131, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130413, 
+        "MasterFarmLevelItemId": 405304132, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130414, 
+        "MasterFarmLevelItemId": 405304141, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130414, 
+        "MasterFarmLevelItemId": 405304142, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130415, 
+        "MasterFarmLevelItemId": 405304151, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130415, 
+        "MasterFarmLevelItemId": 405304152, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130416, 
+        "MasterFarmLevelItemId": 405304161, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130416, 
+        "MasterFarmLevelItemId": 405304162, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130416, 
+        "MasterFarmLevelItemId": 405304163, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130417, 
+        "MasterFarmLevelItemId": 405304171, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130417, 
+        "MasterFarmLevelItemId": 405304172, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130417, 
+        "MasterFarmLevelItemId": 405304173, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130418, 
+        "MasterFarmLevelItemId": 405304181, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130418, 
+        "MasterFarmLevelItemId": 405304182, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130418, 
+        "MasterFarmLevelItemId": 405304183, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130419, 
+        "MasterFarmLevelItemId": 405304191, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130419, 
+        "MasterFarmLevelItemId": 405304192, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130419, 
+        "MasterFarmLevelItemId": 405304193, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130420, 
+        "MasterFarmLevelItemId": 405304201, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130420, 
+        "MasterFarmLevelItemId": 405304202, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130420, 
+        "MasterFarmLevelItemId": 405304203, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130421, 
+        "MasterFarmLevelItemId": 405304211, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130421, 
+        "MasterFarmLevelItemId": 405304212, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130421, 
+        "MasterFarmLevelItemId": 405304213, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130422, 
+        "MasterFarmLevelItemId": 405304221, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130422, 
+        "MasterFarmLevelItemId": 405304222, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130422, 
+        "MasterFarmLevelItemId": 405304223, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130423, 
+        "MasterFarmLevelItemId": 405304231, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130423, 
+        "MasterFarmLevelItemId": 405304232, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130423, 
+        "MasterFarmLevelItemId": 405304233, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130424, 
+        "MasterFarmLevelItemId": 405304241, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130424, 
+        "MasterFarmLevelItemId": 405304242, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130424, 
+        "MasterFarmLevelItemId": 405304243, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130425, 
+        "MasterFarmLevelItemId": 405304251, 
+        "MasterRewardGroupId": 802514130001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130425, 
+        "MasterFarmLevelItemId": 405304252, 
+        "MasterRewardGroupId": 802514140001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130425, 
+        "MasterFarmLevelItemId": 405304253, 
+        "MasterRewardGroupId": 802514150001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130501, 
+        "MasterFarmLevelItemId": 405305011, 
+        "MasterRewardGroupId": 802531010031, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130502, 
+        "MasterFarmLevelItemId": 405305021, 
+        "MasterRewardGroupId": 802531010032, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130503, 
+        "MasterFarmLevelItemId": 405305031, 
+        "MasterRewardGroupId": 802531010033, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130504, 
+        "MasterFarmLevelItemId": 405305041, 
+        "MasterRewardGroupId": 802531010033, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130505, 
+        "MasterFarmLevelItemId": 405305051, 
+        "MasterRewardGroupId": 802531010034, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130506, 
+        "MasterFarmLevelItemId": 405305061, 
+        "MasterRewardGroupId": 802531010035, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130507, 
+        "MasterFarmLevelItemId": 405305071, 
+        "MasterRewardGroupId": 802531010035, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130508, 
+        "MasterFarmLevelItemId": 405305081, 
+        "MasterRewardGroupId": 802531010036, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130509, 
+        "MasterFarmLevelItemId": 405305091, 
+        "MasterRewardGroupId": 802531010037, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130510, 
+        "MasterFarmLevelItemId": 405305101, 
+        "MasterRewardGroupId": 802531010037, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130511, 
+        "MasterFarmLevelItemId": 405305111, 
+        "MasterRewardGroupId": 802531010038, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130512, 
+        "MasterFarmLevelItemId": 405305121, 
+        "MasterRewardGroupId": 802531010039, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130513, 
+        "MasterFarmLevelItemId": 405305131, 
+        "MasterRewardGroupId": 802531010040, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130514, 
+        "MasterFarmLevelItemId": 405305141, 
+        "MasterRewardGroupId": 802531010041, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130515, 
+        "MasterFarmLevelItemId": 405305151, 
+        "MasterRewardGroupId": 802531010041, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130516, 
+        "MasterFarmLevelItemId": 405305161, 
+        "MasterRewardGroupId": 802531010042, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130517, 
+        "MasterFarmLevelItemId": 405305171, 
+        "MasterRewardGroupId": 802531010043, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130518, 
+        "MasterFarmLevelItemId": 405305181, 
+        "MasterRewardGroupId": 802531010044, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130519, 
+        "MasterFarmLevelItemId": 405305191, 
+        "MasterRewardGroupId": 802531010045, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130520, 
+        "MasterFarmLevelItemId": 405305201, 
+        "MasterRewardGroupId": 802531010046, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130521, 
+        "MasterFarmLevelItemId": 405305211, 
+        "MasterRewardGroupId": 802531010047, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130522, 
+        "MasterFarmLevelItemId": 405305221, 
+        "MasterRewardGroupId": 802531010048, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130523, 
+        "MasterFarmLevelItemId": 405305231, 
+        "MasterRewardGroupId": 802531010049, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130524, 
+        "MasterFarmLevelItemId": 405305241, 
+        "MasterRewardGroupId": 802531010050, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130525, 
+        "MasterFarmLevelItemId": 405305251, 
+        "MasterRewardGroupId": 802531010051, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130526, 
+        "MasterFarmLevelItemId": 405305261, 
+        "MasterRewardGroupId": 802531010052, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130527, 
+        "MasterFarmLevelItemId": 405305271, 
+        "MasterRewardGroupId": 802531010053, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130528, 
+        "MasterFarmLevelItemId": 405305281, 
+        "MasterRewardGroupId": 802531010054, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130529, 
+        "MasterFarmLevelItemId": 405305291, 
+        "MasterRewardGroupId": 802531010055, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130530, 
+        "MasterFarmLevelItemId": 405305301, 
+        "MasterRewardGroupId": 802531010056, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130531, 
+        "MasterFarmLevelItemId": 405305311, 
+        "MasterRewardGroupId": 802531010057, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130532, 
+        "MasterFarmLevelItemId": 405305321, 
+        "MasterRewardGroupId": 802531010058, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130533, 
+        "MasterFarmLevelItemId": 405305331, 
+        "MasterRewardGroupId": 802531010059, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130534, 
+        "MasterFarmLevelItemId": 405305341, 
+        "MasterRewardGroupId": 802531010060, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130535, 
+        "MasterFarmLevelItemId": 405305351, 
+        "MasterRewardGroupId": 802531010061, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130536, 
+        "MasterFarmLevelItemId": 405305361, 
+        "MasterRewardGroupId": 802531010062, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130537, 
+        "MasterFarmLevelItemId": 405305371, 
+        "MasterRewardGroupId": 802531010063, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130538, 
+        "MasterFarmLevelItemId": 405305381, 
+        "MasterRewardGroupId": 802531010064, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130539, 
+        "MasterFarmLevelItemId": 405305391, 
+        "MasterRewardGroupId": 802531010065, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130540, 
+        "MasterFarmLevelItemId": 405305401, 
+        "MasterRewardGroupId": 802531010066, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130541, 
+        "MasterFarmLevelItemId": 405305411, 
+        "MasterRewardGroupId": 802531010067, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130542, 
+        "MasterFarmLevelItemId": 405305421, 
+        "MasterRewardGroupId": 802531010068, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130543, 
+        "MasterFarmLevelItemId": 405305431, 
+        "MasterRewardGroupId": 802531010069, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130544, 
+        "MasterFarmLevelItemId": 405305441, 
+        "MasterRewardGroupId": 802531010070, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130545, 
+        "MasterFarmLevelItemId": 405305451, 
+        "MasterRewardGroupId": 802531010071, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130546, 
+        "MasterFarmLevelItemId": 405305461, 
+        "MasterRewardGroupId": 802531010072, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130547, 
+        "MasterFarmLevelItemId": 405305471, 
+        "MasterRewardGroupId": 802531010073, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130548, 
+        "MasterFarmLevelItemId": 405305481, 
+        "MasterRewardGroupId": 802531010074, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130549, 
+        "MasterFarmLevelItemId": 405305491, 
+        "MasterRewardGroupId": 802531010075, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130550, 
+        "MasterFarmLevelItemId": 405305501, 
+        "MasterRewardGroupId": 802531010076, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130601, 
+        "MasterFarmLevelItemId": 405306011, 
+        "MasterRewardGroupId": 802531010046, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130602, 
+        "MasterFarmLevelItemId": 405306021, 
+        "MasterRewardGroupId": 802531010047, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130603, 
+        "MasterFarmLevelItemId": 405306031, 
+        "MasterRewardGroupId": 802531010048, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130604, 
+        "MasterFarmLevelItemId": 405306041, 
+        "MasterRewardGroupId": 802531010048, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130605, 
+        "MasterFarmLevelItemId": 405306051, 
+        "MasterRewardGroupId": 802531010049, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130606, 
+        "MasterFarmLevelItemId": 405306061, 
+        "MasterRewardGroupId": 802531010050, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130607, 
+        "MasterFarmLevelItemId": 405306071, 
+        "MasterRewardGroupId": 802531010050, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130608, 
+        "MasterFarmLevelItemId": 405306081, 
+        "MasterRewardGroupId": 802531010051, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130609, 
+        "MasterFarmLevelItemId": 405306091, 
+        "MasterRewardGroupId": 802531010052, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130610, 
+        "MasterFarmLevelItemId": 405306101, 
+        "MasterRewardGroupId": 802531010052, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130611, 
+        "MasterFarmLevelItemId": 405306111, 
+        "MasterRewardGroupId": 802531010053, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130612, 
+        "MasterFarmLevelItemId": 405306121, 
+        "MasterRewardGroupId": 802531010054, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130613, 
+        "MasterFarmLevelItemId": 405306131, 
+        "MasterRewardGroupId": 802531010055, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130614, 
+        "MasterFarmLevelItemId": 405306141, 
+        "MasterRewardGroupId": 802531010056, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130615, 
+        "MasterFarmLevelItemId": 405306151, 
+        "MasterRewardGroupId": 802531010056, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130616, 
+        "MasterFarmLevelItemId": 405306161, 
+        "MasterRewardGroupId": 802531010057, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130617, 
+        "MasterFarmLevelItemId": 405306171, 
+        "MasterRewardGroupId": 802531010058, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130618, 
+        "MasterFarmLevelItemId": 405306181, 
+        "MasterRewardGroupId": 802531010059, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130619, 
+        "MasterFarmLevelItemId": 405306191, 
+        "MasterRewardGroupId": 802531010060, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130620, 
+        "MasterFarmLevelItemId": 405306201, 
+        "MasterRewardGroupId": 802531010061, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130701, 
+        "MasterFarmLevelItemId": 405307011, 
+        "MasterRewardGroupId": 802531010046, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130702, 
+        "MasterFarmLevelItemId": 405307021, 
+        "MasterRewardGroupId": 802531010047, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130703, 
+        "MasterFarmLevelItemId": 405307031, 
+        "MasterRewardGroupId": 802531010048, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130704, 
+        "MasterFarmLevelItemId": 405307041, 
+        "MasterRewardGroupId": 802531010048, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130705, 
+        "MasterFarmLevelItemId": 405307051, 
+        "MasterRewardGroupId": 802531010049, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130706, 
+        "MasterFarmLevelItemId": 405307061, 
+        "MasterRewardGroupId": 802531010050, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130707, 
+        "MasterFarmLevelItemId": 405307071, 
+        "MasterRewardGroupId": 802531010050, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130708, 
+        "MasterFarmLevelItemId": 405307081, 
+        "MasterRewardGroupId": 802531010051, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130709, 
+        "MasterFarmLevelItemId": 405307091, 
+        "MasterRewardGroupId": 802531010052, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130710, 
+        "MasterFarmLevelItemId": 405307101, 
+        "MasterRewardGroupId": 802531010052, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130711, 
+        "MasterFarmLevelItemId": 405307111, 
+        "MasterRewardGroupId": 802531010053, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130712, 
+        "MasterFarmLevelItemId": 405307121, 
+        "MasterRewardGroupId": 802531010054, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130713, 
+        "MasterFarmLevelItemId": 405307131, 
+        "MasterRewardGroupId": 802531010055, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130714, 
+        "MasterFarmLevelItemId": 405307141, 
+        "MasterRewardGroupId": 802531010056, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130715, 
+        "MasterFarmLevelItemId": 405307151, 
+        "MasterRewardGroupId": 802531010056, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130716, 
+        "MasterFarmLevelItemId": 405307161, 
+        "MasterRewardGroupId": 802531010057, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130717, 
+        "MasterFarmLevelItemId": 405307171, 
+        "MasterRewardGroupId": 802531010058, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130718, 
+        "MasterFarmLevelItemId": 405307181, 
+        "MasterRewardGroupId": 802531010059, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130719, 
+        "MasterFarmLevelItemId": 405307191, 
+        "MasterRewardGroupId": 802531010060, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130720, 
+        "MasterFarmLevelItemId": 405307201, 
+        "MasterRewardGroupId": 802531010061, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130801, 
+        "MasterFarmLevelItemId": 405308011, 
+        "MasterRewardGroupId": 802531010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130802, 
+        "MasterFarmLevelItemId": 405308021, 
+        "MasterRewardGroupId": 802531010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130803, 
+        "MasterFarmLevelItemId": 405308031, 
+        "MasterRewardGroupId": 802531010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130804, 
+        "MasterFarmLevelItemId": 405308041, 
+        "MasterRewardGroupId": 802531010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130805, 
+        "MasterFarmLevelItemId": 405308051, 
+        "MasterRewardGroupId": 802531010004, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130806, 
+        "MasterFarmLevelItemId": 405308061, 
+        "MasterRewardGroupId": 802531010005, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130807, 
+        "MasterFarmLevelItemId": 405308071, 
+        "MasterRewardGroupId": 802531010005, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130808, 
+        "MasterFarmLevelItemId": 405308081, 
+        "MasterRewardGroupId": 802531010006, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130809, 
+        "MasterFarmLevelItemId": 405308091, 
+        "MasterRewardGroupId": 802531010007, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130810, 
+        "MasterFarmLevelItemId": 405308101, 
+        "MasterRewardGroupId": 802531010007, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130811, 
+        "MasterFarmLevelItemId": 405308111, 
+        "MasterRewardGroupId": 802531010008, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130812, 
+        "MasterFarmLevelItemId": 405308121, 
+        "MasterRewardGroupId": 802531010009, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130813, 
+        "MasterFarmLevelItemId": 405308131, 
+        "MasterRewardGroupId": 802531010010, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130814, 
+        "MasterFarmLevelItemId": 405308141, 
+        "MasterRewardGroupId": 802531010011, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130815, 
+        "MasterFarmLevelItemId": 405308151, 
+        "MasterRewardGroupId": 802531010011, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130816, 
+        "MasterFarmLevelItemId": 405308161, 
+        "MasterRewardGroupId": 802531010012, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130817, 
+        "MasterFarmLevelItemId": 405308171, 
+        "MasterRewardGroupId": 802531010013, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130818, 
+        "MasterFarmLevelItemId": 405308181, 
+        "MasterRewardGroupId": 802531010014, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130819, 
+        "MasterFarmLevelItemId": 405308191, 
+        "MasterRewardGroupId": 802531010015, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130820, 
+        "MasterFarmLevelItemId": 405308201, 
+        "MasterRewardGroupId": 802531010016, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130821, 
+        "MasterFarmLevelItemId": 405308211, 
+        "MasterRewardGroupId": 802531010017, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130822, 
+        "MasterFarmLevelItemId": 405308221, 
+        "MasterRewardGroupId": 802531010018, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130823, 
+        "MasterFarmLevelItemId": 405308231, 
+        "MasterRewardGroupId": 802531010019, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130824, 
+        "MasterFarmLevelItemId": 405308241, 
+        "MasterRewardGroupId": 802531010020, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130825, 
+        "MasterFarmLevelItemId": 405308251, 
+        "MasterRewardGroupId": 802531010021, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130826, 
+        "MasterFarmLevelItemId": 405308261, 
+        "MasterRewardGroupId": 802531010022, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130827, 
+        "MasterFarmLevelItemId": 405308271, 
+        "MasterRewardGroupId": 802531010023, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130828, 
+        "MasterFarmLevelItemId": 405308281, 
+        "MasterRewardGroupId": 802531010024, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130829, 
+        "MasterFarmLevelItemId": 405308291, 
+        "MasterRewardGroupId": 802531010025, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130830, 
+        "MasterFarmLevelItemId": 405308301, 
+        "MasterRewardGroupId": 802531010026, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130831, 
+        "MasterFarmLevelItemId": 405308311, 
+        "MasterRewardGroupId": 802531010027, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130832, 
+        "MasterFarmLevelItemId": 405308321, 
+        "MasterRewardGroupId": 802531010028, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130833, 
+        "MasterFarmLevelItemId": 405308331, 
+        "MasterRewardGroupId": 802531010029, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130834, 
+        "MasterFarmLevelItemId": 405308341, 
+        "MasterRewardGroupId": 802531010030, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130835, 
+        "MasterFarmLevelItemId": 405308351, 
+        "MasterRewardGroupId": 802531010031, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130836, 
+        "MasterFarmLevelItemId": 405308361, 
+        "MasterRewardGroupId": 802531010032, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130837, 
+        "MasterFarmLevelItemId": 405308371, 
+        "MasterRewardGroupId": 802531010033, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130838, 
+        "MasterFarmLevelItemId": 405308381, 
+        "MasterRewardGroupId": 802531010034, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130839, 
+        "MasterFarmLevelItemId": 405308391, 
+        "MasterRewardGroupId": 802531010035, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130840, 
+        "MasterFarmLevelItemId": 405308401, 
+        "MasterRewardGroupId": 802531010036, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130841, 
+        "MasterFarmLevelItemId": 405308411, 
+        "MasterRewardGroupId": 802531010037, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130842, 
+        "MasterFarmLevelItemId": 405308421, 
+        "MasterRewardGroupId": 802531010038, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130843, 
+        "MasterFarmLevelItemId": 405308431, 
+        "MasterRewardGroupId": 802531010039, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130844, 
+        "MasterFarmLevelItemId": 405308441, 
+        "MasterRewardGroupId": 802531010040, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130845, 
+        "MasterFarmLevelItemId": 405308451, 
+        "MasterRewardGroupId": 802531010041, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130846, 
+        "MasterFarmLevelItemId": 405308461, 
+        "MasterRewardGroupId": 802531010042, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130847, 
+        "MasterFarmLevelItemId": 405308471, 
+        "MasterRewardGroupId": 802531010043, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130848, 
+        "MasterFarmLevelItemId": 405308481, 
+        "MasterRewardGroupId": 802531010044, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130849, 
+        "MasterFarmLevelItemId": 405308491, 
+        "MasterRewardGroupId": 802531010045, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130850, 
+        "MasterFarmLevelItemId": 405308501, 
+        "MasterRewardGroupId": 802531010046, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130901, 
+        "MasterFarmLevelItemId": 405309011, 
+        "MasterRewardGroupId": 802521070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130902, 
+        "MasterFarmLevelItemId": 405309021, 
+        "MasterRewardGroupId": 802521070001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9880
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130902, 
+        "MasterFarmLevelItemId": 405309022, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130903, 
+        "MasterFarmLevelItemId": 405309031, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130903, 
+        "MasterFarmLevelItemId": 405309032, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130903, 
+        "MasterFarmLevelItemId": 405309033, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130904, 
+        "MasterFarmLevelItemId": 405309041, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130904, 
+        "MasterFarmLevelItemId": 405309042, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130904, 
+        "MasterFarmLevelItemId": 405309043, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130905, 
+        "MasterFarmLevelItemId": 405309051, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130905, 
+        "MasterFarmLevelItemId": 405309052, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130905, 
+        "MasterFarmLevelItemId": 405309053, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130905, 
+        "MasterFarmLevelItemId": 405309054, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130906, 
+        "MasterFarmLevelItemId": 405309061, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130906, 
+        "MasterFarmLevelItemId": 405309062, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130906, 
+        "MasterFarmLevelItemId": 405309063, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130906, 
+        "MasterFarmLevelItemId": 405309064, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130907, 
+        "MasterFarmLevelItemId": 405309071, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130907, 
+        "MasterFarmLevelItemId": 405309072, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130907, 
+        "MasterFarmLevelItemId": 405309073, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130907, 
+        "MasterFarmLevelItemId": 405309074, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130908, 
+        "MasterFarmLevelItemId": 405309081, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130908, 
+        "MasterFarmLevelItemId": 405309082, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130908, 
+        "MasterFarmLevelItemId": 405309083, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130908, 
+        "MasterFarmLevelItemId": 405309084, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130909, 
+        "MasterFarmLevelItemId": 405309091, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130909, 
+        "MasterFarmLevelItemId": 405309092, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130909, 
+        "MasterFarmLevelItemId": 405309093, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130909, 
+        "MasterFarmLevelItemId": 405309094, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130910, 
+        "MasterFarmLevelItemId": 405309101, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130910, 
+        "MasterFarmLevelItemId": 405309102, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130910, 
+        "MasterFarmLevelItemId": 405309103, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130910, 
+        "MasterFarmLevelItemId": 405309104, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130911, 
+        "MasterFarmLevelItemId": 405309111, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130911, 
+        "MasterFarmLevelItemId": 405309112, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130911, 
+        "MasterFarmLevelItemId": 405309113, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130911, 
+        "MasterFarmLevelItemId": 405309114, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130912, 
+        "MasterFarmLevelItemId": 405309121, 
+        "MasterRewardGroupId": 802521070002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130912, 
+        "MasterFarmLevelItemId": 405309122, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130912, 
+        "MasterFarmLevelItemId": 405309123, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130912, 
+        "MasterFarmLevelItemId": 405309124, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130913, 
+        "MasterFarmLevelItemId": 405309131, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130913, 
+        "MasterFarmLevelItemId": 405309132, 
+        "MasterRewardGroupId": 802521080001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130913, 
+        "MasterFarmLevelItemId": 405309133, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130913, 
+        "MasterFarmLevelItemId": 405309134, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130914, 
+        "MasterFarmLevelItemId": 405309141, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130914, 
+        "MasterFarmLevelItemId": 405309142, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130914, 
+        "MasterFarmLevelItemId": 405309143, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130914, 
+        "MasterFarmLevelItemId": 405309144, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130915, 
+        "MasterFarmLevelItemId": 405309151, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130915, 
+        "MasterFarmLevelItemId": 405309152, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130915, 
+        "MasterFarmLevelItemId": 405309153, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130915, 
+        "MasterFarmLevelItemId": 405309154, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130916, 
+        "MasterFarmLevelItemId": 405309161, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130916, 
+        "MasterFarmLevelItemId": 405309162, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130916, 
+        "MasterFarmLevelItemId": 405309163, 
+        "MasterRewardGroupId": 802521090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130916, 
+        "MasterFarmLevelItemId": 405309164, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130916, 
+        "MasterFarmLevelItemId": 405309165, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130917, 
+        "MasterFarmLevelItemId": 405309171, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130917, 
+        "MasterFarmLevelItemId": 405309172, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130917, 
+        "MasterFarmLevelItemId": 405309173, 
+        "MasterRewardGroupId": 802521090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130917, 
+        "MasterFarmLevelItemId": 405309174, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130917, 
+        "MasterFarmLevelItemId": 405309175, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130917, 
+        "MasterFarmLevelItemId": 405309176, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130918, 
+        "MasterFarmLevelItemId": 405309181, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130918, 
+        "MasterFarmLevelItemId": 405309182, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130918, 
+        "MasterFarmLevelItemId": 405309183, 
+        "MasterRewardGroupId": 802521090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130918, 
+        "MasterFarmLevelItemId": 405309184, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130918, 
+        "MasterFarmLevelItemId": 405309185, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130918, 
+        "MasterFarmLevelItemId": 405309186, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130919, 
+        "MasterFarmLevelItemId": 405309191, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130919, 
+        "MasterFarmLevelItemId": 405309192, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130919, 
+        "MasterFarmLevelItemId": 405309193, 
+        "MasterRewardGroupId": 802521090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130919, 
+        "MasterFarmLevelItemId": 405309194, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130919, 
+        "MasterFarmLevelItemId": 405309195, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130919, 
+        "MasterFarmLevelItemId": 405309196, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130920, 
+        "MasterFarmLevelItemId": 405309201, 
+        "MasterRewardGroupId": 802521070003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130920, 
+        "MasterFarmLevelItemId": 405309202, 
+        "MasterRewardGroupId": 802521080002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130920, 
+        "MasterFarmLevelItemId": 405309203, 
+        "MasterRewardGroupId": 802521090001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130920, 
+        "MasterFarmLevelItemId": 405309204, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130920, 
+        "MasterFarmLevelItemId": 405309205, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404130920, 
+        "MasterFarmLevelItemId": 405309206, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131001, 
+        "MasterFarmLevelItemId": 405310011, 
+        "MasterRewardGroupId": 802521010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131002, 
+        "MasterFarmLevelItemId": 405310021, 
+        "MasterRewardGroupId": 802521010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9880
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131002, 
+        "MasterFarmLevelItemId": 405310022, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131003, 
+        "MasterFarmLevelItemId": 405310031, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131003, 
+        "MasterFarmLevelItemId": 405310032, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131003, 
+        "MasterFarmLevelItemId": 405310033, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131004, 
+        "MasterFarmLevelItemId": 405310041, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131004, 
+        "MasterFarmLevelItemId": 405310042, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131004, 
+        "MasterFarmLevelItemId": 405310043, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131005, 
+        "MasterFarmLevelItemId": 405310051, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131005, 
+        "MasterFarmLevelItemId": 405310052, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131005, 
+        "MasterFarmLevelItemId": 405310053, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131005, 
+        "MasterFarmLevelItemId": 405310054, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131006, 
+        "MasterFarmLevelItemId": 405310061, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131006, 
+        "MasterFarmLevelItemId": 405310062, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131006, 
+        "MasterFarmLevelItemId": 405310063, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131006, 
+        "MasterFarmLevelItemId": 405310064, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131007, 
+        "MasterFarmLevelItemId": 405310071, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131007, 
+        "MasterFarmLevelItemId": 405310072, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131007, 
+        "MasterFarmLevelItemId": 405310073, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131007, 
+        "MasterFarmLevelItemId": 405310074, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131008, 
+        "MasterFarmLevelItemId": 405310081, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131008, 
+        "MasterFarmLevelItemId": 405310082, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131008, 
+        "MasterFarmLevelItemId": 405310083, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131008, 
+        "MasterFarmLevelItemId": 405310084, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131009, 
+        "MasterFarmLevelItemId": 405310091, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131009, 
+        "MasterFarmLevelItemId": 405310092, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131009, 
+        "MasterFarmLevelItemId": 405310093, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131009, 
+        "MasterFarmLevelItemId": 405310094, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131010, 
+        "MasterFarmLevelItemId": 405310101, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131010, 
+        "MasterFarmLevelItemId": 405310102, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131010, 
+        "MasterFarmLevelItemId": 405310103, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131010, 
+        "MasterFarmLevelItemId": 405310104, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131011, 
+        "MasterFarmLevelItemId": 405310111, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131011, 
+        "MasterFarmLevelItemId": 405310112, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131011, 
+        "MasterFarmLevelItemId": 405310113, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131011, 
+        "MasterFarmLevelItemId": 405310114, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131012, 
+        "MasterFarmLevelItemId": 405310121, 
+        "MasterRewardGroupId": 802521010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131012, 
+        "MasterFarmLevelItemId": 405310122, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131012, 
+        "MasterFarmLevelItemId": 405310123, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131012, 
+        "MasterFarmLevelItemId": 405310124, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131013, 
+        "MasterFarmLevelItemId": 405310131, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131013, 
+        "MasterFarmLevelItemId": 405310132, 
+        "MasterRewardGroupId": 802521020001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131013, 
+        "MasterFarmLevelItemId": 405310133, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131013, 
+        "MasterFarmLevelItemId": 405310134, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131014, 
+        "MasterFarmLevelItemId": 405310141, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131014, 
+        "MasterFarmLevelItemId": 405310142, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131014, 
+        "MasterFarmLevelItemId": 405310143, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131014, 
+        "MasterFarmLevelItemId": 405310144, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131015, 
+        "MasterFarmLevelItemId": 405310151, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131015, 
+        "MasterFarmLevelItemId": 405310152, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131015, 
+        "MasterFarmLevelItemId": 405310153, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131015, 
+        "MasterFarmLevelItemId": 405310154, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131016, 
+        "MasterFarmLevelItemId": 405310161, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131016, 
+        "MasterFarmLevelItemId": 405310162, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131016, 
+        "MasterFarmLevelItemId": 405310163, 
+        "MasterRewardGroupId": 802521030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131016, 
+        "MasterFarmLevelItemId": 405310164, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131016, 
+        "MasterFarmLevelItemId": 405310165, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131017, 
+        "MasterFarmLevelItemId": 405310171, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131017, 
+        "MasterFarmLevelItemId": 405310172, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131017, 
+        "MasterFarmLevelItemId": 405310173, 
+        "MasterRewardGroupId": 802521030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131017, 
+        "MasterFarmLevelItemId": 405310174, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131017, 
+        "MasterFarmLevelItemId": 405310175, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131017, 
+        "MasterFarmLevelItemId": 405310176, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131018, 
+        "MasterFarmLevelItemId": 405310181, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131018, 
+        "MasterFarmLevelItemId": 405310182, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131018, 
+        "MasterFarmLevelItemId": 405310183, 
+        "MasterRewardGroupId": 802521030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131018, 
+        "MasterFarmLevelItemId": 405310184, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131018, 
+        "MasterFarmLevelItemId": 405310185, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131018, 
+        "MasterFarmLevelItemId": 405310186, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131019, 
+        "MasterFarmLevelItemId": 405310191, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131019, 
+        "MasterFarmLevelItemId": 405310192, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131019, 
+        "MasterFarmLevelItemId": 405310193, 
+        "MasterRewardGroupId": 802521030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131019, 
+        "MasterFarmLevelItemId": 405310194, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131019, 
+        "MasterFarmLevelItemId": 405310195, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131019, 
+        "MasterFarmLevelItemId": 405310196, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131020, 
+        "MasterFarmLevelItemId": 405310201, 
+        "MasterRewardGroupId": 802521010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131020, 
+        "MasterFarmLevelItemId": 405310202, 
+        "MasterRewardGroupId": 802521020002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131020, 
+        "MasterFarmLevelItemId": 405310203, 
+        "MasterRewardGroupId": 802521030001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131020, 
+        "MasterFarmLevelItemId": 405310204, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131020, 
+        "MasterFarmLevelItemId": 405310205, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131020, 
+        "MasterFarmLevelItemId": 405310206, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131101, 
+        "MasterFarmLevelItemId": 405311011, 
+        "MasterRewardGroupId": 802521160001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131102, 
+        "MasterFarmLevelItemId": 405311021, 
+        "MasterRewardGroupId": 802521160001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9880
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131102, 
+        "MasterFarmLevelItemId": 405311022, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131103, 
+        "MasterFarmLevelItemId": 405311031, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131103, 
+        "MasterFarmLevelItemId": 405311032, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131103, 
+        "MasterFarmLevelItemId": 405311033, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131104, 
+        "MasterFarmLevelItemId": 405311041, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131104, 
+        "MasterFarmLevelItemId": 405311042, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131104, 
+        "MasterFarmLevelItemId": 405311043, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131105, 
+        "MasterFarmLevelItemId": 405311051, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131105, 
+        "MasterFarmLevelItemId": 405311052, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131105, 
+        "MasterFarmLevelItemId": 405311053, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131105, 
+        "MasterFarmLevelItemId": 405311054, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131106, 
+        "MasterFarmLevelItemId": 405311061, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131106, 
+        "MasterFarmLevelItemId": 405311062, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131106, 
+        "MasterFarmLevelItemId": 405311063, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131106, 
+        "MasterFarmLevelItemId": 405311064, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131107, 
+        "MasterFarmLevelItemId": 405311071, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131107, 
+        "MasterFarmLevelItemId": 405311072, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131107, 
+        "MasterFarmLevelItemId": 405311073, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131107, 
+        "MasterFarmLevelItemId": 405311074, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131108, 
+        "MasterFarmLevelItemId": 405311081, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131108, 
+        "MasterFarmLevelItemId": 405311082, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131108, 
+        "MasterFarmLevelItemId": 405311083, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131108, 
+        "MasterFarmLevelItemId": 405311084, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131109, 
+        "MasterFarmLevelItemId": 405311091, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131109, 
+        "MasterFarmLevelItemId": 405311092, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131109, 
+        "MasterFarmLevelItemId": 405311093, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131109, 
+        "MasterFarmLevelItemId": 405311094, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131110, 
+        "MasterFarmLevelItemId": 405311101, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131110, 
+        "MasterFarmLevelItemId": 405311102, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131110, 
+        "MasterFarmLevelItemId": 405311103, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131110, 
+        "MasterFarmLevelItemId": 405311104, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131111, 
+        "MasterFarmLevelItemId": 405311111, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131111, 
+        "MasterFarmLevelItemId": 405311112, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131111, 
+        "MasterFarmLevelItemId": 405311113, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131111, 
+        "MasterFarmLevelItemId": 405311114, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131112, 
+        "MasterFarmLevelItemId": 405311121, 
+        "MasterRewardGroupId": 802521160002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131112, 
+        "MasterFarmLevelItemId": 405311122, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131112, 
+        "MasterFarmLevelItemId": 405311123, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131112, 
+        "MasterFarmLevelItemId": 405311124, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131113, 
+        "MasterFarmLevelItemId": 405311131, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131113, 
+        "MasterFarmLevelItemId": 405311132, 
+        "MasterRewardGroupId": 802521170001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131113, 
+        "MasterFarmLevelItemId": 405311133, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131113, 
+        "MasterFarmLevelItemId": 405311134, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131114, 
+        "MasterFarmLevelItemId": 405311141, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131114, 
+        "MasterFarmLevelItemId": 405311142, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131114, 
+        "MasterFarmLevelItemId": 405311143, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131114, 
+        "MasterFarmLevelItemId": 405311144, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131115, 
+        "MasterFarmLevelItemId": 405311151, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131115, 
+        "MasterFarmLevelItemId": 405311152, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131115, 
+        "MasterFarmLevelItemId": 405311153, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131115, 
+        "MasterFarmLevelItemId": 405311154, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131116, 
+        "MasterFarmLevelItemId": 405311161, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131116, 
+        "MasterFarmLevelItemId": 405311162, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131116, 
+        "MasterFarmLevelItemId": 405311163, 
+        "MasterRewardGroupId": 802521180001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131116, 
+        "MasterFarmLevelItemId": 405311164, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131116, 
+        "MasterFarmLevelItemId": 405311165, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131117, 
+        "MasterFarmLevelItemId": 405311171, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131117, 
+        "MasterFarmLevelItemId": 405311172, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131117, 
+        "MasterFarmLevelItemId": 405311173, 
+        "MasterRewardGroupId": 802521180001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131117, 
+        "MasterFarmLevelItemId": 405311174, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131117, 
+        "MasterFarmLevelItemId": 405311175, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131117, 
+        "MasterFarmLevelItemId": 405311176, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131118, 
+        "MasterFarmLevelItemId": 405311181, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131118, 
+        "MasterFarmLevelItemId": 405311182, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131118, 
+        "MasterFarmLevelItemId": 405311183, 
+        "MasterRewardGroupId": 802521180001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131118, 
+        "MasterFarmLevelItemId": 405311184, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131118, 
+        "MasterFarmLevelItemId": 405311185, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131118, 
+        "MasterFarmLevelItemId": 405311186, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131119, 
+        "MasterFarmLevelItemId": 405311191, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131119, 
+        "MasterFarmLevelItemId": 405311192, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131119, 
+        "MasterFarmLevelItemId": 405311193, 
+        "MasterRewardGroupId": 802521180001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131119, 
+        "MasterFarmLevelItemId": 405311194, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131119, 
+        "MasterFarmLevelItemId": 405311195, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131119, 
+        "MasterFarmLevelItemId": 405311196, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131120, 
+        "MasterFarmLevelItemId": 405311201, 
+        "MasterRewardGroupId": 802521160003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131120, 
+        "MasterFarmLevelItemId": 405311202, 
+        "MasterRewardGroupId": 802521170002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131120, 
+        "MasterFarmLevelItemId": 405311203, 
+        "MasterRewardGroupId": 802521180001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131120, 
+        "MasterFarmLevelItemId": 405311204, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131120, 
+        "MasterFarmLevelItemId": 405311205, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131120, 
+        "MasterFarmLevelItemId": 405311206, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131201, 
+        "MasterFarmLevelItemId": 405312011, 
+        "MasterRewardGroupId": 802521100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131202, 
+        "MasterFarmLevelItemId": 405312021, 
+        "MasterRewardGroupId": 802521100001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9880
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131202, 
+        "MasterFarmLevelItemId": 405312022, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131203, 
+        "MasterFarmLevelItemId": 405312031, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131203, 
+        "MasterFarmLevelItemId": 405312032, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131203, 
+        "MasterFarmLevelItemId": 405312033, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131204, 
+        "MasterFarmLevelItemId": 405312041, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131204, 
+        "MasterFarmLevelItemId": 405312042, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131204, 
+        "MasterFarmLevelItemId": 405312043, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131205, 
+        "MasterFarmLevelItemId": 405312051, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131205, 
+        "MasterFarmLevelItemId": 405312052, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131205, 
+        "MasterFarmLevelItemId": 405312053, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131205, 
+        "MasterFarmLevelItemId": 405312054, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131206, 
+        "MasterFarmLevelItemId": 405312061, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131206, 
+        "MasterFarmLevelItemId": 405312062, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131206, 
+        "MasterFarmLevelItemId": 405312063, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131206, 
+        "MasterFarmLevelItemId": 405312064, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131207, 
+        "MasterFarmLevelItemId": 405312071, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131207, 
+        "MasterFarmLevelItemId": 405312072, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131207, 
+        "MasterFarmLevelItemId": 405312073, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131207, 
+        "MasterFarmLevelItemId": 405312074, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131208, 
+        "MasterFarmLevelItemId": 405312081, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131208, 
+        "MasterFarmLevelItemId": 405312082, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131208, 
+        "MasterFarmLevelItemId": 405312083, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131208, 
+        "MasterFarmLevelItemId": 405312084, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131209, 
+        "MasterFarmLevelItemId": 405312091, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131209, 
+        "MasterFarmLevelItemId": 405312092, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131209, 
+        "MasterFarmLevelItemId": 405312093, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131209, 
+        "MasterFarmLevelItemId": 405312094, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131210, 
+        "MasterFarmLevelItemId": 405312101, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131210, 
+        "MasterFarmLevelItemId": 405312102, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131210, 
+        "MasterFarmLevelItemId": 405312103, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131210, 
+        "MasterFarmLevelItemId": 405312104, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131211, 
+        "MasterFarmLevelItemId": 405312111, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131211, 
+        "MasterFarmLevelItemId": 405312112, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131211, 
+        "MasterFarmLevelItemId": 405312113, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131211, 
+        "MasterFarmLevelItemId": 405312114, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131212, 
+        "MasterFarmLevelItemId": 405312121, 
+        "MasterRewardGroupId": 802521100002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131212, 
+        "MasterFarmLevelItemId": 405312122, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131212, 
+        "MasterFarmLevelItemId": 405312123, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131212, 
+        "MasterFarmLevelItemId": 405312124, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131213, 
+        "MasterFarmLevelItemId": 405312131, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131213, 
+        "MasterFarmLevelItemId": 405312132, 
+        "MasterRewardGroupId": 802521110001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131213, 
+        "MasterFarmLevelItemId": 405312133, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131213, 
+        "MasterFarmLevelItemId": 405312134, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131214, 
+        "MasterFarmLevelItemId": 405312141, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131214, 
+        "MasterFarmLevelItemId": 405312142, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131214, 
+        "MasterFarmLevelItemId": 405312143, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131214, 
+        "MasterFarmLevelItemId": 405312144, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131215, 
+        "MasterFarmLevelItemId": 405312151, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131215, 
+        "MasterFarmLevelItemId": 405312152, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131215, 
+        "MasterFarmLevelItemId": 405312153, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131215, 
+        "MasterFarmLevelItemId": 405312154, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131216, 
+        "MasterFarmLevelItemId": 405312161, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131216, 
+        "MasterFarmLevelItemId": 405312162, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131216, 
+        "MasterFarmLevelItemId": 405312163, 
+        "MasterRewardGroupId": 802521120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131216, 
+        "MasterFarmLevelItemId": 405312164, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131216, 
+        "MasterFarmLevelItemId": 405312165, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131217, 
+        "MasterFarmLevelItemId": 405312171, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131217, 
+        "MasterFarmLevelItemId": 405312172, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131217, 
+        "MasterFarmLevelItemId": 405312173, 
+        "MasterRewardGroupId": 802521120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131217, 
+        "MasterFarmLevelItemId": 405312174, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131217, 
+        "MasterFarmLevelItemId": 405312175, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131217, 
+        "MasterFarmLevelItemId": 405312176, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131218, 
+        "MasterFarmLevelItemId": 405312181, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131218, 
+        "MasterFarmLevelItemId": 405312182, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131218, 
+        "MasterFarmLevelItemId": 405312183, 
+        "MasterRewardGroupId": 802521120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131218, 
+        "MasterFarmLevelItemId": 405312184, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131218, 
+        "MasterFarmLevelItemId": 405312185, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131218, 
+        "MasterFarmLevelItemId": 405312186, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131219, 
+        "MasterFarmLevelItemId": 405312191, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131219, 
+        "MasterFarmLevelItemId": 405312192, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131219, 
+        "MasterFarmLevelItemId": 405312193, 
+        "MasterRewardGroupId": 802521120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131219, 
+        "MasterFarmLevelItemId": 405312194, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131219, 
+        "MasterFarmLevelItemId": 405312195, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131219, 
+        "MasterFarmLevelItemId": 405312196, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131220, 
+        "MasterFarmLevelItemId": 405312201, 
+        "MasterRewardGroupId": 802521100003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131220, 
+        "MasterFarmLevelItemId": 405312202, 
+        "MasterRewardGroupId": 802521110002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131220, 
+        "MasterFarmLevelItemId": 405312203, 
+        "MasterRewardGroupId": 802521120001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131220, 
+        "MasterFarmLevelItemId": 405312204, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131220, 
+        "MasterFarmLevelItemId": 405312205, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131220, 
+        "MasterFarmLevelItemId": 405312206, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131501, 
+        "MasterFarmLevelItemId": 405315011, 
+        "MasterRewardGroupId": 802521040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131502, 
+        "MasterFarmLevelItemId": 405315021, 
+        "MasterRewardGroupId": 802521040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9880
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131502, 
+        "MasterFarmLevelItemId": 405315022, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131503, 
+        "MasterFarmLevelItemId": 405315031, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131503, 
+        "MasterFarmLevelItemId": 405315032, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131503, 
+        "MasterFarmLevelItemId": 405315033, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131504, 
+        "MasterFarmLevelItemId": 405315041, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8080
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131504, 
+        "MasterFarmLevelItemId": 405315042, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1800
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131504, 
+        "MasterFarmLevelItemId": 405315043, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131505, 
+        "MasterFarmLevelItemId": 405315051, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131505, 
+        "MasterFarmLevelItemId": 405315052, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131505, 
+        "MasterFarmLevelItemId": 405315053, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131505, 
+        "MasterFarmLevelItemId": 405315054, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131506, 
+        "MasterFarmLevelItemId": 405315061, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131506, 
+        "MasterFarmLevelItemId": 405315062, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131506, 
+        "MasterFarmLevelItemId": 405315063, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131506, 
+        "MasterFarmLevelItemId": 405315064, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131507, 
+        "MasterFarmLevelItemId": 405315071, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131507, 
+        "MasterFarmLevelItemId": 405315072, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131507, 
+        "MasterFarmLevelItemId": 405315073, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131507, 
+        "MasterFarmLevelItemId": 405315074, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131508, 
+        "MasterFarmLevelItemId": 405315081, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131508, 
+        "MasterFarmLevelItemId": 405315082, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131508, 
+        "MasterFarmLevelItemId": 405315083, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131508, 
+        "MasterFarmLevelItemId": 405315084, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131509, 
+        "MasterFarmLevelItemId": 405315091, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131509, 
+        "MasterFarmLevelItemId": 405315092, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131509, 
+        "MasterFarmLevelItemId": 405315093, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131509, 
+        "MasterFarmLevelItemId": 405315094, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131510, 
+        "MasterFarmLevelItemId": 405315101, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131510, 
+        "MasterFarmLevelItemId": 405315102, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131510, 
+        "MasterFarmLevelItemId": 405315103, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131510, 
+        "MasterFarmLevelItemId": 405315104, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131511, 
+        "MasterFarmLevelItemId": 405315111, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5620
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131511, 
+        "MasterFarmLevelItemId": 405315112, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131511, 
+        "MasterFarmLevelItemId": 405315113, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131511, 
+        "MasterFarmLevelItemId": 405315114, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131512, 
+        "MasterFarmLevelItemId": 405315121, 
+        "MasterRewardGroupId": 802521040002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131512, 
+        "MasterFarmLevelItemId": 405315122, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131512, 
+        "MasterFarmLevelItemId": 405315123, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131512, 
+        "MasterFarmLevelItemId": 405315124, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131513, 
+        "MasterFarmLevelItemId": 405315131, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131513, 
+        "MasterFarmLevelItemId": 405315132, 
+        "MasterRewardGroupId": 802521050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131513, 
+        "MasterFarmLevelItemId": 405315133, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131513, 
+        "MasterFarmLevelItemId": 405315134, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131514, 
+        "MasterFarmLevelItemId": 405315141, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131514, 
+        "MasterFarmLevelItemId": 405315142, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131514, 
+        "MasterFarmLevelItemId": 405315143, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131514, 
+        "MasterFarmLevelItemId": 405315144, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131515, 
+        "MasterFarmLevelItemId": 405315151, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131515, 
+        "MasterFarmLevelItemId": 405315152, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4700
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131515, 
+        "MasterFarmLevelItemId": 405315153, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131515, 
+        "MasterFarmLevelItemId": 405315154, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131516, 
+        "MasterFarmLevelItemId": 405315161, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131516, 
+        "MasterFarmLevelItemId": 405315162, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131516, 
+        "MasterFarmLevelItemId": 405315163, 
+        "MasterRewardGroupId": 802521060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131516, 
+        "MasterFarmLevelItemId": 405315164, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131516, 
+        "MasterFarmLevelItemId": 405315165, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131517, 
+        "MasterFarmLevelItemId": 405315171, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131517, 
+        "MasterFarmLevelItemId": 405315172, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131517, 
+        "MasterFarmLevelItemId": 405315173, 
+        "MasterRewardGroupId": 802521060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131517, 
+        "MasterFarmLevelItemId": 405315174, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131517, 
+        "MasterFarmLevelItemId": 405315175, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131517, 
+        "MasterFarmLevelItemId": 405315176, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131518, 
+        "MasterFarmLevelItemId": 405315181, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131518, 
+        "MasterFarmLevelItemId": 405315182, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131518, 
+        "MasterFarmLevelItemId": 405315183, 
+        "MasterRewardGroupId": 802521060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131518, 
+        "MasterFarmLevelItemId": 405315184, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131518, 
+        "MasterFarmLevelItemId": 405315185, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131518, 
+        "MasterFarmLevelItemId": 405315186, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131519, 
+        "MasterFarmLevelItemId": 405315191, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131519, 
+        "MasterFarmLevelItemId": 405315192, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131519, 
+        "MasterFarmLevelItemId": 405315193, 
+        "MasterRewardGroupId": 802521060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1600
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131519, 
+        "MasterFarmLevelItemId": 405315194, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131519, 
+        "MasterFarmLevelItemId": 405315195, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131519, 
+        "MasterFarmLevelItemId": 405315196, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131520, 
+        "MasterFarmLevelItemId": 405315201, 
+        "MasterRewardGroupId": 802521040003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5200
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131520, 
+        "MasterFarmLevelItemId": 405315202, 
+        "MasterRewardGroupId": 802521050002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131520, 
+        "MasterFarmLevelItemId": 405315203, 
+        "MasterRewardGroupId": 802521060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2100
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131520, 
+        "MasterFarmLevelItemId": 405315204, 
+        "MasterRewardGroupId": 802521190001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 120
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131520, 
+        "MasterFarmLevelItemId": 405315205, 
+        "MasterRewardGroupId": 802521200001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 60
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131520, 
+        "MasterFarmLevelItemId": 405315206, 
+        "MasterRewardGroupId": 802521210001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 20
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131301, 
+        "MasterFarmLevelItemId": 405313011, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131302, 
+        "MasterFarmLevelItemId": 405313021, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131302, 
+        "MasterFarmLevelItemId": 405313022, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131303, 
+        "MasterFarmLevelItemId": 405313031, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131303, 
+        "MasterFarmLevelItemId": 405313032, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131304, 
+        "MasterFarmLevelItemId": 405313041, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 9000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131304, 
+        "MasterFarmLevelItemId": 405313042, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131305, 
+        "MasterFarmLevelItemId": 405313051, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131305, 
+        "MasterFarmLevelItemId": 405313052, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131306, 
+        "MasterFarmLevelItemId": 405313061, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131306, 
+        "MasterFarmLevelItemId": 405313062, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131307, 
+        "MasterFarmLevelItemId": 405313071, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 8000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131307, 
+        "MasterFarmLevelItemId": 405313072, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131308, 
+        "MasterFarmLevelItemId": 405313081, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131308, 
+        "MasterFarmLevelItemId": 405313082, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131309, 
+        "MasterFarmLevelItemId": 405313091, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131309, 
+        "MasterFarmLevelItemId": 405313092, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131310, 
+        "MasterFarmLevelItemId": 405313101, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 7000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131310, 
+        "MasterFarmLevelItemId": 405313102, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131311, 
+        "MasterFarmLevelItemId": 405313111, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131311, 
+        "MasterFarmLevelItemId": 405313112, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131312, 
+        "MasterFarmLevelItemId": 405313121, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 6000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131312, 
+        "MasterFarmLevelItemId": 405313122, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131313, 
+        "MasterFarmLevelItemId": 405313131, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131313, 
+        "MasterFarmLevelItemId": 405313132, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131314, 
+        "MasterFarmLevelItemId": 405313141, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131314, 
+        "MasterFarmLevelItemId": 405313142, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131315, 
+        "MasterFarmLevelItemId": 405313151, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131315, 
+        "MasterFarmLevelItemId": 405313152, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131316, 
+        "MasterFarmLevelItemId": 405313161, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131316, 
+        "MasterFarmLevelItemId": 405313162, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131316, 
+        "MasterFarmLevelItemId": 405313163, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131317, 
+        "MasterFarmLevelItemId": 405313171, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131317, 
+        "MasterFarmLevelItemId": 405313172, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131317, 
+        "MasterFarmLevelItemId": 405313173, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131318, 
+        "MasterFarmLevelItemId": 405313181, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131318, 
+        "MasterFarmLevelItemId": 405313182, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131318, 
+        "MasterFarmLevelItemId": 405313183, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 1500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131319, 
+        "MasterFarmLevelItemId": 405313191, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131319, 
+        "MasterFarmLevelItemId": 405313192, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131319, 
+        "MasterFarmLevelItemId": 405313193, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131320, 
+        "MasterFarmLevelItemId": 405313201, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131320, 
+        "MasterFarmLevelItemId": 405313202, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131320, 
+        "MasterFarmLevelItemId": 405313203, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131321, 
+        "MasterFarmLevelItemId": 405313211, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131321, 
+        "MasterFarmLevelItemId": 405313212, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131321, 
+        "MasterFarmLevelItemId": 405313213, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131322, 
+        "MasterFarmLevelItemId": 405313221, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131322, 
+        "MasterFarmLevelItemId": 405313222, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131322, 
+        "MasterFarmLevelItemId": 405313223, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131323, 
+        "MasterFarmLevelItemId": 405313231, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131323, 
+        "MasterFarmLevelItemId": 405313232, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131323, 
+        "MasterFarmLevelItemId": 405313233, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131324, 
+        "MasterFarmLevelItemId": 405313241, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131324, 
+        "MasterFarmLevelItemId": 405313242, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 3000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131324, 
+        "MasterFarmLevelItemId": 405313243, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 4500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131325, 
+        "MasterFarmLevelItemId": 405313251, 
+        "MasterRewardGroupId": 802514040001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131325, 
+        "MasterFarmLevelItemId": 405313252, 
+        "MasterRewardGroupId": 802514050001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 2500
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131325, 
+        "MasterFarmLevelItemId": 405313253, 
+        "MasterRewardGroupId": 802514060001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 5000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131401, 
+        "MasterFarmLevelItemId": 405314011, 
+        "MasterRewardGroupId": 802517010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131402, 
+        "MasterFarmLevelItemId": 405314021, 
+        "MasterRewardGroupId": 802517010002, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131403, 
+        "MasterFarmLevelItemId": 405314031, 
+        "MasterRewardGroupId": 802517010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131404, 
+        "MasterFarmLevelItemId": 405314041, 
+        "MasterRewardGroupId": 802517010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131405, 
+        "MasterFarmLevelItemId": 405314051, 
+        "MasterRewardGroupId": 802517010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131406, 
+        "MasterFarmLevelItemId": 405314061, 
+        "MasterRewardGroupId": 802517010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131407, 
+        "MasterFarmLevelItemId": 405314071, 
+        "MasterRewardGroupId": 802517010003, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131408, 
+        "MasterFarmLevelItemId": 405314081, 
+        "MasterRewardGroupId": 802517010004, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131409, 
+        "MasterFarmLevelItemId": 405314091, 
+        "MasterRewardGroupId": 802517010005, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131410, 
+        "MasterFarmLevelItemId": 405314101, 
+        "MasterRewardGroupId": 802517010006, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131411, 
+        "MasterFarmLevelItemId": 405314111, 
+        "MasterRewardGroupId": 802517010007, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131412, 
+        "MasterFarmLevelItemId": 405314121, 
+        "MasterRewardGroupId": 802517010008, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131413, 
+        "MasterFarmLevelItemId": 405314131, 
+        "MasterRewardGroupId": 802517010009, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131414, 
+        "MasterFarmLevelItemId": 405314141, 
+        "MasterRewardGroupId": 802517010010, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404131415, 
+        "MasterFarmLevelItemId": 405314151, 
+        "MasterRewardGroupId": 802517010011, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404160601, 
+        "MasterFarmLevelItemId": 405606011, 
+        "MasterRewardGroupId": 802515010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404160602, 
+        "MasterFarmLevelItemId": 405606021, 
+        "MasterRewardGroupId": 802515010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404160603, 
+        "MasterFarmLevelItemId": 405606031, 
+        "MasterRewardGroupId": 802515010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404160604, 
+        "MasterFarmLevelItemId": 405606041, 
+        "MasterRewardGroupId": 802515010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }, 
+    {
+        "MasterFacilityLevelFarmId": 404160605, 
+        "MasterFarmLevelItemId": 405606051, 
+        "MasterRewardGroupId": 802515010001, 
+        "ReleaseLabeloffset": "", 
+        "Weight": 10000
+    }
+]

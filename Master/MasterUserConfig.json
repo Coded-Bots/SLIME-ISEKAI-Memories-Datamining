@@ -1,0 +1,10 @@
+[
+    {
+        "GemAmountRequiredToContinue": 10, 
+        "GemAmountRequiredToRecoverStamina": 10, 
+        "LimitStamina": 999, 
+        "MasterUserConfigId": 50001000001, 
+        "ReleaseLabeloffset": "", 
+        "SecondsRequiredToRecover": 300
+    }
+]

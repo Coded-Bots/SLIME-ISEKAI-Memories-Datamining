@@ -1,0 +1,731 @@
+[
+    {
+        "MasterBuffId": 2000000001, 
+        "ParameterType": 0, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/036/01/IcStatus_036_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/035/01/IcStatus_035_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000002, 
+        "ParameterType": 1, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000003, 
+        "ParameterType": 2, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/012/01/IcStatus_012_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/011/01/IcStatus_011_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000004, 
+        "ParameterType": 100, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/026/01/IcStatus_026_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/025/01/IcStatus_025_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000005, 
+        "ParameterType": 101, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/022/01/IcStatus_022_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/021/01/IcStatus_021_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000006, 
+        "ParameterType": 102, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/024/01/IcStatus_024_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/023/01/IcStatus_023_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000007, 
+        "ParameterType": 103, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/024/03/IcStatus_024_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/023/03/IcStatus_023_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000008, 
+        "ParameterType": 104, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/028/01/IcStatus_028_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/027/01/IcStatus_027_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000009, 
+        "ParameterType": 105, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/028/03/IcStatus_028_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/027/03/IcStatus_027_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000010, 
+        "ParameterType": 106, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000011, 
+        "ParameterType": 107, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000012, 
+        "ParameterType": 108, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000013, 
+        "ParameterType": 300, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/006/02/IcStatus_006_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/005/02/IcStatus_005_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000014, 
+        "ParameterType": 301, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/006/03/IcStatus_006_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/005/03/IcStatus_005_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000015, 
+        "ParameterType": 302, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/03/IcStatus_002_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/03/IcStatus_001_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000016, 
+        "ParameterType": 303, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/04/IcStatus_002_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/04/IcStatus_001_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000017, 
+        "ParameterType": 304, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/026/02/IcStatus_026_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/025/02/IcStatus_025_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000018, 
+        "ParameterType": 305, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/022/02/IcStatus_022_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/021/02/IcStatus_021_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000019, 
+        "ParameterType": 306, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/028/02/IcStatus_028_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/027/02/IcStatus_027_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000020, 
+        "ParameterType": 307, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/024/02/IcStatus_024_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/023/02/IcStatus_023_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000021, 
+        "ParameterType": 308, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/024/04/IcStatus_024_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/023/04/IcStatus_023_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000022, 
+        "ParameterType": 309, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/01/IcStatus_008_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/01/IcStatus_003_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000023, 
+        "ParameterType": 310, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/05/IcStatus_008_05", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/05/IcStatus_003_05", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000024, 
+        "ParameterType": 311, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/04/IcStatus_008_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/04/IcStatus_003_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000025, 
+        "ParameterType": 312, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/02/IcStatus_008_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/02/IcStatus_003_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000026, 
+        "ParameterType": 313, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/03/IcStatus_008_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/03/IcStatus_003_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000027, 
+        "ParameterType": 314, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/07/IcStatus_008_07", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/07/IcStatus_003_07", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000028, 
+        "ParameterType": 315, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/06/IcStatus_008_06", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/06/IcStatus_003_06", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000029, 
+        "ParameterType": 316, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000030, 
+        "ParameterType": 401, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/014/01/IcStatus_014_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/01/IcStatus_013_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000031, 
+        "ParameterType": 402, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/014/02/IcStatus_014_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/02/IcStatus_013_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000032, 
+        "ParameterType": 403, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/013/04/IcStatus_013_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/03/IcStatus_013_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000033, 
+        "ParameterType": 404, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/014/04/IcStatus_014_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/04/IcStatus_013_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000034, 
+        "ParameterType": 405, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/051/01/IcStatus_051_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/050/01/IcStatus_050_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000035, 
+        "ParameterType": 406, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/053/01/IcStatus_053_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/052/01/IcStatus_052_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000036, 
+        "ParameterType": 407, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/055/01/IcStatus_055_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/054/01/IcStatus_054_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000037, 
+        "ParameterType": 408, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/057/01/IcStatus_057_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/056/01/IcStatus_056_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000038, 
+        "ParameterType": 409, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/059/01/IcStatus_059_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/058/01/IcStatus_058_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000039, 
+        "ParameterType": 410, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/01/IcStatus_016_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/01/IcStatus_015_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000040, 
+        "ParameterType": 411, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/05/IcStatus_016_05", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/05/IcStatus_015_05", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000041, 
+        "ParameterType": 412, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/04/IcStatus_016_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/04/IcStatus_015_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000042, 
+        "ParameterType": 413, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/02/IcStatus_016_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/02/IcStatus_015_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000043, 
+        "ParameterType": 414, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/03/IcStatus_016_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/03/IcStatus_015_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000044, 
+        "ParameterType": 415, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/07/IcStatus_016_07", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/07/IcStatus_015_07", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000045, 
+        "ParameterType": 416, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/06/IcStatus_016_06", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/06/IcStatus_015_06", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000046, 
+        "ParameterType": 417, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000047, 
+        "ParameterType": 500, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/006/02/IcStatus_006_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/005/02/IcStatus_005_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000048, 
+        "ParameterType": 501, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/006/03/IcStatus_006_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/005/03/IcStatus_005_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000049, 
+        "ParameterType": 502, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/03/IcStatus_002_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/03/IcStatus_001_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000050, 
+        "ParameterType": 503, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/04/IcStatus_002_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/04/IcStatus_001_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000051, 
+        "ParameterType": 504, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/026/02/IcStatus_026_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/025/02/IcStatus_025_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000052, 
+        "ParameterType": 505, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/022/02/IcStatus_022_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/021/02/IcStatus_021_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000053, 
+        "ParameterType": 506, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/028/02/IcStatus_028_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/027/02/IcStatus_027_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000054, 
+        "ParameterType": 507, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/024/02/IcStatus_024_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/023/02/IcStatus_023_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000055, 
+        "ParameterType": 508, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/01/IcStatus_008_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/01/IcStatus_003_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000056, 
+        "ParameterType": 509, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/05/IcStatus_008_05", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/05/IcStatus_003_05", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000057, 
+        "ParameterType": 510, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/04/IcStatus_008_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/04/IcStatus_003_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000058, 
+        "ParameterType": 511, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/02/IcStatus_008_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/02/IcStatus_003_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000059, 
+        "ParameterType": 512, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/03/IcStatus_008_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/03/IcStatus_003_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000060, 
+        "ParameterType": 513, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/07/IcStatus_008_07", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/07/IcStatus_003_07", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000061, 
+        "ParameterType": 514, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/008/06/IcStatus_008_06", 
+        "PathIconStatusDownoffset": "Image/IcStatus/003/06/IcStatus_003_06", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000062, 
+        "ParameterType": 515, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000063, 
+        "ParameterType": 600, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/014/01/IcStatus_014_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/01/IcStatus_013_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000064, 
+        "ParameterType": 601, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/014/02/IcStatus_014_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/02/IcStatus_013_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000065, 
+        "ParameterType": 602, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/013/04/IcStatus_013_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/03/IcStatus_013_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000066, 
+        "ParameterType": 603, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/014/04/IcStatus_014_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/013/04/IcStatus_013_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000067, 
+        "ParameterType": 604, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/051/01/IcStatus_051_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/050/01/IcStatus_050_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000068, 
+        "ParameterType": 605, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/053/01/IcStatus_053_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/052/01/IcStatus_052_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000069, 
+        "ParameterType": 606, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/055/01/IcStatus_055_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/054/01/IcStatus_054_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000070, 
+        "ParameterType": 607, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/057/01/IcStatus_057_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/056/01/IcStatus_056_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000071, 
+        "ParameterType": 608, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/01/IcStatus_016_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/01/IcStatus_015_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000072, 
+        "ParameterType": 609, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/05/IcStatus_016_05", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/05/IcStatus_015_05", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000073, 
+        "ParameterType": 610, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/04/IcStatus_016_04", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/04/IcStatus_015_04", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000074, 
+        "ParameterType": 611, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/02/IcStatus_016_02", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/02/IcStatus_015_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000075, 
+        "ParameterType": 612, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/03/IcStatus_016_03", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/03/IcStatus_015_03", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000076, 
+        "ParameterType": 613, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/07/IcStatus_016_07", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/07/IcStatus_015_07", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000077, 
+        "ParameterType": 614, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/016/06/IcStatus_016_06", 
+        "PathIconStatusDownoffset": "Image/IcStatus/015/06/IcStatus_015_06", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000078, 
+        "ParameterType": 615, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000079, 
+        "ParameterType": 700, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/033/05/IcStatus_033_05", 
+        "PathIconStatusDownoffset": "Image/IcStatus/032/05/IcStatus_032_05", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000080, 
+        "ParameterType": 701, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/033/06/IcStatus_033_06", 
+        "PathIconStatusDownoffset": "Image/IcStatus/032/06/IcStatus_032_06", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBuffId": 2000000081, 
+        "ParameterType": 801, 
+        "PathIconSkillDownoffset": "", 
+        "PathIconSkillUpoffset": "Image/IcStatus/060/01/IcStatus_060_01", 
+        "PathIconStatusDownoffset": "Image/IcStatus/048/02/IcStatus_048_02", 
+        "PathIconStatusUpoffset": "", 
+        "ReleaseLabeloffset": ""
+    }
+]

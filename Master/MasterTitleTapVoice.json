@@ -1,0 +1,248 @@
+[
+    {
+        "Id": 900000001, 
+        "MasterTitleTapVoiceType": 0, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/rimuru/voice_sys_rimuru_001_title"
+    }, 
+    {
+        "Id": 900000002, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/alice/voice_sys_alice_001_title"
+    }, 
+    {
+        "Id": 900000003, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/benimaru/voice_sys_benimaru_001_title"
+    }, 
+    {
+        "Id": 900000004, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/chloe/voice_sys_chloe_001_title"
+    }, 
+    {
+        "Id": 900000006, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/dord/voice_sys_dord_001_title"
+    }, 
+    {
+        "Id": 900000007, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_001_title"
+    }, 
+    {
+        "Id": 900000008, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/fuze/voice_sys_fuze_001_title"
+    }, 
+    {
+        "Id": 900000009, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gabiru/voice_sys_gabiru_001_title_A"
+    }, 
+    {
+        "Id": 900000010, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gabiru/voice_sys_gabiru_001_title_B"
+    }, 
+    {
+        "Id": 900000011, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gail/voice_sys_gail_001_title"
+    }, 
+    {
+        "Id": 900000012, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/garm/voice_sys_garm_001_title"
+    }, 
+    {
+        "Id": 900000013, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_001_title"
+    }, 
+    {
+        "Id": 900000014, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/geld/voice_sys_geld_001_title"
+    }, 
+    {
+        "Id": 900000015, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gelmud/voice_sys_gelmud_001_title"
+    }, 
+    {
+        "Id": 900000016, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gobichi/voice_sys_gobichi_001_title"
+    }, 
+    {
+        "Id": 900000017, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/gobta/voice_sys_gobta_001_title"
+    }, 
+    {
+        "Id": 900000018, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/hakuro/voice_sys_hakuro_001_title"
+    }, 
+    {
+        "Id": 900000019, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/haruna/voice_sys_haruna_001_title"
+    }, 
+    {
+        "Id": 900000021, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/kaijin/voice_sys_kaijin_001_title"
+    }, 
+    {
+        "Id": 900000022, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/kenya/voice_sys_kenya_001_title"
+    }, 
+    {
+        "Id": 900000023, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/kurobei/voice_sys_kurobei_001_title"
+    }, 
+    {
+        "Id": 900000024, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/light/voice_sys_light_spirit_001_title"
+    }, 
+    {
+        "Id": 900000025, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/milim/voice_sys_milim_001_title"
+    }, 
+    {
+        "Id": 900000026, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/mjollmile/voice_sys_mjollmile_001_title_A"
+    }, 
+    {
+        "Id": 900000027, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/mjollmile/voice_sys_mjollmile_001_title_B"
+    }, 
+    {
+        "Id": 900000028, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/myrd/voice_sys_myrd_001_title"
+    }, 
+    {
+        "Id": 900000029, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/phobio/voice_sys_phobio_001_title"
+    }, 
+    {
+        "Id": 900000030, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/ramiris/voice_sys_ramiris_001_title"
+    }, 
+    {
+        "Id": 900000031, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/ranga/voice_sys_ranga_001_title"
+    }, 
+    {
+        "Id": 900000033, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/rigurd/voice_sys_rigurd_001_title"
+    }, 
+    {
+        "Id": 900000034, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/rimuru/voice_sys_rimuru_001_title"
+    }, 
+    {
+        "Id": 900000035, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/ryota/voice_sys_ryota_001_title"
+    }, 
+    {
+        "Id": 900000036, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/shion/voice_sys_shion_001_title"
+    }, 
+    {
+        "Id": 900000037, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/shizu/voice_sys_shizu_001_title"
+    }, 
+    {
+        "Id": 900000038, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/shuna/voice_sys_shuna_001_title"
+    }, 
+    {
+        "Id": 900000039, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/soei/voice_sys_soei_001_title"
+    }, 
+    {
+        "Id": 900000040, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/treyni/voice_sys_treyni_001_title"
+    }, 
+    {
+        "Id": 900000041, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/trya/voice_sys_trya_001_title"
+    }, 
+    {
+        "Id": 900000042, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/veldora/voice_sys_veldora_001_title"
+    }, 
+    {
+        "Id": 900000043, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/vesta/voice_sys_vesta_001_title"
+    }, 
+    {
+        "Id": 900000044, 
+        "MasterTitleTapVoiceType": 1, 
+        "ReleaseLabeloffset": "", 
+        "VoiceFilePathoffset": "sys/yuuki/voice_sys_yuuki_001_title"
+    }
+]

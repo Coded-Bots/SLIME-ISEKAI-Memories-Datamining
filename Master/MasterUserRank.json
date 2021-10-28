@@ -1,0 +1,3822 @@
+[
+    {
+        "CharacterCountEnableAppearHome": 3, 
+        "CharacterCountEnableAppearHomeMob": 6, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 1, 
+        "MasterUserRankId": 50002000001, 
+        "MaxStamina": 80, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 0
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 3, 
+        "CharacterCountEnableAppearHomeMob": 6, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 2, 
+        "MasterUserRankId": 50002000002, 
+        "MaxStamina": 81, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 450
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 4, 
+        "CharacterCountEnableAppearHomeMob": 6, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 3, 
+        "MasterUserRankId": 50002000003, 
+        "MaxStamina": 82, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 800
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 4, 
+        "CharacterCountEnableAppearHomeMob": 6, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 4, 
+        "MasterUserRankId": 50002000004, 
+        "MaxStamina": 83, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1500
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 5, 
+        "CharacterCountEnableAppearHomeMob": 9, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 5, 
+        "MasterUserRankId": 50002000005, 
+        "MaxStamina": 83, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1800
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 5, 
+        "CharacterCountEnableAppearHomeMob": 9, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 6, 
+        "MasterUserRankId": 50002000006, 
+        "MaxStamina": 84, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 2100
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 5, 
+        "CharacterCountEnableAppearHomeMob": 9, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 7, 
+        "MasterUserRankId": 50002000007, 
+        "MaxStamina": 85, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 2700
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 6, 
+        "CharacterCountEnableAppearHomeMob": 12, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 8, 
+        "MasterUserRankId": 50002000008, 
+        "MaxStamina": 86, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 3000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 6, 
+        "CharacterCountEnableAppearHomeMob": 12, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 9, 
+        "MasterUserRankId": 50002000009, 
+        "MaxStamina": 87, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 3900
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 6, 
+        "CharacterCountEnableAppearHomeMob": 12, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 10, 
+        "MasterUserRankId": 50002000010, 
+        "MaxStamina": 88, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 5300
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 6, 
+        "CharacterCountEnableAppearHomeMob": 12, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 11, 
+        "MasterUserRankId": 50002000011, 
+        "MaxStamina": 89, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 6100
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 6, 
+        "CharacterCountEnableAppearHomeMob": 12, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 12, 
+        "MasterUserRankId": 50002000012, 
+        "MaxStamina": 90, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 7000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 6, 
+        "CharacterCountEnableAppearHomeMob": 12, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 13, 
+        "MasterUserRankId": 50002000013, 
+        "MaxStamina": 91, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 8000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 15, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 14, 
+        "MasterUserRankId": 50002000014, 
+        "MaxStamina": 92, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 10000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 15, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 15, 
+        "MasterUserRankId": 50002000015, 
+        "MaxStamina": 93, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 12000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 15, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 16, 
+        "MasterUserRankId": 50002000016, 
+        "MaxStamina": 94, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 14000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 15, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 17, 
+        "MasterUserRankId": 50002000017, 
+        "MaxStamina": 95, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 16000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 15, 
+        "EquipmentStockExpandCount": 0, 
+        "Level": 18, 
+        "MasterUserRankId": 50002000018, 
+        "MaxStamina": 96, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 18000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 15, 
+        "EquipmentStockExpandCount": 1, 
+        "Level": 19, 
+        "MasterUserRankId": 50002000019, 
+        "MaxStamina": 97, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 20000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 18, 
+        "EquipmentStockExpandCount": 1, 
+        "Level": 20, 
+        "MasterUserRankId": 50002000020, 
+        "MaxStamina": 98, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 22000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 18, 
+        "EquipmentStockExpandCount": 2, 
+        "Level": 21, 
+        "MasterUserRankId": 50002000021, 
+        "MaxStamina": 99, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 24000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 18, 
+        "EquipmentStockExpandCount": 2, 
+        "Level": 22, 
+        "MasterUserRankId": 50002000022, 
+        "MaxStamina": 100, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 26000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 21, 
+        "EquipmentStockExpandCount": 3, 
+        "Level": 23, 
+        "MasterUserRankId": 50002000023, 
+        "MaxStamina": 100, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 28000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 21, 
+        "EquipmentStockExpandCount": 3, 
+        "Level": 24, 
+        "MasterUserRankId": 50002000024, 
+        "MaxStamina": 101, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 30000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 24, 
+        "EquipmentStockExpandCount": 4, 
+        "Level": 25, 
+        "MasterUserRankId": 50002000025, 
+        "MaxStamina": 101, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 33000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 24, 
+        "EquipmentStockExpandCount": 4, 
+        "Level": 26, 
+        "MasterUserRankId": 50002000026, 
+        "MaxStamina": 102, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 36000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 24, 
+        "EquipmentStockExpandCount": 5, 
+        "Level": 27, 
+        "MasterUserRankId": 50002000027, 
+        "MaxStamina": 102, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 39000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 27, 
+        "EquipmentStockExpandCount": 5, 
+        "Level": 28, 
+        "MasterUserRankId": 50002000028, 
+        "MaxStamina": 103, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 42000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 27, 
+        "EquipmentStockExpandCount": 6, 
+        "Level": 29, 
+        "MasterUserRankId": 50002000029, 
+        "MaxStamina": 103, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 45000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 27, 
+        "EquipmentStockExpandCount": 6, 
+        "Level": 30, 
+        "MasterUserRankId": 50002000030, 
+        "MaxStamina": 104, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 48000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 27, 
+        "EquipmentStockExpandCount": 7, 
+        "Level": 31, 
+        "MasterUserRankId": 50002000031, 
+        "MaxStamina": 104, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 51000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 27, 
+        "EquipmentStockExpandCount": 7, 
+        "Level": 32, 
+        "MasterUserRankId": 50002000032, 
+        "MaxStamina": 105, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 54000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 27, 
+        "EquipmentStockExpandCount": 8, 
+        "Level": 33, 
+        "MasterUserRankId": 50002000033, 
+        "MaxStamina": 105, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 57000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 8, 
+        "Level": 34, 
+        "MasterUserRankId": 50002000034, 
+        "MaxStamina": 106, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 60000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 9, 
+        "Level": 35, 
+        "MasterUserRankId": 50002000035, 
+        "MaxStamina": 106, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 63000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 9, 
+        "Level": 36, 
+        "MasterUserRankId": 50002000036, 
+        "MaxStamina": 107, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 66000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 10, 
+        "Level": 37, 
+        "MasterUserRankId": 50002000037, 
+        "MaxStamina": 107, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 69000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 10, 
+        "Level": 38, 
+        "MasterUserRankId": 50002000038, 
+        "MaxStamina": 108, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 72000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 11, 
+        "Level": 39, 
+        "MasterUserRankId": 50002000039, 
+        "MaxStamina": 108, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 75000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 11, 
+        "Level": 40, 
+        "MasterUserRankId": 50002000040, 
+        "MaxStamina": 109, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 78000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 12, 
+        "Level": 41, 
+        "MasterUserRankId": 50002000041, 
+        "MaxStamina": 109, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 81000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 12, 
+        "Level": 42, 
+        "MasterUserRankId": 50002000042, 
+        "MaxStamina": 110, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 84000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 13, 
+        "Level": 43, 
+        "MasterUserRankId": 50002000043, 
+        "MaxStamina": 110, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 87000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 13, 
+        "Level": 44, 
+        "MasterUserRankId": 50002000044, 
+        "MaxStamina": 111, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 90000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 14, 
+        "Level": 45, 
+        "MasterUserRankId": 50002000045, 
+        "MaxStamina": 111, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 93000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 14, 
+        "Level": 46, 
+        "MasterUserRankId": 50002000046, 
+        "MaxStamina": 112, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 96000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 15, 
+        "Level": 47, 
+        "MasterUserRankId": 50002000047, 
+        "MaxStamina": 112, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 99000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 15, 
+        "Level": 48, 
+        "MasterUserRankId": 50002000048, 
+        "MaxStamina": 113, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 102000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 16, 
+        "Level": 49, 
+        "MasterUserRankId": 50002000049, 
+        "MaxStamina": 113, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 105000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 16, 
+        "Level": 50, 
+        "MasterUserRankId": 50002000050, 
+        "MaxStamina": 114, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 108000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 17, 
+        "Level": 51, 
+        "MasterUserRankId": 50002000051, 
+        "MaxStamina": 114, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 111000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 17, 
+        "Level": 52, 
+        "MasterUserRankId": 50002000052, 
+        "MaxStamina": 115, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 114000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 18, 
+        "Level": 53, 
+        "MasterUserRankId": 50002000053, 
+        "MaxStamina": 115, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 117000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 18, 
+        "Level": 54, 
+        "MasterUserRankId": 50002000054, 
+        "MaxStamina": 116, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 120000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 19, 
+        "Level": 55, 
+        "MasterUserRankId": 50002000055, 
+        "MaxStamina": 116, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 123000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 19, 
+        "Level": 56, 
+        "MasterUserRankId": 50002000056, 
+        "MaxStamina": 117, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 126000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 20, 
+        "Level": 57, 
+        "MasterUserRankId": 50002000057, 
+        "MaxStamina": 117, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 129000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 20, 
+        "Level": 58, 
+        "MasterUserRankId": 50002000058, 
+        "MaxStamina": 118, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 132000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 21, 
+        "Level": 59, 
+        "MasterUserRankId": 50002000059, 
+        "MaxStamina": 118, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 135000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 21, 
+        "Level": 60, 
+        "MasterUserRankId": 50002000060, 
+        "MaxStamina": 119, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 138000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 22, 
+        "Level": 61, 
+        "MasterUserRankId": 50002000061, 
+        "MaxStamina": 119, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 141000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 22, 
+        "Level": 62, 
+        "MasterUserRankId": 50002000062, 
+        "MaxStamina": 120, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 144000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 23, 
+        "Level": 63, 
+        "MasterUserRankId": 50002000063, 
+        "MaxStamina": 120, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 147000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 23, 
+        "Level": 64, 
+        "MasterUserRankId": 50002000064, 
+        "MaxStamina": 121, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 150000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 24, 
+        "Level": 65, 
+        "MasterUserRankId": 50002000065, 
+        "MaxStamina": 121, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 153000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 24, 
+        "Level": 66, 
+        "MasterUserRankId": 50002000066, 
+        "MaxStamina": 122, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 156000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 25, 
+        "Level": 67, 
+        "MasterUserRankId": 50002000067, 
+        "MaxStamina": 122, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 159000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 25, 
+        "Level": 68, 
+        "MasterUserRankId": 50002000068, 
+        "MaxStamina": 123, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 162000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 26, 
+        "Level": 69, 
+        "MasterUserRankId": 50002000069, 
+        "MaxStamina": 123, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 165000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 26, 
+        "Level": 70, 
+        "MasterUserRankId": 50002000070, 
+        "MaxStamina": 124, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 168000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 27, 
+        "Level": 71, 
+        "MasterUserRankId": 50002000071, 
+        "MaxStamina": 124, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 171000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 27, 
+        "Level": 72, 
+        "MasterUserRankId": 50002000072, 
+        "MaxStamina": 125, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 174000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 28, 
+        "Level": 73, 
+        "MasterUserRankId": 50002000073, 
+        "MaxStamina": 125, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 177000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 28, 
+        "Level": 74, 
+        "MasterUserRankId": 50002000074, 
+        "MaxStamina": 126, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 180000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 29, 
+        "Level": 75, 
+        "MasterUserRankId": 50002000075, 
+        "MaxStamina": 126, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 183000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 29, 
+        "Level": 76, 
+        "MasterUserRankId": 50002000076, 
+        "MaxStamina": 127, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 186000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 30, 
+        "Level": 77, 
+        "MasterUserRankId": 50002000077, 
+        "MaxStamina": 127, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 189000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 30, 
+        "Level": 78, 
+        "MasterUserRankId": 50002000078, 
+        "MaxStamina": 128, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 192000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 31, 
+        "Level": 79, 
+        "MasterUserRankId": 50002000079, 
+        "MaxStamina": 128, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 195000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 31, 
+        "Level": 80, 
+        "MasterUserRankId": 50002000080, 
+        "MaxStamina": 129, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 198000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 32, 
+        "Level": 81, 
+        "MasterUserRankId": 50002000081, 
+        "MaxStamina": 129, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 201000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 32, 
+        "Level": 82, 
+        "MasterUserRankId": 50002000082, 
+        "MaxStamina": 130, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 204000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 33, 
+        "Level": 83, 
+        "MasterUserRankId": 50002000083, 
+        "MaxStamina": 130, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 207000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 33, 
+        "Level": 84, 
+        "MasterUserRankId": 50002000084, 
+        "MaxStamina": 131, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 210000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 34, 
+        "Level": 85, 
+        "MasterUserRankId": 50002000085, 
+        "MaxStamina": 131, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 213000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 34, 
+        "Level": 86, 
+        "MasterUserRankId": 50002000086, 
+        "MaxStamina": 132, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 216000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 35, 
+        "Level": 87, 
+        "MasterUserRankId": 50002000087, 
+        "MaxStamina": 132, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 219000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 35, 
+        "Level": 88, 
+        "MasterUserRankId": 50002000088, 
+        "MaxStamina": 133, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 222000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 36, 
+        "Level": 89, 
+        "MasterUserRankId": 50002000089, 
+        "MaxStamina": 133, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 225000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 36, 
+        "Level": 90, 
+        "MasterUserRankId": 50002000090, 
+        "MaxStamina": 134, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 228000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 37, 
+        "Level": 91, 
+        "MasterUserRankId": 50002000091, 
+        "MaxStamina": 134, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 231000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 37, 
+        "Level": 92, 
+        "MasterUserRankId": 50002000092, 
+        "MaxStamina": 135, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 234000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 38, 
+        "Level": 93, 
+        "MasterUserRankId": 50002000093, 
+        "MaxStamina": 135, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 237000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 38, 
+        "Level": 94, 
+        "MasterUserRankId": 50002000094, 
+        "MaxStamina": 136, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 240000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 39, 
+        "Level": 95, 
+        "MasterUserRankId": 50002000095, 
+        "MaxStamina": 136, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 243000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 39, 
+        "Level": 96, 
+        "MasterUserRankId": 50002000096, 
+        "MaxStamina": 137, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 246000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 40, 
+        "Level": 97, 
+        "MasterUserRankId": 50002000097, 
+        "MaxStamina": 137, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 249000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 40, 
+        "Level": 98, 
+        "MasterUserRankId": 50002000098, 
+        "MaxStamina": 138, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 252000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 41, 
+        "Level": 99, 
+        "MasterUserRankId": 50002000099, 
+        "MaxStamina": 138, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 255000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 41, 
+        "Level": 100, 
+        "MasterUserRankId": 50002000100, 
+        "MaxStamina": 139, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 258000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 42, 
+        "Level": 101, 
+        "MasterUserRankId": 50002000101, 
+        "MaxStamina": 139, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 261000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 42, 
+        "Level": 102, 
+        "MasterUserRankId": 50002000102, 
+        "MaxStamina": 140, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 264000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 43, 
+        "Level": 103, 
+        "MasterUserRankId": 50002000103, 
+        "MaxStamina": 140, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 267000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 43, 
+        "Level": 104, 
+        "MasterUserRankId": 50002000104, 
+        "MaxStamina": 141, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 270000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 44, 
+        "Level": 105, 
+        "MasterUserRankId": 50002000105, 
+        "MaxStamina": 141, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 273000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 44, 
+        "Level": 106, 
+        "MasterUserRankId": 50002000106, 
+        "MaxStamina": 142, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 276000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 45, 
+        "Level": 107, 
+        "MasterUserRankId": 50002000107, 
+        "MaxStamina": 142, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 279000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 45, 
+        "Level": 108, 
+        "MasterUserRankId": 50002000108, 
+        "MaxStamina": 143, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 282000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 46, 
+        "Level": 109, 
+        "MasterUserRankId": 50002000109, 
+        "MaxStamina": 143, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 285000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 46, 
+        "Level": 110, 
+        "MasterUserRankId": 50002000110, 
+        "MaxStamina": 144, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 288000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 47, 
+        "Level": 111, 
+        "MasterUserRankId": 50002000111, 
+        "MaxStamina": 144, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 291000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 47, 
+        "Level": 112, 
+        "MasterUserRankId": 50002000112, 
+        "MaxStamina": 145, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 294000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 48, 
+        "Level": 113, 
+        "MasterUserRankId": 50002000113, 
+        "MaxStamina": 145, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 297000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 48, 
+        "Level": 114, 
+        "MasterUserRankId": 50002000114, 
+        "MaxStamina": 146, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 300000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 49, 
+        "Level": 115, 
+        "MasterUserRankId": 50002000115, 
+        "MaxStamina": 146, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 303000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 49, 
+        "Level": 116, 
+        "MasterUserRankId": 50002000116, 
+        "MaxStamina": 147, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 306000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 50, 
+        "Level": 117, 
+        "MasterUserRankId": 50002000117, 
+        "MaxStamina": 147, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 309000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 50, 
+        "Level": 118, 
+        "MasterUserRankId": 50002000118, 
+        "MaxStamina": 148, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 312000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 51, 
+        "Level": 119, 
+        "MasterUserRankId": 50002000119, 
+        "MaxStamina": 148, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 315000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 51, 
+        "Level": 120, 
+        "MasterUserRankId": 50002000120, 
+        "MaxStamina": 149, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 318000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 52, 
+        "Level": 121, 
+        "MasterUserRankId": 50002000121, 
+        "MaxStamina": 149, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 321000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 52, 
+        "Level": 122, 
+        "MasterUserRankId": 50002000122, 
+        "MaxStamina": 150, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 327000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 53, 
+        "Level": 123, 
+        "MasterUserRankId": 50002000123, 
+        "MaxStamina": 150, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 330000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 53, 
+        "Level": 124, 
+        "MasterUserRankId": 50002000124, 
+        "MaxStamina": 151, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 336000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 54, 
+        "Level": 125, 
+        "MasterUserRankId": 50002000125, 
+        "MaxStamina": 151, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 339000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 54, 
+        "Level": 126, 
+        "MasterUserRankId": 50002000126, 
+        "MaxStamina": 152, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 345000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 55, 
+        "Level": 127, 
+        "MasterUserRankId": 50002000127, 
+        "MaxStamina": 152, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 348000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 55, 
+        "Level": 128, 
+        "MasterUserRankId": 50002000128, 
+        "MaxStamina": 153, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 354000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 56, 
+        "Level": 129, 
+        "MasterUserRankId": 50002000129, 
+        "MaxStamina": 153, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 357000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 56, 
+        "Level": 130, 
+        "MasterUserRankId": 50002000130, 
+        "MaxStamina": 154, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 363000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 57, 
+        "Level": 131, 
+        "MasterUserRankId": 50002000131, 
+        "MaxStamina": 154, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 366000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 57, 
+        "Level": 132, 
+        "MasterUserRankId": 50002000132, 
+        "MaxStamina": 155, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 372000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 58, 
+        "Level": 133, 
+        "MasterUserRankId": 50002000133, 
+        "MaxStamina": 155, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 375000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 58, 
+        "Level": 134, 
+        "MasterUserRankId": 50002000134, 
+        "MaxStamina": 156, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 381000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 59, 
+        "Level": 135, 
+        "MasterUserRankId": 50002000135, 
+        "MaxStamina": 156, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 384000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 59, 
+        "Level": 136, 
+        "MasterUserRankId": 50002000136, 
+        "MaxStamina": 157, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 390000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 60, 
+        "Level": 137, 
+        "MasterUserRankId": 50002000137, 
+        "MaxStamina": 157, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 393000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 60, 
+        "Level": 138, 
+        "MasterUserRankId": 50002000138, 
+        "MaxStamina": 158, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 399000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 61, 
+        "Level": 139, 
+        "MasterUserRankId": 50002000139, 
+        "MaxStamina": 158, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 402000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 61, 
+        "Level": 140, 
+        "MasterUserRankId": 50002000140, 
+        "MaxStamina": 159, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 408000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 62, 
+        "Level": 141, 
+        "MasterUserRankId": 50002000141, 
+        "MaxStamina": 159, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 411000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 62, 
+        "Level": 142, 
+        "MasterUserRankId": 50002000142, 
+        "MaxStamina": 160, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 417000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 63, 
+        "Level": 143, 
+        "MasterUserRankId": 50002000143, 
+        "MaxStamina": 160, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 420000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 63, 
+        "Level": 144, 
+        "MasterUserRankId": 50002000144, 
+        "MaxStamina": 161, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 426000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 64, 
+        "Level": 145, 
+        "MasterUserRankId": 50002000145, 
+        "MaxStamina": 161, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 429000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 64, 
+        "Level": 146, 
+        "MasterUserRankId": 50002000146, 
+        "MaxStamina": 162, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 435000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 65, 
+        "Level": 147, 
+        "MasterUserRankId": 50002000147, 
+        "MaxStamina": 162, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 438000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 65, 
+        "Level": 148, 
+        "MasterUserRankId": 50002000148, 
+        "MaxStamina": 163, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 444000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 66, 
+        "Level": 149, 
+        "MasterUserRankId": 50002000149, 
+        "MaxStamina": 163, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 447000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 66, 
+        "Level": 150, 
+        "MasterUserRankId": 50002000150, 
+        "MaxStamina": 164, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 453000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 67, 
+        "Level": 151, 
+        "MasterUserRankId": 50002000151, 
+        "MaxStamina": 164, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 456000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 67, 
+        "Level": 152, 
+        "MasterUserRankId": 50002000152, 
+        "MaxStamina": 165, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 462000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 68, 
+        "Level": 153, 
+        "MasterUserRankId": 50002000153, 
+        "MaxStamina": 165, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 465000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 68, 
+        "Level": 154, 
+        "MasterUserRankId": 50002000154, 
+        "MaxStamina": 166, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 471000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 69, 
+        "Level": 155, 
+        "MasterUserRankId": 50002000155, 
+        "MaxStamina": 166, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 474000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 69, 
+        "Level": 156, 
+        "MasterUserRankId": 50002000156, 
+        "MaxStamina": 167, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 480000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 70, 
+        "Level": 157, 
+        "MasterUserRankId": 50002000157, 
+        "MaxStamina": 167, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 483000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 70, 
+        "Level": 158, 
+        "MasterUserRankId": 50002000158, 
+        "MaxStamina": 168, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 489000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 71, 
+        "Level": 159, 
+        "MasterUserRankId": 50002000159, 
+        "MaxStamina": 168, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 492000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 71, 
+        "Level": 160, 
+        "MasterUserRankId": 50002000160, 
+        "MaxStamina": 169, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 498000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 72, 
+        "Level": 161, 
+        "MasterUserRankId": 50002000161, 
+        "MaxStamina": 169, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 501000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 72, 
+        "Level": 162, 
+        "MasterUserRankId": 50002000162, 
+        "MaxStamina": 170, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 507000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 73, 
+        "Level": 163, 
+        "MasterUserRankId": 50002000163, 
+        "MaxStamina": 170, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 510000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 73, 
+        "Level": 164, 
+        "MasterUserRankId": 50002000164, 
+        "MaxStamina": 171, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 516000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 74, 
+        "Level": 165, 
+        "MasterUserRankId": 50002000165, 
+        "MaxStamina": 171, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 519000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 74, 
+        "Level": 166, 
+        "MasterUserRankId": 50002000166, 
+        "MaxStamina": 172, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 525000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 75, 
+        "Level": 167, 
+        "MasterUserRankId": 50002000167, 
+        "MaxStamina": 172, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 528000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 75, 
+        "Level": 168, 
+        "MasterUserRankId": 50002000168, 
+        "MaxStamina": 173, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 534000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 76, 
+        "Level": 169, 
+        "MasterUserRankId": 50002000169, 
+        "MaxStamina": 173, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 537000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 76, 
+        "Level": 170, 
+        "MasterUserRankId": 50002000170, 
+        "MaxStamina": 174, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 543000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 77, 
+        "Level": 171, 
+        "MasterUserRankId": 50002000171, 
+        "MaxStamina": 174, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 546000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 77, 
+        "Level": 172, 
+        "MasterUserRankId": 50002000172, 
+        "MaxStamina": 175, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 552000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 78, 
+        "Level": 173, 
+        "MasterUserRankId": 50002000173, 
+        "MaxStamina": 175, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 555000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 78, 
+        "Level": 174, 
+        "MasterUserRankId": 50002000174, 
+        "MaxStamina": 176, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 561000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 79, 
+        "Level": 175, 
+        "MasterUserRankId": 50002000175, 
+        "MaxStamina": 176, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 564000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 79, 
+        "Level": 176, 
+        "MasterUserRankId": 50002000176, 
+        "MaxStamina": 177, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 570000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 80, 
+        "Level": 177, 
+        "MasterUserRankId": 50002000177, 
+        "MaxStamina": 177, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 573000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 80, 
+        "Level": 178, 
+        "MasterUserRankId": 50002000178, 
+        "MaxStamina": 178, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 579000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 81, 
+        "Level": 179, 
+        "MasterUserRankId": 50002000179, 
+        "MaxStamina": 178, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 582000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 81, 
+        "Level": 180, 
+        "MasterUserRankId": 50002000180, 
+        "MaxStamina": 179, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 588000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 82, 
+        "Level": 181, 
+        "MasterUserRankId": 50002000181, 
+        "MaxStamina": 179, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 591000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 82, 
+        "Level": 182, 
+        "MasterUserRankId": 50002000182, 
+        "MaxStamina": 180, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 597000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 83, 
+        "Level": 183, 
+        "MasterUserRankId": 50002000183, 
+        "MaxStamina": 180, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 600000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 83, 
+        "Level": 184, 
+        "MasterUserRankId": 50002000184, 
+        "MaxStamina": 181, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 606000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 84, 
+        "Level": 185, 
+        "MasterUserRankId": 50002000185, 
+        "MaxStamina": 181, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 609000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 84, 
+        "Level": 186, 
+        "MasterUserRankId": 50002000186, 
+        "MaxStamina": 182, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 615000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 85, 
+        "Level": 187, 
+        "MasterUserRankId": 50002000187, 
+        "MaxStamina": 182, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 618000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 85, 
+        "Level": 188, 
+        "MasterUserRankId": 50002000188, 
+        "MaxStamina": 183, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 624000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 86, 
+        "Level": 189, 
+        "MasterUserRankId": 50002000189, 
+        "MaxStamina": 183, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 627000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 86, 
+        "Level": 190, 
+        "MasterUserRankId": 50002000190, 
+        "MaxStamina": 184, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 633000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 87, 
+        "Level": 191, 
+        "MasterUserRankId": 50002000191, 
+        "MaxStamina": 184, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 636000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 87, 
+        "Level": 192, 
+        "MasterUserRankId": 50002000192, 
+        "MaxStamina": 185, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 642000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 88, 
+        "Level": 193, 
+        "MasterUserRankId": 50002000193, 
+        "MaxStamina": 185, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 645000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 88, 
+        "Level": 194, 
+        "MasterUserRankId": 50002000194, 
+        "MaxStamina": 186, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 651000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 89, 
+        "Level": 195, 
+        "MasterUserRankId": 50002000195, 
+        "MaxStamina": 186, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 654000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 89, 
+        "Level": 196, 
+        "MasterUserRankId": 50002000196, 
+        "MaxStamina": 187, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 660000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 90, 
+        "Level": 197, 
+        "MasterUserRankId": 50002000197, 
+        "MaxStamina": 187, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 663000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 90, 
+        "Level": 198, 
+        "MasterUserRankId": 50002000198, 
+        "MaxStamina": 188, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 669000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 91, 
+        "Level": 199, 
+        "MasterUserRankId": 50002000199, 
+        "MaxStamina": 188, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 672000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 91, 
+        "Level": 200, 
+        "MasterUserRankId": 50002000200, 
+        "MaxStamina": 189, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 678000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 92, 
+        "Level": 201, 
+        "MasterUserRankId": 50002000201, 
+        "MaxStamina": 189, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 681000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 92, 
+        "Level": 202, 
+        "MasterUserRankId": 50002000202, 
+        "MaxStamina": 190, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 687000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 93, 
+        "Level": 203, 
+        "MasterUserRankId": 50002000203, 
+        "MaxStamina": 190, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 690000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 93, 
+        "Level": 204, 
+        "MasterUserRankId": 50002000204, 
+        "MaxStamina": 191, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 696000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 94, 
+        "Level": 205, 
+        "MasterUserRankId": 50002000205, 
+        "MaxStamina": 191, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 699000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 94, 
+        "Level": 206, 
+        "MasterUserRankId": 50002000206, 
+        "MaxStamina": 192, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 705000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 95, 
+        "Level": 207, 
+        "MasterUserRankId": 50002000207, 
+        "MaxStamina": 192, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 708000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 95, 
+        "Level": 208, 
+        "MasterUserRankId": 50002000208, 
+        "MaxStamina": 193, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 714000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 96, 
+        "Level": 209, 
+        "MasterUserRankId": 50002000209, 
+        "MaxStamina": 193, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 717000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 96, 
+        "Level": 210, 
+        "MasterUserRankId": 50002000210, 
+        "MaxStamina": 194, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 723000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 97, 
+        "Level": 211, 
+        "MasterUserRankId": 50002000211, 
+        "MaxStamina": 194, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 726000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 97, 
+        "Level": 212, 
+        "MasterUserRankId": 50002000212, 
+        "MaxStamina": 195, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 732000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 98, 
+        "Level": 213, 
+        "MasterUserRankId": 50002000213, 
+        "MaxStamina": 195, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 735000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 98, 
+        "Level": 214, 
+        "MasterUserRankId": 50002000214, 
+        "MaxStamina": 196, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 741000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 99, 
+        "Level": 215, 
+        "MasterUserRankId": 50002000215, 
+        "MaxStamina": 196, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 744000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 99, 
+        "Level": 216, 
+        "MasterUserRankId": 50002000216, 
+        "MaxStamina": 197, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 750000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 100, 
+        "Level": 217, 
+        "MasterUserRankId": 50002000217, 
+        "MaxStamina": 197, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 753000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 100, 
+        "Level": 218, 
+        "MasterUserRankId": 50002000218, 
+        "MaxStamina": 198, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 759000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 101, 
+        "Level": 219, 
+        "MasterUserRankId": 50002000219, 
+        "MaxStamina": 198, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 762000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 101, 
+        "Level": 220, 
+        "MasterUserRankId": 50002000220, 
+        "MaxStamina": 199, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 768000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 102, 
+        "Level": 221, 
+        "MasterUserRankId": 50002000221, 
+        "MaxStamina": 199, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 771000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 102, 
+        "Level": 222, 
+        "MasterUserRankId": 50002000222, 
+        "MaxStamina": 200, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 777000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 103, 
+        "Level": 223, 
+        "MasterUserRankId": 50002000223, 
+        "MaxStamina": 200, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 780000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 103, 
+        "Level": 224, 
+        "MasterUserRankId": 50002000224, 
+        "MaxStamina": 201, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 786000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 104, 
+        "Level": 225, 
+        "MasterUserRankId": 50002000225, 
+        "MaxStamina": 201, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 789000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 104, 
+        "Level": 226, 
+        "MasterUserRankId": 50002000226, 
+        "MaxStamina": 202, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 795000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 105, 
+        "Level": 227, 
+        "MasterUserRankId": 50002000227, 
+        "MaxStamina": 202, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 798000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 105, 
+        "Level": 228, 
+        "MasterUserRankId": 50002000228, 
+        "MaxStamina": 203, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 804000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 106, 
+        "Level": 229, 
+        "MasterUserRankId": 50002000229, 
+        "MaxStamina": 203, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 807000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 106, 
+        "Level": 230, 
+        "MasterUserRankId": 50002000230, 
+        "MaxStamina": 204, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 813000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 107, 
+        "Level": 231, 
+        "MasterUserRankId": 50002000231, 
+        "MaxStamina": 204, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 816000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 107, 
+        "Level": 232, 
+        "MasterUserRankId": 50002000232, 
+        "MaxStamina": 205, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 822000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 108, 
+        "Level": 233, 
+        "MasterUserRankId": 50002000233, 
+        "MaxStamina": 205, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 825000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 108, 
+        "Level": 234, 
+        "MasterUserRankId": 50002000234, 
+        "MaxStamina": 206, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 831000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 109, 
+        "Level": 235, 
+        "MasterUserRankId": 50002000235, 
+        "MaxStamina": 206, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 834000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 109, 
+        "Level": 236, 
+        "MasterUserRankId": 50002000236, 
+        "MaxStamina": 207, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 840000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 110, 
+        "Level": 237, 
+        "MasterUserRankId": 50002000237, 
+        "MaxStamina": 207, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 843000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 110, 
+        "Level": 238, 
+        "MasterUserRankId": 50002000238, 
+        "MaxStamina": 208, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 849000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 111, 
+        "Level": 239, 
+        "MasterUserRankId": 50002000239, 
+        "MaxStamina": 208, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 852000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 111, 
+        "Level": 240, 
+        "MasterUserRankId": 50002000240, 
+        "MaxStamina": 209, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 858000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 112, 
+        "Level": 241, 
+        "MasterUserRankId": 50002000241, 
+        "MaxStamina": 209, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 861000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 112, 
+        "Level": 242, 
+        "MasterUserRankId": 50002000242, 
+        "MaxStamina": 210, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 867000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 113, 
+        "Level": 243, 
+        "MasterUserRankId": 50002000243, 
+        "MaxStamina": 210, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 870000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 113, 
+        "Level": 244, 
+        "MasterUserRankId": 50002000244, 
+        "MaxStamina": 211, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 876000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 114, 
+        "Level": 245, 
+        "MasterUserRankId": 50002000245, 
+        "MaxStamina": 211, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 879000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 114, 
+        "Level": 246, 
+        "MasterUserRankId": 50002000246, 
+        "MaxStamina": 212, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 885000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 115, 
+        "Level": 247, 
+        "MasterUserRankId": 50002000247, 
+        "MaxStamina": 212, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 888000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 115, 
+        "Level": 248, 
+        "MasterUserRankId": 50002000248, 
+        "MaxStamina": 213, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 894000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 116, 
+        "Level": 249, 
+        "MasterUserRankId": 50002000249, 
+        "MaxStamina": 213, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 897000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 116, 
+        "Level": 250, 
+        "MasterUserRankId": 50002000250, 
+        "MaxStamina": 214, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 903000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 117, 
+        "Level": 251, 
+        "MasterUserRankId": 50002000251, 
+        "MaxStamina": 214, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 906000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 117, 
+        "Level": 252, 
+        "MasterUserRankId": 50002000252, 
+        "MaxStamina": 215, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 912000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 118, 
+        "Level": 253, 
+        "MasterUserRankId": 50002000253, 
+        "MaxStamina": 215, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 915000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 118, 
+        "Level": 254, 
+        "MasterUserRankId": 50002000254, 
+        "MaxStamina": 216, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 921000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 119, 
+        "Level": 255, 
+        "MasterUserRankId": 50002000255, 
+        "MaxStamina": 216, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 924000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 119, 
+        "Level": 256, 
+        "MasterUserRankId": 50002000256, 
+        "MaxStamina": 217, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 930000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 120, 
+        "Level": 257, 
+        "MasterUserRankId": 50002000257, 
+        "MaxStamina": 217, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 933000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 120, 
+        "Level": 258, 
+        "MasterUserRankId": 50002000258, 
+        "MaxStamina": 218, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 939000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 121, 
+        "Level": 259, 
+        "MasterUserRankId": 50002000259, 
+        "MaxStamina": 218, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 942000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 121, 
+        "Level": 260, 
+        "MasterUserRankId": 50002000260, 
+        "MaxStamina": 219, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 948000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 122, 
+        "Level": 261, 
+        "MasterUserRankId": 50002000261, 
+        "MaxStamina": 219, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 951000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 122, 
+        "Level": 262, 
+        "MasterUserRankId": 50002000262, 
+        "MaxStamina": 220, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 957000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 123, 
+        "Level": 263, 
+        "MasterUserRankId": 50002000263, 
+        "MaxStamina": 220, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 960000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 123, 
+        "Level": 264, 
+        "MasterUserRankId": 50002000264, 
+        "MaxStamina": 221, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 966000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 124, 
+        "Level": 265, 
+        "MasterUserRankId": 50002000265, 
+        "MaxStamina": 221, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 969000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 124, 
+        "Level": 266, 
+        "MasterUserRankId": 50002000266, 
+        "MaxStamina": 222, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 975000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 125, 
+        "Level": 267, 
+        "MasterUserRankId": 50002000267, 
+        "MaxStamina": 222, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 978000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 125, 
+        "Level": 268, 
+        "MasterUserRankId": 50002000268, 
+        "MaxStamina": 223, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 984000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 126, 
+        "Level": 269, 
+        "MasterUserRankId": 50002000269, 
+        "MaxStamina": 223, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 987000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 126, 
+        "Level": 270, 
+        "MasterUserRankId": 50002000270, 
+        "MaxStamina": 224, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 993000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 127, 
+        "Level": 271, 
+        "MasterUserRankId": 50002000271, 
+        "MaxStamina": 224, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 996000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 127, 
+        "Level": 272, 
+        "MasterUserRankId": 50002000272, 
+        "MaxStamina": 225, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1002000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 128, 
+        "Level": 273, 
+        "MasterUserRankId": 50002000273, 
+        "MaxStamina": 225, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1005000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 128, 
+        "Level": 274, 
+        "MasterUserRankId": 50002000274, 
+        "MaxStamina": 226, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1011000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 129, 
+        "Level": 275, 
+        "MasterUserRankId": 50002000275, 
+        "MaxStamina": 226, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1014000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 129, 
+        "Level": 276, 
+        "MasterUserRankId": 50002000276, 
+        "MaxStamina": 227, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1020000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 130, 
+        "Level": 277, 
+        "MasterUserRankId": 50002000277, 
+        "MaxStamina": 227, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1023000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 130, 
+        "Level": 278, 
+        "MasterUserRankId": 50002000278, 
+        "MaxStamina": 228, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1029000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 131, 
+        "Level": 279, 
+        "MasterUserRankId": 50002000279, 
+        "MaxStamina": 228, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1032000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 131, 
+        "Level": 280, 
+        "MasterUserRankId": 50002000280, 
+        "MaxStamina": 229, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1038000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 132, 
+        "Level": 281, 
+        "MasterUserRankId": 50002000281, 
+        "MaxStamina": 229, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1041000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 132, 
+        "Level": 282, 
+        "MasterUserRankId": 50002000282, 
+        "MaxStamina": 230, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1047000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 133, 
+        "Level": 283, 
+        "MasterUserRankId": 50002000283, 
+        "MaxStamina": 230, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1050000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 133, 
+        "Level": 284, 
+        "MasterUserRankId": 50002000284, 
+        "MaxStamina": 231, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1056000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 134, 
+        "Level": 285, 
+        "MasterUserRankId": 50002000285, 
+        "MaxStamina": 231, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1059000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 134, 
+        "Level": 286, 
+        "MasterUserRankId": 50002000286, 
+        "MaxStamina": 232, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1065000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 135, 
+        "Level": 287, 
+        "MasterUserRankId": 50002000287, 
+        "MaxStamina": 232, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1068000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 135, 
+        "Level": 288, 
+        "MasterUserRankId": 50002000288, 
+        "MaxStamina": 233, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1074000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 136, 
+        "Level": 289, 
+        "MasterUserRankId": 50002000289, 
+        "MaxStamina": 233, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1077000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 136, 
+        "Level": 290, 
+        "MasterUserRankId": 50002000290, 
+        "MaxStamina": 234, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1083000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 137, 
+        "Level": 291, 
+        "MasterUserRankId": 50002000291, 
+        "MaxStamina": 234, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1086000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 137, 
+        "Level": 292, 
+        "MasterUserRankId": 50002000292, 
+        "MaxStamina": 235, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1092000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 138, 
+        "Level": 293, 
+        "MasterUserRankId": 50002000293, 
+        "MaxStamina": 235, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1095000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 138, 
+        "Level": 294, 
+        "MasterUserRankId": 50002000294, 
+        "MaxStamina": 236, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1101000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 139, 
+        "Level": 295, 
+        "MasterUserRankId": 50002000295, 
+        "MaxStamina": 236, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1104000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 139, 
+        "Level": 296, 
+        "MasterUserRankId": 50002000296, 
+        "MaxStamina": 237, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1110000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 140, 
+        "Level": 297, 
+        "MasterUserRankId": 50002000297, 
+        "MaxStamina": 237, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1113000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 140, 
+        "Level": 298, 
+        "MasterUserRankId": 50002000298, 
+        "MaxStamina": 238, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1119000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 141, 
+        "Level": 299, 
+        "MasterUserRankId": 50002000299, 
+        "MaxStamina": 238, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1122000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 141, 
+        "Level": 300, 
+        "MasterUserRankId": 50002000300, 
+        "MaxStamina": 239, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1128000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 142, 
+        "Level": 301, 
+        "MasterUserRankId": 50002000301, 
+        "MaxStamina": 239, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1131000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 142, 
+        "Level": 302, 
+        "MasterUserRankId": 50002000302, 
+        "MaxStamina": 240, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1137000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 143, 
+        "Level": 303, 
+        "MasterUserRankId": 50002000303, 
+        "MaxStamina": 240, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1140000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 143, 
+        "Level": 304, 
+        "MasterUserRankId": 50002000304, 
+        "MaxStamina": 241, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1146000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 144, 
+        "Level": 305, 
+        "MasterUserRankId": 50002000305, 
+        "MaxStamina": 241, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1149000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 144, 
+        "Level": 306, 
+        "MasterUserRankId": 50002000306, 
+        "MaxStamina": 242, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1155000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 145, 
+        "Level": 307, 
+        "MasterUserRankId": 50002000307, 
+        "MaxStamina": 242, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1158000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 145, 
+        "Level": 308, 
+        "MasterUserRankId": 50002000308, 
+        "MaxStamina": 243, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1164000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 146, 
+        "Level": 309, 
+        "MasterUserRankId": 50002000309, 
+        "MaxStamina": 243, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1167000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 146, 
+        "Level": 310, 
+        "MasterUserRankId": 50002000310, 
+        "MaxStamina": 244, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1173000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 147, 
+        "Level": 311, 
+        "MasterUserRankId": 50002000311, 
+        "MaxStamina": 244, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1176000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 147, 
+        "Level": 312, 
+        "MasterUserRankId": 50002000312, 
+        "MaxStamina": 245, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1182000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 148, 
+        "Level": 313, 
+        "MasterUserRankId": 50002000313, 
+        "MaxStamina": 245, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1185000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 148, 
+        "Level": 314, 
+        "MasterUserRankId": 50002000314, 
+        "MaxStamina": 246, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1191000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 149, 
+        "Level": 315, 
+        "MasterUserRankId": 50002000315, 
+        "MaxStamina": 246, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1194000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 149, 
+        "Level": 316, 
+        "MasterUserRankId": 50002000316, 
+        "MaxStamina": 247, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1200000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 150, 
+        "Level": 317, 
+        "MasterUserRankId": 50002000317, 
+        "MaxStamina": 247, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1203000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 150, 
+        "Level": 318, 
+        "MasterUserRankId": 50002000318, 
+        "MaxStamina": 248, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1209000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 151, 
+        "Level": 319, 
+        "MasterUserRankId": 50002000319, 
+        "MaxStamina": 248, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1212000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 151, 
+        "Level": 320, 
+        "MasterUserRankId": 50002000320, 
+        "MaxStamina": 249, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1218000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 152, 
+        "Level": 321, 
+        "MasterUserRankId": 50002000321, 
+        "MaxStamina": 249, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1221000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 152, 
+        "Level": 322, 
+        "MasterUserRankId": 50002000322, 
+        "MaxStamina": 250, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1227000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 153, 
+        "Level": 323, 
+        "MasterUserRankId": 50002000323, 
+        "MaxStamina": 250, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1230000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 153, 
+        "Level": 324, 
+        "MasterUserRankId": 50002000324, 
+        "MaxStamina": 251, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1236000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 154, 
+        "Level": 325, 
+        "MasterUserRankId": 50002000325, 
+        "MaxStamina": 251, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1239000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 154, 
+        "Level": 326, 
+        "MasterUserRankId": 50002000326, 
+        "MaxStamina": 252, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1245000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 155, 
+        "Level": 327, 
+        "MasterUserRankId": 50002000327, 
+        "MaxStamina": 252, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1248000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 155, 
+        "Level": 328, 
+        "MasterUserRankId": 50002000328, 
+        "MaxStamina": 253, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1254000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 156, 
+        "Level": 329, 
+        "MasterUserRankId": 50002000329, 
+        "MaxStamina": 253, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1257000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 156, 
+        "Level": 330, 
+        "MasterUserRankId": 50002000330, 
+        "MaxStamina": 254, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1263000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 157, 
+        "Level": 331, 
+        "MasterUserRankId": 50002000331, 
+        "MaxStamina": 254, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1266000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 157, 
+        "Level": 332, 
+        "MasterUserRankId": 50002000332, 
+        "MaxStamina": 255, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1272000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 158, 
+        "Level": 333, 
+        "MasterUserRankId": 50002000333, 
+        "MaxStamina": 255, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1275000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 158, 
+        "Level": 334, 
+        "MasterUserRankId": 50002000334, 
+        "MaxStamina": 256, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1281000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 159, 
+        "Level": 335, 
+        "MasterUserRankId": 50002000335, 
+        "MaxStamina": 256, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1284000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 159, 
+        "Level": 336, 
+        "MasterUserRankId": 50002000336, 
+        "MaxStamina": 257, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1290000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 160, 
+        "Level": 337, 
+        "MasterUserRankId": 50002000337, 
+        "MaxStamina": 257, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1293000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 160, 
+        "Level": 338, 
+        "MasterUserRankId": 50002000338, 
+        "MaxStamina": 258, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1299000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 161, 
+        "Level": 339, 
+        "MasterUserRankId": 50002000339, 
+        "MaxStamina": 258, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1302000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 161, 
+        "Level": 340, 
+        "MasterUserRankId": 50002000340, 
+        "MaxStamina": 259, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1308000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 162, 
+        "Level": 341, 
+        "MasterUserRankId": 50002000341, 
+        "MaxStamina": 259, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1311000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 162, 
+        "Level": 342, 
+        "MasterUserRankId": 50002000342, 
+        "MaxStamina": 260, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1317000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 163, 
+        "Level": 343, 
+        "MasterUserRankId": 50002000343, 
+        "MaxStamina": 260, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1320000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 163, 
+        "Level": 344, 
+        "MasterUserRankId": 50002000344, 
+        "MaxStamina": 261, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1326000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 164, 
+        "Level": 345, 
+        "MasterUserRankId": 50002000345, 
+        "MaxStamina": 261, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1329000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 164, 
+        "Level": 346, 
+        "MasterUserRankId": 50002000346, 
+        "MaxStamina": 262, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1335000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 165, 
+        "Level": 347, 
+        "MasterUserRankId": 50002000347, 
+        "MaxStamina": 262, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1338000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 165, 
+        "Level": 348, 
+        "MasterUserRankId": 50002000348, 
+        "MaxStamina": 263, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1344000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 166, 
+        "Level": 349, 
+        "MasterUserRankId": 50002000349, 
+        "MaxStamina": 263, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1347000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 166, 
+        "Level": 350, 
+        "MasterUserRankId": 50002000350, 
+        "MaxStamina": 264, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1353000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 167, 
+        "Level": 351, 
+        "MasterUserRankId": 50002000351, 
+        "MaxStamina": 264, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1356000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 167, 
+        "Level": 352, 
+        "MasterUserRankId": 50002000352, 
+        "MaxStamina": 265, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1362000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 168, 
+        "Level": 353, 
+        "MasterUserRankId": 50002000353, 
+        "MaxStamina": 265, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1365000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 168, 
+        "Level": 354, 
+        "MasterUserRankId": 50002000354, 
+        "MaxStamina": 266, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1371000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 169, 
+        "Level": 355, 
+        "MasterUserRankId": 50002000355, 
+        "MaxStamina": 266, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1374000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 169, 
+        "Level": 356, 
+        "MasterUserRankId": 50002000356, 
+        "MaxStamina": 267, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1380000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 170, 
+        "Level": 357, 
+        "MasterUserRankId": 50002000357, 
+        "MaxStamina": 267, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1383000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 170, 
+        "Level": 358, 
+        "MasterUserRankId": 50002000358, 
+        "MaxStamina": 268, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1389000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 171, 
+        "Level": 359, 
+        "MasterUserRankId": 50002000359, 
+        "MaxStamina": 268, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1392000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 171, 
+        "Level": 360, 
+        "MasterUserRankId": 50002000360, 
+        "MaxStamina": 269, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1398000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 172, 
+        "Level": 361, 
+        "MasterUserRankId": 50002000361, 
+        "MaxStamina": 269, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1401000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 172, 
+        "Level": 362, 
+        "MasterUserRankId": 50002000362, 
+        "MaxStamina": 270, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1407000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 173, 
+        "Level": 363, 
+        "MasterUserRankId": 50002000363, 
+        "MaxStamina": 270, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1410000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 173, 
+        "Level": 364, 
+        "MasterUserRankId": 50002000364, 
+        "MaxStamina": 271, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1416000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 174, 
+        "Level": 365, 
+        "MasterUserRankId": 50002000365, 
+        "MaxStamina": 271, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1419000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 174, 
+        "Level": 366, 
+        "MasterUserRankId": 50002000366, 
+        "MaxStamina": 272, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1425000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 175, 
+        "Level": 367, 
+        "MasterUserRankId": 50002000367, 
+        "MaxStamina": 272, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1428000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 175, 
+        "Level": 368, 
+        "MasterUserRankId": 50002000368, 
+        "MaxStamina": 273, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1434000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 176, 
+        "Level": 369, 
+        "MasterUserRankId": 50002000369, 
+        "MaxStamina": 273, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1437000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 176, 
+        "Level": 370, 
+        "MasterUserRankId": 50002000370, 
+        "MaxStamina": 274, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1443000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 177, 
+        "Level": 371, 
+        "MasterUserRankId": 50002000371, 
+        "MaxStamina": 274, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1446000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 177, 
+        "Level": 372, 
+        "MasterUserRankId": 50002000372, 
+        "MaxStamina": 275, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1452000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 178, 
+        "Level": 373, 
+        "MasterUserRankId": 50002000373, 
+        "MaxStamina": 275, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1455000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 178, 
+        "Level": 374, 
+        "MasterUserRankId": 50002000374, 
+        "MaxStamina": 276, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1461000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 179, 
+        "Level": 375, 
+        "MasterUserRankId": 50002000375, 
+        "MaxStamina": 276, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1464000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 179, 
+        "Level": 376, 
+        "MasterUserRankId": 50002000376, 
+        "MaxStamina": 277, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1470000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 180, 
+        "Level": 377, 
+        "MasterUserRankId": 50002000377, 
+        "MaxStamina": 277, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1473000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 180, 
+        "Level": 378, 
+        "MasterUserRankId": 50002000378, 
+        "MaxStamina": 278, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1479000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 181, 
+        "Level": 379, 
+        "MasterUserRankId": 50002000379, 
+        "MaxStamina": 278, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1482000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 181, 
+        "Level": 380, 
+        "MasterUserRankId": 50002000380, 
+        "MaxStamina": 279, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1488000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 182, 
+        "Level": 381, 
+        "MasterUserRankId": 50002000381, 
+        "MaxStamina": 279, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1491000
+    }, 
+    {
+        "CharacterCountEnableAppearHome": 7, 
+        "CharacterCountEnableAppearHomeMob": 30, 
+        "EquipmentStockExpandCount": 182, 
+        "Level": 382, 
+        "MasterUserRankId": 50002000382, 
+        "MaxStamina": 280, 
+        "ReleaseLabeloffset": "", 
+        "RequirePopulation": 1497000
+    }
+]

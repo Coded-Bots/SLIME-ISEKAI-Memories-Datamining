@@ -1,0 +1,22 @@
+[
+    {
+        "Labeloffset": "Normal", 
+        "MasterPredationTimelineId": 5007000001, 
+        "ReleaseLabeloffset": "", 
+        "TimelinePathFailureStep1offset": "Setting/Cutscene/Battle/Predation/Predation_Failure_Step01", 
+        "TimelinePathFailureStep2offset": "Setting/Cutscene/Battle/Predation/Predation_Failure_Step02", 
+        "TimelinePathFailureStep3offset": "Setting/Cutscene/Battle/Predation/Predation_Failure_Step03", 
+        "TimelinePathSuccessMaxRateoffset": "Setting/Cutscene/Battle/Predation/Predation_Success_MaxRate", 
+        "TimelinePathSuccessoffset": "Setting/Cutscene/Battle/Predation/Predation_Success"
+    }, 
+    {
+        "Labeloffset": "Sky", 
+        "MasterPredationTimelineId": 5007000002, 
+        "ReleaseLabeloffset": "", 
+        "TimelinePathFailureStep1offset": "Setting/Cutscene/Battle/Predation/SkyPredation_Failure_Step01", 
+        "TimelinePathFailureStep2offset": "Setting/Cutscene/Battle/Predation/SkyPredation_Failure_Step02", 
+        "TimelinePathFailureStep3offset": "Setting/Cutscene/Battle/Predation/SkyPredation_Failure_Step03", 
+        "TimelinePathSuccessMaxRateoffset": "Setting/Cutscene/Battle/Predation/SkyPredation_Success_MaxRate", 
+        "TimelinePathSuccessoffset": "Setting/Cutscene/Battle/Predation/SkyPredation_Success"
+    }
+]

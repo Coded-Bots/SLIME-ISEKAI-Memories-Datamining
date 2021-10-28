@@ -1,0 +1,16 @@
+[
+    {
+        "MasterLoginBonusId": 60000000002, 
+        "MasterLoginBonusPcId": 61000002001, 
+        "MasterPcId": 150002, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/shion/voice_sys_shion_002_login"
+    }, 
+    {
+        "MasterLoginBonusId": 60000000002, 
+        "MasterLoginBonusPcId": 61000002002, 
+        "MasterPcId": 150013, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/shuna/voice_sys_shuna_002_login"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "MasterGreatSageQuestionId": 300000001, 
+        "MasterGreatSageQuestionType": 0, 
+        "NovelScriptoffset": "", 
+        "ReleaseLabeloffset": "sage_question_base"
+    }, 
+    {
+        "MasterGreatSageQuestionId": 300000002, 
+        "MasterGreatSageQuestionType": 1, 
+        "NovelScriptoffset": "", 
+        "ReleaseLabeloffset": "sage_question_glow"
+    }, 
+    {
+        "MasterGreatSageQuestionId": 300000003, 
+        "MasterGreatSageQuestionType": 2, 
+        "NovelScriptoffset": "", 
+        "ReleaseLabeloffset": "sage_question_quest"
+    }
+]

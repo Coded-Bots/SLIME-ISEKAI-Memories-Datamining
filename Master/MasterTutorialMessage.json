@@ -1,0 +1,197 @@
+[
+    {
+        "MasterTutorialMessageGroupId": 1, 
+        "MasterTutorialMessageId": 101000101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 1, 
+        "MasterTutorialMessageId": 101000102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 1, 
+        "MasterTutorialMessageId": 101000103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 2, 
+        "MasterTutorialMessageId": 101000201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 2, 
+        "MasterTutorialMessageId": 101000202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 2, 
+        "MasterTutorialMessageId": 101000203, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 2, 
+        "MasterTutorialMessageId": 101000204, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 3, 
+        "MasterTutorialMessageId": 101000301, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 3, 
+        "MasterTutorialMessageId": 101000302, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 3, 
+        "MasterTutorialMessageId": 101000303, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 4, 
+        "MasterTutorialMessageId": 101000401, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 4, 
+        "MasterTutorialMessageId": 101000402, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 4, 
+        "MasterTutorialMessageId": 101000403, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 4, 
+        "MasterTutorialMessageId": 101000404, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 5, 
+        "MasterTutorialMessageId": 101000501, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 5, 
+        "MasterTutorialMessageId": 101000502, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 5, 
+        "MasterTutorialMessageId": 101000503, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 5, 
+        "MasterTutorialMessageId": 101000504, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 6, 
+        "MasterTutorialMessageId": 101000601, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 6, 
+        "MasterTutorialMessageId": 101000602, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 6, 
+        "MasterTutorialMessageId": 101000603, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 6, 
+        "MasterTutorialMessageId": 101000604, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 6, 
+        "MasterTutorialMessageId": 101000605, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 7, 
+        "MasterTutorialMessageId": 101000701, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 7, 
+        "MasterTutorialMessageId": 101000702, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 201, 
+        "MasterTutorialMessageId": 101020101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 201, 
+        "MasterTutorialMessageId": 101020102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 201, 
+        "MasterTutorialMessageId": 101020103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 201, 
+        "MasterTutorialMessageId": 101020104, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 202, 
+        "MasterTutorialMessageId": 101020201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 202, 
+        "MasterTutorialMessageId": 101020202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 203, 
+        "MasterTutorialMessageId": 101020301, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 203, 
+        "MasterTutorialMessageId": 101020302, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 203, 
+        "MasterTutorialMessageId": 101020303, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 204, 
+        "MasterTutorialMessageId": 101020401, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 204, 
+        "MasterTutorialMessageId": 101020402, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 205, 
+        "MasterTutorialMessageId": 101020501, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 205, 
+        "MasterTutorialMessageId": 101020502, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterTutorialMessageGroupId": 205, 
+        "MasterTutorialMessageId": 101020503, 
+        "ReleaseLabeloffset": ""
+    }
+]

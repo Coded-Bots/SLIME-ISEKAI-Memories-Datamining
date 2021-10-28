@@ -1,0 +1,22 @@
+[
+    {
+        "BackgroundImagePathoffset": "Image/LoginBonus/Special/loginBonusSpecialABg", 
+        "DisplayPriority": 3, 
+        "Laps": 1, 
+        "LogoPathoffset": "Image/LoginBonus/Special/loginBonusSpecialLogo", 
+        "MasterLoginBonusId": 60000010001, 
+        "MasterOgcLoginBonusTargetType": 2, 
+        "ReleaseLabeloffset": "", 
+        "TargetValue": 7
+    }, 
+    {
+        "BackgroundImagePathoffset": "", 
+        "DisplayPriority": 999, 
+        "Laps": 0, 
+        "LogoPathoffset": "Image/LoginBonus/Normal/loginBonusNormalLogo", 
+        "MasterLoginBonusId": 60000000002, 
+        "MasterOgcLoginBonusTargetType": 0, 
+        "ReleaseLabeloffset": "", 
+        "TargetValue": 0
+    }
+]

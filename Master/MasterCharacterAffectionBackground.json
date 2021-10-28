@@ -1,0 +1,182 @@
+[
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_forest_06/forest", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_forest_06/forest", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 1, 
+        "MasterCharacterAffectionBackgroundId": 3011000101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_town_01/town", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_town_01/town", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 5, 
+        "MasterBackgroundGroupId": 1, 
+        "MasterCharacterAffectionBackgroundId": 3011000102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_forest_06/forest", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_forest_06/forest", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 2, 
+        "MasterCharacterAffectionBackgroundId": 3011000103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_smith_02/smith", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_smith_02/smith", 
+        "FacilityId": 400001617, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 2, 
+        "MasterCharacterAffectionBackgroundId": 3011000104, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_smith_01/smith", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_smith_01/smith", 
+        "FacilityId": 400001617, 
+        "FacilityLevel": 3, 
+        "MasterBackgroundGroupId": 2, 
+        "MasterCharacterAffectionBackgroundId": 3011000105, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_smith_03/smith", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_smith_03/smith", 
+        "FacilityId": 400001617, 
+        "FacilityLevel": 5, 
+        "MasterBackgroundGroupId": 2, 
+        "MasterCharacterAffectionBackgroundId": 3011000106, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_forest_06/forest", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_forest_06/forest", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 3, 
+        "MasterCharacterAffectionBackgroundId": 3011000107, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_TrainingGround_01/TrainingGround", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_TrainingGround_01/TrainingGround", 
+        "FacilityId": 400001314, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 3, 
+        "MasterCharacterAffectionBackgroundId": 3011000108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_SealedCave_01/SealedCave", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_SealedCave_01/SealedCave", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 4, 
+        "MasterCharacterAffectionBackgroundId": 3011000109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_EarlyTempestBOSS_01/EarlyTempestBOSS", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_EarlyTempestBOSS_01/EarlyTempestBOSS", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 5, 
+        "MasterCharacterAffectionBackgroundId": 3011000110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_hill_03/hill", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_hill_03/hill", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 6, 
+        "MasterCharacterAffectionBackgroundId": 3011000111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_hill_01/hill", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_hill_01/hill", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 5, 
+        "MasterBackgroundGroupId": 6, 
+        "MasterCharacterAffectionBackgroundId": 3011000112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_WetlandDay_01/WetlandDay", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_WetlandDay_01/WetlandDay", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 7, 
+        "MasterCharacterAffectionBackgroundId": 3011000113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_ingrasia_01/ingrasia", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_ingrasia_01/ingrasia", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 8, 
+        "MasterCharacterAffectionBackgroundId": 3011000114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_FreeAcademy_01/FreeAcademy", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_FreeAcademy_01/FreeAcademy", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 9, 
+        "MasterCharacterAffectionBackgroundId": 3011000115, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_RamirisHall_01/RamirisHall", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_RamirisHall_01/RamirisHall", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 10, 
+        "MasterCharacterAffectionBackgroundId": 3011000116, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_sky_01/sky", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_sky_01/sky", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 11, 
+        "MasterCharacterAffectionBackgroundId": 3011000117, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_forest_06/forest", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_forest_06/forest", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 12, 
+        "MasterCharacterAffectionBackgroundId": 3011000118, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_labo_01/labo", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_labo_01/labo", 
+        "FacilityId": 400001606, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 12, 
+        "MasterCharacterAffectionBackgroundId": 3011000119, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_dowalgon_01/dowalgon", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_dowalgon_01/dowalgon", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 13, 
+        "MasterCharacterAffectionBackgroundId": 3011000120, 
+        "ReleaseLabeloffset": ""
+    }
+]

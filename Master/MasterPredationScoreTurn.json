@@ -1,0 +1,770 @@
+[
+    {
+        "MasterPredationScoreTurnId": 5001010001, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 6000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010002, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010003, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 4000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010004, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010005, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 2000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010006, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010007, 
+        "RateMax": 9999, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 100, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010101, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 14000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010102, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 13000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010103, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 12000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010104, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010105, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 8000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010106, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 2500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010107, 
+        "RateMax": 9999, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 101, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010201, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 10000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010202, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 8000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010203, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 6000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010204, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010205, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 4000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010206, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010207, 
+        "RateMax": 9999, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 102, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010501, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010502, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010503, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010504, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010505, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010506, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010507, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010508, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010509, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010510, 
+        "RateMax": 9999, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 105, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010601, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010602, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010603, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010604, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010605, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010606, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010607, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010608, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010609, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010610, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010611, 
+        "RateMax": 9999, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 106, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010701, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010702, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010703, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010704, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010705, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010706, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010707, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010708, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010709, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010710, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010711, 
+        "RateMax": 11, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010712, 
+        "RateMax": 9999, 
+        "RateMin": 12, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 107, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010801, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010802, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010803, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010804, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010805, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010806, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010807, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010808, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010809, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010810, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010811, 
+        "RateMax": 11, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010812, 
+        "RateMax": 12, 
+        "RateMin": 12, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010813, 
+        "RateMax": 9999, 
+        "RateMin": 13, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 108, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010901, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010902, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010903, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010904, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010905, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010906, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010907, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010908, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010909, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010910, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010911, 
+        "RateMax": 11, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010912, 
+        "RateMax": 12, 
+        "RateMin": 12, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010913, 
+        "RateMax": 13, 
+        "RateMin": 13, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001010914, 
+        "RateMax": 9999, 
+        "RateMin": 14, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 109, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011001, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011002, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011003, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011004, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011005, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011006, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011007, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011008, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011009, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011010, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011011, 
+        "RateMax": 11, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011012, 
+        "RateMax": 12, 
+        "RateMin": 12, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011013, 
+        "RateMax": 13, 
+        "RateMin": 13, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011014, 
+        "RateMax": 14, 
+        "RateMin": 14, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreTurnId": 5001011015, 
+        "RateMax": 9999, 
+        "RateMin": 15, 
+        "ReleaseLabeloffset": "", 
+        "ScoreTurnGroupId": 110, 
+        "Value": 0
+    }
+]

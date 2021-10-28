@@ -1,0 +1,20 @@
+[
+    {
+        "MasterGreatSageAnnounceId": 306000001, 
+        "MasterGreatSageAnnounceType": 0, 
+        "Priority": 80, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageAnnounceId": 306000002, 
+        "MasterGreatSageAnnounceType": 1, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageAnnounceId": 306000003, 
+        "MasterGreatSageAnnounceType": 2, 
+        "Priority": 80, 
+        "ReleaseLabeloffset": ""
+    }
+]

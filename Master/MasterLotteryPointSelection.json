@@ -1,0 +1,149 @@
+[
+    {
+        "MasterLotteryPointSelectionId": 507000028, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150001, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000029, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150002, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000030, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150004, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000031, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150005, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000032, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150006, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000033, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150007, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000034, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150008, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000035, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150009, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000036, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150010, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000037, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150015, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000038, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150014, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000039, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150011, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000040, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150012, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000041, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100150003, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000042, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250001, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000043, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250002, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000044, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250003, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000045, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250007, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000046, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250004, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000047, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250006, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000048, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MasterRewardGroupId": 802100250005, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "SelectionPoint": 300
+    }
+]

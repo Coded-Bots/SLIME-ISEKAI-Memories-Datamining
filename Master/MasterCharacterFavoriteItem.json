@@ -1,0 +1,1290 @@
+[
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000101, 
+        "MasterCharacterId": 3001000001, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000102, 
+        "MasterCharacterId": 3001000001, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000103, 
+        "MasterCharacterId": 3001000001, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000104, 
+        "MasterCharacterId": 3001000001, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000301, 
+        "MasterCharacterId": 3001000003, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000302, 
+        "MasterCharacterId": 3001000003, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000303, 
+        "MasterCharacterId": 3001000003, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000304, 
+        "MasterCharacterId": 3001000003, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000401, 
+        "MasterCharacterId": 3001000004, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000402, 
+        "MasterCharacterId": 3001000004, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000403, 
+        "MasterCharacterId": 3001000004, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000404, 
+        "MasterCharacterId": 3001000004, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000501, 
+        "MasterCharacterId": 3001000005, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000502, 
+        "MasterCharacterId": 3001000005, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000503, 
+        "MasterCharacterId": 3001000005, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000504, 
+        "MasterCharacterId": 3001000005, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000601, 
+        "MasterCharacterId": 3001000006, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000602, 
+        "MasterCharacterId": 3001000006, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000603, 
+        "MasterCharacterId": 3001000006, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000604, 
+        "MasterCharacterId": 3001000006, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000701, 
+        "MasterCharacterId": 3001000007, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000702, 
+        "MasterCharacterId": 3001000007, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000703, 
+        "MasterCharacterId": 3001000007, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000704, 
+        "MasterCharacterId": 3001000007, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000801, 
+        "MasterCharacterId": 3001000008, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000802, 
+        "MasterCharacterId": 3001000008, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000803, 
+        "MasterCharacterId": 3001000008, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000804, 
+        "MasterCharacterId": 3001000008, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009000901, 
+        "MasterCharacterId": 3001000009, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009000902, 
+        "MasterCharacterId": 3001000009, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000903, 
+        "MasterCharacterId": 3001000009, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009000904, 
+        "MasterCharacterId": 3001000009, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001001, 
+        "MasterCharacterId": 3001000010, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001002, 
+        "MasterCharacterId": 3001000010, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001003, 
+        "MasterCharacterId": 3001000010, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001004, 
+        "MasterCharacterId": 3001000010, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001101, 
+        "MasterCharacterId": 3001000011, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001102, 
+        "MasterCharacterId": 3001000011, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001103, 
+        "MasterCharacterId": 3001000011, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001104, 
+        "MasterCharacterId": 3001000011, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001201, 
+        "MasterCharacterId": 3001000012, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001202, 
+        "MasterCharacterId": 3001000012, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001203, 
+        "MasterCharacterId": 3001000012, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001204, 
+        "MasterCharacterId": 3001000012, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001301, 
+        "MasterCharacterId": 3001000013, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001302, 
+        "MasterCharacterId": 3001000013, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001303, 
+        "MasterCharacterId": 3001000013, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001304, 
+        "MasterCharacterId": 3001000013, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001401, 
+        "MasterCharacterId": 3001000014, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001402, 
+        "MasterCharacterId": 3001000014, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001403, 
+        "MasterCharacterId": 3001000014, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001404, 
+        "MasterCharacterId": 3001000014, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001501, 
+        "MasterCharacterId": 3001000015, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001502, 
+        "MasterCharacterId": 3001000015, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001503, 
+        "MasterCharacterId": 3001000015, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001504, 
+        "MasterCharacterId": 3001000015, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001601, 
+        "MasterCharacterId": 3001000016, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001602, 
+        "MasterCharacterId": 3001000016, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001603, 
+        "MasterCharacterId": 3001000016, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001604, 
+        "MasterCharacterId": 3001000016, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001701, 
+        "MasterCharacterId": 3001000017, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001702, 
+        "MasterCharacterId": 3001000017, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001703, 
+        "MasterCharacterId": 3001000017, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001704, 
+        "MasterCharacterId": 3001000017, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001801, 
+        "MasterCharacterId": 3001000018, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001802, 
+        "MasterCharacterId": 3001000018, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001803, 
+        "MasterCharacterId": 3001000018, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001804, 
+        "MasterCharacterId": 3001000018, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009001901, 
+        "MasterCharacterId": 3001000019, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009001902, 
+        "MasterCharacterId": 3001000019, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001903, 
+        "MasterCharacterId": 3001000019, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009001904, 
+        "MasterCharacterId": 3001000019, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002001, 
+        "MasterCharacterId": 3001000020, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002002, 
+        "MasterCharacterId": 3001000020, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002003, 
+        "MasterCharacterId": 3001000020, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002004, 
+        "MasterCharacterId": 3001000020, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002101, 
+        "MasterCharacterId": 3001000021, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002102, 
+        "MasterCharacterId": 3001000021, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002103, 
+        "MasterCharacterId": 3001000021, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002104, 
+        "MasterCharacterId": 3001000021, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002201, 
+        "MasterCharacterId": 3001000022, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002202, 
+        "MasterCharacterId": 3001000022, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002203, 
+        "MasterCharacterId": 3001000022, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002204, 
+        "MasterCharacterId": 3001000022, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002301, 
+        "MasterCharacterId": 3001000023, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002302, 
+        "MasterCharacterId": 3001000023, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002303, 
+        "MasterCharacterId": 3001000023, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002304, 
+        "MasterCharacterId": 3001000023, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002401, 
+        "MasterCharacterId": 3001000024, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002402, 
+        "MasterCharacterId": 3001000024, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002403, 
+        "MasterCharacterId": 3001000024, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002404, 
+        "MasterCharacterId": 3001000024, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002501, 
+        "MasterCharacterId": 3001000025, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002502, 
+        "MasterCharacterId": 3001000025, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002503, 
+        "MasterCharacterId": 3001000025, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002504, 
+        "MasterCharacterId": 3001000025, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002601, 
+        "MasterCharacterId": 3001000026, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002602, 
+        "MasterCharacterId": 3001000026, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002603, 
+        "MasterCharacterId": 3001000026, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002604, 
+        "MasterCharacterId": 3001000026, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002701, 
+        "MasterCharacterId": 3001000027, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002702, 
+        "MasterCharacterId": 3001000027, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002703, 
+        "MasterCharacterId": 3001000027, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002704, 
+        "MasterCharacterId": 3001000027, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050101, 
+        "MasterCharacterId": 3001000501, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050102, 
+        "MasterCharacterId": 3001000501, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050103, 
+        "MasterCharacterId": 3001000501, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050104, 
+        "MasterCharacterId": 3001000501, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050201, 
+        "MasterCharacterId": 3001000502, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050202, 
+        "MasterCharacterId": 3001000502, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050203, 
+        "MasterCharacterId": 3001000502, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050204, 
+        "MasterCharacterId": 3001000502, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050301, 
+        "MasterCharacterId": 3001000503, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050302, 
+        "MasterCharacterId": 3001000503, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050303, 
+        "MasterCharacterId": 3001000503, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050304, 
+        "MasterCharacterId": 3001000503, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050401, 
+        "MasterCharacterId": 3001000504, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050402, 
+        "MasterCharacterId": 3001000504, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050403, 
+        "MasterCharacterId": 3001000504, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050404, 
+        "MasterCharacterId": 3001000504, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050501, 
+        "MasterCharacterId": 3001000505, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050502, 
+        "MasterCharacterId": 3001000505, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050503, 
+        "MasterCharacterId": 3001000505, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050504, 
+        "MasterCharacterId": 3001000505, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050601, 
+        "MasterCharacterId": 3001000506, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050602, 
+        "MasterCharacterId": 3001000506, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050603, 
+        "MasterCharacterId": 3001000506, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050604, 
+        "MasterCharacterId": 3001000506, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050701, 
+        "MasterCharacterId": 3001000507, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050702, 
+        "MasterCharacterId": 3001000507, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050703, 
+        "MasterCharacterId": 3001000507, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050704, 
+        "MasterCharacterId": 3001000507, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050801, 
+        "MasterCharacterId": 3001000508, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050802, 
+        "MasterCharacterId": 3001000508, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050803, 
+        "MasterCharacterId": 3001000508, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050804, 
+        "MasterCharacterId": 3001000508, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009050901, 
+        "MasterCharacterId": 3001000509, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009050902, 
+        "MasterCharacterId": 3001000509, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050903, 
+        "MasterCharacterId": 3001000509, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009050904, 
+        "MasterCharacterId": 3001000509, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051001, 
+        "MasterCharacterId": 3001000510, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051002, 
+        "MasterCharacterId": 3001000510, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051003, 
+        "MasterCharacterId": 3001000510, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051004, 
+        "MasterCharacterId": 3001000510, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051101, 
+        "MasterCharacterId": 3001000511, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051102, 
+        "MasterCharacterId": 3001000511, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051103, 
+        "MasterCharacterId": 3001000511, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051104, 
+        "MasterCharacterId": 3001000511, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051201, 
+        "MasterCharacterId": 3001000512, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051202, 
+        "MasterCharacterId": 3001000512, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051203, 
+        "MasterCharacterId": 3001000512, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051204, 
+        "MasterCharacterId": 3001000512, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051301, 
+        "MasterCharacterId": 3001000513, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051302, 
+        "MasterCharacterId": 3001000513, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051303, 
+        "MasterCharacterId": 3001000513, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051304, 
+        "MasterCharacterId": 3001000513, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051401, 
+        "MasterCharacterId": 3001000514, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051402, 
+        "MasterCharacterId": 3001000514, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051403, 
+        "MasterCharacterId": 3001000514, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051404, 
+        "MasterCharacterId": 3001000514, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051501, 
+        "MasterCharacterId": 3001000515, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051502, 
+        "MasterCharacterId": 3001000515, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051503, 
+        "MasterCharacterId": 3001000515, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051504, 
+        "MasterCharacterId": 3001000515, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051601, 
+        "MasterCharacterId": 3001000516, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051602, 
+        "MasterCharacterId": 3001000516, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051603, 
+        "MasterCharacterId": 3001000516, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051604, 
+        "MasterCharacterId": 3001000516, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051701, 
+        "MasterCharacterId": 3001000517, 
+        "MasterItemId": 1400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051702, 
+        "MasterCharacterId": 3001000517, 
+        "MasterItemId": 1400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051703, 
+        "MasterCharacterId": 3001000517, 
+        "MasterItemId": 1400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051704, 
+        "MasterCharacterId": 3001000517, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051801, 
+        "MasterCharacterId": 3001000518, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051802, 
+        "MasterCharacterId": 3001000518, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051803, 
+        "MasterCharacterId": 3001000518, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051804, 
+        "MasterCharacterId": 3001000518, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009051901, 
+        "MasterCharacterId": 3001000519, 
+        "MasterItemId": 1400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009051902, 
+        "MasterCharacterId": 3001000519, 
+        "MasterItemId": 1400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051903, 
+        "MasterCharacterId": 3001000519, 
+        "MasterItemId": 1400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009051904, 
+        "MasterCharacterId": 3001000519, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009052001, 
+        "MasterCharacterId": 3001000520, 
+        "MasterItemId": 1400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009052002, 
+        "MasterCharacterId": 3001000520, 
+        "MasterItemId": 1400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009052003, 
+        "MasterCharacterId": 3001000520, 
+        "MasterItemId": 1400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009052004, 
+        "MasterCharacterId": 3001000520, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": ""
+    }
+]

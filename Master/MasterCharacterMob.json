@@ -1,0 +1,110 @@
+[
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/Goblina/GoblinaA/GoblinaA", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 1, 
+        "MasterCharacterMobId": 3015000001, 
+        "MasterQuestId": 4010001005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/Goblina/GoblinaDefault/GoblinaDefault", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 1, 
+        "MasterCharacterMobId": 3015000002, 
+        "MasterQuestId": 4010001005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/Hobgoblin/HobgoblinA/HobgoblinA", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 1, 
+        "MasterCharacterMobId": 3015000003, 
+        "MasterQuestId": 4010001005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/Hobgoblin/HobgoblinDefault/HobgoblinDefault", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 1, 
+        "MasterCharacterMobId": 3015000004, 
+        "MasterQuestId": 4010001005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/GoblinMale/GoblinMaleA/GoblinMaleA", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 1, 
+        "MasterCharacterMobId": 3015000005, 
+        "MasterQuestId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/GoblinMale/GoblinMaleDefault/GoblinMaleDefault", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 1, 
+        "MasterCharacterMobId": 3015000006, 
+        "MasterQuestId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/OrcMale/OrcMaleA/OrcMaleA", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 2, 
+        "MasterCharacterMobId": 3015000007, 
+        "MasterQuestId": 4010007002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/OrcMale/OrcMaleDefault/OrcMaleDefault", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 2, 
+        "MasterCharacterMobId": 3015000008, 
+        "MasterQuestId": 4010007002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/LizardManMale/LizardManMaleA/LizardManMaleA", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 3, 
+        "MasterCharacterMobId": 3015000009, 
+        "MasterQuestId": 4010007010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/LizardManMale/LizardManMaleDefault/LizardManMaleDefault", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 3, 
+        "MasterCharacterMobId": 3015000010, 
+        "MasterQuestId": 4010007010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/LizardManFemale/LizardManFemaleA/LizardManFemaleA", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 3, 
+        "MasterCharacterMobId": 3015000011, 
+        "MasterQuestId": 4010007010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AvatarPathoffset": "Setting/Home/CharacterAvatar/LizardManFemale/LizardManFemaleDefault/LizardManFemaleDefault", 
+        "CharacterAppearancePriority": 1, 
+        "CharacterAppearanceRate": 10000, 
+        "MasterCharacterMobGroupType": 3, 
+        "MasterCharacterMobId": 3015000012, 
+        "MasterQuestId": 4010007010, 
+        "ReleaseLabeloffset": ""
+    }
+]

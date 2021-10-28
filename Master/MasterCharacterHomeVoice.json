@@ -1,0 +1,202 @@
+[
+    {
+        "CharacterHomeVoiceType": 0, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000001, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 0, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_038_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 0, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000002, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 0, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_039_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 0, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000003, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 0, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_040_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000004, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000008, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_002_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000005, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000006, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_003_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000006, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000004, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_004_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000007, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000520, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_005_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000008, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000003, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_006_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000009, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000007, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_007_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000010, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000005, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_008_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000011, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000010, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_009_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000012, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000018, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_010_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000013, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000019, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_011_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000014, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000011, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_012_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000015, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000012, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_013_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000016, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000009, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_014_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000017, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000016, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_015_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000018, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000017, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_016_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000019, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000015, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_017_townfunction"
+    }, 
+    {
+        "CharacterHomeVoiceType": 1, 
+        "ClearQuestId": 0, 
+        "ExceptionClearQuestId": 0, 
+        "MasterCharacterHomeVoiceId": 3800000020, 
+        "MasterCharacterId": 3001000001, 
+        "PartnerCharacterId": 3001000510, 
+        "ReleaseLabeloffset": "", 
+        "VoicePathoffset": "sys/rimuru/voice_sys_rimuru_018_townfunction"
+    }
+]

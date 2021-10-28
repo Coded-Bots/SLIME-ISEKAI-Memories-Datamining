@@ -1,0 +1,167 @@
+[
+    {
+        "DefineNameoffset": "Friend.LoginDay.Month", 
+        "MasterFriendMessageId": 816000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.LoginDay.Week", 
+        "MasterFriendMessageId": 816000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.LoginDay.Day", 
+        "MasterFriendMessageId": 816000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.LoginDay.Hour", 
+        "MasterFriendMessageId": 816000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.LoginDay.Other", 
+        "MasterFriendMessageId": 816000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Chara.Message.Transition", 
+        "MasterFriendMessageId": 816000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Chara.Message.Tap0", 
+        "MasterFriendMessageId": 816000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Chara.Message.Tap1", 
+        "MasterFriendMessageId": 816000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Remove.Confirm.Title", 
+        "MasterFriendMessageId": 816000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Remove.Confirm.Text", 
+        "MasterFriendMessageId": 816000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Remove.Complete.Title", 
+        "MasterFriendMessageId": 816000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Remove.Complete.Text", 
+        "MasterFriendMessageId": 816000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Cancel.Confirm.Title", 
+        "MasterFriendMessageId": 816000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Cancel.Confirm.Text", 
+        "MasterFriendMessageId": 816000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Cancel.Complete.Title", 
+        "MasterFriendMessageId": 816000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Cancel.Complete.Text", 
+        "MasterFriendMessageId": 816000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Accept.Confirm.Title", 
+        "MasterFriendMessageId": 816000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Accept.Confirm.Text", 
+        "MasterFriendMessageId": 816000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Accept.Complete.Title", 
+        "MasterFriendMessageId": 816000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Accept.Complete.Text", 
+        "MasterFriendMessageId": 816000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Reject.Confirm.Title", 
+        "MasterFriendMessageId": 816000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Reject.Confirm.Text", 
+        "MasterFriendMessageId": 816000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Reject.Complete.Title", 
+        "MasterFriendMessageId": 816000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Reject.Complete.Text", 
+        "MasterFriendMessageId": 816000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Add.Confirm.Title", 
+        "MasterFriendMessageId": 816000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Add.Confirm.Text", 
+        "MasterFriendMessageId": 816000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Add.Complete.Title", 
+        "MasterFriendMessageId": 816000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Add.Complete.Text", 
+        "MasterFriendMessageId": 816000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Search.Not.Found", 
+        "MasterFriendMessageId": 816000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Recommend.Retry.Warning", 
+        "MasterFriendMessageId": 816000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Application.Removed.Warning", 
+        "MasterFriendMessageId": 816000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Application.Accept.Fail.Warning", 
+        "MasterFriendMessageId": 816000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Apply.Warning", 
+        "MasterFriendMessageId": 816000033, 
+        "ReleaseLabeloffset": ""
+    }
+]

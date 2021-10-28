@@ -1,0 +1,352 @@
+[
+    {
+        "Level": 1, 
+        "MasterGreatSageLevelId": 304000001, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 0
+    }, 
+    {
+        "Level": 2, 
+        "MasterGreatSageLevelId": 304000002, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1
+    }, 
+    {
+        "Level": 3, 
+        "MasterGreatSageLevelId": 304000003, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 4
+    }, 
+    {
+        "Level": 4, 
+        "MasterGreatSageLevelId": 304000004, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 22
+    }, 
+    {
+        "Level": 5, 
+        "MasterGreatSageLevelId": 304000005, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 57
+    }, 
+    {
+        "Level": 6, 
+        "MasterGreatSageLevelId": 304000006, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 117
+    }, 
+    {
+        "Level": 7, 
+        "MasterGreatSageLevelId": 304000007, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 192
+    }, 
+    {
+        "Level": 8, 
+        "MasterGreatSageLevelId": 304000008, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 267
+    }, 
+    {
+        "Level": 9, 
+        "MasterGreatSageLevelId": 304000009, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 346
+    }, 
+    {
+        "Level": 10, 
+        "MasterGreatSageLevelId": 304000010, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 429
+    }, 
+    {
+        "Level": 11, 
+        "MasterGreatSageLevelId": 304000011, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 516
+    }, 
+    {
+        "Level": 12, 
+        "MasterGreatSageLevelId": 304000012, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 608
+    }, 
+    {
+        "Level": 13, 
+        "MasterGreatSageLevelId": 304000013, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 706
+    }, 
+    {
+        "Level": 14, 
+        "MasterGreatSageLevelId": 304000014, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 811
+    }, 
+    {
+        "Level": 15, 
+        "MasterGreatSageLevelId": 304000015, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 924
+    }, 
+    {
+        "Level": 16, 
+        "MasterGreatSageLevelId": 304000016, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1046
+    }, 
+    {
+        "Level": 17, 
+        "MasterGreatSageLevelId": 304000017, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1178
+    }, 
+    {
+        "Level": 18, 
+        "MasterGreatSageLevelId": 304000018, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1322
+    }, 
+    {
+        "Level": 19, 
+        "MasterGreatSageLevelId": 304000019, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1479
+    }, 
+    {
+        "Level": 20, 
+        "MasterGreatSageLevelId": 304000020, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1651
+    }, 
+    {
+        "Level": 21, 
+        "MasterGreatSageLevelId": 304000021, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 1840
+    }, 
+    {
+        "Level": 22, 
+        "MasterGreatSageLevelId": 304000022, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 2048
+    }, 
+    {
+        "Level": 23, 
+        "MasterGreatSageLevelId": 304000023, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 2277
+    }, 
+    {
+        "Level": 24, 
+        "MasterGreatSageLevelId": 304000024, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 2530
+    }, 
+    {
+        "Level": 25, 
+        "MasterGreatSageLevelId": 304000025, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 2809
+    }, 
+    {
+        "Level": 26, 
+        "MasterGreatSageLevelId": 304000026, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 3117
+    }, 
+    {
+        "Level": 27, 
+        "MasterGreatSageLevelId": 304000027, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 3457
+    }, 
+    {
+        "Level": 28, 
+        "MasterGreatSageLevelId": 304000028, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 3832
+    }, 
+    {
+        "Level": 29, 
+        "MasterGreatSageLevelId": 304000029, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 4232
+    }, 
+    {
+        "Level": 30, 
+        "MasterGreatSageLevelId": 304000030, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 4632
+    }, 
+    {
+        "Level": 31, 
+        "MasterGreatSageLevelId": 304000031, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 5032
+    }, 
+    {
+        "Level": 32, 
+        "MasterGreatSageLevelId": 304000032, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 5432
+    }, 
+    {
+        "Level": 33, 
+        "MasterGreatSageLevelId": 304000033, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 5832
+    }, 
+    {
+        "Level": 34, 
+        "MasterGreatSageLevelId": 304000034, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 6232
+    }, 
+    {
+        "Level": 35, 
+        "MasterGreatSageLevelId": 304000035, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 6632
+    }, 
+    {
+        "Level": 36, 
+        "MasterGreatSageLevelId": 304000036, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 7032
+    }, 
+    {
+        "Level": 37, 
+        "MasterGreatSageLevelId": 304000037, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 7432
+    }, 
+    {
+        "Level": 38, 
+        "MasterGreatSageLevelId": 304000038, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 7832
+    }, 
+    {
+        "Level": 39, 
+        "MasterGreatSageLevelId": 304000039, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 8232
+    }, 
+    {
+        "Level": 40, 
+        "MasterGreatSageLevelId": 304000040, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 8632
+    }, 
+    {
+        "Level": 41, 
+        "MasterGreatSageLevelId": 304000041, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 9032
+    }, 
+    {
+        "Level": 42, 
+        "MasterGreatSageLevelId": 304000042, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 9432
+    }, 
+    {
+        "Level": 43, 
+        "MasterGreatSageLevelId": 304000043, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 9832
+    }, 
+    {
+        "Level": 44, 
+        "MasterGreatSageLevelId": 304000044, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 10232
+    }, 
+    {
+        "Level": 45, 
+        "MasterGreatSageLevelId": 304000045, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 10632
+    }, 
+    {
+        "Level": 46, 
+        "MasterGreatSageLevelId": 304000046, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 11032
+    }, 
+    {
+        "Level": 47, 
+        "MasterGreatSageLevelId": 304000047, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 11432
+    }, 
+    {
+        "Level": 48, 
+        "MasterGreatSageLevelId": 304000048, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 11832
+    }, 
+    {
+        "Level": 49, 
+        "MasterGreatSageLevelId": 304000049, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 12232
+    }, 
+    {
+        "Level": 50, 
+        "MasterGreatSageLevelId": 304000050, 
+        "MasterRewardGroupId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredTotalExp": 12632
+    }
+]

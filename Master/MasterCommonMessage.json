@@ -1,0 +1,592 @@
+[
+    {
+        "DefineNameoffset": "ParameterBuffPercentage", 
+        "MasterCommonMessageId": 808000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "NeedPopulation", 
+        "MasterCommonMessageId": 808000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "PageLocked", 
+        "MasterCommonMessageId": 808000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "NotEnoughMaterial", 
+        "MasterCommonMessageId": 808000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "NotEnoughLevel", 
+        "MasterCommonMessageId": 808000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "LotteryTicket", 
+        "MasterCommonMessageId": 808000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "BlacksmithLockCharaChange", 
+        "MasterCommonMessageId": 808000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Days", 
+        "MasterCommonMessageId": 808000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Hours", 
+        "MasterCommonMessageId": 808000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Minutes", 
+        "MasterCommonMessageId": 808000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.LessThanOneMinute", 
+        "MasterCommonMessageId": 808000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Filter.All", 
+        "MasterCommonMessageId": 808000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Filter.Weapon", 
+        "MasterCommonMessageId": 808000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Filter.Armor", 
+        "MasterCommonMessageId": 808000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Equipment.Filter.Accessory", 
+        "MasterCommonMessageId": 808000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Stamina.Recovery.Confirm.Format", 
+        "MasterCommonMessageId": 808000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Mission.Bingo.Get.Format", 
+        "MasterCommonMessageId": 808000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "StatusBoard.AcquirePassiveSkill", 
+        "MasterCommonMessageId": 808000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Common.Warning", 
+        "MasterCommonMessageId": 808000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Stamina.Recovery.Use.Format", 
+        "MasterCommonMessageId": 808000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Stamina.Recovery.NoLongerRecover", 
+        "MasterCommonMessageId": 808000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Rarity.Label.SSR", 
+        "MasterCommonMessageId": 808000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Rarity.Label.SR", 
+        "MasterCommonMessageId": 808000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Rarity.Label.R", 
+        "MasterCommonMessageId": 808000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "StatusBoard.Unlock.AllComplete", 
+        "MasterCommonMessageId": 808000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Blacksmith.Lock.Condition", 
+        "MasterCommonMessageId": 808000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Mission.Caution.Expired", 
+        "MasterCommonMessageId": 808000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Count", 
+        "MasterCommonMessageId": 808000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Limit", 
+        "MasterCommonMessageId": 808000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Daily", 
+        "MasterCommonMessageId": 808000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Weekly", 
+        "MasterCommonMessageId": 808000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Monthly", 
+        "MasterCommonMessageId": 808000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Event", 
+        "MasterCommonMessageId": 808000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Friend", 
+        "MasterCommonMessageId": 808000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Gold", 
+        "MasterCommonMessageId": 808000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.OctagramEmblem", 
+        "MasterCommonMessageId": 808000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.RankupItem", 
+        "MasterCommonMessageId": 808000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.ClosedEvent", 
+        "MasterCommonMessageId": 808000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ChangeLanguage.TitleBack.Title", 
+        "MasterCommonMessageId": 808000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ChangeLanguage.TitleBack.Message", 
+        "MasterCommonMessageId": 808000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Item.TransitionConfirm.Title", 
+        "MasterCommonMessageId": 808000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Item.TransitionConfirm.Message", 
+        "MasterCommonMessageId": 808000042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Item.TransitionState.Quest", 
+        "MasterCommonMessageId": 808000043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Item.TransitionState.Founding", 
+        "MasterCommonMessageId": 808000044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Item.TransitionState.Exchange", 
+        "MasterCommonMessageId": 808000045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Shion.Welcome", 
+        "MasterCommonMessageId": 808000046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Shion.tap.a", 
+        "MasterCommonMessageId": 808000047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Shion.tap.b", 
+        "MasterCommonMessageId": 808000048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Rigurd.Welcome", 
+        "MasterCommonMessageId": 808000049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Rigurd.tap.a", 
+        "MasterCommonMessageId": 808000050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Rigurd.tap.b", 
+        "MasterCommonMessageId": 808000051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Notification.Title", 
+        "MasterCommonMessageId": 808000052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Notification.Text.StaminaMax", 
+        "MasterCommonMessageId": 808000053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Notification.Text.Founding.Finish", 
+        "MasterCommonMessageId": 808000054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Notification.Text.Founding.MaxFarmItemStock", 
+        "MasterCommonMessageId": 808000055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Notification.Text.ParallelComputing.Finish", 
+        "MasterCommonMessageId": 808000056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Mission.Bingo.Message.NextBingo", 
+        "MasterCommonMessageId": 808000057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Period.Until", 
+        "MasterCommonMessageId": 808000058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.TimeString", 
+        "MasterCommonMessageId": 808000059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeCaution.Title", 
+        "MasterCommonMessageId": 808000060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeCaution.Message", 
+        "MasterCommonMessageId": 808000061, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeGetError.Title", 
+        "MasterCommonMessageId": 808000062, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeGetError.Message", 
+        "MasterCommonMessageId": 808000063, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeRegisterFailed.Title", 
+        "MasterCommonMessageId": 808000064, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeRegisterFailed.Message", 
+        "MasterCommonMessageId": 808000065, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeRegisterSucceed.Title", 
+        "MasterCommonMessageId": 808000066, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.AgeRegisterSucceed.Message", 
+        "MasterCommonMessageId": 808000067, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Cancel.Title", 
+        "MasterCommonMessageId": 808000068, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Cancel.Message", 
+        "MasterCommonMessageId": 808000069, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Confirm.Message", 
+        "MasterCommonMessageId": 808000070, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.PurchaseAlert.Title", 
+        "MasterCommonMessageId": 808000073, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.PurchaseAlert.Message", 
+        "MasterCommonMessageId": 808000074, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.MagicStone", 
+        "MasterCommonMessageId": 808000075, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.MagicStone.Paid", 
+        "MasterCommonMessageId": 808000076, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.MagicStone.Free", 
+        "MasterCommonMessageId": 808000077, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Pack.Reward", 
+        "MasterCommonMessageId": 808000078, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Complete.Message", 
+        "MasterCommonMessageId": 808000079, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.TempestCoin", 
+        "MasterCommonMessageId": 808000080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Chara.Not.Found.Message", 
+        "MasterCommonMessageId": 808000081, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.RankupItem.1", 
+        "MasterCommonMessageId": 808000082, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.RankupItem.2", 
+        "MasterCommonMessageId": 808000083, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.RankupItem.3", 
+        "MasterCommonMessageId": 808000084, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Option.AutoSkill.Skip.Lock.Alert", 
+        "MasterCommonMessageId": 808000085, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "GlobalMenu.Option.Reset.Title", 
+        "MasterCommonMessageId": 808000086, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "GlobalMenu.Option.Reset.Message", 
+        "MasterCommonMessageId": 808000087, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Order.Pending.Title", 
+        "MasterCommonMessageId": 808000088, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Order.Pending.Message", 
+        "MasterCommonMessageId": 808000089, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Order.ExistPending.Title", 
+        "MasterCommonMessageId": 808000090, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Order.ExistPending.Message", 
+        "MasterCommonMessageId": 808000091, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Order.PendingComplete.Title", 
+        "MasterCommonMessageId": 808000092, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Order.PendingComplete.Message", 
+        "MasterCommonMessageId": 808000093, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Mission.Bingo.Caution.Expired", 
+        "MasterCommonMessageId": 808000094, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "LotteryTicket.ExpiredAt.Format.TimeString", 
+        "MasterCommonMessageId": 808000095, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "LotteryTicket.Type.Name", 
+        "MasterCommonMessageId": 808000096, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "LoginBonus.GamlibTicket.Received", 
+        "MasterCommonMessageId": 808000097, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Ticket.Causion.tier8.monthly_1", 
+        "MasterCommonMessageId": 808000098, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Ticket.Causion.tier8.weekly_1", 
+        "MasterCommonMessageId": 808000099, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Complete.Caution.Ticket", 
+        "MasterCommonMessageId": 808000100, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "HCShop.Complete.Caution.Reward", 
+        "MasterCommonMessageId": 808000101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Migration.Config.Caution.CopyId", 
+        "MasterCommonMessageId": 808000102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "SageSkill.Get", 
+        "MasterCommonMessageId": 808000103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "SageSkill.Enhance", 
+        "MasterCommonMessageId": 808000104, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Gift.Multiple.Receive.Failed.Title", 
+        "MasterCommonMessageId": 808000105, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Gift.Multiple.Receive.Failed.Message", 
+        "MasterCommonMessageId": 808000106, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.GachaPoint", 
+        "MasterCommonMessageId": 808000107, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Days.Ticket", 
+        "MasterCommonMessageId": 808000108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Hours.Ticket", 
+        "MasterCommonMessageId": 808000109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Minutes.Ticket", 
+        "MasterCommonMessageId": 808000110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.LessThanOneMinute.Ticket", 
+        "MasterCommonMessageId": 808000111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemGetAllNormal.Title", 
+        "MasterCommonMessageId": 808000112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Auto.Lap.Lock.Condition", 
+        "MasterCommonMessageId": 808000113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Exchange.Expired", 
+        "MasterCommonMessageId": 808000114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.LoginBonus", 
+        "MasterCommonMessageId": 808000115, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "TimeSpan.Format.Between", 
+        "MasterCommonMessageId": 808000116, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Shuna.Welcome", 
+        "MasterCommonMessageId": 808000117, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Shuna.tap.a", 
+        "MasterCommonMessageId": 808000118, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Shuna.tap.b", 
+        "MasterCommonMessageId": 808000119, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ItemExchange.Rigurd.Before.Welcome", 
+        "MasterCommonMessageId": 808000120, 
+        "ReleaseLabeloffset": ""
+    }
+]

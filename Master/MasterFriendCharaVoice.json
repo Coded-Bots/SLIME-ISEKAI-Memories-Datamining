@@ -1,0 +1,29 @@
+[
+    {
+        "Id": 90000000001, 
+        "MasterFriendCharaVoiceType": 0, 
+        "MotionNameoffset": "", 
+        "PcId": 140002, 
+        "ReleaseLabeloffset": "", 
+        "TextIndexoffset": "Friend.Chara.Message.Transition", 
+        "VoiceFilePathoffset": "sys/rimuru/voice_sys_rimuru_001_townfunction"
+    }, 
+    {
+        "Id": 90000000002, 
+        "MasterFriendCharaVoiceType": 1, 
+        "MotionNameoffset": "", 
+        "PcId": 140002, 
+        "ReleaseLabeloffset": "", 
+        "TextIndexoffset": "Friend.Chara.Message.Tap0", 
+        "VoiceFilePathoffset": "sys/rimuru/voice_sys_rimuru_053_quest"
+    }, 
+    {
+        "Id": 90000000003, 
+        "MasterFriendCharaVoiceType": 1, 
+        "MotionNameoffset": "", 
+        "PcId": 140002, 
+        "ReleaseLabeloffset": "", 
+        "TextIndexoffset": "Friend.Chara.Message.Tap1", 
+        "VoiceFilePathoffset": "sys/rimuru/voice_sys_rimuru_048_quest"
+    }
+]

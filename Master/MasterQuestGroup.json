@@ -1,0 +1,72 @@
+[
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Fire_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Fire_Bg", 
+        "GroupNameoffset": "\u706b\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001001, 
+        "Number": 7, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Fire_Banner_M"
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Water_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Water_Bg", 
+        "GroupNameoffset": "\u6c34\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001002, 
+        "Number": 6, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Water_Banner_M"
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Wind_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Wind_Bg", 
+        "GroupNameoffset": "\u98a8\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001003, 
+        "Number": 5, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Wind_Banner_M"
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Earth_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Earth_Bg", 
+        "GroupNameoffset": "\u571f\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001004, 
+        "Number": 4, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Earth_Banner_M"
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Holy_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Holy_Bg", 
+        "GroupNameoffset": "\u5149\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001005, 
+        "Number": 3, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Holy_Banner_M"
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Dark_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Dark_Bg", 
+        "GroupNameoffset": "\u95c7\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001006, 
+        "Number": 2, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Dark_Banner_M"
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/BossRush/4001/Air_Banner_L", 
+        "BgImagePathoffset": "Image/Event/BossRush/4001/Air_Bg", 
+        "GroupNameoffset": "\u7a7a\u5c5e\u6027", 
+        "MasterChapterId": 4001004001, 
+        "MasterQuestGroupId": 4006001007, 
+        "Number": 1, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021", 
+        "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Air_Banner_M"
+    }
+]

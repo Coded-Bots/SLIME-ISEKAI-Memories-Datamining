@@ -1,0 +1,184 @@
+[
+    {
+        "ExchangeItemRankupType": 0, 
+        "ItemAmount": 1, 
+        "MasterExchangeInputRankupItemGroupId": 9003010001, 
+        "MasterExchangeInputRankupItemId": 9003010001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 0, 
+        "ItemAmount": 2, 
+        "MasterExchangeInputRankupItemGroupId": 9003010002, 
+        "MasterExchangeInputRankupItemId": 9003010002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 0, 
+        "ItemAmount": 6, 
+        "MasterExchangeInputRankupItemGroupId": 9003010006, 
+        "MasterExchangeInputRankupItemId": 9003010006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 0, 
+        "ItemAmount": 10, 
+        "MasterExchangeInputRankupItemGroupId": 9003010010, 
+        "MasterExchangeInputRankupItemId": 9003010010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 1, 
+        "ItemAmount": 1, 
+        "MasterExchangeInputRankupItemGroupId": 9003020001, 
+        "MasterExchangeInputRankupItemId": 9003020001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 1, 
+        "ItemAmount": 2, 
+        "MasterExchangeInputRankupItemGroupId": 9003020002, 
+        "MasterExchangeInputRankupItemId": 9003020002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 1, 
+        "ItemAmount": 4, 
+        "MasterExchangeInputRankupItemGroupId": 9003020004, 
+        "MasterExchangeInputRankupItemId": 9003020004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 1, 
+        "ItemAmount": 8, 
+        "MasterExchangeInputRankupItemGroupId": 9003020008, 
+        "MasterExchangeInputRankupItemId": 9003020008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 1, 
+        "MasterExchangeInputRankupItemGroupId": 9003030001, 
+        "MasterExchangeInputRankupItemId": 9003030001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 2, 
+        "MasterExchangeInputRankupItemGroupId": 9003030002, 
+        "MasterExchangeInputRankupItemId": 9003030002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 3, 
+        "MasterExchangeInputRankupItemGroupId": 9003030003, 
+        "MasterExchangeInputRankupItemId": 9003030003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 5, 
+        "MasterExchangeInputRankupItemGroupId": 9003030005, 
+        "MasterExchangeInputRankupItemId": 9003030005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 6, 
+        "MasterExchangeInputRankupItemGroupId": 9003030006, 
+        "MasterExchangeInputRankupItemId": 9003030006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 9, 
+        "MasterExchangeInputRankupItemGroupId": 9003030009, 
+        "MasterExchangeInputRankupItemId": 9003030009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 2, 
+        "ItemAmount": 10, 
+        "MasterExchangeInputRankupItemGroupId": 9003030010, 
+        "MasterExchangeInputRankupItemId": 9003030010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 3, 
+        "ItemAmount": 1, 
+        "MasterExchangeInputRankupItemGroupId": 9003040001, 
+        "MasterExchangeInputRankupItemId": 9003040001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 3, 
+        "ItemAmount": 2, 
+        "MasterExchangeInputRankupItemGroupId": 9003040002, 
+        "MasterExchangeInputRankupItemId": 9003040002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 3, 
+        "ItemAmount": 3, 
+        "MasterExchangeInputRankupItemGroupId": 9003040003, 
+        "MasterExchangeInputRankupItemId": 9003040003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 3, 
+        "ItemAmount": 5, 
+        "MasterExchangeInputRankupItemGroupId": 9003040005, 
+        "MasterExchangeInputRankupItemId": 9003040005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 3, 
+        "ItemAmount": 10, 
+        "MasterExchangeInputRankupItemGroupId": 9003040010, 
+        "MasterExchangeInputRankupItemId": 9003040010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 4, 
+        "ItemAmount": 1, 
+        "MasterExchangeInputRankupItemGroupId": 9003050001, 
+        "MasterExchangeInputRankupItemId": 9003050001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 4, 
+        "ItemAmount": 2, 
+        "MasterExchangeInputRankupItemGroupId": 9003050002, 
+        "MasterExchangeInputRankupItemId": 9003050002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 4, 
+        "ItemAmount": 8, 
+        "MasterExchangeInputRankupItemGroupId": 9003050008, 
+        "MasterExchangeInputRankupItemId": 9003050008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 5, 
+        "ItemAmount": 1, 
+        "MasterExchangeInputRankupItemGroupId": 9003060001, 
+        "MasterExchangeInputRankupItemId": 9003060001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 5, 
+        "ItemAmount": 2, 
+        "MasterExchangeInputRankupItemGroupId": 9003060002, 
+        "MasterExchangeInputRankupItemId": 9003060002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeItemRankupType": 5, 
+        "ItemAmount": 3, 
+        "MasterExchangeInputRankupItemGroupId": 9003060003, 
+        "MasterExchangeInputRankupItemId": 9003060003, 
+        "ReleaseLabeloffset": ""
+    }
+]

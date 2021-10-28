@@ -1,0 +1,4052 @@
+[
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 4, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 8, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 12, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 16, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 20, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 24, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 28, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 32, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 36, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 40, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 44, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 48, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 52, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 56, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 60, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 64, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 68, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 72, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 76, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 79, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 82, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 85, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 88, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 91, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 94, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 97, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 100, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 103, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 106, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 109, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 112, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 115, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 118, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 121, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 124, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 127, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 130, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 133, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 136, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 11, 
+        "MasterEquipmentLevelId": 1560110040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 4, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 8, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 12, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 16, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 20, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 24, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 28, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 32, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 36, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 40, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 44, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 48, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 52, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 56, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 60, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 64, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 68, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 72, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 76, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 80, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 84, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 88, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 92, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 96, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 100, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 104, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 108, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 112, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 116, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 120, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 124, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 128, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 132, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 136, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 140, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 144, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 148, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 152, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 156, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 160, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 41, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 164, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 42, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 168, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 43, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 172, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 44, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 176, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 45, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 180, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 46, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 184, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 47, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 188, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 48, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 192, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 49, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 196, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 50, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentLevelId": 1560120050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 3, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 6, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 9, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 12, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 15, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 18, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 21, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 24, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 27, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 30, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 33, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 36, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 39, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 42, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 45, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 48, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 51, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 54, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 57, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 61, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 65, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 69, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 73, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 77, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 81, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 85, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 89, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 93, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 97, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 102, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 107, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 112, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 117, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 122, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 127, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 132, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 137, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 142, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 147, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 154, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 41, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 161, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 42, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 168, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 43, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 175, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 44, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 182, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 45, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 189, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 46, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 196, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 47, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 203, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 48, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 210, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 49, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 217, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 50, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 224, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 51, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 231, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 52, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 238, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 53, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 245, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 54, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 252, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 55, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 259, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 56, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 266, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 57, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 273, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 58, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 280, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 59, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 287, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 60, 
+        "MasterEquipmentLevelGroupId": 13, 
+        "MasterEquipmentLevelId": 1560130060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 10, 
+        "AddHp": 0, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 20, 
+        "AddHp": 0, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 30, 
+        "AddHp": 0, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 40, 
+        "AddHp": 0, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 50, 
+        "AddHp": 0, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 60, 
+        "AddHp": 0, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 70, 
+        "AddHp": 0, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 80, 
+        "AddHp": 0, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 90, 
+        "AddHp": 0, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 100, 
+        "AddHp": 0, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 110, 
+        "AddHp": 0, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 120, 
+        "AddHp": 0, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 130, 
+        "AddHp": 0, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 140, 
+        "AddHp": 0, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 150, 
+        "AddHp": 0, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 160, 
+        "AddHp": 0, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 170, 
+        "AddHp": 0, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 180, 
+        "AddHp": 0, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 190, 
+        "AddHp": 0, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 197, 
+        "AddHp": 0, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 204, 
+        "AddHp": 0, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 211, 
+        "AddHp": 0, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 218, 
+        "AddHp": 0, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 225, 
+        "AddHp": 0, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 232, 
+        "AddHp": 0, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 239, 
+        "AddHp": 0, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 246, 
+        "AddHp": 0, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 253, 
+        "AddHp": 0, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 260, 
+        "AddHp": 0, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 267, 
+        "AddHp": 0, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 274, 
+        "AddHp": 0, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 281, 
+        "AddHp": 0, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 288, 
+        "AddHp": 0, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 295, 
+        "AddHp": 0, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 302, 
+        "AddHp": 0, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 309, 
+        "AddHp": 0, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 316, 
+        "AddHp": 0, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 323, 
+        "AddHp": 0, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 330, 
+        "AddHp": 0, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 21, 
+        "MasterEquipmentLevelId": 1560210040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 10, 
+        "AddHp": 0, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 20, 
+        "AddHp": 0, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 30, 
+        "AddHp": 0, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 40, 
+        "AddHp": 0, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 50, 
+        "AddHp": 0, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 60, 
+        "AddHp": 0, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 70, 
+        "AddHp": 0, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 80, 
+        "AddHp": 0, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 90, 
+        "AddHp": 0, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 100, 
+        "AddHp": 0, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 110, 
+        "AddHp": 0, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 120, 
+        "AddHp": 0, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 130, 
+        "AddHp": 0, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 140, 
+        "AddHp": 0, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 150, 
+        "AddHp": 0, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 160, 
+        "AddHp": 0, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 170, 
+        "AddHp": 0, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 180, 
+        "AddHp": 0, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 190, 
+        "AddHp": 0, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 200, 
+        "AddHp": 0, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 210, 
+        "AddHp": 0, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 220, 
+        "AddHp": 0, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 230, 
+        "AddHp": 0, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 240, 
+        "AddHp": 0, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 250, 
+        "AddHp": 0, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 260, 
+        "AddHp": 0, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 270, 
+        "AddHp": 0, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 280, 
+        "AddHp": 0, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 290, 
+        "AddHp": 0, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 300, 
+        "AddHp": 0, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 310, 
+        "AddHp": 0, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 320, 
+        "AddHp": 0, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 330, 
+        "AddHp": 0, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 340, 
+        "AddHp": 0, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 350, 
+        "AddHp": 0, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 360, 
+        "AddHp": 0, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 370, 
+        "AddHp": 0, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 380, 
+        "AddHp": 0, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 390, 
+        "AddHp": 0, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 400, 
+        "AddHp": 0, 
+        "Level": 41, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 410, 
+        "AddHp": 0, 
+        "Level": 42, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 420, 
+        "AddHp": 0, 
+        "Level": 43, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 430, 
+        "AddHp": 0, 
+        "Level": 44, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 440, 
+        "AddHp": 0, 
+        "Level": 45, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 450, 
+        "AddHp": 0, 
+        "Level": 46, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 460, 
+        "AddHp": 0, 
+        "Level": 47, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 470, 
+        "AddHp": 0, 
+        "Level": 48, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 480, 
+        "AddHp": 0, 
+        "Level": 49, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 490, 
+        "AddHp": 0, 
+        "Level": 50, 
+        "MasterEquipmentLevelGroupId": 22, 
+        "MasterEquipmentLevelId": 1560220050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 7, 
+        "AddHp": 0, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 14, 
+        "AddHp": 0, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 21, 
+        "AddHp": 0, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 28, 
+        "AddHp": 0, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 35, 
+        "AddHp": 0, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 42, 
+        "AddHp": 0, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 49, 
+        "AddHp": 0, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 56, 
+        "AddHp": 0, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 63, 
+        "AddHp": 0, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 70, 
+        "AddHp": 0, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 77, 
+        "AddHp": 0, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 84, 
+        "AddHp": 0, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 91, 
+        "AddHp": 0, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 98, 
+        "AddHp": 0, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 105, 
+        "AddHp": 0, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 112, 
+        "AddHp": 0, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 119, 
+        "AddHp": 0, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 126, 
+        "AddHp": 0, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 133, 
+        "AddHp": 0, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 143, 
+        "AddHp": 0, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 153, 
+        "AddHp": 0, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 163, 
+        "AddHp": 0, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 173, 
+        "AddHp": 0, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 183, 
+        "AddHp": 0, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 193, 
+        "AddHp": 0, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 203, 
+        "AddHp": 0, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 213, 
+        "AddHp": 0, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 223, 
+        "AddHp": 0, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 233, 
+        "AddHp": 0, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 245, 
+        "AddHp": 0, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 257, 
+        "AddHp": 0, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 269, 
+        "AddHp": 0, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 281, 
+        "AddHp": 0, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 293, 
+        "AddHp": 0, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 305, 
+        "AddHp": 0, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 317, 
+        "AddHp": 0, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 329, 
+        "AddHp": 0, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 341, 
+        "AddHp": 0, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 353, 
+        "AddHp": 0, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 369, 
+        "AddHp": 0, 
+        "Level": 41, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 385, 
+        "AddHp": 0, 
+        "Level": 42, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 401, 
+        "AddHp": 0, 
+        "Level": 43, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 417, 
+        "AddHp": 0, 
+        "Level": 44, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 433, 
+        "AddHp": 0, 
+        "Level": 45, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 449, 
+        "AddHp": 0, 
+        "Level": 46, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 465, 
+        "AddHp": 0, 
+        "Level": 47, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 481, 
+        "AddHp": 0, 
+        "Level": 48, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 497, 
+        "AddHp": 0, 
+        "Level": 49, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 513, 
+        "AddHp": 0, 
+        "Level": 50, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 529, 
+        "AddHp": 0, 
+        "Level": 51, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 545, 
+        "AddHp": 0, 
+        "Level": 52, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 561, 
+        "AddHp": 0, 
+        "Level": 53, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 577, 
+        "AddHp": 0, 
+        "Level": 54, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 593, 
+        "AddHp": 0, 
+        "Level": 55, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 609, 
+        "AddHp": 0, 
+        "Level": 56, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 625, 
+        "AddHp": 0, 
+        "Level": 57, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 641, 
+        "AddHp": 0, 
+        "Level": 58, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 657, 
+        "AddHp": 0, 
+        "Level": 59, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 673, 
+        "AddHp": 0, 
+        "Level": 60, 
+        "MasterEquipmentLevelGroupId": 23, 
+        "MasterEquipmentLevelId": 1560230060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 24, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 48, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 72, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 96, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 120, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 144, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 168, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 192, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 216, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 240, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 264, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 288, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 312, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 336, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 360, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 384, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 408, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 432, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 456, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 474, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 492, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 510, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 528, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 546, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 564, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 582, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 600, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 618, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 636, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 654, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 672, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 690, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 708, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 726, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 744, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 762, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 780, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 798, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 816, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 31, 
+        "MasterEquipmentLevelId": 1560310040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 24, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 48, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 72, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 96, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 120, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 144, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 168, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 192, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 216, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 240, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 264, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 288, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 312, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 336, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 360, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 384, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 408, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 432, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 456, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 480, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 504, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 528, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 552, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 576, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 600, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 624, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 648, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 672, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 696, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 720, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 744, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 768, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 792, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 816, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 840, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 864, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 888, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 912, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 936, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 960, 
+        "Level": 41, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 984, 
+        "Level": 42, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1008, 
+        "Level": 43, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1032, 
+        "Level": 44, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1056, 
+        "Level": 45, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1080, 
+        "Level": 46, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1104, 
+        "Level": 47, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1128, 
+        "Level": 48, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1152, 
+        "Level": 49, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1176, 
+        "Level": 50, 
+        "MasterEquipmentLevelGroupId": 32, 
+        "MasterEquipmentLevelId": 1560320050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 18, 
+        "Level": 2, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 36, 
+        "Level": 3, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 54, 
+        "Level": 4, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 72, 
+        "Level": 5, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 90, 
+        "Level": 6, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 108, 
+        "Level": 7, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 126, 
+        "Level": 8, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 144, 
+        "Level": 9, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 162, 
+        "Level": 10, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 180, 
+        "Level": 11, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 198, 
+        "Level": 12, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 216, 
+        "Level": 13, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 234, 
+        "Level": 14, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 252, 
+        "Level": 15, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 270, 
+        "Level": 16, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 288, 
+        "Level": 17, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 306, 
+        "Level": 18, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 324, 
+        "Level": 19, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 342, 
+        "Level": 20, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 366, 
+        "Level": 21, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 390, 
+        "Level": 22, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 414, 
+        "Level": 23, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 438, 
+        "Level": 24, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 462, 
+        "Level": 25, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 486, 
+        "Level": 26, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 510, 
+        "Level": 27, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 534, 
+        "Level": 28, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 558, 
+        "Level": 29, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 582, 
+        "Level": 30, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 612, 
+        "Level": 31, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 642, 
+        "Level": 32, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 672, 
+        "Level": 33, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 702, 
+        "Level": 34, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 732, 
+        "Level": 35, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 762, 
+        "Level": 36, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 792, 
+        "Level": 37, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 822, 
+        "Level": 38, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 852, 
+        "Level": 39, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 882, 
+        "Level": 40, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 924, 
+        "Level": 41, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 966, 
+        "Level": 42, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1008, 
+        "Level": 43, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1050, 
+        "Level": 44, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1092, 
+        "Level": 45, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1134, 
+        "Level": 46, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1176, 
+        "Level": 47, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1218, 
+        "Level": 48, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1260, 
+        "Level": 49, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1302, 
+        "Level": 50, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1344, 
+        "Level": 51, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1386, 
+        "Level": 52, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1428, 
+        "Level": 53, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1470, 
+        "Level": 54, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1512, 
+        "Level": 55, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1554, 
+        "Level": 56, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1596, 
+        "Level": 57, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1638, 
+        "Level": 58, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1680, 
+        "Level": 59, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 1722, 
+        "Level": 60, 
+        "MasterEquipmentLevelGroupId": 33, 
+        "MasterEquipmentLevelId": 1560330060, 
+        "ReleaseLabeloffset": ""
+    }
+]

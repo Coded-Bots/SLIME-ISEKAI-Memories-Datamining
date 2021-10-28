@@ -1,0 +1,29 @@
+[
+    {
+        "Id": 415000001, 
+        "MasterAssignCharaVoiceType": 0, 
+        "MotionNameoffset": "Think_Start", 
+        "PcId": 130001, 
+        "ReleaseLabeloffset": "", 
+        "TextIndexoffset": "founding.assign.chara.message.transition", 
+        "VoiceFilePathoffset": "sys/rigurd/voice_sys_rigurd_055_wise"
+    }, 
+    {
+        "Id": 415000002, 
+        "MasterAssignCharaVoiceType": 1, 
+        "MotionNameoffset": "Think_Start", 
+        "PcId": 130001, 
+        "ReleaseLabeloffset": "", 
+        "TextIndexoffset": "founding.assign.chara.message.tap0", 
+        "VoiceFilePathoffset": "sys/rigurd/voice_sys_rigurd_056_wise"
+    }, 
+    {
+        "Id": 415000003, 
+        "MasterAssignCharaVoiceType": 1, 
+        "MotionNameoffset": "Sigh_Start", 
+        "PcId": 130001, 
+        "ReleaseLabeloffset": "", 
+        "TextIndexoffset": "founding.assign.chara.message.tap1", 
+        "VoiceFilePathoffset": "sys/rigurd/voice_sys_rigurd_014_communicate"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "BaseEquipmentRarity": 1, 
+        "ReleaseLabeloffset": "", 
+        "RemakeId": 1540000001, 
+        "RemakeTotalGauge": 20
+    }, 
+    {
+        "BaseEquipmentRarity": 2, 
+        "ReleaseLabeloffset": "", 
+        "RemakeId": 1540000002, 
+        "RemakeTotalGauge": 40
+    }, 
+    {
+        "BaseEquipmentRarity": 3, 
+        "ReleaseLabeloffset": "", 
+        "RemakeId": 1540000003, 
+        "RemakeTotalGauge": 60
+    }
+]

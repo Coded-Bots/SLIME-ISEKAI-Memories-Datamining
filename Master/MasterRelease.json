@@ -1,0 +1,338 @@
+[
+    {
+        "CloseAtoffset": "2021/08/01 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "gasha_@2020"
+    }, 
+    {
+        "CloseAtoffset": "2021/09/01 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999002, 
+        "OpenAtoffset": "2020/01/31 15:00:00", 
+        "Region": 1, 
+        "ReleaseLabeloffset": "mission_@2020"
+    }, 
+    {
+        "CloseAtoffset": "2021/10/01 23:59:59", 
+        "IsLocal": true, 
+        "MasterReleaseId": 50000999003, 
+        "OpenAtoffset": "2020/03/01 0:00:00", 
+        "Region": 1, 
+        "ReleaseLabeloffset": "founding_@2020"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": true, 
+        "MasterReleaseId": 50000999004, 
+        "OpenAtoffset": "2020/04/01 0:00:00", 
+        "Region": 3, 
+        "ReleaseLabeloffset": "test_3_@2020"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999005, 
+        "OpenAtoffset": "2020/04/30 15:00:00", 
+        "Region": 3, 
+        "ReleaseLabeloffset": "test_4_@2020"
+    }, 
+    {
+        "CloseAtoffset": "2022/01/01 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999006, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "test_5_@2020"
+    }, 
+    {
+        "CloseAtoffset": "2021/08/01 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999007, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "cbt_@2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999009, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "cbt2_@2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/20 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999011, 
+        "OpenAtoffset": "2021/04/23 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "cbt2_loginbonus_0428@2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/03/01 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000999012, 
+        "OpenAtoffset": "2021/01/01 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "cbt2_loginbonus_default@2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/08/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001002, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@point1_2021"
+    }, 
+    {
+        "CloseAtoffset": "2035/12/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001003, 
+        "OpenAtoffset": "2035/08/31 9:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@point2_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001004, 
+        "OpenAtoffset": "", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@release_anniversary_open"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001005, 
+        "OpenAtoffset": "2021/11/09 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@release_anniversary_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/23 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001006, 
+        "OpenAtoffset": "2021/11/01 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@2021_11_01_open"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001007, 
+        "OpenAtoffset": "2021/11/23 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@2021_11_01_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001008, 
+        "OpenAtoffset": "", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "lottery@release_once_a_day"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001009, 
+        "OpenAtoffset": "2021/10/28 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202110_lottery_freeday1"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001019, 
+        "OpenAtoffset": "", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001020, 
+        "OpenAtoffset": "2021/11/09 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001021, 
+        "OpenAtoffset": "", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202110_lottery_once_a_day"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "story_event@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/22 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002002, 
+        "OpenAtoffset": "2021/11/01 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "story_event@2021_11_01"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002003, 
+        "OpenAtoffset": "2021/11/01 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "story_event@2021_11_01_open"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/25 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002004, 
+        "OpenAtoffset": "2021/11/01 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "story_event@2021_11_01_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/25 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002006, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "story_event@2021_11_01_Predation_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000003001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "predation_event@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000004001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "highscore@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2022/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000005001, 
+        "OpenAtoffset": "2021/05/28 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "Conquest@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000006001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "founding@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000007001, 
+        "OpenAtoffset": "2021/05/27 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "login_bonus@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000008001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/01 15:00:00", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000008002, 
+        "OpenAtoffset": "2021/10/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "mission@test_2021"
+    }, 
+    {
+        "CloseAtoffset": "2022/03/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000008003, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "mission@release_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000010001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "campaign@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/29 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000010002, 
+        "OpenAtoffset": "2021/10/26 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_campaign_release_banner"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000020001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "pc@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/05/31 8:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000050001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "common@cbt_2021"
+    }, 
+    {
+        "CloseAtoffset": "2099/12/31 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000050002, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "common@relase_2021"
+    }, 
+    {
+        "CloseAtoffset": "2037/12/31 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000050003, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "common@release_2021"
+    }, 
+    {
+        "CloseAtoffset": "2021/10/22 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000050005, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "common@shop_test_2021"
+    }
+]

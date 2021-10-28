@@ -1,0 +1,57 @@
+[
+    {
+        "DefineNameoffset": "back_quest_modal.title", 
+        "MasterHomeMessageId": 801000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "back_quest_modal.message", 
+        "MasterHomeMessageId": 801000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "collect_all_no_item.message", 
+        "MasterHomeMessageId": 801000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "stamina_recovery.message", 
+        "MasterHomeMessageId": 801000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "stamina_recovery_confirm.title", 
+        "MasterHomeMessageId": 801000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "stamina_recovery_confirm.message", 
+        "MasterHomeMessageId": 801000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "affection_event_rate.message", 
+        "MasterHomeMessageId": 801000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "stamina_recovery_by_gem_caution", 
+        "MasterHomeMessageId": 801000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "lack_stamina_caution", 
+        "MasterHomeMessageId": 801000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "stamina_recovery.error", 
+        "MasterHomeMessageId": 801000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "update_home_character_when_revisit", 
+        "MasterHomeMessageId": 801000011, 
+        "ReleaseLabeloffset": ""
+    }
+]

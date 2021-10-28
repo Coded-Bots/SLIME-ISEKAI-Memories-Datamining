@@ -1,0 +1,92 @@
+[
+    {
+        "MasterAffectionTalkGroupId": 1, 
+        "MasterCharacterId": 3001000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterId": 3001000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterId": 3001000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterId": 3001000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterId": 3001000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterId": 3001000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterId": 3001000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterId": 3001000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterId": 3001000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterId": 3001000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterId": 3001000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterId": 3001000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterId": 3001000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterId": 3001000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterId": 3001000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterId": 3001000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterId": 3001000510, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterId": 3001000520, 
+        "ReleaseLabeloffset": ""
+    }
+]

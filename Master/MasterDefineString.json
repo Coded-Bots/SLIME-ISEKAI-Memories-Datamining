@@ -1,0 +1,127 @@
+[
+    {
+        "DefineNameoffset": "error.fallback.message", 
+        "Id": 8001000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.fallback.title", 
+        "Id": 8001000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.timeout.message", 
+        "Id": 8001000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.timeout.title", 
+        "Id": 8001000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.decompressionfailed.message", 
+        "Id": 8001000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.decompressionfailed.title", 
+        "Id": 8001000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "help.url.ios", 
+        "Id": 8001000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "help.url.android", 
+        "Id": 8001000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.fallback.errorcode", 
+        "Id": 8001000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.migration.title", 
+        "Id": 8001000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.migration.incorrect_password", 
+        "Id": 8001000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.server.error.message", 
+        "Id": 8001000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "game.end.confirm.message", 
+        "Id": 8001000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.expired.title", 
+        "Id": 8001000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.expired.item", 
+        "Id": 8001000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "help.urllinkagekey.ios", 
+        "Id": 8001000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "help.urllinkagekey.android", 
+        "Id": 8001000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "help.commonkey", 
+        "Id": 8001000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "help.cryptsalt", 
+        "Id": 8001000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "server.request.retry.message", 
+        "Id": 8001000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "server.request.retry.give.up.message", 
+        "Id": 8001000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "title.back.confirm.message", 
+        "Id": 8001000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "store.url.ios", 
+        "Id": 8001000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "store.url.android", 
+        "Id": 8001000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.fallback.message.gamelib", 
+        "Id": 8001000025, 
+        "ReleaseLabeloffset": ""
+    }
+]

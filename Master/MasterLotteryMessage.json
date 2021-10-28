@@ -1,0 +1,62 @@
+[
+    {
+        "DefineNameoffset": "Lottery.Gem.Consume.Confirm", 
+        "MasterLotteryMessageId": 813000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Ticket.Consume.Confirm", 
+        "MasterLotteryMessageId": 813000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Caution.NotFound", 
+        "MasterLotteryMessageId": 813000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Badge.Free", 
+        "MasterLotteryMessageId": 813000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Badge.Five.Star", 
+        "MasterLotteryMessageId": 813000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Draw.Out.Of.Limit", 
+        "MasterLotteryMessageId": 813000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Draw.Expired", 
+        "MasterLotteryMessageId": 813000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Exchange.Reward.Item.Format", 
+        "MasterLotteryMessageId": 813000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Exchange.Reward.Pc.Format", 
+        "MasterLotteryMessageId": 813000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Exchange.Reward.BlessPc.Format", 
+        "MasterLotteryMessageId": 813000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Exchange.Reward.Result.Format", 
+        "MasterLotteryMessageId": 813000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Lottery.Exchange.Expired.Message", 
+        "MasterLotteryMessageId": 813000012, 
+        "ReleaseLabeloffset": ""
+    }
+]

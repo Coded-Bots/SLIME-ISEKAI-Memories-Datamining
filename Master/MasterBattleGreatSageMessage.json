@@ -1,0 +1,432 @@
+[
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000017, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000018, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000019, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000020, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000021, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000022, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000023, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000024, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000025, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000026, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000027, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000028, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000029, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000030, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000031, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000032, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000033, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000034, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000035, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000036, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000037, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000038, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000039, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000040, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000041, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000042, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000043, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000044, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000045, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000046, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000047, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000048, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000049, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000050, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000051, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000052, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000053, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000054, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000055, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000056, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000057, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000058, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000059, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }
+]

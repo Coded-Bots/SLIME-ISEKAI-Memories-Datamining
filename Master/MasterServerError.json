@@ -1,0 +1,200 @@
+[
+    {
+        "ErrorCode": 3000001, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 3000002, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 3000003, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 4000001, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 4000002, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 3100001, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 5000009, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 5000010, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 3100002, 
+        "FallbackErrorCode": 0, 
+        "Id": 8000000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 400, 
+        "Id": 8000001001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 403, 
+        "Id": 8000001002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 404, 
+        "Id": 8000001003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 500, 
+        "Id": 8000001004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 502, 
+        "Id": 8000001005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 504, 
+        "Id": 8000001006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 503, 
+        "Id": 8000001007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 401, 
+        "Id": 8000001008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 1000, 
+        "Id": 8000002001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 7002, 
+        "Id": 8000002002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 7003, 
+        "Id": 8000002003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 7004, 
+        "Id": 8000002004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 7005, 
+        "Id": 8000002005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 10006, 
+        "Id": 8000002006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 16002, 
+        "Id": 8000002007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 16007, 
+        "Id": 8000002008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 16010, 
+        "Id": 8000002009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 17100, 
+        "Id": 8000002010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 17101, 
+        "Id": 8000002011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 17219, 
+        "Id": 8000002012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 20002, 
+        "Id": 8000002013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 21002, 
+        "Id": 8000002014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 16001, 
+        "Id": 8000002015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ErrorCode": 0, 
+        "FallbackErrorCode": 17220, 
+        "Id": 8000002016, 
+        "ReleaseLabeloffset": ""
+    }
+]

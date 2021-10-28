@@ -1,0 +1,492 @@
+[
+    {
+        "GreatSageLevel": 2, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000002, 
+        "MasterGreatSageEffectType": 0, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 1, 
+        "Value1": 14000
+    }, 
+    {
+        "GreatSageLevel": 3, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000003, 
+        "MasterGreatSageEffectType": 4, 
+        "MasterGreatSageUnlockType": 7, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 1, 
+        "Value1": 0
+    }, 
+    {
+        "GreatSageLevel": 4, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000004, 
+        "MasterGreatSageEffectType": 1, 
+        "MasterGreatSageUnlockType": 1, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 1, 
+        "Value1": 0
+    }, 
+    {
+        "GreatSageLevel": 6, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000006, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 6, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 1, 
+        "Value1": 0
+    }, 
+    {
+        "GreatSageLevel": 5, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000005, 
+        "MasterGreatSageEffectType": 0, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 2, 
+        "Value1": 16000
+    }, 
+    {
+        "GreatSageLevel": 7, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000007, 
+        "MasterGreatSageEffectType": 1, 
+        "MasterGreatSageUnlockType": 2, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 2, 
+        "Value1": 0
+    }, 
+    {
+        "GreatSageLevel": 8, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000008, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 2, 
+        "Value1": 800
+    }, 
+    {
+        "GreatSageLevel": 9, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000009, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 1, 
+        "Value1": 1000
+    }, 
+    {
+        "GreatSageLevel": 10, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000010, 
+        "MasterGreatSageEffectType": 4, 
+        "MasterGreatSageUnlockType": 9, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 2, 
+        "Value1": 0
+    }, 
+    {
+        "GreatSageLevel": 11, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000011, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 2, 
+        "Value1": 2000
+    }, 
+    {
+        "GreatSageLevel": 12, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000012, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 3, 
+        "Value1": 1200
+    }, 
+    {
+        "GreatSageLevel": 13, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000013, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 3, 
+        "Value1": 3000
+    }, 
+    {
+        "GreatSageLevel": 14, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000014, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 4, 
+        "Value1": 1400
+    }, 
+    {
+        "GreatSageLevel": 15, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000015, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 4, 
+        "Value1": 3500
+    }, 
+    {
+        "GreatSageLevel": 16, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000016, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 5, 
+        "Value1": 1600
+    }, 
+    {
+        "GreatSageLevel": 17, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000017, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 5, 
+        "Value1": 4000
+    }, 
+    {
+        "GreatSageLevel": 18, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000018, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 6, 
+        "Value1": 1800
+    }, 
+    {
+        "GreatSageLevel": 19, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000019, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 6, 
+        "Value1": 4500
+    }, 
+    {
+        "GreatSageLevel": 20, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000020, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 7, 
+        "Value1": 2000
+    }, 
+    {
+        "GreatSageLevel": 21, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000021, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 7, 
+        "Value1": 5000
+    }, 
+    {
+        "GreatSageLevel": 22, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000022, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 8, 
+        "Value1": 2200
+    }, 
+    {
+        "GreatSageLevel": 23, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000023, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 8, 
+        "Value1": 5500
+    }, 
+    {
+        "GreatSageLevel": 24, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000024, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 9, 
+        "Value1": 2400
+    }, 
+    {
+        "GreatSageLevel": 25, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000025, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 9, 
+        "Value1": 6000
+    }, 
+    {
+        "GreatSageLevel": 26, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000026, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 10, 
+        "Value1": 2600
+    }, 
+    {
+        "GreatSageLevel": 27, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000027, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 10, 
+        "Value1": 6500
+    }, 
+    {
+        "GreatSageLevel": 28, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000028, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 11, 
+        "Value1": 2800
+    }, 
+    {
+        "GreatSageLevel": 29, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000029, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 11, 
+        "Value1": 7000
+    }, 
+    {
+        "GreatSageLevel": 30, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000030, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 12, 
+        "Value1": 3000
+    }, 
+    {
+        "GreatSageLevel": 31, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000031, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 12, 
+        "Value1": 7500
+    }, 
+    {
+        "GreatSageLevel": 32, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000032, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 13, 
+        "Value1": 3200
+    }, 
+    {
+        "GreatSageLevel": 33, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000033, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 13, 
+        "Value1": 8000
+    }, 
+    {
+        "GreatSageLevel": 34, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000034, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 14, 
+        "Value1": 3400
+    }, 
+    {
+        "GreatSageLevel": 35, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000035, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 14, 
+        "Value1": 8500
+    }, 
+    {
+        "GreatSageLevel": 36, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000036, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 15, 
+        "Value1": 3600
+    }, 
+    {
+        "GreatSageLevel": 37, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000037, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 15, 
+        "Value1": 9000
+    }, 
+    {
+        "GreatSageLevel": 38, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000038, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 16, 
+        "Value1": 3800
+    }, 
+    {
+        "GreatSageLevel": 39, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000039, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 16, 
+        "Value1": 9500
+    }, 
+    {
+        "GreatSageLevel": 40, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000040, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 17, 
+        "Value1": 4000
+    }, 
+    {
+        "GreatSageLevel": 41, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000041, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 17, 
+        "Value1": 10000
+    }, 
+    {
+        "GreatSageLevel": 42, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000042, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 18, 
+        "Value1": 4200
+    }, 
+    {
+        "GreatSageLevel": 43, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000043, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 18, 
+        "Value1": 10500
+    }, 
+    {
+        "GreatSageLevel": 44, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000044, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 19, 
+        "Value1": 4400
+    }, 
+    {
+        "GreatSageLevel": 45, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000045, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 19, 
+        "Value1": 11000
+    }, 
+    {
+        "GreatSageLevel": 46, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000046, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 20, 
+        "Value1": 4600
+    }, 
+    {
+        "GreatSageLevel": 47, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000047, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 20, 
+        "Value1": 11500
+    }, 
+    {
+        "GreatSageLevel": 48, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000048, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 21, 
+        "Value1": 4800
+    }, 
+    {
+        "GreatSageLevel": 49, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000049, 
+        "MasterGreatSageEffectType": 2, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 21, 
+        "Value1": 12000
+    }, 
+    {
+        "GreatSageLevel": 50, 
+        "IconPathoffset": "", 
+        "MasterGreatSageEffectId": 305000050, 
+        "MasterGreatSageEffectType": 3, 
+        "MasterGreatSageUnlockType": 0, 
+        "ReleaseLabeloffset": "", 
+        "Stage": 22, 
+        "Value1": 5000
+    }
+]

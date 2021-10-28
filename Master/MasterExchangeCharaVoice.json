@@ -1,0 +1,47 @@
+[
+    {
+        "ClearedQuestId": 0, 
+        "Id": 9005000001, 
+        "PcId": 180002, 
+        "ReleaseLabeloffset": "", 
+        "Tap1MotionPathoffset": "RigurdBefore_ADV_Idle", 
+        "Tap1Textoffset": "ItemExchange.Rigurd.Before.Welcome", 
+        "Tap1VoicePathoffset": "gen/rigurd/voice_gen_rigurd_before_009", 
+        "Tap2MotionPathoffset": "RigurdBefore_ADV_Idle", 
+        "Tap2Textoffset": "ItemExchange.Rigurd.Before.Welcome", 
+        "Tap2VoicePathoffset": "gen/rigurd/voice_gen_rigurd_before_009", 
+        "WelcomeMotionPathoffset": "RigurdBefore_ADV_Idle", 
+        "WelcomeTextoffset": "ItemExchange.Rigurd.Before.Welcome", 
+        "WelcomeVoicePathoffset": "gen/rigurd/voice_gen_rigurd_before_009"
+    }, 
+    {
+        "ClearedQuestId": 4010001005, 
+        "Id": 9005000002, 
+        "PcId": 130001, 
+        "ReleaseLabeloffset": "", 
+        "Tap1MotionPathoffset": "RigurdDefault_ADV_Nod", 
+        "Tap1Textoffset": "ItemExchange.Rigurd.tap.a", 
+        "Tap1VoicePathoffset": "sys/rigurd/voice_sys_rigurd_016_communicate", 
+        "Tap2MotionPathoffset": "RigurdDefault_ADV_Exclusive_2", 
+        "Tap2Textoffset": "ItemExchange.Rigurd.tap.b", 
+        "Tap2VoicePathoffset": "sys/rigurd/voice_sys_rigurd_015_communicate", 
+        "WelcomeMotionPathoffset": "RigurdDefault_ADV_Idle", 
+        "WelcomeTextoffset": "ItemExchange.Rigurd.Welcome", 
+        "WelcomeVoicePathoffset": "sys/rigurd/voice_sys_rigurd_013_communicate"
+    }, 
+    {
+        "ClearedQuestId": 4010004006, 
+        "Id": 9005000003, 
+        "PcId": 150008, 
+        "ReleaseLabeloffset": "", 
+        "Tap1MotionPathoffset": "ShunaDefault_ADV_Exclusive_1", 
+        "Tap1Textoffset": "ItemExchange.Shuna.tap.a", 
+        "Tap1VoicePathoffset": "gen/shuna/voice_gen_shuna_029", 
+        "Tap2MotionPathoffset": "ShunaDefault_ADV_Bow", 
+        "Tap2Textoffset": "ItemExchange.Shuna.tap.b", 
+        "Tap2VoicePathoffset": "gen/shuna/voice_gen_shuna_001", 
+        "WelcomeMotionPathoffset": "ShunaDefault_ADV_Idle", 
+        "WelcomeTextoffset": "ItemExchange.Shuna.Welcome", 
+        "WelcomeVoicePathoffset": "gen/shuna/voice_gen_shuna_046"
+    }
+]

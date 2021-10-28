@@ -1,0 +1,653 @@
+[
+    {
+        "Addressoffset": "bgm_town_first", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_first/bgm_town_first.asset", 
+        "DefineNameoffset": "sound.bgm_town_first.asset", 
+        "Id": 8500000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Lua/Foundation/foundation", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Foundation/foundation.bytes", 
+        "DefineNameoffset": "lua.foundation.foundation", 
+        "Id": 8500000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Lua/Foundation/vector", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Foundation/vector.bytes", 
+        "DefineNameoffset": "lua.foundation.vector", 
+        "Id": 8500000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Lua/Foundation/constant", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Foundation/constant.bytes", 
+        "DefineNameoffset": "lua.foundation.constant", 
+        "Id": 8500000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Lua/Foundation/bootstrap", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Foundation/bootstrap.bytes", 
+        "DefineNameoffset": "lua.foundation.bootstrap", 
+        "Id": 8500000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Setting/Effect/Field/Home/Fh_Present_A", 
+        "AssetPathoffset": "Assets/AssetBundles/Setting/Effect/Field/Home/Fh_Present_A.prefab", 
+        "DefineNameoffset": "setting.effect.field.home.fh_present_a", 
+        "Id": 8500000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Cutscene/Novel/Common/sageMini", 
+        "AssetPathoffset": "Assets/AssetBundles/Cutscene/Novel/Common/sageMini.prefab", 
+        "DefineNameoffset": "cutscene.novel.common.sagemini", 
+        "Id": 8500000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Tutorial/Stroll/HomeStrollSetting", 
+        "AssetPathoffset": "Assets/AssetBundles/Tutorial/Stroll/HomeStrollSetting.asset", 
+        "DefineNameoffset": "tutorial.stroll.homestrollsetting", 
+        "Id": 8500000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Bg/bg_forest_06/forest", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Bg/bg_forest_06/forest.png", 
+        "DefineNameoffset": "image.bg.forest", 
+        "Id": 8500000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Bg/bg_indoor_02/indoor", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Bg/bg_indoor_02/indoor.png", 
+        "DefineNameoffset": "image.bg.indoor", 
+        "Id": 8500000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/rigurd/voice_sys_rigurd_013_communicate", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/rigurd/voice_sys_rigurd_013_communicate.asset", 
+        "DefineNameoffset": "sys.rigurd.voice.013.communicate", 
+        "Id": 8500000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/rigurd/voice_sys_rigurd_015_communicate", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/rigurd/voice_sys_rigurd_015_communicate.asset", 
+        "DefineNameoffset": "sys.rigurd.voice.015.communicate", 
+        "Id": 8500000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/rigurd/voice_sys_rigurd_016_communicate", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/rigurd/voice_sys_rigurd_016_communicate.asset", 
+        "DefineNameoffset": "sys.rigurd.voice.016.communicate", 
+        "Id": 8500000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/shion/voice_sys_shion_013_communicate", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/shion/voice_sys_shion_013_communicate.asset", 
+        "DefineNameoffset": "sys.shion.voice.013.communicate", 
+        "Id": 8500000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/shion/voice_sys_shion_014_communicate", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/shion/voice_sys_shion_014_communicate.asset", 
+        "DefineNameoffset": "sys.shion.voice.014.communicate", 
+        "Id": 8500000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/shion/voice_sys_shion_016_communicate", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/shion/voice_sys_shion_016_communicate.asset", 
+        "DefineNameoffset": "sys.shion.voice.016.communicate", 
+        "Id": 8500000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_feeling_fun_02", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_feeling_fun_02/bgm_feeling_fun_02.asset", 
+        "DefineNameoffset": "sound.bgm_feeling_fun_02.asset", 
+        "Id": 8500000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Logo/Logo", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Logo/Logo.png", 
+        "DefineNameoffset": "title.logo", 
+        "Id": 8500000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_town_smith_shop", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_smith_shop/bgm_town_smith_shop.asset", 
+        "DefineNameoffset": "sound.bgm_town_smith_shop.asset", 
+        "Id": 8500000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_town_commune", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_commune/bgm_town_commune.asset", 
+        "DefineNameoffset": "sound.bgm_town_commune.asset", 
+        "Id": 8500000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_town_character", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_character/bgm_town_character.asset", 
+        "DefineNameoffset": "sound.bgm_town_character.asset", 
+        "Id": 8500000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/StatusBoard/StatusBoard_{0}{1}", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/StatusBoard/StatusBoard_{0}{1}.png", 
+        "DefineNameoffset": "image.statusboard_pctype_parametertype", 
+        "Id": 8500000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/StatusBoard/StatusBoard_Bless{0}", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/StatusBoard/StatusBoard_Bless{0}.png", 
+        "DefineNameoffset": "image.statusboard_bless_parametertype", 
+        "Id": 8500000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/IcStatus/001/01/IcStatus_001_01", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/IcStatus/001/01/IcStatus_001_01.png", 
+        "DefineNameoffset": "image.attack_power_up_buff_icon", 
+        "Id": 8500000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/IcStatus/002/01/IcStatus_002_01", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/IcStatus/002/01/IcStatus_002_01.png", 
+        "DefineNameoffset": "image.attack_power_down_buff_icon", 
+        "Id": 8500000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/IcStatus/029/01/IcStatus_029_01", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/IcStatus/029/01/IcStatus_029_01.png", 
+        "DefineNameoffset": "image.gauge_up_buff_icon", 
+        "Id": 8500000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/IcStatus/030/01/IcStatus_030_01", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/IcStatus/030/01/IcStatus_030_01.png", 
+        "DefineNameoffset": "image.gauge_down_buff_icon", 
+        "Id": 8500000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_master_space", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_master_space/bgm_master_space.asset", 
+        "DefineNameoffset": "sound.bgm.battle", 
+        "Id": 8500000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_fanfare_victory", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_fanfare_victory/bgm_fanfare_victory.asset", 
+        "DefineNameoffset": "sound.bgm.battle_result", 
+        "Id": 8500000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/HomeCampaign/HomeCampaignMission", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/HomeCampaign/HomeCampaignMission.png", 
+        "DefineNameoffset": "image.home.home_campaign_mission", 
+        "Id": 8500000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "home_max_box_shion", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Novel/home_max_box_shion/home_max_box_shion.bytes", 
+        "DefineNameoffset": "lua.novel.max_box_shion", 
+        "Id": 8500000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "home_max_box_shion", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Novel/home_max_box_shion/setup_home_max_box_shion.bytes", 
+        "DefineNameoffset": "lua.novel.max_box_shion_setup", 
+        "Id": 8500000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "home_max_box_shion", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Novel/home_max_box_shion/preload_home_max_box_shion.bytes", 
+        "DefineNameoffset": "lua.novel.max_box_shion_preload", 
+        "Id": 8500000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "home_max_box_rigurd", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Novel/home_max_box_rigurd/home_max_box_rigurd.bytes", 
+        "DefineNameoffset": "lua.novel.max_box_rigurd", 
+        "Id": 8500000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "home_max_box_rigurd", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Novel/home_max_box_rigurd/setup_home_max_box_rigurd.bytes", 
+        "DefineNameoffset": "lua.novel.max_box_rigurd_setup", 
+        "Id": 8500000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "home_max_box_rigurd", 
+        "AssetPathoffset": "Assets/AssetBundles/Lua/Novel/home_max_box_rigurd/preload_home_max_box_rigurd.bytes", 
+        "DefineNameoffset": "lua.novel.max_box_rigurd_preload", 
+        "Id": 8500000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Shaders/ShaderVariantCollectionPlaceholder", 
+        "AssetPathoffset": "Assets/AssetBundles/Shaders/ShaderVariantCollectionPlaceholder.asset", 
+        "DefineNameoffset": "shader.shader_variant_collection_placeholder", 
+        "Id": 8500000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Setting/Effect/Field/Home/Fh_Home_RimuruChange", 
+        "AssetPathoffset": "Assets/AssetBundles/Setting/Effect/Field/Home/Fh_Home_RimuruChange.prefab", 
+        "DefineNameoffset": "setting.effect.field.home.rimuru_change", 
+        "Id": 8500000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/BattleCard/cardIcSkillUp", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/BattleCard/cardIcSkillUp.png", 
+        "DefineNameoffset": "image.battlecard.cardic.skill.up", 
+        "Id": 8500000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/BattleCard/cardIcSpUp", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/BattleCard/cardIcSpUp.png", 
+        "DefineNameoffset": "image.battlecard.cardic.sp.up", 
+        "Id": 8500000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/BattleCard/cardIcBlessUp", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/BattleCard/cardIcBlessUp.png", 
+        "DefineNameoffset": "image.battlecard.cardic.bless.up", 
+        "Id": 8500000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_quest_result", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_quest_result/bgm_quest_result.asset", 
+        "DefineNameoffset": "sound.bgm.battle_failed", 
+        "Id": 8500000042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Exchange/Icon/exchange_icon_1", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Exchange/Icon/exchange_icon_1.png", 
+        "DefineNameoffset": "image.exchange.icon.1", 
+        "Id": 8500000043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Exchange/Icon/exchange_icon_2", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Exchange/Icon/exchange_icon_2.png", 
+        "DefineNameoffset": "image.exchange.icon.2", 
+        "Id": 8500000044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Exchange/Icon/exchange_icon_3", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Exchange/Icon/exchange_icon_3.png", 
+        "DefineNameoffset": "image.exchange.icon.3", 
+        "Id": 8500000045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Exchange/Icon/exchange_icon_4", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Exchange/Icon/exchange_icon_4.png", 
+        "DefineNameoffset": "image.exchange.icon.4", 
+        "Id": 8500000046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Exchange/Icon/exchange_icon_5", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Exchange/Icon/exchange_icon_5.png", 
+        "DefineNameoffset": "image.exchange.icon.5", 
+        "Id": 8500000047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/Exchange/Icon/exchange_icon_6", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/Exchange/Icon/exchange_icon_6.png", 
+        "DefineNameoffset": "image.exchange.icon.6", 
+        "Id": 8500000048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Setting/Effect/Field/Building/Fbu_Complete_{0}x{1}", 
+        "AssetPathoffset": "Assets/AssetBundles/Setting/Effect/Field/Building/Fbu_Complete_{0}x{1}.prefab", 
+        "DefineNameoffset": "setting.effect.field.building.fbu_complete", 
+        "Id": 8500000049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Setting/Effect/Field/Building/Fbu_Smoke_{0}x{1}", 
+        "AssetPathoffset": "Assets/AssetBundles/Setting/Effect/Field/Building/Fbu_Smoke_{0}x{1}.prefab", 
+        "DefineNameoffset": "setting.effect.field.building.fbu_smoke", 
+        "Id": 8500000050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "facility/0000/se_facility_0000_129", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/SE/facility/0000/se_facility_0000_129.asset", 
+        "DefineNameoffset": "sound.se.facility.129", 
+        "Id": 8500000051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "facility/0000/se_facility_0000_131", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/SE/facility/0000/se_facility_0000_131.asset", 
+        "DefineNameoffset": "sound.se.facility.131", 
+        "Id": 8500000052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "facility/0000/se_facility_0000_132", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/SE/facility/0000/se_facility_0000_132.asset", 
+        "DefineNameoffset": "sound.se.facility.132", 
+        "Id": 8500000053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Field/Building/FieldBuilding_UnderConstruction/FieldBuilding_UnderConstruction_Office{0}{1}", 
+        "AssetPathoffset": "Assets/AssetBundles/Field/Building/FieldBuilding_UnderConstruction/FieldBuilding_UnderConstruction_Office{0}{1}.prefab", 
+        "DefineNameoffset": "field.building.under.construction.office", 
+        "Id": 8500000054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Field/Building/FieldBuilding_UnderConstruction/FieldBuilding_UnderConstruction{0}x{1}{2}", 
+        "AssetPathoffset": "Assets/AssetBundles/Field/Building/FieldBuilding_UnderConstruction/FieldBuilding_UnderConstruction{0}x{1}{2}.prefab", 
+        "DefineNameoffset": "field.building.under.construction", 
+        "Id": 8500000055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/HomeCampaign/HomeCampaignSale", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/HomeCampaign/HomeCampaignSale.png", 
+        "DefineNameoffset": "image.home.campaign.sale", 
+        "Id": 8500000056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/PredationBonus/001/PredationBonus_001", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/PredationBonus/001/PredationBonus_001.png", 
+        "DefineNameoffset": "image.battle.predation.result.score.icon", 
+        "Id": 8500000057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/PredationBonus/002/PredationBonus_002", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/PredationBonus/002/PredationBonus_002.png", 
+        "DefineNameoffset": "image.battle.predation.result.score.success.icon", 
+        "Id": 8500000058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/PredationBonus/003/PredationBonus_003", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/PredationBonus/003/PredationBonus_003.png", 
+        "DefineNameoffset": "image.battle.predation.result.score.week.icon", 
+        "Id": 8500000059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Setting/Home/CharacterAvatar/Rimuru/RimuruDefault/RimuruDefault", 
+        "AssetPathoffset": "Assets/AssetBundles/Setting/Home/CharacterAvatar/Rimuru/RimuruDefault/RimuruDefault.asset", 
+        "DefineNameoffset": "tutorial.stroll.rimuru.avatar_path", 
+        "Id": 8500000060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/HomeCampaign/HomeCampaignSale_7days", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/HomeCampaign/HomeCampaignSale_7days.png", 
+        "DefineNameoffset": "image.home.campaign.sale.7days", 
+        "Id": 8500000061, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/se_sys_002", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/SE/sys/se_sys_002.asset", 
+        "DefineNameoffset": "option.setting.test.se", 
+        "Id": 8500000062, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "ba/pc/rimuru/Common/voice_ba_pc_rimuru_053_start", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/ba/pc/rimuru/Common/voice_ba_pc_rimuru_053_start.asset", 
+        "DefineNameoffset": "option.setting.test.voice", 
+        "Id": 8500000063, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_town_gacha_top", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_gacha_top/bgm_town_gacha_top.asset", 
+        "DefineNameoffset": "lottery.sound.bgm_town_gacha_top.asset", 
+        "Id": 8500001001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_town_gacha", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_gacha/bgm_town_gacha.asset", 
+        "DefineNameoffset": "lottery.sound.bgm_town_gacha.asset", 
+        "Id": 8500001002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c001_a.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c001_a.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c001_a.usm", 
+        "Id": 8500001003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c001_a_loop.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c001_a_loop.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c001_a_loop.usm", 
+        "Id": 8500001004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c001_b.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c001_b.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c001_b.usm", 
+        "Id": 8500001005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c001_b_loop.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c001_b_loop.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c001_b_loop.usm", 
+        "Id": 8500001006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c001_c.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c001_c.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c001_c.usm", 
+        "Id": 8500001007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c001_loop.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c001_loop.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c001_loop.usm", 
+        "Id": 8500001008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c002.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c002.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c002.usm", 
+        "Id": 8500001009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c002_c.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c002_c.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c002_c.usm", 
+        "Id": 8500001010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c003_01.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c003_01.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c003_01.usm", 
+        "Id": 8500001011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c003_02.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c003_02.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c003_02.usm", 
+        "Id": 8500001012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c003_03.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c003_03.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c003_03.usm", 
+        "Id": 8500001013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c004_a.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c004_a.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c004_a.usm", 
+        "Id": 8500001014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c004_b.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c004_b.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c004_b.usm", 
+        "Id": 8500001015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Movie/Lottery/lottery_c004_c.usm", 
+        "AssetPathoffset": "Assets/AssetBundles/Movie/Lottery/lottery_c004_c.usm.bytes", 
+        "DefineNameoffset": "lottery.movie.lottery_c004_c.usm", 
+        "Id": 8500001016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/StatusBoard/StatusBoard_BlessPcSkillForce", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/StatusBoard/StatusBoard_BlessPcSkillForce.png", 
+        "DefineNameoffset": "image.statusboard.bless.skillforce.icon", 
+        "Id": 8500001017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/StatusBoard/StatusBoard_PcSkillForce", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/StatusBoard/StatusBoard_PcSkillForce.png", 
+        "DefineNameoffset": "image.statusboard.pc.skillforce.icon", 
+        "Id": 8500001018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/IcSkill/icPassiveSkill", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/IcSkill/icPassiveSkill.png", 
+        "DefineNameoffset": "image.icskill_icpassiveskill.icon", 
+        "Id": 8500001019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_037_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_037_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.037.wise", 
+        "Id": 8500001020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_195_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_195_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.195.wise", 
+        "Id": 8500001021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_026_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_026_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.026.wise", 
+        "Id": 8500001022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_028_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_028_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.028.wise", 
+        "Id": 8500001023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_030_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_030_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.030.wise", 
+        "Id": 8500001024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_033_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_033_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.033.wise", 
+        "Id": 8500001025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_073_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_073_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.073.wise", 
+        "Id": 8500001026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_038_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_038_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.038.wise", 
+        "Id": 8500001027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_189_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_189_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.189.wise", 
+        "Id": 8500001028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "sys/kenja/voice_sys_kenja_034_wise", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/VOICE/sys/kenja/voice_sys_kenja_034_wise.asset", 
+        "DefineNameoffset": "sys.kenja.voice.sys.kenja.034.wise", 
+        "Id": 8500001029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "bgm_main_theme_full", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_main_theme_full/bgm_main_theme_full.asset", 
+        "DefineNameoffset": "sound.bgm.main_theme", 
+        "Id": 8500001030, 
+        "ReleaseLabeloffset": ""
+    }
+]

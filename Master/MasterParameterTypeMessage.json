@@ -1,0 +1,407 @@
+[
+    {
+        "DefineNameoffset": "MasterParameterType.Hp", 
+        "MasterParameterTypeMessageId": 807000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.Attack", 
+        "MasterParameterTypeMessageId": 807000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.Defense", 
+        "MasterParameterTypeMessageId": 807000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbCritical", 
+        "MasterParameterTypeMessageId": 807000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbPenetration", 
+        "MasterParameterTypeMessageId": 807000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbGuard", 
+        "MasterParameterTypeMessageId": 807000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbGuardSuper", 
+        "MasterParameterTypeMessageId": 807000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbCounter", 
+        "MasterParameterTypeMessageId": 807000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbCounterSuper", 
+        "MasterParameterTypeMessageId": 807000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbTemptation", 
+        "MasterParameterTypeMessageId": 807000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbEvasion", 
+        "MasterParameterTypeMessageId": 807000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ProbMiss", 
+        "MasterParameterTypeMessageId": 807000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectAttackPhysics", 
+        "MasterParameterTypeMessageId": 807000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectAttackMagic", 
+        "MasterParameterTypeMessageId": 807000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectAttackSingle", 
+        "MasterParameterTypeMessageId": 807000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectAttackWhole", 
+        "MasterParameterTypeMessageId": 807000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectCritical", 
+        "MasterParameterTypeMessageId": 807000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectPenetration", 
+        "MasterParameterTypeMessageId": 807000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectCounter", 
+        "MasterParameterTypeMessageId": 807000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectGuard", 
+        "MasterParameterTypeMessageId": 807000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectGuardSuper", 
+        "MasterParameterTypeMessageId": 807000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementEarth", 
+        "MasterParameterTypeMessageId": 807000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementAir", 
+        "MasterParameterTypeMessageId": 807000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementWind", 
+        "MasterParameterTypeMessageId": 807000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementWater", 
+        "MasterParameterTypeMessageId": 807000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementFire", 
+        "MasterParameterTypeMessageId": 807000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementHoly", 
+        "MasterParameterTypeMessageId": 807000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementDark", 
+        "MasterParameterTypeMessageId": 807000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.EffectElementTime", 
+        "MasterParameterTypeMessageId": 807000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistAttackPhysics", 
+        "MasterParameterTypeMessageId": 807000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistAttackMagic", 
+        "MasterParameterTypeMessageId": 807000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistAttackSingle", 
+        "MasterParameterTypeMessageId": 807000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistAttackWhole", 
+        "MasterParameterTypeMessageId": 807000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistCritical", 
+        "MasterParameterTypeMessageId": 807000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistPenetration", 
+        "MasterParameterTypeMessageId": 807000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistCounter", 
+        "MasterParameterTypeMessageId": 807000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistGuard", 
+        "MasterParameterTypeMessageId": 807000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistGuardSuper", 
+        "MasterParameterTypeMessageId": 807000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementEarth", 
+        "MasterParameterTypeMessageId": 807000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementAir", 
+        "MasterParameterTypeMessageId": 807000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementWind", 
+        "MasterParameterTypeMessageId": 807000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementWater", 
+        "MasterParameterTypeMessageId": 807000042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementFire", 
+        "MasterParameterTypeMessageId": 807000043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementHoly", 
+        "MasterParameterTypeMessageId": 807000044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementDark", 
+        "MasterParameterTypeMessageId": 807000045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistElementTime", 
+        "MasterParameterTypeMessageId": 807000046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectAttackPhysics", 
+        "MasterParameterTypeMessageId": 807000047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectAttackMagic", 
+        "MasterParameterTypeMessageId": 807000048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectAttackSingle", 
+        "MasterParameterTypeMessageId": 807000049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectAttackWhole", 
+        "MasterParameterTypeMessageId": 807000050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectCritical", 
+        "MasterParameterTypeMessageId": 807000051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectPenetration", 
+        "MasterParameterTypeMessageId": 807000052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectCounter", 
+        "MasterParameterTypeMessageId": 807000053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectGuard", 
+        "MasterParameterTypeMessageId": 807000054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementEarth", 
+        "MasterParameterTypeMessageId": 807000055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementAir", 
+        "MasterParameterTypeMessageId": 807000056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementWind", 
+        "MasterParameterTypeMessageId": 807000057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementWater", 
+        "MasterParameterTypeMessageId": 807000058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementFire", 
+        "MasterParameterTypeMessageId": 807000059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementHoly", 
+        "MasterParameterTypeMessageId": 807000060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementDark", 
+        "MasterParameterTypeMessageId": 807000061, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageEffectElementTime", 
+        "MasterParameterTypeMessageId": 807000062, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistAttackPhysics", 
+        "MasterParameterTypeMessageId": 807000063, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistAttackMagic", 
+        "MasterParameterTypeMessageId": 807000064, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistAttackSingle", 
+        "MasterParameterTypeMessageId": 807000065, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistAttackWhole", 
+        "MasterParameterTypeMessageId": 807000066, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistCritical", 
+        "MasterParameterTypeMessageId": 807000067, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistPenetration", 
+        "MasterParameterTypeMessageId": 807000068, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistCounter", 
+        "MasterParameterTypeMessageId": 807000069, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistGuard", 
+        "MasterParameterTypeMessageId": 807000070, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementEarth", 
+        "MasterParameterTypeMessageId": 807000071, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementAir", 
+        "MasterParameterTypeMessageId": 807000072, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementWind", 
+        "MasterParameterTypeMessageId": 807000073, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementWater", 
+        "MasterParameterTypeMessageId": 807000074, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementFire", 
+        "MasterParameterTypeMessageId": 807000075, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementHoly", 
+        "MasterParameterTypeMessageId": 807000076, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementDark", 
+        "MasterParameterTypeMessageId": 807000077, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.DamageResistElementTime", 
+        "MasterParameterTypeMessageId": 807000078, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistConditionNotActive", 
+        "MasterParameterTypeMessageId": 807000079, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ResistConditionPoison", 
+        "MasterParameterTypeMessageId": 807000080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterParameterType.ComboRate", 
+        "MasterParameterTypeMessageId": 807000081, 
+        "ReleaseLabeloffset": ""
+    }
+]

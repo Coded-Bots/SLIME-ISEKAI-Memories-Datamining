@@ -1,0 +1,1388 @@
+[
+    {
+        "LotteryRewardId": 130001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "MasterOgcLotteryRewardId": 504300001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "MasterOgcLotteryRewardId": 504300002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "MasterOgcLotteryRewardId": 504300003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "MasterOgcLotteryRewardId": 504300004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "MasterOgcLotteryRewardId": 504300005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "MasterOgcLotteryRewardId": 504300006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230005, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "MasterOgcLotteryRewardId": 504301007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "MasterOgcLotteryRewardId": 504300007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "MasterOgcLotteryRewardId": 504300008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "MasterOgcLotteryRewardId": 504300009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "MasterOgcLotteryRewardId": 504300010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "MasterOgcLotteryRewardId": 504300011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "MasterOgcLotteryRewardId": 504300012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230005, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 230007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "MasterOgcLotteryRewardId": 504300114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3002, 
+        "MasterOgcLotteryRewardId": 504300201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3002, 
+        "MasterOgcLotteryRewardId": 504300202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3002, 
+        "MasterOgcLotteryRewardId": 504300203, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3002, 
+        "MasterOgcLotteryRewardId": 504300204, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3002, 
+        "MasterOgcLotteryRewardId": 504300205, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 130002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 3003, 
+        "MasterOgcLotteryRewardId": 504300301, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140013, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140019, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140017, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140016, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140020, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140022, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140018, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140021, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "MasterOgcLotteryRewardId": 504400022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240005, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240008, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "MasterOgcLotteryRewardId": 504401008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140013, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140019, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140017, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140016, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140020, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140022, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140018, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140021, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "MasterOgcLotteryRewardId": 504402021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240008, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "MasterOgcLotteryRewardId": 504403007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140013, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140019, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140017, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140016, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140020, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140022, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140018, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140021, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "MasterOgcLotteryRewardId": 504400044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240005, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400115, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 240008, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "MasterOgcLotteryRewardId": 504400116, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400401, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400402, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400403, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400404, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400405, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400406, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400407, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400408, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400409, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400410, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400411, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400412, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140013, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400413, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140019, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400414, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140017, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400415, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140016, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400416, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140022, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400417, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140018, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400418, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140021, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "MasterOgcLotteryRewardId": 504400419, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4005, 
+        "MasterOgcLotteryRewardId": 504400501, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4005, 
+        "MasterOgcLotteryRewardId": 504400502, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 140020, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 4005, 
+        "MasterOgcLotteryRewardId": 504400503, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "MasterOgcLotteryRewardId": 504500014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250005, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "MasterOgcLotteryRewardId": 504501007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "MasterOgcLotteryRewardId": 504500028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250001, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250002, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250003, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250007, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250004, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250006, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 250005, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "MasterOgcLotteryRewardId": 504500114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150001, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150004, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500203, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150005, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500204, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150007, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500205, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150008, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500206, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150009, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500207, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150010, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500208, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150014, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500209, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150011, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500210, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500211, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150003, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "MasterOgcLotteryRewardId": 504500212, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150015, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5003, 
+        "MasterOgcLotteryRewardId": 504500301, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150006, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5003, 
+        "MasterOgcLotteryRewardId": 504500302, 
+        "ReleaseLabeloffset": ""
+    }
+]

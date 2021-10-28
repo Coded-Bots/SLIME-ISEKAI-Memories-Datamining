@@ -1,0 +1,58 @@
+[
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_RankupItem1", 
+        "BannerPriority": 1, 
+        "ItemExchangeType": 7, 
+        "MasterItemExchangeBannerGroupId": 9000000001, 
+        "MasterItemExchangeBannerId": 9000000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_RankupItem2", 
+        "BannerPriority": 2, 
+        "ItemExchangeType": 8, 
+        "MasterItemExchangeBannerGroupId": 9000000002, 
+        "MasterItemExchangeBannerId": 9000000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_RankupItem3", 
+        "BannerPriority": 3, 
+        "ItemExchangeType": 9, 
+        "MasterItemExchangeBannerGroupId": 9000000003, 
+        "MasterItemExchangeBannerId": 9000000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_Friend", 
+        "BannerPriority": 6, 
+        "ItemExchangeType": 1, 
+        "MasterItemExchangeBannerGroupId": 9000000004, 
+        "MasterItemExchangeBannerId": 9000000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_Coin", 
+        "BannerPriority": 5, 
+        "ItemExchangeType": 3, 
+        "MasterItemExchangeBannerGroupId": 9000000006, 
+        "MasterItemExchangeBannerId": 9000000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/shop_banner_gem", 
+        "BannerPriority": 999, 
+        "ItemExchangeType": 6, 
+        "MasterItemExchangeBannerGroupId": 9000000007, 
+        "MasterItemExchangeBannerId": 9000000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_GachaPoint", 
+        "BannerPriority": 4, 
+        "ItemExchangeType": 10, 
+        "MasterItemExchangeBannerGroupId": 9000000009, 
+        "MasterItemExchangeBannerId": 9000000009, 
+        "ReleaseLabeloffset": ""
+    }
+]

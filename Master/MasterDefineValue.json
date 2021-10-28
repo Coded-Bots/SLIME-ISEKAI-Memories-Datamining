@@ -1,0 +1,524 @@
+[
+    {
+        "DefineNameoffset": "equipment.stock.initial.count", 
+        "Id": 7000001001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 50
+    }, 
+    {
+        "DefineNameoffset": "equipment.stock.add.count.per.once", 
+        "Id": 7000001002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "equipment.stock.max.count", 
+        "Id": 7000001003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1000
+    }, 
+    {
+        "DefineNameoffset": "consume.expand.equipment.stock", 
+        "Id": 7000001004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 15
+    }, 
+    {
+        "DefineNameoffset": "equipment.remake.upper.limit.guage.max", 
+        "Id": 7000001005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10
+    }, 
+    {
+        "DefineNameoffset": "equipment.remake.high.rarity.item", 
+        "Id": 7000001006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3
+    }, 
+    {
+        "DefineNameoffset": "equipment.disassemble.high.rarity", 
+        "Id": 7000001007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3
+    }, 
+    {
+        "DefineNameoffset": "tutorial.lottery.shop.id", 
+        "Id": 7000001008, 
+        "ReleaseLabeloffset": "", 
+        "Value": 500000002
+    }, 
+    {
+        "DefineNameoffset": "stamina.disp.limit", 
+        "Id": 7000001009, 
+        "ReleaseLabeloffset": "", 
+        "Value": 999
+    }, 
+    {
+        "DefineNameoffset": "tutorial.modal.race_announce_id", 
+        "Id": 7000001010, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4005000002
+    }, 
+    {
+        "DefineNameoffset": "pc.skill.levelup.same.attribute.exp.bonus", 
+        "Id": 7000002001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 15000
+    }, 
+    {
+        "DefineNameoffset": "affection.up.value.of.once.a.day.talk", 
+        "Id": 7000003001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 120
+    }, 
+    {
+        "DefineNameoffset": "common.basis.point", 
+        "Id": 7000090000, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10000
+    }, 
+    {
+        "DefineNameoffset": "start.of.day.offset.hour", 
+        "Id": 7000100000, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4
+    }, 
+    {
+        "DefineNameoffset": "communication.top.greeting.morning", 
+        "Id": 7000004001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 21600
+    }, 
+    {
+        "DefineNameoffset": "communication.top.greeting.noon", 
+        "Id": 7000004002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 43200
+    }, 
+    {
+        "DefineNameoffset": "communication.top.greeting.night", 
+        "Id": 7000004003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 64800
+    }, 
+    {
+        "DefineNameoffset": "territory.character.change.interval", 
+        "Id": 7000004004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3600
+    }, 
+    {
+        "DefineNameoffset": "territory.character.anniversary.format.change.interval", 
+        "Id": 7000004005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 7200
+    }, 
+    {
+        "DefineNameoffset": "territory.character.max.appear", 
+        "Id": 7000004006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 16
+    }, 
+    {
+        "DefineNameoffset": "founding.facility.complete.construct.adjust.time", 
+        "Id": 7000005001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "founding.facility.rimuru.home.id", 
+        "Id": 7000005002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 400001604
+    }, 
+    {
+        "DefineNameoffset": "founding.rescue.short.time", 
+        "Id": 7000005003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 600
+    }, 
+    {
+        "DefineNameoffset": "founding.rescue.accept.item", 
+        "Id": 7000005004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3200001
+    }, 
+    {
+        "DefineNameoffset": "founding.rescue.accept.item.amount", 
+        "Id": 7000005005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "founding.rescue.convert.item", 
+        "Id": 7000005006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3200001
+    }, 
+    {
+        "DefineNameoffset": "founding.rescue.convert.item.amount", 
+        "Id": 7000005007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "founding.rescue.history.expired.day", 
+        "Id": 7000005008, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "founding.population.reward_list_max", 
+        "Id": 7000005009, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10
+    }, 
+    {
+        "DefineNameoffset": "tutorial.download.long_loading_id", 
+        "Id": 7000006001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 50005000001
+    }, 
+    {
+        "DefineNameoffset": "pc.default.rimuru", 
+        "Id": 7000007001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 180001
+    }, 
+    {
+        "DefineNameoffset": "pc.default.rimuru.slime", 
+        "Id": 7000007002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 140002
+    }, 
+    {
+        "DefineNameoffset": "character.affection.up.talk.event.reward.max.rate", 
+        "Id": 7000007003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10000
+    }, 
+    {
+        "DefineNameoffset": "master.quest.id.unlock.rimuru.slime.human", 
+        "Id": 7000007004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4010003007
+    }, 
+    {
+        "DefineNameoffset": "home.maxbox.shion_id", 
+        "Id": 7000007005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3001000005
+    }, 
+    {
+        "DefineNameoffset": "home.character.affection.daily_update_offset", 
+        "Id": 7000007006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 0
+    }, 
+    {
+        "DefineNameoffset": "home.character.button_list_condition_quest_id", 
+        "Id": 7000007007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4010001005
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.reason_id", 
+        "Id": 7000008001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 803000010001
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.reason_id_equipment", 
+        "Id": 7000008002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 803000010000
+    }, 
+    {
+        "DefineNameoffset": "gift.default.expired_day", 
+        "Id": 7000008003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 30
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.expired_day", 
+        "Id": 7000008004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 14
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.item.expired_day", 
+        "Id": 7000008005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 14
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.pc.expired_day", 
+        "Id": 7000008006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 14
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.blesspc.expired_day", 
+        "Id": 7000008007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 14
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.equipment.expired_day", 
+        "Id": 7000008008, 
+        "ReleaseLabeloffset": "", 
+        "Value": 14
+    }, 
+    {
+        "DefineNameoffset": "gift.limitover.stamina.expired_day", 
+        "Id": 7000008009, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "friend.limit", 
+        "Id": 7000009001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 40
+    }, 
+    {
+        "DefineNameoffset": "friend.application.limit", 
+        "Id": 7000009002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 50
+    }, 
+    {
+        "DefineNameoffset": "review.app.enable", 
+        "Id": 7000010001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "review.app.condition.show.quest.clear", 
+        "Id": 7000010002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4010002001
+    }, 
+    {
+        "DefineNameoffset": "parallel.computing.time.shorten.limit", 
+        "Id": 7000011001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5000
+    }, 
+    {
+        "DefineNameoffset": "parallel.computing.constant.A", 
+        "Id": 7000011002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 120
+    }, 
+    {
+        "DefineNameoffset": "parallel.computing.constant.B", 
+        "Id": 7000011003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "pcdetail.skilllevelup.listitem.show.maxlimit", 
+        "Id": 7000012003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1000
+    }, 
+    {
+        "DefineNameoffset": "pcdetail.skill.enhancement.lockbyquest", 
+        "Id": 7000012004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4010001004
+    }, 
+    {
+        "DefineNameoffset": "item.exchange.rotation.weekly", 
+        "Id": 7000013002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "item.exchange.rotation.monthly", 
+        "Id": 7000013003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "item.exchange.change.quest.id", 
+        "Id": 7000013004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 4010004006
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.bless.pc.bonus.rate", 
+        "Id": 7000014001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10000
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.base.rate.rarity3", 
+        "Id": 7000014002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 2500
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.same.element.rate.rarity3", 
+        "Id": 7000014003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1000
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.base.rate.rarity4", 
+        "Id": 7000014004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 2500
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.same.element.rate.rarity4", 
+        "Id": 7000014005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1000
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.base.rate.rarity5", 
+        "Id": 7000014006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3000
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.same.element.rate.rarity5", 
+        "Id": 7000014007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1000
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.base.rate.rarity6", 
+        "Id": 7000014008, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3000
+    }, 
+    {
+        "DefineNameoffset": "party.parameter.assist.same.element.rate.rarity6", 
+        "Id": 7000014009, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1000
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity3.probability.pattern.a3", 
+        "Id": 7000015001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 100
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity4.probability.pattern.a4", 
+        "Id": 7000015002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 50
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity4.probability.pattern.b4", 
+        "Id": 7000015003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 50
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.a4", 
+        "Id": 7000015004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.b4", 
+        "Id": 7000015005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.a5", 
+        "Id": 7000015006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.a5z", 
+        "Id": 7000015007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.b5", 
+        "Id": 7000015008, 
+        "ReleaseLabeloffset": "", 
+        "Value": 40
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.b5z", 
+        "Id": 7000015009, 
+        "ReleaseLabeloffset": "", 
+        "Value": 15
+    }, 
+    {
+        "DefineNameoffset": "lottery.rarity5.probability.pattern.c5", 
+        "Id": 7000015010, 
+        "ReleaseLabeloffset": "", 
+        "Value": 15
+    }, 
+    {
+        "DefineNameoffset": "lottery.ticket.expired_day", 
+        "Id": 7000015011, 
+        "ReleaseLabeloffset": "", 
+        "Value": 30
+    }, 
+    {
+        "DefineNameoffset": "lottery.registered.time.limited.day", 
+        "Id": 7000015012, 
+        "ReleaseLabeloffset": "", 
+        "Value": 7
+    }, 
+    {
+        "DefineNameoffset": "quest.start.stamina.adjust.seconds", 
+        "Id": 7000016001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "server.request.retry.interval", 
+        "Id": 7000017001, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3
+    }, 
+    {
+        "DefineNameoffset": "server.request.retry.count", 
+        "Id": 7000017002, 
+        "ReleaseLabeloffset": "", 
+        "Value": 2
+    }, 
+    {
+        "DefineNameoffset": "server.request.retry.max", 
+        "Id": 7000017003, 
+        "ReleaseLabeloffset": "", 
+        "Value": 3
+    }, 
+    {
+        "DefineNameoffset": "server.timeout_seconds", 
+        "Id": 7000017007, 
+        "ReleaseLabeloffset": "", 
+        "Value": 15
+    }, 
+    {
+        "DefineNameoffset": "gdpr.analytics.version", 
+        "Id": 7000017004, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "gdpr.adtracking.version", 
+        "Id": 7000017005, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "gdpr.opened_at", 
+        "Id": 7000017006, 
+        "ReleaseLabeloffset": "", 
+        "Value": 1630422000
+    }
+]

@@ -1,0 +1,6014 @@
+[
+    {
+        "CostSeconds": 59, 
+        "GemCost": 1, 
+        "MasterFacilityGemTimeId": 412000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 360, 
+        "GemCost": 1, 
+        "MasterFacilityGemTimeId": 412000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 720, 
+        "GemCost": 2, 
+        "MasterFacilityGemTimeId": 412000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 1080, 
+        "GemCost": 3, 
+        "MasterFacilityGemTimeId": 412000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 1440, 
+        "GemCost": 4, 
+        "MasterFacilityGemTimeId": 412000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 1800, 
+        "GemCost": 5, 
+        "MasterFacilityGemTimeId": 412000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 2160, 
+        "GemCost": 6, 
+        "MasterFacilityGemTimeId": 412000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 2520, 
+        "GemCost": 7, 
+        "MasterFacilityGemTimeId": 412000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 2880, 
+        "GemCost": 8, 
+        "MasterFacilityGemTimeId": 412000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 3240, 
+        "GemCost": 9, 
+        "MasterFacilityGemTimeId": 412000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 3600, 
+        "GemCost": 10, 
+        "MasterFacilityGemTimeId": 412000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 3960, 
+        "GemCost": 11, 
+        "MasterFacilityGemTimeId": 412000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 4320, 
+        "GemCost": 12, 
+        "MasterFacilityGemTimeId": 412000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 4680, 
+        "GemCost": 13, 
+        "MasterFacilityGemTimeId": 412000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 5040, 
+        "GemCost": 14, 
+        "MasterFacilityGemTimeId": 412000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 5400, 
+        "GemCost": 15, 
+        "MasterFacilityGemTimeId": 412000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 5760, 
+        "GemCost": 16, 
+        "MasterFacilityGemTimeId": 412000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 6120, 
+        "GemCost": 17, 
+        "MasterFacilityGemTimeId": 412000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 6480, 
+        "GemCost": 18, 
+        "MasterFacilityGemTimeId": 412000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 6840, 
+        "GemCost": 19, 
+        "MasterFacilityGemTimeId": 412000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 7200, 
+        "GemCost": 20, 
+        "MasterFacilityGemTimeId": 412000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 7560, 
+        "GemCost": 21, 
+        "MasterFacilityGemTimeId": 412000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 7920, 
+        "GemCost": 22, 
+        "MasterFacilityGemTimeId": 412000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 8280, 
+        "GemCost": 23, 
+        "MasterFacilityGemTimeId": 412000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 8640, 
+        "GemCost": 24, 
+        "MasterFacilityGemTimeId": 412000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 9000, 
+        "GemCost": 25, 
+        "MasterFacilityGemTimeId": 412000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 9360, 
+        "GemCost": 26, 
+        "MasterFacilityGemTimeId": 412000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 9720, 
+        "GemCost": 27, 
+        "MasterFacilityGemTimeId": 412000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 10080, 
+        "GemCost": 28, 
+        "MasterFacilityGemTimeId": 412000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 10440, 
+        "GemCost": 29, 
+        "MasterFacilityGemTimeId": 412000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 10800, 
+        "GemCost": 30, 
+        "MasterFacilityGemTimeId": 412000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 11160, 
+        "GemCost": 31, 
+        "MasterFacilityGemTimeId": 412000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 11520, 
+        "GemCost": 32, 
+        "MasterFacilityGemTimeId": 412000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 11880, 
+        "GemCost": 33, 
+        "MasterFacilityGemTimeId": 412000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 12240, 
+        "GemCost": 34, 
+        "MasterFacilityGemTimeId": 412000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 12600, 
+        "GemCost": 35, 
+        "MasterFacilityGemTimeId": 412000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 12960, 
+        "GemCost": 36, 
+        "MasterFacilityGemTimeId": 412000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 13320, 
+        "GemCost": 37, 
+        "MasterFacilityGemTimeId": 412000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 13680, 
+        "GemCost": 38, 
+        "MasterFacilityGemTimeId": 412000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 14040, 
+        "GemCost": 39, 
+        "MasterFacilityGemTimeId": 412000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 14400, 
+        "GemCost": 40, 
+        "MasterFacilityGemTimeId": 412000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 14760, 
+        "GemCost": 41, 
+        "MasterFacilityGemTimeId": 412000042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 15120, 
+        "GemCost": 42, 
+        "MasterFacilityGemTimeId": 412000043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 15480, 
+        "GemCost": 43, 
+        "MasterFacilityGemTimeId": 412000044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 15840, 
+        "GemCost": 44, 
+        "MasterFacilityGemTimeId": 412000045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 16200, 
+        "GemCost": 45, 
+        "MasterFacilityGemTimeId": 412000046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 16560, 
+        "GemCost": 46, 
+        "MasterFacilityGemTimeId": 412000047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 16920, 
+        "GemCost": 47, 
+        "MasterFacilityGemTimeId": 412000048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 17280, 
+        "GemCost": 48, 
+        "MasterFacilityGemTimeId": 412000049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 17640, 
+        "GemCost": 49, 
+        "MasterFacilityGemTimeId": 412000050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 18000, 
+        "GemCost": 50, 
+        "MasterFacilityGemTimeId": 412000051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 18360, 
+        "GemCost": 51, 
+        "MasterFacilityGemTimeId": 412000052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 18720, 
+        "GemCost": 52, 
+        "MasterFacilityGemTimeId": 412000053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 19080, 
+        "GemCost": 53, 
+        "MasterFacilityGemTimeId": 412000054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 19440, 
+        "GemCost": 54, 
+        "MasterFacilityGemTimeId": 412000055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 19800, 
+        "GemCost": 55, 
+        "MasterFacilityGemTimeId": 412000056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 20160, 
+        "GemCost": 56, 
+        "MasterFacilityGemTimeId": 412000057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 20520, 
+        "GemCost": 57, 
+        "MasterFacilityGemTimeId": 412000058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 20880, 
+        "GemCost": 58, 
+        "MasterFacilityGemTimeId": 412000059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 21240, 
+        "GemCost": 59, 
+        "MasterFacilityGemTimeId": 412000060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 21600, 
+        "GemCost": 60, 
+        "MasterFacilityGemTimeId": 412000061, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 21960, 
+        "GemCost": 61, 
+        "MasterFacilityGemTimeId": 412000062, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 22320, 
+        "GemCost": 62, 
+        "MasterFacilityGemTimeId": 412000063, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 22680, 
+        "GemCost": 63, 
+        "MasterFacilityGemTimeId": 412000064, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 23040, 
+        "GemCost": 64, 
+        "MasterFacilityGemTimeId": 412000065, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 23400, 
+        "GemCost": 65, 
+        "MasterFacilityGemTimeId": 412000066, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 23760, 
+        "GemCost": 66, 
+        "MasterFacilityGemTimeId": 412000067, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 24120, 
+        "GemCost": 67, 
+        "MasterFacilityGemTimeId": 412000068, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 24480, 
+        "GemCost": 68, 
+        "MasterFacilityGemTimeId": 412000069, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 24840, 
+        "GemCost": 69, 
+        "MasterFacilityGemTimeId": 412000070, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 25200, 
+        "GemCost": 70, 
+        "MasterFacilityGemTimeId": 412000071, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 25560, 
+        "GemCost": 71, 
+        "MasterFacilityGemTimeId": 412000072, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 25920, 
+        "GemCost": 72, 
+        "MasterFacilityGemTimeId": 412000073, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 26280, 
+        "GemCost": 73, 
+        "MasterFacilityGemTimeId": 412000074, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 26640, 
+        "GemCost": 74, 
+        "MasterFacilityGemTimeId": 412000075, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 27000, 
+        "GemCost": 75, 
+        "MasterFacilityGemTimeId": 412000076, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 27360, 
+        "GemCost": 76, 
+        "MasterFacilityGemTimeId": 412000077, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 27720, 
+        "GemCost": 77, 
+        "MasterFacilityGemTimeId": 412000078, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 28080, 
+        "GemCost": 78, 
+        "MasterFacilityGemTimeId": 412000079, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 28440, 
+        "GemCost": 79, 
+        "MasterFacilityGemTimeId": 412000080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 28800, 
+        "GemCost": 80, 
+        "MasterFacilityGemTimeId": 412000081, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 29160, 
+        "GemCost": 81, 
+        "MasterFacilityGemTimeId": 412000082, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 29520, 
+        "GemCost": 82, 
+        "MasterFacilityGemTimeId": 412000083, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 29880, 
+        "GemCost": 83, 
+        "MasterFacilityGemTimeId": 412000084, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 30240, 
+        "GemCost": 84, 
+        "MasterFacilityGemTimeId": 412000085, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 30600, 
+        "GemCost": 85, 
+        "MasterFacilityGemTimeId": 412000086, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 30960, 
+        "GemCost": 86, 
+        "MasterFacilityGemTimeId": 412000087, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 31320, 
+        "GemCost": 87, 
+        "MasterFacilityGemTimeId": 412000088, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 31680, 
+        "GemCost": 88, 
+        "MasterFacilityGemTimeId": 412000089, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 32040, 
+        "GemCost": 89, 
+        "MasterFacilityGemTimeId": 412000090, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 32400, 
+        "GemCost": 90, 
+        "MasterFacilityGemTimeId": 412000091, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 32760, 
+        "GemCost": 91, 
+        "MasterFacilityGemTimeId": 412000092, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 33120, 
+        "GemCost": 92, 
+        "MasterFacilityGemTimeId": 412000093, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 33480, 
+        "GemCost": 93, 
+        "MasterFacilityGemTimeId": 412000094, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 33840, 
+        "GemCost": 94, 
+        "MasterFacilityGemTimeId": 412000095, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 34200, 
+        "GemCost": 95, 
+        "MasterFacilityGemTimeId": 412000096, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 34560, 
+        "GemCost": 96, 
+        "MasterFacilityGemTimeId": 412000097, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 34920, 
+        "GemCost": 97, 
+        "MasterFacilityGemTimeId": 412000098, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 35280, 
+        "GemCost": 98, 
+        "MasterFacilityGemTimeId": 412000099, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 35640, 
+        "GemCost": 99, 
+        "MasterFacilityGemTimeId": 412000100, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 36000, 
+        "GemCost": 100, 
+        "MasterFacilityGemTimeId": 412000101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 36360, 
+        "GemCost": 101, 
+        "MasterFacilityGemTimeId": 412000102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 36720, 
+        "GemCost": 102, 
+        "MasterFacilityGemTimeId": 412000103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 37080, 
+        "GemCost": 103, 
+        "MasterFacilityGemTimeId": 412000104, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 37440, 
+        "GemCost": 104, 
+        "MasterFacilityGemTimeId": 412000105, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 37800, 
+        "GemCost": 105, 
+        "MasterFacilityGemTimeId": 412000106, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 38160, 
+        "GemCost": 106, 
+        "MasterFacilityGemTimeId": 412000107, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 38520, 
+        "GemCost": 107, 
+        "MasterFacilityGemTimeId": 412000108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 38880, 
+        "GemCost": 108, 
+        "MasterFacilityGemTimeId": 412000109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 39240, 
+        "GemCost": 109, 
+        "MasterFacilityGemTimeId": 412000110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 39600, 
+        "GemCost": 110, 
+        "MasterFacilityGemTimeId": 412000111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 39960, 
+        "GemCost": 111, 
+        "MasterFacilityGemTimeId": 412000112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 40320, 
+        "GemCost": 112, 
+        "MasterFacilityGemTimeId": 412000113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 40680, 
+        "GemCost": 113, 
+        "MasterFacilityGemTimeId": 412000114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 41040, 
+        "GemCost": 114, 
+        "MasterFacilityGemTimeId": 412000115, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 41400, 
+        "GemCost": 115, 
+        "MasterFacilityGemTimeId": 412000116, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 41760, 
+        "GemCost": 116, 
+        "MasterFacilityGemTimeId": 412000117, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 42120, 
+        "GemCost": 117, 
+        "MasterFacilityGemTimeId": 412000118, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 42480, 
+        "GemCost": 118, 
+        "MasterFacilityGemTimeId": 412000119, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 42840, 
+        "GemCost": 119, 
+        "MasterFacilityGemTimeId": 412000120, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 43200, 
+        "GemCost": 120, 
+        "MasterFacilityGemTimeId": 412000121, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 43560, 
+        "GemCost": 121, 
+        "MasterFacilityGemTimeId": 412000122, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 43920, 
+        "GemCost": 122, 
+        "MasterFacilityGemTimeId": 412000123, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 44280, 
+        "GemCost": 123, 
+        "MasterFacilityGemTimeId": 412000124, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 44640, 
+        "GemCost": 124, 
+        "MasterFacilityGemTimeId": 412000125, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 45000, 
+        "GemCost": 125, 
+        "MasterFacilityGemTimeId": 412000126, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 45360, 
+        "GemCost": 126, 
+        "MasterFacilityGemTimeId": 412000127, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 45720, 
+        "GemCost": 127, 
+        "MasterFacilityGemTimeId": 412000128, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 46080, 
+        "GemCost": 128, 
+        "MasterFacilityGemTimeId": 412000129, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 46440, 
+        "GemCost": 129, 
+        "MasterFacilityGemTimeId": 412000130, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 46800, 
+        "GemCost": 130, 
+        "MasterFacilityGemTimeId": 412000131, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 47160, 
+        "GemCost": 131, 
+        "MasterFacilityGemTimeId": 412000132, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 47520, 
+        "GemCost": 132, 
+        "MasterFacilityGemTimeId": 412000133, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 47880, 
+        "GemCost": 133, 
+        "MasterFacilityGemTimeId": 412000134, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 48240, 
+        "GemCost": 134, 
+        "MasterFacilityGemTimeId": 412000135, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 48600, 
+        "GemCost": 135, 
+        "MasterFacilityGemTimeId": 412000136, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 48960, 
+        "GemCost": 136, 
+        "MasterFacilityGemTimeId": 412000137, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 49320, 
+        "GemCost": 137, 
+        "MasterFacilityGemTimeId": 412000138, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 49680, 
+        "GemCost": 138, 
+        "MasterFacilityGemTimeId": 412000139, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 50040, 
+        "GemCost": 139, 
+        "MasterFacilityGemTimeId": 412000140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 50400, 
+        "GemCost": 140, 
+        "MasterFacilityGemTimeId": 412000141, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 50760, 
+        "GemCost": 141, 
+        "MasterFacilityGemTimeId": 412000142, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 51120, 
+        "GemCost": 142, 
+        "MasterFacilityGemTimeId": 412000143, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 51480, 
+        "GemCost": 143, 
+        "MasterFacilityGemTimeId": 412000144, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 51840, 
+        "GemCost": 144, 
+        "MasterFacilityGemTimeId": 412000145, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 52200, 
+        "GemCost": 145, 
+        "MasterFacilityGemTimeId": 412000146, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 52560, 
+        "GemCost": 146, 
+        "MasterFacilityGemTimeId": 412000147, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 52920, 
+        "GemCost": 147, 
+        "MasterFacilityGemTimeId": 412000148, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 53280, 
+        "GemCost": 148, 
+        "MasterFacilityGemTimeId": 412000149, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 53640, 
+        "GemCost": 149, 
+        "MasterFacilityGemTimeId": 412000150, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 54000, 
+        "GemCost": 150, 
+        "MasterFacilityGemTimeId": 412000151, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 54360, 
+        "GemCost": 151, 
+        "MasterFacilityGemTimeId": 412000152, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 54720, 
+        "GemCost": 152, 
+        "MasterFacilityGemTimeId": 412000153, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 55080, 
+        "GemCost": 153, 
+        "MasterFacilityGemTimeId": 412000154, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 55440, 
+        "GemCost": 154, 
+        "MasterFacilityGemTimeId": 412000155, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 55800, 
+        "GemCost": 155, 
+        "MasterFacilityGemTimeId": 412000156, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 56160, 
+        "GemCost": 156, 
+        "MasterFacilityGemTimeId": 412000157, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 56520, 
+        "GemCost": 157, 
+        "MasterFacilityGemTimeId": 412000158, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 56880, 
+        "GemCost": 158, 
+        "MasterFacilityGemTimeId": 412000159, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 57240, 
+        "GemCost": 159, 
+        "MasterFacilityGemTimeId": 412000160, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 57600, 
+        "GemCost": 160, 
+        "MasterFacilityGemTimeId": 412000161, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 57960, 
+        "GemCost": 161, 
+        "MasterFacilityGemTimeId": 412000162, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 58320, 
+        "GemCost": 162, 
+        "MasterFacilityGemTimeId": 412000163, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 58680, 
+        "GemCost": 163, 
+        "MasterFacilityGemTimeId": 412000164, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 59040, 
+        "GemCost": 164, 
+        "MasterFacilityGemTimeId": 412000165, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 59400, 
+        "GemCost": 165, 
+        "MasterFacilityGemTimeId": 412000166, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 59760, 
+        "GemCost": 166, 
+        "MasterFacilityGemTimeId": 412000167, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 60120, 
+        "GemCost": 167, 
+        "MasterFacilityGemTimeId": 412000168, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 60480, 
+        "GemCost": 168, 
+        "MasterFacilityGemTimeId": 412000169, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 60840, 
+        "GemCost": 169, 
+        "MasterFacilityGemTimeId": 412000170, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 61200, 
+        "GemCost": 170, 
+        "MasterFacilityGemTimeId": 412000171, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 61560, 
+        "GemCost": 171, 
+        "MasterFacilityGemTimeId": 412000172, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 61920, 
+        "GemCost": 172, 
+        "MasterFacilityGemTimeId": 412000173, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 62280, 
+        "GemCost": 173, 
+        "MasterFacilityGemTimeId": 412000174, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 62640, 
+        "GemCost": 174, 
+        "MasterFacilityGemTimeId": 412000175, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 63000, 
+        "GemCost": 175, 
+        "MasterFacilityGemTimeId": 412000176, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 63360, 
+        "GemCost": 176, 
+        "MasterFacilityGemTimeId": 412000177, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 63720, 
+        "GemCost": 177, 
+        "MasterFacilityGemTimeId": 412000178, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 64080, 
+        "GemCost": 178, 
+        "MasterFacilityGemTimeId": 412000179, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 64440, 
+        "GemCost": 179, 
+        "MasterFacilityGemTimeId": 412000180, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 64800, 
+        "GemCost": 180, 
+        "MasterFacilityGemTimeId": 412000181, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 65160, 
+        "GemCost": 181, 
+        "MasterFacilityGemTimeId": 412000182, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 65520, 
+        "GemCost": 182, 
+        "MasterFacilityGemTimeId": 412000183, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 65880, 
+        "GemCost": 183, 
+        "MasterFacilityGemTimeId": 412000184, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 66240, 
+        "GemCost": 184, 
+        "MasterFacilityGemTimeId": 412000185, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 66600, 
+        "GemCost": 185, 
+        "MasterFacilityGemTimeId": 412000186, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 66960, 
+        "GemCost": 186, 
+        "MasterFacilityGemTimeId": 412000187, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 67320, 
+        "GemCost": 187, 
+        "MasterFacilityGemTimeId": 412000188, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 67680, 
+        "GemCost": 188, 
+        "MasterFacilityGemTimeId": 412000189, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 68040, 
+        "GemCost": 189, 
+        "MasterFacilityGemTimeId": 412000190, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 68400, 
+        "GemCost": 190, 
+        "MasterFacilityGemTimeId": 412000191, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 68760, 
+        "GemCost": 191, 
+        "MasterFacilityGemTimeId": 412000192, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 69120, 
+        "GemCost": 192, 
+        "MasterFacilityGemTimeId": 412000193, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 69480, 
+        "GemCost": 193, 
+        "MasterFacilityGemTimeId": 412000194, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 69840, 
+        "GemCost": 194, 
+        "MasterFacilityGemTimeId": 412000195, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 70200, 
+        "GemCost": 195, 
+        "MasterFacilityGemTimeId": 412000196, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 70560, 
+        "GemCost": 196, 
+        "MasterFacilityGemTimeId": 412000197, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 70920, 
+        "GemCost": 197, 
+        "MasterFacilityGemTimeId": 412000198, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 71280, 
+        "GemCost": 198, 
+        "MasterFacilityGemTimeId": 412000199, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 71640, 
+        "GemCost": 199, 
+        "MasterFacilityGemTimeId": 412000200, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 72000, 
+        "GemCost": 200, 
+        "MasterFacilityGemTimeId": 412000201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 72360, 
+        "GemCost": 201, 
+        "MasterFacilityGemTimeId": 412000202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 72720, 
+        "GemCost": 202, 
+        "MasterFacilityGemTimeId": 412000203, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 73080, 
+        "GemCost": 203, 
+        "MasterFacilityGemTimeId": 412000204, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 73440, 
+        "GemCost": 204, 
+        "MasterFacilityGemTimeId": 412000205, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 73800, 
+        "GemCost": 205, 
+        "MasterFacilityGemTimeId": 412000206, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 74160, 
+        "GemCost": 206, 
+        "MasterFacilityGemTimeId": 412000207, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 74520, 
+        "GemCost": 207, 
+        "MasterFacilityGemTimeId": 412000208, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 74880, 
+        "GemCost": 208, 
+        "MasterFacilityGemTimeId": 412000209, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 75240, 
+        "GemCost": 209, 
+        "MasterFacilityGemTimeId": 412000210, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 75600, 
+        "GemCost": 210, 
+        "MasterFacilityGemTimeId": 412000211, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 75960, 
+        "GemCost": 211, 
+        "MasterFacilityGemTimeId": 412000212, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 76320, 
+        "GemCost": 212, 
+        "MasterFacilityGemTimeId": 412000213, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 76680, 
+        "GemCost": 213, 
+        "MasterFacilityGemTimeId": 412000214, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 77040, 
+        "GemCost": 214, 
+        "MasterFacilityGemTimeId": 412000215, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 77400, 
+        "GemCost": 215, 
+        "MasterFacilityGemTimeId": 412000216, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 77760, 
+        "GemCost": 216, 
+        "MasterFacilityGemTimeId": 412000217, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 78120, 
+        "GemCost": 217, 
+        "MasterFacilityGemTimeId": 412000218, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 78480, 
+        "GemCost": 218, 
+        "MasterFacilityGemTimeId": 412000219, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 78840, 
+        "GemCost": 219, 
+        "MasterFacilityGemTimeId": 412000220, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 79200, 
+        "GemCost": 220, 
+        "MasterFacilityGemTimeId": 412000221, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 79560, 
+        "GemCost": 221, 
+        "MasterFacilityGemTimeId": 412000222, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 79920, 
+        "GemCost": 222, 
+        "MasterFacilityGemTimeId": 412000223, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 80280, 
+        "GemCost": 223, 
+        "MasterFacilityGemTimeId": 412000224, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 80640, 
+        "GemCost": 224, 
+        "MasterFacilityGemTimeId": 412000225, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 81000, 
+        "GemCost": 225, 
+        "MasterFacilityGemTimeId": 412000226, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 81360, 
+        "GemCost": 226, 
+        "MasterFacilityGemTimeId": 412000227, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 81720, 
+        "GemCost": 227, 
+        "MasterFacilityGemTimeId": 412000228, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 82080, 
+        "GemCost": 228, 
+        "MasterFacilityGemTimeId": 412000229, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 82440, 
+        "GemCost": 229, 
+        "MasterFacilityGemTimeId": 412000230, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 82800, 
+        "GemCost": 230, 
+        "MasterFacilityGemTimeId": 412000231, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 83160, 
+        "GemCost": 231, 
+        "MasterFacilityGemTimeId": 412000232, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 83520, 
+        "GemCost": 232, 
+        "MasterFacilityGemTimeId": 412000233, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 83880, 
+        "GemCost": 233, 
+        "MasterFacilityGemTimeId": 412000234, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 84240, 
+        "GemCost": 234, 
+        "MasterFacilityGemTimeId": 412000235, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 84600, 
+        "GemCost": 235, 
+        "MasterFacilityGemTimeId": 412000236, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 84960, 
+        "GemCost": 236, 
+        "MasterFacilityGemTimeId": 412000237, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 85320, 
+        "GemCost": 237, 
+        "MasterFacilityGemTimeId": 412000238, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 85680, 
+        "GemCost": 238, 
+        "MasterFacilityGemTimeId": 412000239, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 86040, 
+        "GemCost": 239, 
+        "MasterFacilityGemTimeId": 412000240, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 86400, 
+        "GemCost": 240, 
+        "MasterFacilityGemTimeId": 412000241, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 86760, 
+        "GemCost": 241, 
+        "MasterFacilityGemTimeId": 412000242, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 87120, 
+        "GemCost": 242, 
+        "MasterFacilityGemTimeId": 412000243, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 87480, 
+        "GemCost": 243, 
+        "MasterFacilityGemTimeId": 412000244, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 87840, 
+        "GemCost": 244, 
+        "MasterFacilityGemTimeId": 412000245, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 88200, 
+        "GemCost": 245, 
+        "MasterFacilityGemTimeId": 412000246, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 88560, 
+        "GemCost": 246, 
+        "MasterFacilityGemTimeId": 412000247, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 88920, 
+        "GemCost": 247, 
+        "MasterFacilityGemTimeId": 412000248, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 89280, 
+        "GemCost": 248, 
+        "MasterFacilityGemTimeId": 412000249, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 89640, 
+        "GemCost": 249, 
+        "MasterFacilityGemTimeId": 412000250, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 90000, 
+        "GemCost": 250, 
+        "MasterFacilityGemTimeId": 412000251, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 90360, 
+        "GemCost": 251, 
+        "MasterFacilityGemTimeId": 412000252, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 90720, 
+        "GemCost": 252, 
+        "MasterFacilityGemTimeId": 412000253, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 91080, 
+        "GemCost": 253, 
+        "MasterFacilityGemTimeId": 412000254, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 91440, 
+        "GemCost": 254, 
+        "MasterFacilityGemTimeId": 412000255, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 91800, 
+        "GemCost": 255, 
+        "MasterFacilityGemTimeId": 412000256, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 92160, 
+        "GemCost": 256, 
+        "MasterFacilityGemTimeId": 412000257, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 92520, 
+        "GemCost": 257, 
+        "MasterFacilityGemTimeId": 412000258, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 92880, 
+        "GemCost": 258, 
+        "MasterFacilityGemTimeId": 412000259, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 93240, 
+        "GemCost": 259, 
+        "MasterFacilityGemTimeId": 412000260, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 93600, 
+        "GemCost": 260, 
+        "MasterFacilityGemTimeId": 412000261, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 93960, 
+        "GemCost": 261, 
+        "MasterFacilityGemTimeId": 412000262, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 94320, 
+        "GemCost": 262, 
+        "MasterFacilityGemTimeId": 412000263, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 94680, 
+        "GemCost": 263, 
+        "MasterFacilityGemTimeId": 412000264, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 95040, 
+        "GemCost": 264, 
+        "MasterFacilityGemTimeId": 412000265, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 95400, 
+        "GemCost": 265, 
+        "MasterFacilityGemTimeId": 412000266, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 95760, 
+        "GemCost": 266, 
+        "MasterFacilityGemTimeId": 412000267, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 96120, 
+        "GemCost": 267, 
+        "MasterFacilityGemTimeId": 412000268, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 96480, 
+        "GemCost": 268, 
+        "MasterFacilityGemTimeId": 412000269, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 96840, 
+        "GemCost": 269, 
+        "MasterFacilityGemTimeId": 412000270, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 97200, 
+        "GemCost": 270, 
+        "MasterFacilityGemTimeId": 412000271, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 97560, 
+        "GemCost": 271, 
+        "MasterFacilityGemTimeId": 412000272, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 97920, 
+        "GemCost": 272, 
+        "MasterFacilityGemTimeId": 412000273, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 98280, 
+        "GemCost": 273, 
+        "MasterFacilityGemTimeId": 412000274, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 98640, 
+        "GemCost": 274, 
+        "MasterFacilityGemTimeId": 412000275, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 99000, 
+        "GemCost": 275, 
+        "MasterFacilityGemTimeId": 412000276, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 99360, 
+        "GemCost": 276, 
+        "MasterFacilityGemTimeId": 412000277, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 99720, 
+        "GemCost": 277, 
+        "MasterFacilityGemTimeId": 412000278, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 100080, 
+        "GemCost": 278, 
+        "MasterFacilityGemTimeId": 412000279, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 100440, 
+        "GemCost": 279, 
+        "MasterFacilityGemTimeId": 412000280, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 100800, 
+        "GemCost": 280, 
+        "MasterFacilityGemTimeId": 412000281, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 101160, 
+        "GemCost": 281, 
+        "MasterFacilityGemTimeId": 412000282, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 101520, 
+        "GemCost": 282, 
+        "MasterFacilityGemTimeId": 412000283, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 101880, 
+        "GemCost": 283, 
+        "MasterFacilityGemTimeId": 412000284, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 102240, 
+        "GemCost": 284, 
+        "MasterFacilityGemTimeId": 412000285, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 102600, 
+        "GemCost": 285, 
+        "MasterFacilityGemTimeId": 412000286, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 102960, 
+        "GemCost": 286, 
+        "MasterFacilityGemTimeId": 412000287, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 103320, 
+        "GemCost": 287, 
+        "MasterFacilityGemTimeId": 412000288, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 103680, 
+        "GemCost": 288, 
+        "MasterFacilityGemTimeId": 412000289, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 104040, 
+        "GemCost": 289, 
+        "MasterFacilityGemTimeId": 412000290, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 104400, 
+        "GemCost": 290, 
+        "MasterFacilityGemTimeId": 412000291, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 104760, 
+        "GemCost": 291, 
+        "MasterFacilityGemTimeId": 412000292, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 105120, 
+        "GemCost": 292, 
+        "MasterFacilityGemTimeId": 412000293, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 105480, 
+        "GemCost": 293, 
+        "MasterFacilityGemTimeId": 412000294, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 105840, 
+        "GemCost": 294, 
+        "MasterFacilityGemTimeId": 412000295, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 106200, 
+        "GemCost": 295, 
+        "MasterFacilityGemTimeId": 412000296, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 106560, 
+        "GemCost": 296, 
+        "MasterFacilityGemTimeId": 412000297, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 106920, 
+        "GemCost": 297, 
+        "MasterFacilityGemTimeId": 412000298, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 107280, 
+        "GemCost": 298, 
+        "MasterFacilityGemTimeId": 412000299, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 107640, 
+        "GemCost": 299, 
+        "MasterFacilityGemTimeId": 412000300, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 108000, 
+        "GemCost": 300, 
+        "MasterFacilityGemTimeId": 412000301, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 108360, 
+        "GemCost": 301, 
+        "MasterFacilityGemTimeId": 412000302, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 108720, 
+        "GemCost": 302, 
+        "MasterFacilityGemTimeId": 412000303, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 109080, 
+        "GemCost": 303, 
+        "MasterFacilityGemTimeId": 412000304, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 109440, 
+        "GemCost": 304, 
+        "MasterFacilityGemTimeId": 412000305, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 109800, 
+        "GemCost": 305, 
+        "MasterFacilityGemTimeId": 412000306, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 110160, 
+        "GemCost": 306, 
+        "MasterFacilityGemTimeId": 412000307, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 110520, 
+        "GemCost": 307, 
+        "MasterFacilityGemTimeId": 412000308, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 110880, 
+        "GemCost": 308, 
+        "MasterFacilityGemTimeId": 412000309, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 111240, 
+        "GemCost": 309, 
+        "MasterFacilityGemTimeId": 412000310, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 111600, 
+        "GemCost": 310, 
+        "MasterFacilityGemTimeId": 412000311, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 111960, 
+        "GemCost": 311, 
+        "MasterFacilityGemTimeId": 412000312, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 112320, 
+        "GemCost": 312, 
+        "MasterFacilityGemTimeId": 412000313, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 112680, 
+        "GemCost": 313, 
+        "MasterFacilityGemTimeId": 412000314, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 113040, 
+        "GemCost": 314, 
+        "MasterFacilityGemTimeId": 412000315, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 113400, 
+        "GemCost": 315, 
+        "MasterFacilityGemTimeId": 412000316, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 113760, 
+        "GemCost": 316, 
+        "MasterFacilityGemTimeId": 412000317, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 114120, 
+        "GemCost": 317, 
+        "MasterFacilityGemTimeId": 412000318, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 114480, 
+        "GemCost": 318, 
+        "MasterFacilityGemTimeId": 412000319, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 114840, 
+        "GemCost": 319, 
+        "MasterFacilityGemTimeId": 412000320, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 115200, 
+        "GemCost": 320, 
+        "MasterFacilityGemTimeId": 412000321, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 115560, 
+        "GemCost": 321, 
+        "MasterFacilityGemTimeId": 412000322, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 115920, 
+        "GemCost": 322, 
+        "MasterFacilityGemTimeId": 412000323, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 116280, 
+        "GemCost": 323, 
+        "MasterFacilityGemTimeId": 412000324, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 116640, 
+        "GemCost": 324, 
+        "MasterFacilityGemTimeId": 412000325, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 117000, 
+        "GemCost": 325, 
+        "MasterFacilityGemTimeId": 412000326, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 117360, 
+        "GemCost": 326, 
+        "MasterFacilityGemTimeId": 412000327, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 117720, 
+        "GemCost": 327, 
+        "MasterFacilityGemTimeId": 412000328, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 118080, 
+        "GemCost": 328, 
+        "MasterFacilityGemTimeId": 412000329, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 118440, 
+        "GemCost": 329, 
+        "MasterFacilityGemTimeId": 412000330, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 118800, 
+        "GemCost": 330, 
+        "MasterFacilityGemTimeId": 412000331, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 119160, 
+        "GemCost": 331, 
+        "MasterFacilityGemTimeId": 412000332, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 119520, 
+        "GemCost": 332, 
+        "MasterFacilityGemTimeId": 412000333, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 119880, 
+        "GemCost": 333, 
+        "MasterFacilityGemTimeId": 412000334, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 120240, 
+        "GemCost": 334, 
+        "MasterFacilityGemTimeId": 412000335, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 120600, 
+        "GemCost": 335, 
+        "MasterFacilityGemTimeId": 412000336, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 120960, 
+        "GemCost": 336, 
+        "MasterFacilityGemTimeId": 412000337, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 121320, 
+        "GemCost": 337, 
+        "MasterFacilityGemTimeId": 412000338, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 121680, 
+        "GemCost": 338, 
+        "MasterFacilityGemTimeId": 412000339, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 122040, 
+        "GemCost": 339, 
+        "MasterFacilityGemTimeId": 412000340, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 122400, 
+        "GemCost": 340, 
+        "MasterFacilityGemTimeId": 412000341, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 122760, 
+        "GemCost": 341, 
+        "MasterFacilityGemTimeId": 412000342, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 123120, 
+        "GemCost": 342, 
+        "MasterFacilityGemTimeId": 412000343, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 123480, 
+        "GemCost": 343, 
+        "MasterFacilityGemTimeId": 412000344, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 123840, 
+        "GemCost": 344, 
+        "MasterFacilityGemTimeId": 412000345, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 124200, 
+        "GemCost": 345, 
+        "MasterFacilityGemTimeId": 412000346, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 124560, 
+        "GemCost": 346, 
+        "MasterFacilityGemTimeId": 412000347, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 124920, 
+        "GemCost": 347, 
+        "MasterFacilityGemTimeId": 412000348, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 125280, 
+        "GemCost": 348, 
+        "MasterFacilityGemTimeId": 412000349, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 125640, 
+        "GemCost": 349, 
+        "MasterFacilityGemTimeId": 412000350, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 126000, 
+        "GemCost": 350, 
+        "MasterFacilityGemTimeId": 412000351, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 126360, 
+        "GemCost": 351, 
+        "MasterFacilityGemTimeId": 412000352, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 126720, 
+        "GemCost": 352, 
+        "MasterFacilityGemTimeId": 412000353, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 127080, 
+        "GemCost": 353, 
+        "MasterFacilityGemTimeId": 412000354, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 127440, 
+        "GemCost": 354, 
+        "MasterFacilityGemTimeId": 412000355, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 127800, 
+        "GemCost": 355, 
+        "MasterFacilityGemTimeId": 412000356, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 128160, 
+        "GemCost": 356, 
+        "MasterFacilityGemTimeId": 412000357, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 128520, 
+        "GemCost": 357, 
+        "MasterFacilityGemTimeId": 412000358, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 128880, 
+        "GemCost": 358, 
+        "MasterFacilityGemTimeId": 412000359, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 129240, 
+        "GemCost": 359, 
+        "MasterFacilityGemTimeId": 412000360, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 129600, 
+        "GemCost": 360, 
+        "MasterFacilityGemTimeId": 412000361, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 129960, 
+        "GemCost": 361, 
+        "MasterFacilityGemTimeId": 412000362, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 130320, 
+        "GemCost": 362, 
+        "MasterFacilityGemTimeId": 412000363, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 130680, 
+        "GemCost": 363, 
+        "MasterFacilityGemTimeId": 412000364, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 131040, 
+        "GemCost": 364, 
+        "MasterFacilityGemTimeId": 412000365, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 131400, 
+        "GemCost": 365, 
+        "MasterFacilityGemTimeId": 412000366, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 131760, 
+        "GemCost": 366, 
+        "MasterFacilityGemTimeId": 412000367, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 132120, 
+        "GemCost": 367, 
+        "MasterFacilityGemTimeId": 412000368, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 132480, 
+        "GemCost": 368, 
+        "MasterFacilityGemTimeId": 412000369, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 132840, 
+        "GemCost": 369, 
+        "MasterFacilityGemTimeId": 412000370, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 133200, 
+        "GemCost": 370, 
+        "MasterFacilityGemTimeId": 412000371, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 133560, 
+        "GemCost": 371, 
+        "MasterFacilityGemTimeId": 412000372, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 133920, 
+        "GemCost": 372, 
+        "MasterFacilityGemTimeId": 412000373, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 134280, 
+        "GemCost": 373, 
+        "MasterFacilityGemTimeId": 412000374, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 134640, 
+        "GemCost": 374, 
+        "MasterFacilityGemTimeId": 412000375, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 135000, 
+        "GemCost": 375, 
+        "MasterFacilityGemTimeId": 412000376, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 135360, 
+        "GemCost": 376, 
+        "MasterFacilityGemTimeId": 412000377, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 135720, 
+        "GemCost": 377, 
+        "MasterFacilityGemTimeId": 412000378, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 136080, 
+        "GemCost": 378, 
+        "MasterFacilityGemTimeId": 412000379, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 136440, 
+        "GemCost": 379, 
+        "MasterFacilityGemTimeId": 412000380, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 136800, 
+        "GemCost": 380, 
+        "MasterFacilityGemTimeId": 412000381, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 137160, 
+        "GemCost": 381, 
+        "MasterFacilityGemTimeId": 412000382, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 137520, 
+        "GemCost": 382, 
+        "MasterFacilityGemTimeId": 412000383, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 137880, 
+        "GemCost": 383, 
+        "MasterFacilityGemTimeId": 412000384, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 138240, 
+        "GemCost": 384, 
+        "MasterFacilityGemTimeId": 412000385, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 138600, 
+        "GemCost": 385, 
+        "MasterFacilityGemTimeId": 412000386, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 138960, 
+        "GemCost": 386, 
+        "MasterFacilityGemTimeId": 412000387, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 139320, 
+        "GemCost": 387, 
+        "MasterFacilityGemTimeId": 412000388, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 139680, 
+        "GemCost": 388, 
+        "MasterFacilityGemTimeId": 412000389, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 140040, 
+        "GemCost": 389, 
+        "MasterFacilityGemTimeId": 412000390, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 140400, 
+        "GemCost": 390, 
+        "MasterFacilityGemTimeId": 412000391, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 140760, 
+        "GemCost": 391, 
+        "MasterFacilityGemTimeId": 412000392, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 141120, 
+        "GemCost": 392, 
+        "MasterFacilityGemTimeId": 412000393, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 141480, 
+        "GemCost": 393, 
+        "MasterFacilityGemTimeId": 412000394, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 141840, 
+        "GemCost": 394, 
+        "MasterFacilityGemTimeId": 412000395, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 142200, 
+        "GemCost": 395, 
+        "MasterFacilityGemTimeId": 412000396, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 142560, 
+        "GemCost": 396, 
+        "MasterFacilityGemTimeId": 412000397, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 142920, 
+        "GemCost": 397, 
+        "MasterFacilityGemTimeId": 412000398, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 143280, 
+        "GemCost": 398, 
+        "MasterFacilityGemTimeId": 412000399, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 143640, 
+        "GemCost": 399, 
+        "MasterFacilityGemTimeId": 412000400, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 144000, 
+        "GemCost": 400, 
+        "MasterFacilityGemTimeId": 412000401, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 144360, 
+        "GemCost": 401, 
+        "MasterFacilityGemTimeId": 412000402, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 144720, 
+        "GemCost": 402, 
+        "MasterFacilityGemTimeId": 412000403, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 145080, 
+        "GemCost": 403, 
+        "MasterFacilityGemTimeId": 412000404, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 145440, 
+        "GemCost": 404, 
+        "MasterFacilityGemTimeId": 412000405, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 145800, 
+        "GemCost": 405, 
+        "MasterFacilityGemTimeId": 412000406, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 146160, 
+        "GemCost": 406, 
+        "MasterFacilityGemTimeId": 412000407, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 146520, 
+        "GemCost": 407, 
+        "MasterFacilityGemTimeId": 412000408, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 146880, 
+        "GemCost": 408, 
+        "MasterFacilityGemTimeId": 412000409, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 147240, 
+        "GemCost": 409, 
+        "MasterFacilityGemTimeId": 412000410, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 147600, 
+        "GemCost": 410, 
+        "MasterFacilityGemTimeId": 412000411, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 147960, 
+        "GemCost": 411, 
+        "MasterFacilityGemTimeId": 412000412, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 148320, 
+        "GemCost": 412, 
+        "MasterFacilityGemTimeId": 412000413, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 148680, 
+        "GemCost": 413, 
+        "MasterFacilityGemTimeId": 412000414, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 149040, 
+        "GemCost": 414, 
+        "MasterFacilityGemTimeId": 412000415, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 149400, 
+        "GemCost": 415, 
+        "MasterFacilityGemTimeId": 412000416, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 149760, 
+        "GemCost": 416, 
+        "MasterFacilityGemTimeId": 412000417, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 150120, 
+        "GemCost": 417, 
+        "MasterFacilityGemTimeId": 412000418, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 150480, 
+        "GemCost": 418, 
+        "MasterFacilityGemTimeId": 412000419, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 150840, 
+        "GemCost": 419, 
+        "MasterFacilityGemTimeId": 412000420, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 151200, 
+        "GemCost": 420, 
+        "MasterFacilityGemTimeId": 412000421, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 151560, 
+        "GemCost": 421, 
+        "MasterFacilityGemTimeId": 412000422, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 151920, 
+        "GemCost": 422, 
+        "MasterFacilityGemTimeId": 412000423, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 152280, 
+        "GemCost": 423, 
+        "MasterFacilityGemTimeId": 412000424, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 152640, 
+        "GemCost": 424, 
+        "MasterFacilityGemTimeId": 412000425, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 153000, 
+        "GemCost": 425, 
+        "MasterFacilityGemTimeId": 412000426, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 153360, 
+        "GemCost": 426, 
+        "MasterFacilityGemTimeId": 412000427, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 153720, 
+        "GemCost": 427, 
+        "MasterFacilityGemTimeId": 412000428, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 154080, 
+        "GemCost": 428, 
+        "MasterFacilityGemTimeId": 412000429, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 154440, 
+        "GemCost": 429, 
+        "MasterFacilityGemTimeId": 412000430, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 154800, 
+        "GemCost": 430, 
+        "MasterFacilityGemTimeId": 412000431, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 155160, 
+        "GemCost": 431, 
+        "MasterFacilityGemTimeId": 412000432, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 155520, 
+        "GemCost": 432, 
+        "MasterFacilityGemTimeId": 412000433, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 155880, 
+        "GemCost": 433, 
+        "MasterFacilityGemTimeId": 412000434, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 156240, 
+        "GemCost": 434, 
+        "MasterFacilityGemTimeId": 412000435, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 156600, 
+        "GemCost": 435, 
+        "MasterFacilityGemTimeId": 412000436, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 156960, 
+        "GemCost": 436, 
+        "MasterFacilityGemTimeId": 412000437, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 157320, 
+        "GemCost": 437, 
+        "MasterFacilityGemTimeId": 412000438, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 157680, 
+        "GemCost": 438, 
+        "MasterFacilityGemTimeId": 412000439, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 158040, 
+        "GemCost": 439, 
+        "MasterFacilityGemTimeId": 412000440, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 158400, 
+        "GemCost": 440, 
+        "MasterFacilityGemTimeId": 412000441, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 158760, 
+        "GemCost": 441, 
+        "MasterFacilityGemTimeId": 412000442, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 159120, 
+        "GemCost": 442, 
+        "MasterFacilityGemTimeId": 412000443, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 159480, 
+        "GemCost": 443, 
+        "MasterFacilityGemTimeId": 412000444, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 159840, 
+        "GemCost": 444, 
+        "MasterFacilityGemTimeId": 412000445, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 160200, 
+        "GemCost": 445, 
+        "MasterFacilityGemTimeId": 412000446, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 160560, 
+        "GemCost": 446, 
+        "MasterFacilityGemTimeId": 412000447, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 160920, 
+        "GemCost": 447, 
+        "MasterFacilityGemTimeId": 412000448, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 161280, 
+        "GemCost": 448, 
+        "MasterFacilityGemTimeId": 412000449, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 161640, 
+        "GemCost": 449, 
+        "MasterFacilityGemTimeId": 412000450, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 162000, 
+        "GemCost": 450, 
+        "MasterFacilityGemTimeId": 412000451, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 162360, 
+        "GemCost": 451, 
+        "MasterFacilityGemTimeId": 412000452, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 162720, 
+        "GemCost": 452, 
+        "MasterFacilityGemTimeId": 412000453, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 163080, 
+        "GemCost": 453, 
+        "MasterFacilityGemTimeId": 412000454, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 163440, 
+        "GemCost": 454, 
+        "MasterFacilityGemTimeId": 412000455, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 163800, 
+        "GemCost": 455, 
+        "MasterFacilityGemTimeId": 412000456, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 164160, 
+        "GemCost": 456, 
+        "MasterFacilityGemTimeId": 412000457, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 164520, 
+        "GemCost": 457, 
+        "MasterFacilityGemTimeId": 412000458, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 164880, 
+        "GemCost": 458, 
+        "MasterFacilityGemTimeId": 412000459, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 165240, 
+        "GemCost": 459, 
+        "MasterFacilityGemTimeId": 412000460, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 165600, 
+        "GemCost": 460, 
+        "MasterFacilityGemTimeId": 412000461, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 165960, 
+        "GemCost": 461, 
+        "MasterFacilityGemTimeId": 412000462, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 166320, 
+        "GemCost": 462, 
+        "MasterFacilityGemTimeId": 412000463, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 166680, 
+        "GemCost": 463, 
+        "MasterFacilityGemTimeId": 412000464, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 167040, 
+        "GemCost": 464, 
+        "MasterFacilityGemTimeId": 412000465, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 167400, 
+        "GemCost": 465, 
+        "MasterFacilityGemTimeId": 412000466, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 167760, 
+        "GemCost": 466, 
+        "MasterFacilityGemTimeId": 412000467, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 168120, 
+        "GemCost": 467, 
+        "MasterFacilityGemTimeId": 412000468, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 168480, 
+        "GemCost": 468, 
+        "MasterFacilityGemTimeId": 412000469, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 168840, 
+        "GemCost": 469, 
+        "MasterFacilityGemTimeId": 412000470, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 169200, 
+        "GemCost": 470, 
+        "MasterFacilityGemTimeId": 412000471, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 169560, 
+        "GemCost": 471, 
+        "MasterFacilityGemTimeId": 412000472, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 169920, 
+        "GemCost": 472, 
+        "MasterFacilityGemTimeId": 412000473, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 170280, 
+        "GemCost": 473, 
+        "MasterFacilityGemTimeId": 412000474, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 170640, 
+        "GemCost": 474, 
+        "MasterFacilityGemTimeId": 412000475, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 171000, 
+        "GemCost": 475, 
+        "MasterFacilityGemTimeId": 412000476, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 171360, 
+        "GemCost": 476, 
+        "MasterFacilityGemTimeId": 412000477, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 171720, 
+        "GemCost": 477, 
+        "MasterFacilityGemTimeId": 412000478, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 172080, 
+        "GemCost": 478, 
+        "MasterFacilityGemTimeId": 412000479, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 172440, 
+        "GemCost": 479, 
+        "MasterFacilityGemTimeId": 412000480, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 172800, 
+        "GemCost": 480, 
+        "MasterFacilityGemTimeId": 412000481, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 173160, 
+        "GemCost": 481, 
+        "MasterFacilityGemTimeId": 412000482, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 173520, 
+        "GemCost": 482, 
+        "MasterFacilityGemTimeId": 412000483, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 173880, 
+        "GemCost": 483, 
+        "MasterFacilityGemTimeId": 412000484, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 174240, 
+        "GemCost": 484, 
+        "MasterFacilityGemTimeId": 412000485, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 174600, 
+        "GemCost": 485, 
+        "MasterFacilityGemTimeId": 412000486, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 174960, 
+        "GemCost": 486, 
+        "MasterFacilityGemTimeId": 412000487, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 175320, 
+        "GemCost": 487, 
+        "MasterFacilityGemTimeId": 412000488, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 175680, 
+        "GemCost": 488, 
+        "MasterFacilityGemTimeId": 412000489, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 176040, 
+        "GemCost": 489, 
+        "MasterFacilityGemTimeId": 412000490, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 176400, 
+        "GemCost": 490, 
+        "MasterFacilityGemTimeId": 412000491, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 176760, 
+        "GemCost": 491, 
+        "MasterFacilityGemTimeId": 412000492, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 177120, 
+        "GemCost": 492, 
+        "MasterFacilityGemTimeId": 412000493, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 177480, 
+        "GemCost": 493, 
+        "MasterFacilityGemTimeId": 412000494, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 177840, 
+        "GemCost": 494, 
+        "MasterFacilityGemTimeId": 412000495, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 178200, 
+        "GemCost": 495, 
+        "MasterFacilityGemTimeId": 412000496, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 178560, 
+        "GemCost": 496, 
+        "MasterFacilityGemTimeId": 412000497, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 178920, 
+        "GemCost": 497, 
+        "MasterFacilityGemTimeId": 412000498, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 179280, 
+        "GemCost": 498, 
+        "MasterFacilityGemTimeId": 412000499, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 179640, 
+        "GemCost": 499, 
+        "MasterFacilityGemTimeId": 412000500, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 180000, 
+        "GemCost": 500, 
+        "MasterFacilityGemTimeId": 412000501, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 180360, 
+        "GemCost": 501, 
+        "MasterFacilityGemTimeId": 412000502, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 180720, 
+        "GemCost": 502, 
+        "MasterFacilityGemTimeId": 412000503, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 181080, 
+        "GemCost": 503, 
+        "MasterFacilityGemTimeId": 412000504, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 181440, 
+        "GemCost": 504, 
+        "MasterFacilityGemTimeId": 412000505, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 181800, 
+        "GemCost": 505, 
+        "MasterFacilityGemTimeId": 412000506, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 182160, 
+        "GemCost": 506, 
+        "MasterFacilityGemTimeId": 412000507, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 182520, 
+        "GemCost": 507, 
+        "MasterFacilityGemTimeId": 412000508, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 182880, 
+        "GemCost": 508, 
+        "MasterFacilityGemTimeId": 412000509, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 183240, 
+        "GemCost": 509, 
+        "MasterFacilityGemTimeId": 412000510, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 183600, 
+        "GemCost": 510, 
+        "MasterFacilityGemTimeId": 412000511, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 183960, 
+        "GemCost": 511, 
+        "MasterFacilityGemTimeId": 412000512, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 184320, 
+        "GemCost": 512, 
+        "MasterFacilityGemTimeId": 412000513, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 184680, 
+        "GemCost": 513, 
+        "MasterFacilityGemTimeId": 412000514, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 185040, 
+        "GemCost": 514, 
+        "MasterFacilityGemTimeId": 412000515, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 185400, 
+        "GemCost": 515, 
+        "MasterFacilityGemTimeId": 412000516, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 185760, 
+        "GemCost": 516, 
+        "MasterFacilityGemTimeId": 412000517, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 186120, 
+        "GemCost": 517, 
+        "MasterFacilityGemTimeId": 412000518, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 186480, 
+        "GemCost": 518, 
+        "MasterFacilityGemTimeId": 412000519, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 186840, 
+        "GemCost": 519, 
+        "MasterFacilityGemTimeId": 412000520, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 187200, 
+        "GemCost": 520, 
+        "MasterFacilityGemTimeId": 412000521, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 187560, 
+        "GemCost": 521, 
+        "MasterFacilityGemTimeId": 412000522, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 187920, 
+        "GemCost": 522, 
+        "MasterFacilityGemTimeId": 412000523, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 188280, 
+        "GemCost": 523, 
+        "MasterFacilityGemTimeId": 412000524, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 188640, 
+        "GemCost": 524, 
+        "MasterFacilityGemTimeId": 412000525, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 189000, 
+        "GemCost": 525, 
+        "MasterFacilityGemTimeId": 412000526, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 189360, 
+        "GemCost": 526, 
+        "MasterFacilityGemTimeId": 412000527, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 189720, 
+        "GemCost": 527, 
+        "MasterFacilityGemTimeId": 412000528, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 190080, 
+        "GemCost": 528, 
+        "MasterFacilityGemTimeId": 412000529, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 190440, 
+        "GemCost": 529, 
+        "MasterFacilityGemTimeId": 412000530, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 190800, 
+        "GemCost": 530, 
+        "MasterFacilityGemTimeId": 412000531, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 191160, 
+        "GemCost": 531, 
+        "MasterFacilityGemTimeId": 412000532, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 191520, 
+        "GemCost": 532, 
+        "MasterFacilityGemTimeId": 412000533, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 191880, 
+        "GemCost": 533, 
+        "MasterFacilityGemTimeId": 412000534, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 192240, 
+        "GemCost": 534, 
+        "MasterFacilityGemTimeId": 412000535, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 192600, 
+        "GemCost": 535, 
+        "MasterFacilityGemTimeId": 412000536, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 192960, 
+        "GemCost": 536, 
+        "MasterFacilityGemTimeId": 412000537, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 193320, 
+        "GemCost": 537, 
+        "MasterFacilityGemTimeId": 412000538, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 193680, 
+        "GemCost": 538, 
+        "MasterFacilityGemTimeId": 412000539, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 194040, 
+        "GemCost": 539, 
+        "MasterFacilityGemTimeId": 412000540, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 194400, 
+        "GemCost": 540, 
+        "MasterFacilityGemTimeId": 412000541, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 194760, 
+        "GemCost": 541, 
+        "MasterFacilityGemTimeId": 412000542, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 195120, 
+        "GemCost": 542, 
+        "MasterFacilityGemTimeId": 412000543, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 195480, 
+        "GemCost": 543, 
+        "MasterFacilityGemTimeId": 412000544, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 195840, 
+        "GemCost": 544, 
+        "MasterFacilityGemTimeId": 412000545, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 196200, 
+        "GemCost": 545, 
+        "MasterFacilityGemTimeId": 412000546, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 196560, 
+        "GemCost": 546, 
+        "MasterFacilityGemTimeId": 412000547, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 196920, 
+        "GemCost": 547, 
+        "MasterFacilityGemTimeId": 412000548, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 197280, 
+        "GemCost": 548, 
+        "MasterFacilityGemTimeId": 412000549, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 197640, 
+        "GemCost": 549, 
+        "MasterFacilityGemTimeId": 412000550, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 198000, 
+        "GemCost": 550, 
+        "MasterFacilityGemTimeId": 412000551, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 198360, 
+        "GemCost": 551, 
+        "MasterFacilityGemTimeId": 412000552, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 198720, 
+        "GemCost": 552, 
+        "MasterFacilityGemTimeId": 412000553, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 199080, 
+        "GemCost": 553, 
+        "MasterFacilityGemTimeId": 412000554, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 199440, 
+        "GemCost": 554, 
+        "MasterFacilityGemTimeId": 412000555, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 199800, 
+        "GemCost": 555, 
+        "MasterFacilityGemTimeId": 412000556, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 200160, 
+        "GemCost": 556, 
+        "MasterFacilityGemTimeId": 412000557, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 200520, 
+        "GemCost": 557, 
+        "MasterFacilityGemTimeId": 412000558, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 200880, 
+        "GemCost": 558, 
+        "MasterFacilityGemTimeId": 412000559, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 201240, 
+        "GemCost": 559, 
+        "MasterFacilityGemTimeId": 412000560, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 201600, 
+        "GemCost": 560, 
+        "MasterFacilityGemTimeId": 412000561, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 201960, 
+        "GemCost": 561, 
+        "MasterFacilityGemTimeId": 412000562, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 202320, 
+        "GemCost": 562, 
+        "MasterFacilityGemTimeId": 412000563, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 202680, 
+        "GemCost": 563, 
+        "MasterFacilityGemTimeId": 412000564, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 203040, 
+        "GemCost": 564, 
+        "MasterFacilityGemTimeId": 412000565, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 203400, 
+        "GemCost": 565, 
+        "MasterFacilityGemTimeId": 412000566, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 203760, 
+        "GemCost": 566, 
+        "MasterFacilityGemTimeId": 412000567, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 204120, 
+        "GemCost": 567, 
+        "MasterFacilityGemTimeId": 412000568, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 204480, 
+        "GemCost": 568, 
+        "MasterFacilityGemTimeId": 412000569, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 204840, 
+        "GemCost": 569, 
+        "MasterFacilityGemTimeId": 412000570, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 205200, 
+        "GemCost": 570, 
+        "MasterFacilityGemTimeId": 412000571, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 205560, 
+        "GemCost": 571, 
+        "MasterFacilityGemTimeId": 412000572, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 205920, 
+        "GemCost": 572, 
+        "MasterFacilityGemTimeId": 412000573, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 206280, 
+        "GemCost": 573, 
+        "MasterFacilityGemTimeId": 412000574, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 206640, 
+        "GemCost": 574, 
+        "MasterFacilityGemTimeId": 412000575, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 207000, 
+        "GemCost": 575, 
+        "MasterFacilityGemTimeId": 412000576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 207360, 
+        "GemCost": 576, 
+        "MasterFacilityGemTimeId": 412000577, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 207720, 
+        "GemCost": 577, 
+        "MasterFacilityGemTimeId": 412000578, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 208080, 
+        "GemCost": 578, 
+        "MasterFacilityGemTimeId": 412000579, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 208440, 
+        "GemCost": 579, 
+        "MasterFacilityGemTimeId": 412000580, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 208800, 
+        "GemCost": 580, 
+        "MasterFacilityGemTimeId": 412000581, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 209160, 
+        "GemCost": 581, 
+        "MasterFacilityGemTimeId": 412000582, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 209520, 
+        "GemCost": 582, 
+        "MasterFacilityGemTimeId": 412000583, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 209880, 
+        "GemCost": 583, 
+        "MasterFacilityGemTimeId": 412000584, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 210240, 
+        "GemCost": 584, 
+        "MasterFacilityGemTimeId": 412000585, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 210600, 
+        "GemCost": 585, 
+        "MasterFacilityGemTimeId": 412000586, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 210960, 
+        "GemCost": 586, 
+        "MasterFacilityGemTimeId": 412000587, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 211320, 
+        "GemCost": 587, 
+        "MasterFacilityGemTimeId": 412000588, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 211680, 
+        "GemCost": 588, 
+        "MasterFacilityGemTimeId": 412000589, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 212040, 
+        "GemCost": 589, 
+        "MasterFacilityGemTimeId": 412000590, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 212400, 
+        "GemCost": 590, 
+        "MasterFacilityGemTimeId": 412000591, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 212760, 
+        "GemCost": 591, 
+        "MasterFacilityGemTimeId": 412000592, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 213120, 
+        "GemCost": 592, 
+        "MasterFacilityGemTimeId": 412000593, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 213480, 
+        "GemCost": 593, 
+        "MasterFacilityGemTimeId": 412000594, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 213840, 
+        "GemCost": 594, 
+        "MasterFacilityGemTimeId": 412000595, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 214200, 
+        "GemCost": 595, 
+        "MasterFacilityGemTimeId": 412000596, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 214560, 
+        "GemCost": 596, 
+        "MasterFacilityGemTimeId": 412000597, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 214920, 
+        "GemCost": 597, 
+        "MasterFacilityGemTimeId": 412000598, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 215280, 
+        "GemCost": 598, 
+        "MasterFacilityGemTimeId": 412000599, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 215640, 
+        "GemCost": 599, 
+        "MasterFacilityGemTimeId": 412000600, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 216000, 
+        "GemCost": 600, 
+        "MasterFacilityGemTimeId": 412000601, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 216360, 
+        "GemCost": 601, 
+        "MasterFacilityGemTimeId": 412000602, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 216720, 
+        "GemCost": 602, 
+        "MasterFacilityGemTimeId": 412000603, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 217080, 
+        "GemCost": 603, 
+        "MasterFacilityGemTimeId": 412000604, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 217440, 
+        "GemCost": 604, 
+        "MasterFacilityGemTimeId": 412000605, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 217800, 
+        "GemCost": 605, 
+        "MasterFacilityGemTimeId": 412000606, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 218160, 
+        "GemCost": 606, 
+        "MasterFacilityGemTimeId": 412000607, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 218520, 
+        "GemCost": 607, 
+        "MasterFacilityGemTimeId": 412000608, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 218880, 
+        "GemCost": 608, 
+        "MasterFacilityGemTimeId": 412000609, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 219240, 
+        "GemCost": 609, 
+        "MasterFacilityGemTimeId": 412000610, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 219600, 
+        "GemCost": 610, 
+        "MasterFacilityGemTimeId": 412000611, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 219960, 
+        "GemCost": 611, 
+        "MasterFacilityGemTimeId": 412000612, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 220320, 
+        "GemCost": 612, 
+        "MasterFacilityGemTimeId": 412000613, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 220680, 
+        "GemCost": 613, 
+        "MasterFacilityGemTimeId": 412000614, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 221040, 
+        "GemCost": 614, 
+        "MasterFacilityGemTimeId": 412000615, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 221400, 
+        "GemCost": 615, 
+        "MasterFacilityGemTimeId": 412000616, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 221760, 
+        "GemCost": 616, 
+        "MasterFacilityGemTimeId": 412000617, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 222120, 
+        "GemCost": 617, 
+        "MasterFacilityGemTimeId": 412000618, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 222480, 
+        "GemCost": 618, 
+        "MasterFacilityGemTimeId": 412000619, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 222840, 
+        "GemCost": 619, 
+        "MasterFacilityGemTimeId": 412000620, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 223200, 
+        "GemCost": 620, 
+        "MasterFacilityGemTimeId": 412000621, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 223560, 
+        "GemCost": 621, 
+        "MasterFacilityGemTimeId": 412000622, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 223920, 
+        "GemCost": 622, 
+        "MasterFacilityGemTimeId": 412000623, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 224280, 
+        "GemCost": 623, 
+        "MasterFacilityGemTimeId": 412000624, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 224640, 
+        "GemCost": 624, 
+        "MasterFacilityGemTimeId": 412000625, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 225000, 
+        "GemCost": 625, 
+        "MasterFacilityGemTimeId": 412000626, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 225360, 
+        "GemCost": 626, 
+        "MasterFacilityGemTimeId": 412000627, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 225720, 
+        "GemCost": 627, 
+        "MasterFacilityGemTimeId": 412000628, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 226080, 
+        "GemCost": 628, 
+        "MasterFacilityGemTimeId": 412000629, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 226440, 
+        "GemCost": 629, 
+        "MasterFacilityGemTimeId": 412000630, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 226800, 
+        "GemCost": 630, 
+        "MasterFacilityGemTimeId": 412000631, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 227160, 
+        "GemCost": 631, 
+        "MasterFacilityGemTimeId": 412000632, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 227520, 
+        "GemCost": 632, 
+        "MasterFacilityGemTimeId": 412000633, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 227880, 
+        "GemCost": 633, 
+        "MasterFacilityGemTimeId": 412000634, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 228240, 
+        "GemCost": 634, 
+        "MasterFacilityGemTimeId": 412000635, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 228600, 
+        "GemCost": 635, 
+        "MasterFacilityGemTimeId": 412000636, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 228960, 
+        "GemCost": 636, 
+        "MasterFacilityGemTimeId": 412000637, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 229320, 
+        "GemCost": 637, 
+        "MasterFacilityGemTimeId": 412000638, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 229680, 
+        "GemCost": 638, 
+        "MasterFacilityGemTimeId": 412000639, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 230040, 
+        "GemCost": 639, 
+        "MasterFacilityGemTimeId": 412000640, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 230400, 
+        "GemCost": 640, 
+        "MasterFacilityGemTimeId": 412000641, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 230760, 
+        "GemCost": 641, 
+        "MasterFacilityGemTimeId": 412000642, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 231120, 
+        "GemCost": 642, 
+        "MasterFacilityGemTimeId": 412000643, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 231480, 
+        "GemCost": 643, 
+        "MasterFacilityGemTimeId": 412000644, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 231840, 
+        "GemCost": 644, 
+        "MasterFacilityGemTimeId": 412000645, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 232200, 
+        "GemCost": 645, 
+        "MasterFacilityGemTimeId": 412000646, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 232560, 
+        "GemCost": 646, 
+        "MasterFacilityGemTimeId": 412000647, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 232920, 
+        "GemCost": 647, 
+        "MasterFacilityGemTimeId": 412000648, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 233280, 
+        "GemCost": 648, 
+        "MasterFacilityGemTimeId": 412000649, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 233640, 
+        "GemCost": 649, 
+        "MasterFacilityGemTimeId": 412000650, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 234000, 
+        "GemCost": 650, 
+        "MasterFacilityGemTimeId": 412000651, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 234360, 
+        "GemCost": 651, 
+        "MasterFacilityGemTimeId": 412000652, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 234720, 
+        "GemCost": 652, 
+        "MasterFacilityGemTimeId": 412000653, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 235080, 
+        "GemCost": 653, 
+        "MasterFacilityGemTimeId": 412000654, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 235440, 
+        "GemCost": 654, 
+        "MasterFacilityGemTimeId": 412000655, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 235800, 
+        "GemCost": 655, 
+        "MasterFacilityGemTimeId": 412000656, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 236160, 
+        "GemCost": 656, 
+        "MasterFacilityGemTimeId": 412000657, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 236520, 
+        "GemCost": 657, 
+        "MasterFacilityGemTimeId": 412000658, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 236880, 
+        "GemCost": 658, 
+        "MasterFacilityGemTimeId": 412000659, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 237240, 
+        "GemCost": 659, 
+        "MasterFacilityGemTimeId": 412000660, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 237600, 
+        "GemCost": 660, 
+        "MasterFacilityGemTimeId": 412000661, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 237960, 
+        "GemCost": 661, 
+        "MasterFacilityGemTimeId": 412000662, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 238320, 
+        "GemCost": 662, 
+        "MasterFacilityGemTimeId": 412000663, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 238680, 
+        "GemCost": 663, 
+        "MasterFacilityGemTimeId": 412000664, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 239040, 
+        "GemCost": 664, 
+        "MasterFacilityGemTimeId": 412000665, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 239400, 
+        "GemCost": 665, 
+        "MasterFacilityGemTimeId": 412000666, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 239760, 
+        "GemCost": 666, 
+        "MasterFacilityGemTimeId": 412000667, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 240120, 
+        "GemCost": 667, 
+        "MasterFacilityGemTimeId": 412000668, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 240480, 
+        "GemCost": 668, 
+        "MasterFacilityGemTimeId": 412000669, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 240840, 
+        "GemCost": 669, 
+        "MasterFacilityGemTimeId": 412000670, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 241200, 
+        "GemCost": 670, 
+        "MasterFacilityGemTimeId": 412000671, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 241560, 
+        "GemCost": 671, 
+        "MasterFacilityGemTimeId": 412000672, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 241920, 
+        "GemCost": 672, 
+        "MasterFacilityGemTimeId": 412000673, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 242280, 
+        "GemCost": 673, 
+        "MasterFacilityGemTimeId": 412000674, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 242640, 
+        "GemCost": 674, 
+        "MasterFacilityGemTimeId": 412000675, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 243000, 
+        "GemCost": 675, 
+        "MasterFacilityGemTimeId": 412000676, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 243360, 
+        "GemCost": 676, 
+        "MasterFacilityGemTimeId": 412000677, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 243720, 
+        "GemCost": 677, 
+        "MasterFacilityGemTimeId": 412000678, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 244080, 
+        "GemCost": 678, 
+        "MasterFacilityGemTimeId": 412000679, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 244440, 
+        "GemCost": 679, 
+        "MasterFacilityGemTimeId": 412000680, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 244800, 
+        "GemCost": 680, 
+        "MasterFacilityGemTimeId": 412000681, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 245160, 
+        "GemCost": 681, 
+        "MasterFacilityGemTimeId": 412000682, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 245520, 
+        "GemCost": 682, 
+        "MasterFacilityGemTimeId": 412000683, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 245880, 
+        "GemCost": 683, 
+        "MasterFacilityGemTimeId": 412000684, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 246240, 
+        "GemCost": 684, 
+        "MasterFacilityGemTimeId": 412000685, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 246600, 
+        "GemCost": 685, 
+        "MasterFacilityGemTimeId": 412000686, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 246960, 
+        "GemCost": 686, 
+        "MasterFacilityGemTimeId": 412000687, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 247320, 
+        "GemCost": 687, 
+        "MasterFacilityGemTimeId": 412000688, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 247680, 
+        "GemCost": 688, 
+        "MasterFacilityGemTimeId": 412000689, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 248040, 
+        "GemCost": 689, 
+        "MasterFacilityGemTimeId": 412000690, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 248400, 
+        "GemCost": 690, 
+        "MasterFacilityGemTimeId": 412000691, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 248760, 
+        "GemCost": 691, 
+        "MasterFacilityGemTimeId": 412000692, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 249120, 
+        "GemCost": 692, 
+        "MasterFacilityGemTimeId": 412000693, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 249480, 
+        "GemCost": 693, 
+        "MasterFacilityGemTimeId": 412000694, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 249840, 
+        "GemCost": 694, 
+        "MasterFacilityGemTimeId": 412000695, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 250200, 
+        "GemCost": 695, 
+        "MasterFacilityGemTimeId": 412000696, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 250560, 
+        "GemCost": 696, 
+        "MasterFacilityGemTimeId": 412000697, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 250920, 
+        "GemCost": 697, 
+        "MasterFacilityGemTimeId": 412000698, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 251280, 
+        "GemCost": 698, 
+        "MasterFacilityGemTimeId": 412000699, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 251640, 
+        "GemCost": 699, 
+        "MasterFacilityGemTimeId": 412000700, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 252000, 
+        "GemCost": 700, 
+        "MasterFacilityGemTimeId": 412000701, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 252360, 
+        "GemCost": 701, 
+        "MasterFacilityGemTimeId": 412000702, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 252720, 
+        "GemCost": 702, 
+        "MasterFacilityGemTimeId": 412000703, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 253080, 
+        "GemCost": 703, 
+        "MasterFacilityGemTimeId": 412000704, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 253440, 
+        "GemCost": 704, 
+        "MasterFacilityGemTimeId": 412000705, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 253800, 
+        "GemCost": 705, 
+        "MasterFacilityGemTimeId": 412000706, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 254160, 
+        "GemCost": 706, 
+        "MasterFacilityGemTimeId": 412000707, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 254520, 
+        "GemCost": 707, 
+        "MasterFacilityGemTimeId": 412000708, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 254880, 
+        "GemCost": 708, 
+        "MasterFacilityGemTimeId": 412000709, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 255240, 
+        "GemCost": 709, 
+        "MasterFacilityGemTimeId": 412000710, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 255600, 
+        "GemCost": 710, 
+        "MasterFacilityGemTimeId": 412000711, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 255960, 
+        "GemCost": 711, 
+        "MasterFacilityGemTimeId": 412000712, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 256320, 
+        "GemCost": 712, 
+        "MasterFacilityGemTimeId": 412000713, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 256680, 
+        "GemCost": 713, 
+        "MasterFacilityGemTimeId": 412000714, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 257040, 
+        "GemCost": 714, 
+        "MasterFacilityGemTimeId": 412000715, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 257400, 
+        "GemCost": 715, 
+        "MasterFacilityGemTimeId": 412000716, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 257760, 
+        "GemCost": 716, 
+        "MasterFacilityGemTimeId": 412000717, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 258120, 
+        "GemCost": 717, 
+        "MasterFacilityGemTimeId": 412000718, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 258480, 
+        "GemCost": 718, 
+        "MasterFacilityGemTimeId": 412000719, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 258840, 
+        "GemCost": 719, 
+        "MasterFacilityGemTimeId": 412000720, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 259200, 
+        "GemCost": 720, 
+        "MasterFacilityGemTimeId": 412000721, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 259560, 
+        "GemCost": 721, 
+        "MasterFacilityGemTimeId": 412000722, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 259920, 
+        "GemCost": 722, 
+        "MasterFacilityGemTimeId": 412000723, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 260280, 
+        "GemCost": 723, 
+        "MasterFacilityGemTimeId": 412000724, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 260640, 
+        "GemCost": 724, 
+        "MasterFacilityGemTimeId": 412000725, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 261000, 
+        "GemCost": 725, 
+        "MasterFacilityGemTimeId": 412000726, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 261360, 
+        "GemCost": 726, 
+        "MasterFacilityGemTimeId": 412000727, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 261720, 
+        "GemCost": 727, 
+        "MasterFacilityGemTimeId": 412000728, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 262080, 
+        "GemCost": 728, 
+        "MasterFacilityGemTimeId": 412000729, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 262440, 
+        "GemCost": 729, 
+        "MasterFacilityGemTimeId": 412000730, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 262800, 
+        "GemCost": 730, 
+        "MasterFacilityGemTimeId": 412000731, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 263160, 
+        "GemCost": 731, 
+        "MasterFacilityGemTimeId": 412000732, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 263520, 
+        "GemCost": 732, 
+        "MasterFacilityGemTimeId": 412000733, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 263880, 
+        "GemCost": 733, 
+        "MasterFacilityGemTimeId": 412000734, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 264240, 
+        "GemCost": 734, 
+        "MasterFacilityGemTimeId": 412000735, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 264600, 
+        "GemCost": 735, 
+        "MasterFacilityGemTimeId": 412000736, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 264960, 
+        "GemCost": 736, 
+        "MasterFacilityGemTimeId": 412000737, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 265320, 
+        "GemCost": 737, 
+        "MasterFacilityGemTimeId": 412000738, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 265680, 
+        "GemCost": 738, 
+        "MasterFacilityGemTimeId": 412000739, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 266040, 
+        "GemCost": 739, 
+        "MasterFacilityGemTimeId": 412000740, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 266400, 
+        "GemCost": 740, 
+        "MasterFacilityGemTimeId": 412000741, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 266760, 
+        "GemCost": 741, 
+        "MasterFacilityGemTimeId": 412000742, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 267120, 
+        "GemCost": 742, 
+        "MasterFacilityGemTimeId": 412000743, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 267480, 
+        "GemCost": 743, 
+        "MasterFacilityGemTimeId": 412000744, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 267840, 
+        "GemCost": 744, 
+        "MasterFacilityGemTimeId": 412000745, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 268200, 
+        "GemCost": 745, 
+        "MasterFacilityGemTimeId": 412000746, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 268560, 
+        "GemCost": 746, 
+        "MasterFacilityGemTimeId": 412000747, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 268920, 
+        "GemCost": 747, 
+        "MasterFacilityGemTimeId": 412000748, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 269280, 
+        "GemCost": 748, 
+        "MasterFacilityGemTimeId": 412000749, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 269640, 
+        "GemCost": 749, 
+        "MasterFacilityGemTimeId": 412000750, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 270000, 
+        "GemCost": 750, 
+        "MasterFacilityGemTimeId": 412000751, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 270360, 
+        "GemCost": 751, 
+        "MasterFacilityGemTimeId": 412000752, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 270720, 
+        "GemCost": 752, 
+        "MasterFacilityGemTimeId": 412000753, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 271080, 
+        "GemCost": 753, 
+        "MasterFacilityGemTimeId": 412000754, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 271440, 
+        "GemCost": 754, 
+        "MasterFacilityGemTimeId": 412000755, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 271800, 
+        "GemCost": 755, 
+        "MasterFacilityGemTimeId": 412000756, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 272160, 
+        "GemCost": 756, 
+        "MasterFacilityGemTimeId": 412000757, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 272520, 
+        "GemCost": 757, 
+        "MasterFacilityGemTimeId": 412000758, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 272880, 
+        "GemCost": 758, 
+        "MasterFacilityGemTimeId": 412000759, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 273240, 
+        "GemCost": 759, 
+        "MasterFacilityGemTimeId": 412000760, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 273600, 
+        "GemCost": 760, 
+        "MasterFacilityGemTimeId": 412000761, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 273960, 
+        "GemCost": 761, 
+        "MasterFacilityGemTimeId": 412000762, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 274320, 
+        "GemCost": 762, 
+        "MasterFacilityGemTimeId": 412000763, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 274680, 
+        "GemCost": 763, 
+        "MasterFacilityGemTimeId": 412000764, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 275040, 
+        "GemCost": 764, 
+        "MasterFacilityGemTimeId": 412000765, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 275400, 
+        "GemCost": 765, 
+        "MasterFacilityGemTimeId": 412000766, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 275760, 
+        "GemCost": 766, 
+        "MasterFacilityGemTimeId": 412000767, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 276120, 
+        "GemCost": 767, 
+        "MasterFacilityGemTimeId": 412000768, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 276480, 
+        "GemCost": 768, 
+        "MasterFacilityGemTimeId": 412000769, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 276840, 
+        "GemCost": 769, 
+        "MasterFacilityGemTimeId": 412000770, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 277200, 
+        "GemCost": 770, 
+        "MasterFacilityGemTimeId": 412000771, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 277560, 
+        "GemCost": 771, 
+        "MasterFacilityGemTimeId": 412000772, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 277920, 
+        "GemCost": 772, 
+        "MasterFacilityGemTimeId": 412000773, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 278280, 
+        "GemCost": 773, 
+        "MasterFacilityGemTimeId": 412000774, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 278640, 
+        "GemCost": 774, 
+        "MasterFacilityGemTimeId": 412000775, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 279000, 
+        "GemCost": 775, 
+        "MasterFacilityGemTimeId": 412000776, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 279360, 
+        "GemCost": 776, 
+        "MasterFacilityGemTimeId": 412000777, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 279720, 
+        "GemCost": 777, 
+        "MasterFacilityGemTimeId": 412000778, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 280080, 
+        "GemCost": 778, 
+        "MasterFacilityGemTimeId": 412000779, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 280440, 
+        "GemCost": 779, 
+        "MasterFacilityGemTimeId": 412000780, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 280800, 
+        "GemCost": 780, 
+        "MasterFacilityGemTimeId": 412000781, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 281160, 
+        "GemCost": 781, 
+        "MasterFacilityGemTimeId": 412000782, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 281520, 
+        "GemCost": 782, 
+        "MasterFacilityGemTimeId": 412000783, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 281880, 
+        "GemCost": 783, 
+        "MasterFacilityGemTimeId": 412000784, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 282240, 
+        "GemCost": 784, 
+        "MasterFacilityGemTimeId": 412000785, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 282600, 
+        "GemCost": 785, 
+        "MasterFacilityGemTimeId": 412000786, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 282960, 
+        "GemCost": 786, 
+        "MasterFacilityGemTimeId": 412000787, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 283320, 
+        "GemCost": 787, 
+        "MasterFacilityGemTimeId": 412000788, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 283680, 
+        "GemCost": 788, 
+        "MasterFacilityGemTimeId": 412000789, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 284040, 
+        "GemCost": 789, 
+        "MasterFacilityGemTimeId": 412000790, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 284400, 
+        "GemCost": 790, 
+        "MasterFacilityGemTimeId": 412000791, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 284760, 
+        "GemCost": 791, 
+        "MasterFacilityGemTimeId": 412000792, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 285120, 
+        "GemCost": 792, 
+        "MasterFacilityGemTimeId": 412000793, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 285480, 
+        "GemCost": 793, 
+        "MasterFacilityGemTimeId": 412000794, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 285840, 
+        "GemCost": 794, 
+        "MasterFacilityGemTimeId": 412000795, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 286200, 
+        "GemCost": 795, 
+        "MasterFacilityGemTimeId": 412000796, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 286560, 
+        "GemCost": 796, 
+        "MasterFacilityGemTimeId": 412000797, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 286920, 
+        "GemCost": 797, 
+        "MasterFacilityGemTimeId": 412000798, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 287280, 
+        "GemCost": 798, 
+        "MasterFacilityGemTimeId": 412000799, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 287640, 
+        "GemCost": 799, 
+        "MasterFacilityGemTimeId": 412000800, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 288000, 
+        "GemCost": 800, 
+        "MasterFacilityGemTimeId": 412000801, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 288360, 
+        "GemCost": 801, 
+        "MasterFacilityGemTimeId": 412000802, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 288720, 
+        "GemCost": 802, 
+        "MasterFacilityGemTimeId": 412000803, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 289080, 
+        "GemCost": 803, 
+        "MasterFacilityGemTimeId": 412000804, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 289440, 
+        "GemCost": 804, 
+        "MasterFacilityGemTimeId": 412000805, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 289800, 
+        "GemCost": 805, 
+        "MasterFacilityGemTimeId": 412000806, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 290160, 
+        "GemCost": 806, 
+        "MasterFacilityGemTimeId": 412000807, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 290520, 
+        "GemCost": 807, 
+        "MasterFacilityGemTimeId": 412000808, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 290880, 
+        "GemCost": 808, 
+        "MasterFacilityGemTimeId": 412000809, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 291240, 
+        "GemCost": 809, 
+        "MasterFacilityGemTimeId": 412000810, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 291600, 
+        "GemCost": 810, 
+        "MasterFacilityGemTimeId": 412000811, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 291960, 
+        "GemCost": 811, 
+        "MasterFacilityGemTimeId": 412000812, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 292320, 
+        "GemCost": 812, 
+        "MasterFacilityGemTimeId": 412000813, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 292680, 
+        "GemCost": 813, 
+        "MasterFacilityGemTimeId": 412000814, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 293040, 
+        "GemCost": 814, 
+        "MasterFacilityGemTimeId": 412000815, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 293400, 
+        "GemCost": 815, 
+        "MasterFacilityGemTimeId": 412000816, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 293760, 
+        "GemCost": 816, 
+        "MasterFacilityGemTimeId": 412000817, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 294120, 
+        "GemCost": 817, 
+        "MasterFacilityGemTimeId": 412000818, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 294480, 
+        "GemCost": 818, 
+        "MasterFacilityGemTimeId": 412000819, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 294840, 
+        "GemCost": 819, 
+        "MasterFacilityGemTimeId": 412000820, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 295200, 
+        "GemCost": 820, 
+        "MasterFacilityGemTimeId": 412000821, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 295560, 
+        "GemCost": 821, 
+        "MasterFacilityGemTimeId": 412000822, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 295920, 
+        "GemCost": 822, 
+        "MasterFacilityGemTimeId": 412000823, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 296280, 
+        "GemCost": 823, 
+        "MasterFacilityGemTimeId": 412000824, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 296640, 
+        "GemCost": 824, 
+        "MasterFacilityGemTimeId": 412000825, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 297000, 
+        "GemCost": 825, 
+        "MasterFacilityGemTimeId": 412000826, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 297360, 
+        "GemCost": 826, 
+        "MasterFacilityGemTimeId": 412000827, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 297720, 
+        "GemCost": 827, 
+        "MasterFacilityGemTimeId": 412000828, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 298080, 
+        "GemCost": 828, 
+        "MasterFacilityGemTimeId": 412000829, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 298440, 
+        "GemCost": 829, 
+        "MasterFacilityGemTimeId": 412000830, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 298800, 
+        "GemCost": 830, 
+        "MasterFacilityGemTimeId": 412000831, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 299160, 
+        "GemCost": 831, 
+        "MasterFacilityGemTimeId": 412000832, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 299520, 
+        "GemCost": 832, 
+        "MasterFacilityGemTimeId": 412000833, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 299880, 
+        "GemCost": 833, 
+        "MasterFacilityGemTimeId": 412000834, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 300240, 
+        "GemCost": 834, 
+        "MasterFacilityGemTimeId": 412000835, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 300600, 
+        "GemCost": 835, 
+        "MasterFacilityGemTimeId": 412000836, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 300960, 
+        "GemCost": 836, 
+        "MasterFacilityGemTimeId": 412000837, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 301320, 
+        "GemCost": 837, 
+        "MasterFacilityGemTimeId": 412000838, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 301680, 
+        "GemCost": 838, 
+        "MasterFacilityGemTimeId": 412000839, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 302040, 
+        "GemCost": 839, 
+        "MasterFacilityGemTimeId": 412000840, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 302400, 
+        "GemCost": 840, 
+        "MasterFacilityGemTimeId": 412000841, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 302760, 
+        "GemCost": 841, 
+        "MasterFacilityGemTimeId": 412000842, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 303120, 
+        "GemCost": 842, 
+        "MasterFacilityGemTimeId": 412000843, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 303480, 
+        "GemCost": 843, 
+        "MasterFacilityGemTimeId": 412000844, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 303840, 
+        "GemCost": 844, 
+        "MasterFacilityGemTimeId": 412000845, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 304200, 
+        "GemCost": 845, 
+        "MasterFacilityGemTimeId": 412000846, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 304560, 
+        "GemCost": 846, 
+        "MasterFacilityGemTimeId": 412000847, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 304920, 
+        "GemCost": 847, 
+        "MasterFacilityGemTimeId": 412000848, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 305280, 
+        "GemCost": 848, 
+        "MasterFacilityGemTimeId": 412000849, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 305640, 
+        "GemCost": 849, 
+        "MasterFacilityGemTimeId": 412000850, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 306000, 
+        "GemCost": 850, 
+        "MasterFacilityGemTimeId": 412000851, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 306360, 
+        "GemCost": 851, 
+        "MasterFacilityGemTimeId": 412000852, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 306720, 
+        "GemCost": 852, 
+        "MasterFacilityGemTimeId": 412000853, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 307080, 
+        "GemCost": 853, 
+        "MasterFacilityGemTimeId": 412000854, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 307440, 
+        "GemCost": 854, 
+        "MasterFacilityGemTimeId": 412000855, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 307800, 
+        "GemCost": 855, 
+        "MasterFacilityGemTimeId": 412000856, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 308160, 
+        "GemCost": 856, 
+        "MasterFacilityGemTimeId": 412000857, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 308520, 
+        "GemCost": 857, 
+        "MasterFacilityGemTimeId": 412000858, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 308880, 
+        "GemCost": 858, 
+        "MasterFacilityGemTimeId": 412000859, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 309240, 
+        "GemCost": 859, 
+        "MasterFacilityGemTimeId": 412000860, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 309600, 
+        "GemCost": 860, 
+        "MasterFacilityGemTimeId": 412000861, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 309960, 
+        "GemCost": 861, 
+        "MasterFacilityGemTimeId": 412000862, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 310320, 
+        "GemCost": 862, 
+        "MasterFacilityGemTimeId": 412000863, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 310680, 
+        "GemCost": 863, 
+        "MasterFacilityGemTimeId": 412000864, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 311040, 
+        "GemCost": 864, 
+        "MasterFacilityGemTimeId": 412000865, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 311400, 
+        "GemCost": 865, 
+        "MasterFacilityGemTimeId": 412000866, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 311760, 
+        "GemCost": 866, 
+        "MasterFacilityGemTimeId": 412000867, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 312120, 
+        "GemCost": 867, 
+        "MasterFacilityGemTimeId": 412000868, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 312480, 
+        "GemCost": 868, 
+        "MasterFacilityGemTimeId": 412000869, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 312840, 
+        "GemCost": 869, 
+        "MasterFacilityGemTimeId": 412000870, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 313200, 
+        "GemCost": 870, 
+        "MasterFacilityGemTimeId": 412000871, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 313560, 
+        "GemCost": 871, 
+        "MasterFacilityGemTimeId": 412000872, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 313920, 
+        "GemCost": 872, 
+        "MasterFacilityGemTimeId": 412000873, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 314280, 
+        "GemCost": 873, 
+        "MasterFacilityGemTimeId": 412000874, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 314640, 
+        "GemCost": 874, 
+        "MasterFacilityGemTimeId": 412000875, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 315000, 
+        "GemCost": 875, 
+        "MasterFacilityGemTimeId": 412000876, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 315360, 
+        "GemCost": 876, 
+        "MasterFacilityGemTimeId": 412000877, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 315720, 
+        "GemCost": 877, 
+        "MasterFacilityGemTimeId": 412000878, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 316080, 
+        "GemCost": 878, 
+        "MasterFacilityGemTimeId": 412000879, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 316440, 
+        "GemCost": 879, 
+        "MasterFacilityGemTimeId": 412000880, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 316800, 
+        "GemCost": 880, 
+        "MasterFacilityGemTimeId": 412000881, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 317160, 
+        "GemCost": 881, 
+        "MasterFacilityGemTimeId": 412000882, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 317520, 
+        "GemCost": 882, 
+        "MasterFacilityGemTimeId": 412000883, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 317880, 
+        "GemCost": 883, 
+        "MasterFacilityGemTimeId": 412000884, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 318240, 
+        "GemCost": 884, 
+        "MasterFacilityGemTimeId": 412000885, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 318600, 
+        "GemCost": 885, 
+        "MasterFacilityGemTimeId": 412000886, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 318960, 
+        "GemCost": 886, 
+        "MasterFacilityGemTimeId": 412000887, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 319320, 
+        "GemCost": 887, 
+        "MasterFacilityGemTimeId": 412000888, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 319680, 
+        "GemCost": 888, 
+        "MasterFacilityGemTimeId": 412000889, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 320040, 
+        "GemCost": 889, 
+        "MasterFacilityGemTimeId": 412000890, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 320400, 
+        "GemCost": 890, 
+        "MasterFacilityGemTimeId": 412000891, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 320760, 
+        "GemCost": 891, 
+        "MasterFacilityGemTimeId": 412000892, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 321120, 
+        "GemCost": 892, 
+        "MasterFacilityGemTimeId": 412000893, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 321480, 
+        "GemCost": 893, 
+        "MasterFacilityGemTimeId": 412000894, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 321840, 
+        "GemCost": 894, 
+        "MasterFacilityGemTimeId": 412000895, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 322200, 
+        "GemCost": 895, 
+        "MasterFacilityGemTimeId": 412000896, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 322560, 
+        "GemCost": 896, 
+        "MasterFacilityGemTimeId": 412000897, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 322920, 
+        "GemCost": 897, 
+        "MasterFacilityGemTimeId": 412000898, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 323280, 
+        "GemCost": 898, 
+        "MasterFacilityGemTimeId": 412000899, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 323640, 
+        "GemCost": 899, 
+        "MasterFacilityGemTimeId": 412000900, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 324000, 
+        "GemCost": 900, 
+        "MasterFacilityGemTimeId": 412000901, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 324360, 
+        "GemCost": 901, 
+        "MasterFacilityGemTimeId": 412000902, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 324720, 
+        "GemCost": 902, 
+        "MasterFacilityGemTimeId": 412000903, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 325080, 
+        "GemCost": 903, 
+        "MasterFacilityGemTimeId": 412000904, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 325440, 
+        "GemCost": 904, 
+        "MasterFacilityGemTimeId": 412000905, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 325800, 
+        "GemCost": 905, 
+        "MasterFacilityGemTimeId": 412000906, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 326160, 
+        "GemCost": 906, 
+        "MasterFacilityGemTimeId": 412000907, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 326520, 
+        "GemCost": 907, 
+        "MasterFacilityGemTimeId": 412000908, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 326880, 
+        "GemCost": 908, 
+        "MasterFacilityGemTimeId": 412000909, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 327240, 
+        "GemCost": 909, 
+        "MasterFacilityGemTimeId": 412000910, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 327600, 
+        "GemCost": 910, 
+        "MasterFacilityGemTimeId": 412000911, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 327960, 
+        "GemCost": 911, 
+        "MasterFacilityGemTimeId": 412000912, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 328320, 
+        "GemCost": 912, 
+        "MasterFacilityGemTimeId": 412000913, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 328680, 
+        "GemCost": 913, 
+        "MasterFacilityGemTimeId": 412000914, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 329040, 
+        "GemCost": 914, 
+        "MasterFacilityGemTimeId": 412000915, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 329400, 
+        "GemCost": 915, 
+        "MasterFacilityGemTimeId": 412000916, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 329760, 
+        "GemCost": 916, 
+        "MasterFacilityGemTimeId": 412000917, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 330120, 
+        "GemCost": 917, 
+        "MasterFacilityGemTimeId": 412000918, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 330480, 
+        "GemCost": 918, 
+        "MasterFacilityGemTimeId": 412000919, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 330840, 
+        "GemCost": 919, 
+        "MasterFacilityGemTimeId": 412000920, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 331200, 
+        "GemCost": 920, 
+        "MasterFacilityGemTimeId": 412000921, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 331560, 
+        "GemCost": 921, 
+        "MasterFacilityGemTimeId": 412000922, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 331920, 
+        "GemCost": 922, 
+        "MasterFacilityGemTimeId": 412000923, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 332280, 
+        "GemCost": 923, 
+        "MasterFacilityGemTimeId": 412000924, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 332640, 
+        "GemCost": 924, 
+        "MasterFacilityGemTimeId": 412000925, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 333000, 
+        "GemCost": 925, 
+        "MasterFacilityGemTimeId": 412000926, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 333360, 
+        "GemCost": 926, 
+        "MasterFacilityGemTimeId": 412000927, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 333720, 
+        "GemCost": 927, 
+        "MasterFacilityGemTimeId": 412000928, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 334080, 
+        "GemCost": 928, 
+        "MasterFacilityGemTimeId": 412000929, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 334440, 
+        "GemCost": 929, 
+        "MasterFacilityGemTimeId": 412000930, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 334800, 
+        "GemCost": 930, 
+        "MasterFacilityGemTimeId": 412000931, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 335160, 
+        "GemCost": 931, 
+        "MasterFacilityGemTimeId": 412000932, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 335520, 
+        "GemCost": 932, 
+        "MasterFacilityGemTimeId": 412000933, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 335880, 
+        "GemCost": 933, 
+        "MasterFacilityGemTimeId": 412000934, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 336240, 
+        "GemCost": 934, 
+        "MasterFacilityGemTimeId": 412000935, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 336600, 
+        "GemCost": 935, 
+        "MasterFacilityGemTimeId": 412000936, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 336960, 
+        "GemCost": 936, 
+        "MasterFacilityGemTimeId": 412000937, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 337320, 
+        "GemCost": 937, 
+        "MasterFacilityGemTimeId": 412000938, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 337680, 
+        "GemCost": 938, 
+        "MasterFacilityGemTimeId": 412000939, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 338040, 
+        "GemCost": 939, 
+        "MasterFacilityGemTimeId": 412000940, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 338400, 
+        "GemCost": 940, 
+        "MasterFacilityGemTimeId": 412000941, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 338760, 
+        "GemCost": 941, 
+        "MasterFacilityGemTimeId": 412000942, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 339120, 
+        "GemCost": 942, 
+        "MasterFacilityGemTimeId": 412000943, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 339480, 
+        "GemCost": 943, 
+        "MasterFacilityGemTimeId": 412000944, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 339840, 
+        "GemCost": 944, 
+        "MasterFacilityGemTimeId": 412000945, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 340200, 
+        "GemCost": 945, 
+        "MasterFacilityGemTimeId": 412000946, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 340560, 
+        "GemCost": 946, 
+        "MasterFacilityGemTimeId": 412000947, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 340920, 
+        "GemCost": 947, 
+        "MasterFacilityGemTimeId": 412000948, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 341280, 
+        "GemCost": 948, 
+        "MasterFacilityGemTimeId": 412000949, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 341640, 
+        "GemCost": 949, 
+        "MasterFacilityGemTimeId": 412000950, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 342000, 
+        "GemCost": 950, 
+        "MasterFacilityGemTimeId": 412000951, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 342360, 
+        "GemCost": 951, 
+        "MasterFacilityGemTimeId": 412000952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 342720, 
+        "GemCost": 952, 
+        "MasterFacilityGemTimeId": 412000953, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 343080, 
+        "GemCost": 953, 
+        "MasterFacilityGemTimeId": 412000954, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 343440, 
+        "GemCost": 954, 
+        "MasterFacilityGemTimeId": 412000955, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 343800, 
+        "GemCost": 955, 
+        "MasterFacilityGemTimeId": 412000956, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 344160, 
+        "GemCost": 956, 
+        "MasterFacilityGemTimeId": 412000957, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 344520, 
+        "GemCost": 957, 
+        "MasterFacilityGemTimeId": 412000958, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 344880, 
+        "GemCost": 958, 
+        "MasterFacilityGemTimeId": 412000959, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 345240, 
+        "GemCost": 959, 
+        "MasterFacilityGemTimeId": 412000960, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 345600, 
+        "GemCost": 960, 
+        "MasterFacilityGemTimeId": 412000961, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 345960, 
+        "GemCost": 961, 
+        "MasterFacilityGemTimeId": 412000962, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 346320, 
+        "GemCost": 962, 
+        "MasterFacilityGemTimeId": 412000963, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 346680, 
+        "GemCost": 963, 
+        "MasterFacilityGemTimeId": 412000964, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 347040, 
+        "GemCost": 964, 
+        "MasterFacilityGemTimeId": 412000965, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 347400, 
+        "GemCost": 965, 
+        "MasterFacilityGemTimeId": 412000966, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 347760, 
+        "GemCost": 966, 
+        "MasterFacilityGemTimeId": 412000967, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 348120, 
+        "GemCost": 967, 
+        "MasterFacilityGemTimeId": 412000968, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 348480, 
+        "GemCost": 968, 
+        "MasterFacilityGemTimeId": 412000969, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 348840, 
+        "GemCost": 969, 
+        "MasterFacilityGemTimeId": 412000970, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 349200, 
+        "GemCost": 970, 
+        "MasterFacilityGemTimeId": 412000971, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 349560, 
+        "GemCost": 971, 
+        "MasterFacilityGemTimeId": 412000972, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 349920, 
+        "GemCost": 972, 
+        "MasterFacilityGemTimeId": 412000973, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 350280, 
+        "GemCost": 973, 
+        "MasterFacilityGemTimeId": 412000974, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 350640, 
+        "GemCost": 974, 
+        "MasterFacilityGemTimeId": 412000975, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 351000, 
+        "GemCost": 975, 
+        "MasterFacilityGemTimeId": 412000976, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 351360, 
+        "GemCost": 976, 
+        "MasterFacilityGemTimeId": 412000977, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 351720, 
+        "GemCost": 977, 
+        "MasterFacilityGemTimeId": 412000978, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 352080, 
+        "GemCost": 978, 
+        "MasterFacilityGemTimeId": 412000979, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 352440, 
+        "GemCost": 979, 
+        "MasterFacilityGemTimeId": 412000980, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 352800, 
+        "GemCost": 980, 
+        "MasterFacilityGemTimeId": 412000981, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 353160, 
+        "GemCost": 981, 
+        "MasterFacilityGemTimeId": 412000982, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 353520, 
+        "GemCost": 982, 
+        "MasterFacilityGemTimeId": 412000983, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 353880, 
+        "GemCost": 983, 
+        "MasterFacilityGemTimeId": 412000984, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 354240, 
+        "GemCost": 984, 
+        "MasterFacilityGemTimeId": 412000985, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 354600, 
+        "GemCost": 985, 
+        "MasterFacilityGemTimeId": 412000986, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 354960, 
+        "GemCost": 986, 
+        "MasterFacilityGemTimeId": 412000987, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 355320, 
+        "GemCost": 987, 
+        "MasterFacilityGemTimeId": 412000988, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 355680, 
+        "GemCost": 988, 
+        "MasterFacilityGemTimeId": 412000989, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 356040, 
+        "GemCost": 989, 
+        "MasterFacilityGemTimeId": 412000990, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 356400, 
+        "GemCost": 990, 
+        "MasterFacilityGemTimeId": 412000991, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 356760, 
+        "GemCost": 991, 
+        "MasterFacilityGemTimeId": 412000992, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 357120, 
+        "GemCost": 992, 
+        "MasterFacilityGemTimeId": 412000993, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 357480, 
+        "GemCost": 993, 
+        "MasterFacilityGemTimeId": 412000994, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 357840, 
+        "GemCost": 994, 
+        "MasterFacilityGemTimeId": 412000995, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 358200, 
+        "GemCost": 995, 
+        "MasterFacilityGemTimeId": 412000996, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 358560, 
+        "GemCost": 996, 
+        "MasterFacilityGemTimeId": 412000997, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 358920, 
+        "GemCost": 997, 
+        "MasterFacilityGemTimeId": 412000998, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 359280, 
+        "GemCost": 998, 
+        "MasterFacilityGemTimeId": 412000999, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 359640, 
+        "GemCost": 999, 
+        "MasterFacilityGemTimeId": 412001000, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 360000, 
+        "GemCost": 1000, 
+        "MasterFacilityGemTimeId": 412001001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "CostSeconds": 99999999, 
+        "GemCost": 1001, 
+        "MasterFacilityGemTimeId": 412001002, 
+        "ReleaseLabeloffset": ""
+    }
+]

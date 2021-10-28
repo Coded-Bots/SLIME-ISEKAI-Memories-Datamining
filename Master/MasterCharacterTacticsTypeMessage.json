@@ -1,0 +1,22 @@
+[
+    {
+        "DefineNameoffset": "MasterCharacterTacticsType.Attack", 
+        "MasterCharacterTacticsTypeMessageId": 803000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterCharacterTacticsType.Defense", 
+        "MasterCharacterTacticsTypeMessageId": 803000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterCharacterTacticsType.Heal", 
+        "MasterCharacterTacticsTypeMessageId": 803000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterCharacterTacticsType.Support", 
+        "MasterCharacterTacticsTypeMessageId": 803000004, 
+        "ReleaseLabeloffset": ""
+    }
+]

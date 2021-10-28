@@ -1,0 +1,2498 @@
+[
+    {
+        "ActingVoicePathoffset": "sys/rimuru/voice_sys_rimuru_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000001, 
+        "MasterPartyEditVoiceId": 3012000101, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rimuru/voice_sys_rimuru_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000001, 
+        "MasterPartyEditVoiceId": 3012000102, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rimuru/voice_sys_rimuru_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000001, 
+        "MasterPartyEditVoiceId": 3012000103, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rimuru/voice_sys_rimuru_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000001, 
+        "MasterPartyEditVoiceId": 3012000104, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rimuru/voice_sys_rimuru_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000001, 
+        "MasterPartyEditVoiceId": 3012000105, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rimuru/voice_sys_rimuru_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000001, 
+        "MasterPartyEditVoiceId": 3012000106, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000301, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000302, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000303, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000304, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000305, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000306, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_before_007", 
+        "LimitedMasterPcId": 140009, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000307, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_before_008", 
+        "LimitedMasterPcId": 140009, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000308, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_before_009", 
+        "LimitedMasterPcId": 140009, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000309, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_before_010", 
+        "LimitedMasterPcId": 140009, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000310, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_before_011", 
+        "LimitedMasterPcId": 140009, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000311, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/benimaru/voice_sys_benimaru_before_007", 
+        "LimitedMasterPcId": 140009, 
+        "MasterCharacterId": 3001000003, 
+        "MasterPartyEditVoiceId": 3012000312, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobta/voice_sys_gobta_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000004, 
+        "MasterPartyEditVoiceId": 3012000401, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobta/voice_sys_gobta_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000004, 
+        "MasterPartyEditVoiceId": 3012000402, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobta/voice_sys_gobta_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000004, 
+        "MasterPartyEditVoiceId": 3012000403, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobta/voice_sys_gobta_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000004, 
+        "MasterPartyEditVoiceId": 3012000404, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobta/voice_sys_gobta_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000004, 
+        "MasterPartyEditVoiceId": 3012000405, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobta/voice_sys_gobta_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000004, 
+        "MasterPartyEditVoiceId": 3012000406, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000501, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000502, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000503, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000504, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000505, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000506, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_0before_007_party", 
+        "LimitedMasterPcId": 140014, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000507, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_0before_008_party", 
+        "LimitedMasterPcId": 140014, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000508, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_0before_009_party", 
+        "LimitedMasterPcId": 140014, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000509, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_0before_010_party", 
+        "LimitedMasterPcId": 140014, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000510, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_0before_011_party", 
+        "LimitedMasterPcId": 140014, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000511, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shion/voice_sys_shion_0before_007_party", 
+        "LimitedMasterPcId": 140014, 
+        "MasterCharacterId": 3001000005, 
+        "MasterPartyEditVoiceId": 3012000512, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ranga/voice_sys_ranga_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000006, 
+        "MasterPartyEditVoiceId": 3012000601, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ranga/voice_sys_ranga_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000006, 
+        "MasterPartyEditVoiceId": 3012000602, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ranga/voice_sys_ranga_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000006, 
+        "MasterPartyEditVoiceId": 3012000603, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ranga/voice_sys_ranga_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000006, 
+        "MasterPartyEditVoiceId": 3012000604, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ranga/voice_sys_ranga_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000006, 
+        "MasterPartyEditVoiceId": 3012000605, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ranga/voice_sys_ranga_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000006, 
+        "MasterPartyEditVoiceId": 3012000606, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000701, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000702, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000703, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000704, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000705, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000706, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_0before_07_party", 
+        "LimitedMasterPcId": 140010, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000707, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_0before_08_party", 
+        "LimitedMasterPcId": 140010, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000708, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_0before_09_party", 
+        "LimitedMasterPcId": 140010, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000709, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_0before_10_party", 
+        "LimitedMasterPcId": 140010, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000710, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_0before_11_party", 
+        "LimitedMasterPcId": 140010, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000711, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/soei/voice_sys_soei_0before_07_party", 
+        "LimitedMasterPcId": 140010, 
+        "MasterCharacterId": 3001000007, 
+        "MasterPartyEditVoiceId": 3012000712, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rigurd/voice_sys_rigurd_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000008, 
+        "MasterPartyEditVoiceId": 3012000801, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rigurd/voice_sys_rigurd_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000008, 
+        "MasterPartyEditVoiceId": 3012000802, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rigurd/voice_sys_rigurd_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000008, 
+        "MasterPartyEditVoiceId": 3012000803, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rigurd/voice_sys_rigurd_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000008, 
+        "MasterPartyEditVoiceId": 3012000804, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rigurd/voice_sys_rigurd_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000008, 
+        "MasterPartyEditVoiceId": 3012000805, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/rigurd/voice_sys_rigurd_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000008, 
+        "MasterPartyEditVoiceId": 3012000806, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000009, 
+        "MasterPartyEditVoiceId": 3012000901, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000009, 
+        "MasterPartyEditVoiceId": 3012000902, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000009, 
+        "MasterPartyEditVoiceId": 3012000903, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000009, 
+        "MasterPartyEditVoiceId": 3012000904, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000009, 
+        "MasterPartyEditVoiceId": 3012000905, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000009, 
+        "MasterPartyEditVoiceId": 3012000906, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001001, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001002, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001003, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001004, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001005, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001006, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_0before_007_party", 
+        "LimitedMasterPcId": 140016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001007, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_0before_008_party", 
+        "LimitedMasterPcId": 140016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001008, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_0before_009_party", 
+        "LimitedMasterPcId": 140016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001009, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_0before_010_party", 
+        "LimitedMasterPcId": 140016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001010, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_0before_011_party", 
+        "LimitedMasterPcId": 140016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001011, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shuna/voice_sys_shuna_0before_007_party", 
+        "LimitedMasterPcId": 140016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterPartyEditVoiceId": 3012001012, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/treyni/voice_sys_treyni_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000011, 
+        "MasterPartyEditVoiceId": 3012001101, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/treyni/voice_sys_treyni_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000011, 
+        "MasterPartyEditVoiceId": 3012001102, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/treyni/voice_sys_treyni_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000011, 
+        "MasterPartyEditVoiceId": 3012001103, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/treyni/voice_sys_treyni_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000011, 
+        "MasterPartyEditVoiceId": 3012001104, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/treyni/voice_sys_treyni_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000011, 
+        "MasterPartyEditVoiceId": 3012001105, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/treyni/voice_sys_treyni_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000011, 
+        "MasterPartyEditVoiceId": 3012001106, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/trya/voice_sys_trya_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000012, 
+        "MasterPartyEditVoiceId": 3012001201, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/trya/voice_sys_trya_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000012, 
+        "MasterPartyEditVoiceId": 3012001202, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/trya/voice_sys_trya_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000012, 
+        "MasterPartyEditVoiceId": 3012001203, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/trya/voice_sys_trya_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000012, 
+        "MasterPartyEditVoiceId": 3012001204, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/trya/voice_sys_trya_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000012, 
+        "MasterPartyEditVoiceId": 3012001205, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/trya/voice_sys_trya_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000012, 
+        "MasterPartyEditVoiceId": 3012001206, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shizu/voice_sys_shizu_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000013, 
+        "MasterPartyEditVoiceId": 3012001301, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shizu/voice_sys_shizu_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000013, 
+        "MasterPartyEditVoiceId": 3012001302, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shizu/voice_sys_shizu_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000013, 
+        "MasterPartyEditVoiceId": 3012001303, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shizu/voice_sys_shizu_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000013, 
+        "MasterPartyEditVoiceId": 3012001304, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shizu/voice_sys_shizu_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000013, 
+        "MasterPartyEditVoiceId": 3012001305, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/shizu/voice_sys_shizu_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000013, 
+        "MasterPartyEditVoiceId": 3012001306, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gelmud/voice_sys_gelmud_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000014, 
+        "MasterPartyEditVoiceId": 3012001401, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gelmud/voice_sys_gelmud_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000014, 
+        "MasterPartyEditVoiceId": 3012001402, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gelmud/voice_sys_gelmud_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000014, 
+        "MasterPartyEditVoiceId": 3012001403, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gelmud/voice_sys_gelmud_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000014, 
+        "MasterPartyEditVoiceId": 3012001404, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gelmud/voice_sys_gelmud_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000014, 
+        "MasterPartyEditVoiceId": 3012001405, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gelmud/voice_sys_gelmud_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000014, 
+        "MasterPartyEditVoiceId": 3012001406, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/milim/voice_sys_milim_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000015, 
+        "MasterPartyEditVoiceId": 3012001501, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/milim/voice_sys_milim_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000015, 
+        "MasterPartyEditVoiceId": 3012001502, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/milim/voice_sys_milim_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000015, 
+        "MasterPartyEditVoiceId": 3012001503, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/milim/voice_sys_milim_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000015, 
+        "MasterPartyEditVoiceId": 3012001504, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/milim/voice_sys_milim_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000015, 
+        "MasterPartyEditVoiceId": 3012001505, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/milim/voice_sys_milim_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000015, 
+        "MasterPartyEditVoiceId": 3012001506, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000016, 
+        "MasterPartyEditVoiceId": 3012001601, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000016, 
+        "MasterPartyEditVoiceId": 3012001602, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000016, 
+        "MasterPartyEditVoiceId": 3012001603, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000016, 
+        "MasterPartyEditVoiceId": 3012001604, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000016, 
+        "MasterPartyEditVoiceId": 3012001605, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000016, 
+        "MasterPartyEditVoiceId": 3012001606, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/geld/voice_sys_geld_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000017, 
+        "MasterPartyEditVoiceId": 3012001701, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/geld/voice_sys_geld_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000017, 
+        "MasterPartyEditVoiceId": 3012001702, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/geld/voice_sys_geld_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000017, 
+        "MasterPartyEditVoiceId": 3012001703, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/geld/voice_sys_geld_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000017, 
+        "MasterPartyEditVoiceId": 3012001704, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/geld/voice_sys_geld_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000017, 
+        "MasterPartyEditVoiceId": 3012001705, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/geld/voice_sys_geld_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000017, 
+        "MasterPartyEditVoiceId": 3012001706, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001801, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001802, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001803, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001804, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001805, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001806, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_before_007_party", 
+        "LimitedMasterPcId": 140015, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001807, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_before_008_party", 
+        "LimitedMasterPcId": 140015, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001808, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_before_009_party", 
+        "LimitedMasterPcId": 140015, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001809, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_before_010_party", 
+        "LimitedMasterPcId": 140015, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001810, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_before_011_party", 
+        "LimitedMasterPcId": 140015, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001811, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/hakuro/voice_sys_hakuro_before_007_party", 
+        "LimitedMasterPcId": 140015, 
+        "MasterCharacterId": 3001000018, 
+        "MasterPartyEditVoiceId": 3012001812, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001901, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001902, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001903, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001904, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001905, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001906, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_before_07_party", 
+        "LimitedMasterPcId": 130005, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001907, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_before_08_party", 
+        "LimitedMasterPcId": 130005, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001908, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_before_09_party", 
+        "LimitedMasterPcId": 130005, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001909, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_before_10_party", 
+        "LimitedMasterPcId": 130005, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001910, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_before_11_party", 
+        "LimitedMasterPcId": 130005, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001911, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kurobei/voice_sys_kurobei_before_07_party", 
+        "LimitedMasterPcId": 130005, 
+        "MasterCharacterId": 3001000019, 
+        "MasterPartyEditVoiceId": 3012001912, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ryota/voice_sys_ryota_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000020, 
+        "MasterPartyEditVoiceId": 3012002001, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ryota/voice_sys_ryota_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000020, 
+        "MasterPartyEditVoiceId": 3012002002, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ryota/voice_sys_ryota_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000020, 
+        "MasterPartyEditVoiceId": 3012002003, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ryota/voice_sys_ryota_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000020, 
+        "MasterPartyEditVoiceId": 3012002004, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ryota/voice_sys_ryota_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000020, 
+        "MasterPartyEditVoiceId": 3012002005, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ryota/voice_sys_ryota_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000020, 
+        "MasterPartyEditVoiceId": 3012002006, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/alice/voice_sys_alice_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000021, 
+        "MasterPartyEditVoiceId": 3012002101, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/alice/voice_sys_alice_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000021, 
+        "MasterPartyEditVoiceId": 3012002102, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/alice/voice_sys_alice_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000021, 
+        "MasterPartyEditVoiceId": 3012002103, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/alice/voice_sys_alice_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000021, 
+        "MasterPartyEditVoiceId": 3012002104, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/alice/voice_sys_alice_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000021, 
+        "MasterPartyEditVoiceId": 3012002105, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/alice/voice_sys_alice_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000021, 
+        "MasterPartyEditVoiceId": 3012002106, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kenya/voice_sys_kenya_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000022, 
+        "MasterPartyEditVoiceId": 3012002201, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kenya/voice_sys_kenya_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000022, 
+        "MasterPartyEditVoiceId": 3012002202, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kenya/voice_sys_kenya_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000022, 
+        "MasterPartyEditVoiceId": 3012002203, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kenya/voice_sys_kenya_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000022, 
+        "MasterPartyEditVoiceId": 3012002204, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kenya/voice_sys_kenya_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000022, 
+        "MasterPartyEditVoiceId": 3012002205, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kenya/voice_sys_kenya_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000022, 
+        "MasterPartyEditVoiceId": 3012002206, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gail/voice_sys_gail_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000023, 
+        "MasterPartyEditVoiceId": 3012002301, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gail/voice_sys_gail_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000023, 
+        "MasterPartyEditVoiceId": 3012002302, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gail/voice_sys_gail_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000023, 
+        "MasterPartyEditVoiceId": 3012002303, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gail/voice_sys_gail_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000023, 
+        "MasterPartyEditVoiceId": 3012002304, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gail/voice_sys_gail_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000023, 
+        "MasterPartyEditVoiceId": 3012002305, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gail/voice_sys_gail_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000023, 
+        "MasterPartyEditVoiceId": 3012002306, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/beretta/voice_sys_beretta_32_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000024, 
+        "MasterPartyEditVoiceId": 3012002401, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/beretta/voice_sys_beretta_33_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000024, 
+        "MasterPartyEditVoiceId": 3012002402, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/beretta/voice_sys_beretta_34_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000024, 
+        "MasterPartyEditVoiceId": 3012002403, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/beretta/voice_sys_beretta_35_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000024, 
+        "MasterPartyEditVoiceId": 3012002404, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/beretta/voice_sys_beretta_36_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000024, 
+        "MasterPartyEditVoiceId": 3012002405, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/beretta/voice_sys_beretta_32_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000024, 
+        "MasterPartyEditVoiceId": 3012002406, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/chloe/voice_sys_chloe_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000025, 
+        "MasterPartyEditVoiceId": 3012002501, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/chloe/voice_sys_chloe_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000025, 
+        "MasterPartyEditVoiceId": 3012002502, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/chloe/voice_sys_chloe_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000025, 
+        "MasterPartyEditVoiceId": 3012002503, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/chloe/voice_sys_chloe_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000025, 
+        "MasterPartyEditVoiceId": 3012002504, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/chloe/voice_sys_chloe_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000025, 
+        "MasterPartyEditVoiceId": 3012002505, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/chloe/voice_sys_chloe_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000025, 
+        "MasterPartyEditVoiceId": 3012002506, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000026, 
+        "MasterPartyEditVoiceId": 3012002601, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000026, 
+        "MasterPartyEditVoiceId": 3012002602, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000026, 
+        "MasterPartyEditVoiceId": 3012002603, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000026, 
+        "MasterPartyEditVoiceId": 3012002604, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000026, 
+        "MasterPartyEditVoiceId": 3012002605, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000026, 
+        "MasterPartyEditVoiceId": 3012002606, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/phobio/voice_sys_phobio_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000027, 
+        "MasterPartyEditVoiceId": 3012002701, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/phobio/voice_sys_phobio_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000027, 
+        "MasterPartyEditVoiceId": 3012002702, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/phobio/voice_sys_phobio_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000027, 
+        "MasterPartyEditVoiceId": 3012002703, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/phobio/voice_sys_phobio_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000027, 
+        "MasterPartyEditVoiceId": 3012002704, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/phobio/voice_sys_phobio_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000027, 
+        "MasterPartyEditVoiceId": 3012002705, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/phobio/voice_sys_phobio_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000027, 
+        "MasterPartyEditVoiceId": 3012002706, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050101, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050102, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_034_partys", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050103, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050104, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050105, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050106, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000502, 
+        "MasterPartyEditVoiceId": 3012050201, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000502, 
+        "MasterPartyEditVoiceId": 3012050202, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000502, 
+        "MasterPartyEditVoiceId": 3012050203, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000502, 
+        "MasterPartyEditVoiceId": 3012050204, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000502, 
+        "MasterPartyEditVoiceId": 3012050205, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000502, 
+        "MasterPartyEditVoiceId": 3012050206, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ifrit/voice_sys_ifrit_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000503, 
+        "MasterPartyEditVoiceId": 3012050301, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ifrit/voice_sys_ifrit_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000503, 
+        "MasterPartyEditVoiceId": 3012050302, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ifrit/voice_sys_ifrit_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000503, 
+        "MasterPartyEditVoiceId": 3012050303, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ifrit/voice_sys_ifrit_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000503, 
+        "MasterPartyEditVoiceId": 3012050304, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ifrit/voice_sys_ifrit_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000503, 
+        "MasterPartyEditVoiceId": 3012050305, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ifrit/voice_sys_ifrit_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000503, 
+        "MasterPartyEditVoiceId": 3012050306, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/charybdis/voice_sys_charybdis_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000504, 
+        "MasterPartyEditVoiceId": 3012050401, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/charybdis/voice_sys_charybdis_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000504, 
+        "MasterPartyEditVoiceId": 3012050402, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/charybdis/voice_sys_charybdis_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000504, 
+        "MasterPartyEditVoiceId": 3012050403, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/charybdis/voice_sys_charybdis_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000504, 
+        "MasterPartyEditVoiceId": 3012050404, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/charybdis/voice_sys_charybdis_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000504, 
+        "MasterPartyEditVoiceId": 3012050405, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/charybdis/voice_sys_charybdis_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000504, 
+        "MasterPartyEditVoiceId": 3012050406, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000505, 
+        "MasterPartyEditVoiceId": 3012050501, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_003_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000505, 
+        "MasterPartyEditVoiceId": 3012050502, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000505, 
+        "MasterPartyEditVoiceId": 3012050503, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000505, 
+        "MasterPartyEditVoiceId": 3012050504, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000505, 
+        "MasterPartyEditVoiceId": 3012050505, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000505, 
+        "MasterPartyEditVoiceId": 3012050506, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ramiris/voice_sys_ramiris_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000506, 
+        "MasterPartyEditVoiceId": 3012050601, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ramiris/voice_sys_ramiris_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000506, 
+        "MasterPartyEditVoiceId": 3012050602, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ramiris/voice_sys_ramiris_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000506, 
+        "MasterPartyEditVoiceId": 3012050603, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ramiris/voice_sys_ramiris_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000506, 
+        "MasterPartyEditVoiceId": 3012050604, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ramiris/voice_sys_ramiris_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000506, 
+        "MasterPartyEditVoiceId": 3012050605, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/ramiris/voice_sys_ramiris_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000506, 
+        "MasterPartyEditVoiceId": 3012050606, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mjollmile/voice_sys_mjollmile_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000507, 
+        "MasterPartyEditVoiceId": 3012050701, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mjollmile/voice_sys_mjollmile_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000507, 
+        "MasterPartyEditVoiceId": 3012050702, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mjollmile/voice_sys_mjollmile_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000507, 
+        "MasterPartyEditVoiceId": 3012050703, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mjollmile/voice_sys_mjollmile_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000507, 
+        "MasterPartyEditVoiceId": 3012050704, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mjollmile/voice_sys_mjollmile_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000507, 
+        "MasterPartyEditVoiceId": 3012050705, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mjollmile/voice_sys_mjollmile_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000507, 
+        "MasterPartyEditVoiceId": 3012050706, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/salamander/voice_sys_salamander_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000508, 
+        "MasterPartyEditVoiceId": 3012050801, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/salamander/voice_sys_salamander_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000508, 
+        "MasterPartyEditVoiceId": 3012050802, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/salamander/voice_sys_salamander_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000508, 
+        "MasterPartyEditVoiceId": 3012050803, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/salamander/voice_sys_salamander_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000508, 
+        "MasterPartyEditVoiceId": 3012050804, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/salamander/voice_sys_salamander_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000508, 
+        "MasterPartyEditVoiceId": 3012050805, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/salamander/voice_sys_salamander_002_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000508, 
+        "MasterPartyEditVoiceId": 3012050806, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fuze/voice_sys_fuze_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000509, 
+        "MasterPartyEditVoiceId": 3012050901, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fuze/voice_sys_fuze_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000509, 
+        "MasterPartyEditVoiceId": 3012050902, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fuze/voice_sys_fuze_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000509, 
+        "MasterPartyEditVoiceId": 3012050903, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fuze/voice_sys_fuze_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000509, 
+        "MasterPartyEditVoiceId": 3012050904, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fuze/voice_sys_fuze_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000509, 
+        "MasterPartyEditVoiceId": 3012050905, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fuze/voice_sys_fuze_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000509, 
+        "MasterPartyEditVoiceId": 3012050906, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/vesta/voice_sys_vesta_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000510, 
+        "MasterPartyEditVoiceId": 3012051001, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/vesta/voice_sys_vesta_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000510, 
+        "MasterPartyEditVoiceId": 3012051002, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/vesta/voice_sys_vesta_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000510, 
+        "MasterPartyEditVoiceId": 3012051003, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/vesta/voice_sys_vesta_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000510, 
+        "MasterPartyEditVoiceId": 3012051004, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/vesta/voice_sys_vesta_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000510, 
+        "MasterPartyEditVoiceId": 3012051005, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/vesta/voice_sys_vesta_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000510, 
+        "MasterPartyEditVoiceId": 3012051006, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/skydragon/voice_sys_skydragon_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000511, 
+        "MasterPartyEditVoiceId": 3012051101, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/skydragon/voice_sys_skydragon_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000511, 
+        "MasterPartyEditVoiceId": 3012051102, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/skydragon/voice_sys_skydragon_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000511, 
+        "MasterPartyEditVoiceId": 3012051103, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/skydragon/voice_sys_skydragon_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000511, 
+        "MasterPartyEditVoiceId": 3012051104, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/skydragon/voice_sys_skydragon_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000511, 
+        "MasterPartyEditVoiceId": 3012051105, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/skydragon/voice_sys_skydragon_001_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000511, 
+        "MasterPartyEditVoiceId": 3012051106, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/light/voice_sys_light_spirit_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000512, 
+        "MasterPartyEditVoiceId": 3012051201, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/light/voice_sys_light_spirit_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000512, 
+        "MasterPartyEditVoiceId": 3012051202, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/light/voice_sys_light_spirit_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000512, 
+        "MasterPartyEditVoiceId": 3012051203, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/light/voice_sys_light_spirit_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000512, 
+        "MasterPartyEditVoiceId": 3012051204, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/light/voice_sys_light_spirit_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000512, 
+        "MasterPartyEditVoiceId": 3012051205, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/light/voice_sys_light_spirit_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000512, 
+        "MasterPartyEditVoiceId": 3012051206, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mob/voice_sys_mob_elf_leader_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000513, 
+        "MasterPartyEditVoiceId": 3012051301, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mob/voice_sys_mob_elf_leader_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000513, 
+        "MasterPartyEditVoiceId": 3012051302, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mob/voice_sys_mob_elf_leader_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000513, 
+        "MasterPartyEditVoiceId": 3012051303, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mob/voice_sys_mob_elf_leader_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000513, 
+        "MasterPartyEditVoiceId": 3012051304, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mob/voice_sys_mob_elf_leader_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000513, 
+        "MasterPartyEditVoiceId": 3012051305, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/mob/voice_sys_mob_elf_leader_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000513, 
+        "MasterPartyEditVoiceId": 3012051306, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_004_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000514, 
+        "MasterPartyEditVoiceId": 3012051401, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_004_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000514, 
+        "MasterPartyEditVoiceId": 3012051402, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_007_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000514, 
+        "MasterPartyEditVoiceId": 3012051403, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_007_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000514, 
+        "MasterPartyEditVoiceId": 3012051404, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_004_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000514, 
+        "MasterPartyEditVoiceId": 3012051405, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/fortuneelfe/voice_sys_fortuneelfe_007_communicate", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000514, 
+        "MasterPartyEditVoiceId": 3012051406, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/garm/voice_sys_garm_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000515, 
+        "MasterPartyEditVoiceId": 3012051501, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/garm/voice_sys_garm_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000515, 
+        "MasterPartyEditVoiceId": 3012051502, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/garm/voice_sys_garm_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000515, 
+        "MasterPartyEditVoiceId": 3012051503, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/garm/voice_sys_garm_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000515, 
+        "MasterPartyEditVoiceId": 3012051504, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/garm/voice_sys_garm_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000515, 
+        "MasterPartyEditVoiceId": 3012051505, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/garm/voice_sys_garm_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000515, 
+        "MasterPartyEditVoiceId": 3012051506, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/dord/voice_sys_dord_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000516, 
+        "MasterPartyEditVoiceId": 3012051601, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/dord/voice_sys_dord_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000516, 
+        "MasterPartyEditVoiceId": 3012051602, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/dord/voice_sys_dord_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000516, 
+        "MasterPartyEditVoiceId": 3012051603, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/dord/voice_sys_dord_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000516, 
+        "MasterPartyEditVoiceId": 3012051604, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/dord/voice_sys_dord_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000516, 
+        "MasterPartyEditVoiceId": 3012051605, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/dord/voice_sys_dord_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000516, 
+        "MasterPartyEditVoiceId": 3012051606, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/myrd/voice_sys_myrd_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000517, 
+        "MasterPartyEditVoiceId": 3012051701, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/myrd/voice_sys_myrd_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000517, 
+        "MasterPartyEditVoiceId": 3012051702, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/myrd/voice_sys_myrd_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000517, 
+        "MasterPartyEditVoiceId": 3012051703, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/myrd/voice_sys_myrd_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000517, 
+        "MasterPartyEditVoiceId": 3012051704, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/myrd/voice_sys_myrd_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000517, 
+        "MasterPartyEditVoiceId": 3012051705, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/myrd/voice_sys_myrd_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000517, 
+        "MasterPartyEditVoiceId": 3012051706, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/haruna/voice_sys_haruna_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000518, 
+        "MasterPartyEditVoiceId": 3012051801, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/haruna/voice_sys_haruna_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000518, 
+        "MasterPartyEditVoiceId": 3012051802, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/haruna/voice_sys_haruna_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000518, 
+        "MasterPartyEditVoiceId": 3012051803, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/haruna/voice_sys_haruna_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000518, 
+        "MasterPartyEditVoiceId": 3012051804, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/haruna/voice_sys_haruna_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000518, 
+        "MasterPartyEditVoiceId": 3012051805, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/haruna/voice_sys_haruna_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000518, 
+        "MasterPartyEditVoiceId": 3012051806, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobichi/voice_sys_gobichi_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000519, 
+        "MasterPartyEditVoiceId": 3012051901, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobichi/voice_sys_gobichi_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000519, 
+        "MasterPartyEditVoiceId": 3012051902, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobichi/voice_sys_gobichi_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000519, 
+        "MasterPartyEditVoiceId": 3012051903, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobichi/voice_sys_gobichi_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000519, 
+        "MasterPartyEditVoiceId": 3012051904, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobichi/voice_sys_gobichi_015_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000519, 
+        "MasterPartyEditVoiceId": 3012051905, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/gobichi/voice_sys_gobichi_016_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000519, 
+        "MasterPartyEditVoiceId": 3012051906, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kaijin/voice_sys_kaijin_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000520, 
+        "MasterPartyEditVoiceId": 3012052001, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kaijin/voice_sys_kaijin_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000520, 
+        "MasterPartyEditVoiceId": 3012052002, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kaijin/voice_sys_kaijin_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000520, 
+        "MasterPartyEditVoiceId": 3012052003, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kaijin/voice_sys_kaijin_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000520, 
+        "MasterPartyEditVoiceId": 3012052004, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kaijin/voice_sys_kaijin_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000520, 
+        "MasterPartyEditVoiceId": 3012052005, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/kaijin/voice_sys_kaijin_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000520, 
+        "MasterPartyEditVoiceId": 3012052006, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": ""
+    }
+]

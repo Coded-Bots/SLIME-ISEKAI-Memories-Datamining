@@ -1,0 +1,380 @@
+[
+    {
+        "MasterBingoMissionId": 620410011, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410011, 
+        "Position": 9, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410012, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410012, 
+        "Position": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410013, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410013, 
+        "Position": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410014, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410014, 
+        "Position": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410015, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410015, 
+        "Position": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410016, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410016, 
+        "Position": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410017, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410017, 
+        "Position": 7, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410018, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410018, 
+        "Position": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410019, 
+        "MasterBingoMissionSheetId": 610000001, 
+        "MasterMissionId": 600410019, 
+        "Position": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410021, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410021, 
+        "Position": 9, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410022, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410022, 
+        "Position": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410023, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410023, 
+        "Position": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410024, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410024, 
+        "Position": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410025, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410025, 
+        "Position": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410026, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410026, 
+        "Position": 7, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410027, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410027, 
+        "Position": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410028, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410028, 
+        "Position": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410029, 
+        "MasterBingoMissionSheetId": 610000002, 
+        "MasterMissionId": 600410029, 
+        "Position": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410031, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410031, 
+        "Position": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410032, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410032, 
+        "Position": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410033, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410033, 
+        "Position": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410034, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410034, 
+        "Position": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410035, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410035, 
+        "Position": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410036, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410036, 
+        "Position": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410037, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410037, 
+        "Position": 7, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410038, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410038, 
+        "Position": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410039, 
+        "MasterBingoMissionSheetId": 610000003, 
+        "MasterMissionId": 600410039, 
+        "Position": 9, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410041, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410041, 
+        "Position": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410042, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410042, 
+        "Position": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410043, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410043, 
+        "Position": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410044, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410044, 
+        "Position": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410045, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410045, 
+        "Position": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410046, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410046, 
+        "Position": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410047, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410047, 
+        "Position": 7, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410048, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410048, 
+        "Position": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410049, 
+        "MasterBingoMissionSheetId": 610000004, 
+        "MasterMissionId": 600410049, 
+        "Position": 9, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410051, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410051, 
+        "Position": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410052, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410052, 
+        "Position": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410053, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410053, 
+        "Position": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410054, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410054, 
+        "Position": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410055, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410055, 
+        "Position": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410056, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410056, 
+        "Position": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410057, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410057, 
+        "Position": 7, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410058, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410058, 
+        "Position": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410059, 
+        "MasterBingoMissionSheetId": 610000005, 
+        "MasterMissionId": 600410059, 
+        "Position": 9, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 621410051, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410051, 
+        "Position": 1, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410052, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410052, 
+        "Position": 2, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410053, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410053, 
+        "Position": 3, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410054, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410054, 
+        "Position": 4, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410055, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410055, 
+        "Position": 5, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410056, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410056, 
+        "Position": 6, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410057, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410057, 
+        "Position": 7, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410058, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410058, 
+        "Position": 8, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }, 
+    {
+        "MasterBingoMissionId": 621410059, 
+        "MasterBingoMissionSheetId": 610000006, 
+        "MasterMissionId": 600410059, 
+        "Position": 9, 
+        "ReleaseLabeloffset": "mission@cbt_2021"
+    }
+]

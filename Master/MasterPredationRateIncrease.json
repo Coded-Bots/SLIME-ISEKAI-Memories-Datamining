@@ -1,0 +1,37 @@
+[
+    {
+        "MasterPredationRateIncreaseId": 5004000001, 
+        "RateMax": 1999, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10000
+    }, 
+    {
+        "MasterPredationRateIncreaseId": 5004000002, 
+        "RateMax": 3999, 
+        "RateMin": 2000, 
+        "ReleaseLabeloffset": "", 
+        "Value": 10500
+    }, 
+    {
+        "MasterPredationRateIncreaseId": 5004000003, 
+        "RateMax": 5999, 
+        "RateMin": 4000, 
+        "ReleaseLabeloffset": "", 
+        "Value": 11000
+    }, 
+    {
+        "MasterPredationRateIncreaseId": 5004000004, 
+        "RateMax": 7999, 
+        "RateMin": 6000, 
+        "ReleaseLabeloffset": "", 
+        "Value": 11500
+    }, 
+    {
+        "MasterPredationRateIncreaseId": 5004000005, 
+        "RateMax": 9999, 
+        "RateMin": 8000, 
+        "ReleaseLabeloffset": "", 
+        "Value": 12000
+    }
+]

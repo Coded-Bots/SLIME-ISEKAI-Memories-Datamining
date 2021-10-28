@@ -1,0 +1,337 @@
+[
+    {
+        "Labeloffset": "battle.tutorial.prologue.1", 
+        "MasterBattleMessageId": 2007000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.2", 
+        "MasterBattleMessageId": 2007000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.3", 
+        "MasterBattleMessageId": 2007000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.4", 
+        "MasterBattleMessageId": 2007000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.5", 
+        "MasterBattleMessageId": 2007000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.6", 
+        "MasterBattleMessageId": 2007000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.7", 
+        "MasterBattleMessageId": 2007000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.8", 
+        "MasterBattleMessageId": 2007000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.9", 
+        "MasterBattleMessageId": 2007000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.prologue.10", 
+        "MasterBattleMessageId": 2007000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.quest1.1", 
+        "MasterBattleMessageId": 2007000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.quest1.2", 
+        "MasterBattleMessageId": 2007000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.quest1.3", 
+        "MasterBattleMessageId": 2007000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.quest1.4", 
+        "MasterBattleMessageId": 2007000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.quest1.5", 
+        "MasterBattleMessageId": 2007000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.quest2.1", 
+        "MasterBattleMessageId": 2007000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.1", 
+        "MasterBattleMessageId": 2007000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.2", 
+        "MasterBattleMessageId": 2007000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.3", 
+        "MasterBattleMessageId": 2007000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.4", 
+        "MasterBattleMessageId": 2007000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.5", 
+        "MasterBattleMessageId": 2007000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.6", 
+        "MasterBattleMessageId": 2007000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.7", 
+        "MasterBattleMessageId": 2007000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.format.menu.title", 
+        "MasterBattleMessageId": 2007000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.buff.up", 
+        "MasterBattleMessageId": 2007000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.buff.down", 
+        "MasterBattleMessageId": 2007000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.buff.miss", 
+        "MasterBattleMessageId": 2007000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.buff.invalid", 
+        "MasterBattleMessageId": 2007000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.condition.add", 
+        "MasterBattleMessageId": 2007000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.condition.remove", 
+        "MasterBattleMessageId": 2007000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.condition.miss", 
+        "MasterBattleMessageId": 2007000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.damage.up", 
+        "MasterBattleMessageId": 2007000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.damage.down", 
+        "MasterBattleMessageId": 2007000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.gauge.up", 
+        "MasterBattleMessageId": 2007000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.gauge.down", 
+        "MasterBattleMessageId": 2007000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.combo.attack.up", 
+        "MasterBattleMessageId": 2007000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.combo.attack.down", 
+        "MasterBattleMessageId": 2007000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.combo.gauge.up", 
+        "MasterBattleMessageId": 2007000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.card.effect.combo.gauge.down", 
+        "MasterBattleMessageId": 2007000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.start.display", 
+        "MasterBattleMessageId": 2007000042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.buffparameterinfo.up", 
+        "MasterBattleMessageId": 2007000043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.buffparameterinfo.down", 
+        "MasterBattleMessageId": 2007000044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.buffparameterinfo.tern", 
+        "MasterBattleMessageId": 2007000045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.buffparameterinfo.format", 
+        "MasterBattleMessageId": 2007000046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.conditioninfo.add", 
+        "MasterBattleMessageId": 2007000047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.conditioninfo.remove", 
+        "MasterBattleMessageId": 2007000048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.cardinfo.conditioninfo.tern", 
+        "MasterBattleMessageId": 2007000049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.predation.result.score.ally.damage", 
+        "MasterBattleMessageId": 2007000050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.predation.result.score.enemy.damage", 
+        "MasterBattleMessageId": 2007000051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.predation.result.score.turn", 
+        "MasterBattleMessageId": 2007000052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.predation.result.score.success", 
+        "MasterBattleMessageId": 2007000053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.predation.result.score.week", 
+        "MasterBattleMessageId": 2007000054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.resist.buff", 
+        "MasterBattleMessageId": 2007000055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.remains.turn.temporary", 
+        "MasterBattleMessageId": 2007000056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.remains.turn.infinity", 
+        "MasterBattleMessageId": 2007000057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.remains.effectup", 
+        "MasterBattleMessageId": 2007000058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.remains.effectdown", 
+        "MasterBattleMessageId": 2007000059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.remains.format", 
+        "MasterBattleMessageId": 2007000060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.resist.condition", 
+        "MasterBattleMessageId": 2007000061, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.resist.buff", 
+        "MasterBattleMessageId": 2007000062, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.characterdetail.remains.turn.conditionpassiveskill", 
+        "MasterBattleMessageId": 2007000063, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.tutorial.predation.5.1", 
+        "MasterBattleMessageId": 2007000064, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.specialgauge.up", 
+        "MasterBattleMessageId": 2007000065, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.specialgauge.down", 
+        "MasterBattleMessageId": 2007000066, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.option.reset.title", 
+        "MasterBattleMessageId": 2007000067, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.option.reset.message", 
+        "MasterBattleMessageId": 2007000068, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.blessconfirm.title", 
+        "MasterBattleMessageId": 2007000069, 
+        "ReleaseLabeloffset": ""
+    }
+]

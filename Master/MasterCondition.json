@@ -1,0 +1,34 @@
+[
+    {
+        "AssetPathoffset": null, 
+        "CanCardSelect": false, 
+        "CanCounter": false, 
+        "CanEvasion": false, 
+        "CanGuard": false, 
+        "CanUseSkill": false, 
+        "ConditionEffectType": 0, 
+        "IsDamageTurn": true, 
+        "MasterConditionId": 2001000001, 
+        "NotAttackRate": 156, 
+        "PathIconSkillAddoffset": "Image/IcStatus/031/05/IcStatus_031_05", 
+        "PathIconSkillRemoveoffset": "", 
+        "PathIconStatusoffset": "Setting/Effect/Battle/Common/C_Abnormal_Stun", 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AssetPathoffset": "", 
+        "CanCardSelect": true, 
+        "CanCounter": true, 
+        "CanEvasion": true, 
+        "CanGuard": true, 
+        "CanUseSkill": true, 
+        "ConditionEffectType": 1, 
+        "IsDamageTurn": false, 
+        "MasterConditionId": 2001000002, 
+        "NotAttackRate": 152, 
+        "PathIconSkillAddoffset": "Image/IcStatus/031/06/IcStatus_031_06", 
+        "PathIconSkillRemoveoffset": "", 
+        "PathIconStatusoffset": "Setting/Effect/Battle/Common/C_Abnormal_Poison", 
+        "ReleaseLabeloffset": ""
+    }
+]

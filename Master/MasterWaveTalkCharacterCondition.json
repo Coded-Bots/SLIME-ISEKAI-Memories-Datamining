@@ -1,0 +1,210 @@
+[
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000001, 
+        "MasterWaveTalkCharacterConditionId": 4004000001, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Rimuru_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000003, 
+        "MasterWaveTalkCharacterConditionId": 4004000003, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Benimaru_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000004, 
+        "MasterWaveTalkCharacterConditionId": 4004000004, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Gobta_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000005, 
+        "MasterWaveTalkCharacterConditionId": 4004000005, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Shion_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000006, 
+        "MasterWaveTalkCharacterConditionId": 4004000006, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Ranga_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000007, 
+        "MasterWaveTalkCharacterConditionId": 4004000007, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Soei_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000008, 
+        "MasterWaveTalkCharacterConditionId": 4004000008, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Rigurd_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000009, 
+        "MasterWaveTalkCharacterConditionId": 4004000009, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "GazelDwargo_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000010, 
+        "MasterWaveTalkCharacterConditionId": 4004000010, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Shuna_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000011, 
+        "MasterWaveTalkCharacterConditionId": 4004000011, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Treyni_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000012, 
+        "MasterWaveTalkCharacterConditionId": 4004000012, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Trya_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000013, 
+        "MasterWaveTalkCharacterConditionId": 4004000013, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Shizu_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000014, 
+        "MasterWaveTalkCharacterConditionId": 4004000014, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Gelmud_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000015, 
+        "MasterWaveTalkCharacterConditionId": 4004000015, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Milim_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000016, 
+        "MasterWaveTalkCharacterConditionId": 4004000016, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Gabiru_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000017, 
+        "MasterWaveTalkCharacterConditionId": 4004000017, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Geld_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000018, 
+        "MasterWaveTalkCharacterConditionId": 4004000018, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Hakuro_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000019, 
+        "MasterWaveTalkCharacterConditionId": 4004000019, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Kurobei_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000020, 
+        "MasterWaveTalkCharacterConditionId": 4004000020, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Ryota_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000021, 
+        "MasterWaveTalkCharacterConditionId": 4004000021, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Alice_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000022, 
+        "MasterWaveTalkCharacterConditionId": 4004000022, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Kenya_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000023, 
+        "MasterWaveTalkCharacterConditionId": 4004000023, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Gail_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000024, 
+        "MasterWaveTalkCharacterConditionId": 4004000024, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Beretta_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000025, 
+        "MasterWaveTalkCharacterConditionId": 4004000025, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Chloe_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000026, 
+        "MasterWaveTalkCharacterConditionId": 4004000026, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Yuuki_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000027, 
+        "MasterWaveTalkCharacterConditionId": 4004000027, 
+        "ReleaseLabeloffset": "", 
+        "TalkConditionLabeloffset": "Phobio_Talk_Normal", 
+        "TargetType": 2
+    }
+]

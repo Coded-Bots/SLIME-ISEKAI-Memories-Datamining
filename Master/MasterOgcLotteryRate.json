@@ -1,0 +1,274 @@
+[
+    {
+        "MasterOgcLotteryRateGroupId": 10, 
+        "MasterOgcLotteryRateId": 503001001, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "Rate": 5400, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 10, 
+        "MasterOgcLotteryRateId": 503001002, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "Rate": 2700, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 10, 
+        "MasterOgcLotteryRateId": 503001003, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "Rate": 1000, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 10, 
+        "MasterOgcLotteryRateId": 503001004, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 10, 
+        "MasterOgcLotteryRateId": 503001005, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "Rate": 300, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 10, 
+        "MasterOgcLotteryRateId": 503001006, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "Rate": 100, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 11, 
+        "MasterOgcLotteryRateId": 503001101, 
+        "MasterOgcLotteryRewardGroupId": 400, 
+        "Rate": 6400, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 11, 
+        "MasterOgcLotteryRateId": 503001102, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "Rate": 3200, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 11, 
+        "MasterOgcLotteryRateId": 503001103, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "Rate": 300, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 11, 
+        "MasterOgcLotteryRateId": 503001104, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "Rate": 100, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 20, 
+        "MasterOgcLotteryRateId": 503002001, 
+        "MasterOgcLotteryRewardGroupId": 300, 
+        "Rate": 5700, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 20, 
+        "MasterOgcLotteryRateId": 503002002, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "Rate": 2800, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 20, 
+        "MasterOgcLotteryRateId": 503002003, 
+        "MasterOgcLotteryRewardGroupId": 402, 
+        "Rate": 1000, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 20, 
+        "MasterOgcLotteryRateId": 503002004, 
+        "MasterOgcLotteryRewardGroupId": 403, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 21, 
+        "MasterOgcLotteryRateId": 503002101, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "Rate": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 22, 
+        "MasterOgcLotteryRateId": 503002201, 
+        "MasterOgcLotteryRewardGroupId": 500, 
+        "Rate": 7500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 22, 
+        "MasterOgcLotteryRateId": 503002202, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "Rate": 2500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 23, 
+        "MasterOgcLotteryRateId": 503002301, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "Rate": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 24, 
+        "MasterOgcLotteryRateId": 503002401, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "Rate": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001201, 
+        "MasterOgcLotteryRewardGroupId": 3002, 
+        "Rate": 2700, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001202, 
+        "MasterOgcLotteryRewardGroupId": 3003, 
+        "Rate": 2700, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001203, 
+        "MasterOgcLotteryRewardGroupId": 301, 
+        "Rate": 2700, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001204, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001205, 
+        "MasterOgcLotteryRewardGroupId": 4005, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001206, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001207, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "Rate": 150, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001208, 
+        "MasterOgcLotteryRewardGroupId": 5003, 
+        "Rate": 150, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 12, 
+        "MasterOgcLotteryRateId": 503001209, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "Rate": 100, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 13, 
+        "MasterOgcLotteryRateId": 503001301, 
+        "MasterOgcLotteryRewardGroupId": 4004, 
+        "Rate": 3200, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 13, 
+        "MasterOgcLotteryRateId": 503001302, 
+        "MasterOgcLotteryRewardGroupId": 4005, 
+        "Rate": 3200, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 13, 
+        "MasterOgcLotteryRateId": 503001303, 
+        "MasterOgcLotteryRewardGroupId": 401, 
+        "Rate": 3200, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 13, 
+        "MasterOgcLotteryRateId": 503001304, 
+        "MasterOgcLotteryRewardGroupId": 5002, 
+        "Rate": 150, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 13, 
+        "MasterOgcLotteryRateId": 503001305, 
+        "MasterOgcLotteryRewardGroupId": 5003, 
+        "Rate": 150, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 13, 
+        "MasterOgcLotteryRateId": 503001306, 
+        "MasterOgcLotteryRewardGroupId": 501, 
+        "Rate": 100, 
+        "ReleaseLabeloffset": "", 
+        "ShowRarity": 5
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "MasterPredationScoreSuccessId": 5002020001, 
+        "RateMax": 15000, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 200, 
+        "Value": 20000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020101, 
+        "RateMax": 2099, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020102, 
+        "RateMax": 3999, 
+        "RateMin": 2100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 1500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020103, 
+        "RateMax": 4099, 
+        "RateMin": 3100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 2000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020104, 
+        "RateMax": 5099, 
+        "RateMin": 4100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 2500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020105, 
+        "RateMax": 6099, 
+        "RateMin": 5100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 4500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020106, 
+        "RateMax": 7099, 
+        "RateMin": 6100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020107, 
+        "RateMax": 8099, 
+        "RateMin": 7100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 7500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020108, 
+        "RateMax": 9099, 
+        "RateMin": 8100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 8000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020109, 
+        "RateMax": 10099, 
+        "RateMin": 9100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020110, 
+        "RateMax": 11099, 
+        "RateMin": 10100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020111, 
+        "RateMax": 12099, 
+        "RateMin": 11100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 9500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020112, 
+        "RateMax": 13099, 
+        "RateMin": 12100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 10000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020113, 
+        "RateMax": 14099, 
+        "RateMin": 13100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 10500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020114, 
+        "RateMax": 15000, 
+        "RateMin": 14100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 201, 
+        "Value": 11000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020201, 
+        "RateMax": 2099, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020202, 
+        "RateMax": 3999, 
+        "RateMin": 2100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 1500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020203, 
+        "RateMax": 4099, 
+        "RateMin": 3100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 2000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020204, 
+        "RateMax": 5099, 
+        "RateMin": 4100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 2500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020205, 
+        "RateMax": 6099, 
+        "RateMin": 5100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 4500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020206, 
+        "RateMax": 7099, 
+        "RateMin": 6100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 7000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020207, 
+        "RateMax": 8099, 
+        "RateMin": 7100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 7500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020208, 
+        "RateMax": 9099, 
+        "RateMin": 8100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 8000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020209, 
+        "RateMax": 10099, 
+        "RateMin": 9100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 8500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020210, 
+        "RateMax": 11099, 
+        "RateMin": 10100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 9000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020211, 
+        "RateMax": 12099, 
+        "RateMin": 11100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 9500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020212, 
+        "RateMax": 13099, 
+        "RateMin": 12100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 10000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020213, 
+        "RateMax": 14099, 
+        "RateMin": 13100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 10500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002020214, 
+        "RateMax": 15000, 
+        "RateMin": 14100, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 202, 
+        "Value": 11000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021001, 
+        "RateMax": 499, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021002, 
+        "RateMax": 999, 
+        "RateMin": 500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021003, 
+        "RateMax": 1499, 
+        "RateMin": 1000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021004, 
+        "RateMax": 1999, 
+        "RateMin": 1500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021005, 
+        "RateMax": 2499, 
+        "RateMin": 2000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021006, 
+        "RateMax": 2999, 
+        "RateMin": 2500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021007, 
+        "RateMax": 3499, 
+        "RateMin": 3000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021008, 
+        "RateMax": 3999, 
+        "RateMin": 3500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021009, 
+        "RateMax": 4499, 
+        "RateMin": 4000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021010, 
+        "RateMax": 4999, 
+        "RateMin": 4500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 0
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021011, 
+        "RateMax": 5499, 
+        "RateMin": 5000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021012, 
+        "RateMax": 5999, 
+        "RateMin": 5500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 1000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021013, 
+        "RateMax": 6499, 
+        "RateMin": 6000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 2000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021014, 
+        "RateMax": 6999, 
+        "RateMin": 6500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 2500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021015, 
+        "RateMax": 7499, 
+        "RateMin": 7000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 3000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021016, 
+        "RateMax": 7999, 
+        "RateMin": 7500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 3500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021018, 
+        "RateMax": 8499, 
+        "RateMin": 8000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 4000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021019, 
+        "RateMax": 8999, 
+        "RateMin": 8500, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 4500
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021020, 
+        "RateMax": 9999, 
+        "RateMin": 9000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 5000
+    }, 
+    {
+        "MasterPredationScoreSuccessId": 5002021021, 
+        "RateMax": 15000, 
+        "RateMin": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreSuccessGroupId": 210, 
+        "Value": 5000
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "BannerType": 0, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
+        "MasterBannerId": 80000000001, 
+        "Pathoffset": "Image/LotteryInfo/500000011/LotteryBanner_500000011", 
+        "Priority": 110288999, 
+        "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
+        "Urloffset": "", 
+        "Value": 500000011
+    }, 
+    {
+        "BannerType": 7, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
+        "MasterBannerId": 80000200001, 
+        "Pathoffset": "Image/Shop/tier24.pack_1/ShopBanner_tier24.pack_1", 
+        "Priority": 110288998, 
+        "ReleaseLabeloffset": "", 
+        "Urloffset": "", 
+        "Value": 0
+    }, 
+    {
+        "BannerType": 5, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
+        "MasterBannerId": 80000400001, 
+        "Pathoffset": "Image/Banner/Announcement/100000003/AnnouncementBanner_100000003", 
+        "Priority": 110269999, 
+        "ReleaseLabeloffset": "202111_campaign_release_banner", 
+        "Urloffset": "", 
+        "Value": 100000003
+    }
+]

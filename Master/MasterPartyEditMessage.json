@@ -1,0 +1,212 @@
+[
+    {
+        "DefineNameoffset": "Party.Edit.Select.Main", 
+        "MasterPartyEditMessageId": 810000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Select.Assist", 
+        "MasterPartyEditMessageId": 810000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Select.Bless", 
+        "MasterPartyEditMessageId": 810000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Caution.Not.Selected.Assist", 
+        "MasterPartyEditMessageId": 810000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Caution.Remove.Slot.Assist", 
+        "MasterPartyEditMessageId": 810000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Caution.Set.Edit.Target", 
+        "MasterPartyEditMessageId": 810000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Confirm.Return.Modal", 
+        "MasterPartyEditMessageId": 810000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.Format", 
+        "MasterPartyEditMessageId": 810000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.0", 
+        "MasterPartyEditMessageId": 810000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.1", 
+        "MasterPartyEditMessageId": 810000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.2", 
+        "MasterPartyEditMessageId": 810000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.3", 
+        "MasterPartyEditMessageId": 810000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.4", 
+        "MasterPartyEditMessageId": 810000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.5", 
+        "MasterPartyEditMessageId": 810000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.6", 
+        "MasterPartyEditMessageId": 810000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.7", 
+        "MasterPartyEditMessageId": 810000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.8", 
+        "MasterPartyEditMessageId": 810000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.9", 
+        "MasterPartyEditMessageId": 810000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.PartyNumber.10", 
+        "MasterPartyEditMessageId": 810000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.EP", 
+        "MasterPartyEditMessageId": 810000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.StunResistance", 
+        "MasterPartyEditMessageId": 810000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.PoisonResistance", 
+        "MasterPartyEditMessageId": 810000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.PhysicalResistance", 
+        "MasterPartyEditMessageId": 810000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.MagicResistance", 
+        "MasterPartyEditMessageId": 810000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.FireResistance", 
+        "MasterPartyEditMessageId": 810000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.WaterResistance", 
+        "MasterPartyEditMessageId": 810000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.WindResistance", 
+        "MasterPartyEditMessageId": 810000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.EarthResistance", 
+        "MasterPartyEditMessageId": 810000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.AirResistance", 
+        "MasterPartyEditMessageId": 810000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.LightResistance", 
+        "MasterPartyEditMessageId": 810000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.DarkResistance", 
+        "MasterPartyEditMessageId": 810000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.ParallelComputing.SortieNotPossible", 
+        "MasterPartyEditMessageId": 810000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.ParallelComputing.ConditionList.EP", 
+        "MasterPartyEditMessageId": 810000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.ParallelComputing.ConditionList.CompletedStages", 
+        "MasterPartyEditMessageId": 810000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Caution.Auto.NotFoundCharacter", 
+        "MasterPartyEditMessageId": 810000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.Caution.Auto.RecommendedCharacter", 
+        "MasterPartyEditMessageId": 810000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.ParallelComputing.InProgress.Lock", 
+        "MasterPartyEditMessageId": 810000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.ParallelComputing.StartDisplay", 
+        "MasterPartyEditMessageId": 810000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.HP", 
+        "MasterPartyEditMessageId": 810000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.ATK", 
+        "MasterPartyEditMessageId": 810000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.EquipCriteria.DEF", 
+        "MasterPartyEditMessageId": 810000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Party.Edit.ParallelComputing.ConfirmStart", 
+        "MasterPartyEditMessageId": 810000042, 
+        "ReleaseLabeloffset": ""
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "MasterPcId": 150001, 
+        "MasterPcLotteryMessageId": 510000001, 
+        "MoviePathoffset": "sys/benimaru/voice_sys_benimaru_038_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/BenimaruDefault_Battle_SpecialSkill/BenimaruDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150002, 
+        "MasterPcLotteryMessageId": 510000002, 
+        "MoviePathoffset": "sys/shion/voice_sys_shion_040_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/ShionDefault_Battle_SpecialSkill/ShionDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150004, 
+        "MasterPcLotteryMessageId": 510000003, 
+        "MoviePathoffset": "sys/soei/voice_sys_soei_039_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/SoeiDefault_Battle_SpecialSkill/SoeiDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150005, 
+        "MasterPcLotteryMessageId": 510000004, 
+        "MoviePathoffset": "sys/gazeldwargo/voice_sys_gazeldwargo_041_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/GazelDwargoDefault_Battle_SpecialSkill/GazelDwargoDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150006, 
+        "MasterPcLotteryMessageId": 510000005, 
+        "MoviePathoffset": "sys/ranga/voice_sys_ranga_037_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/RangaDefault_Battle_SpecialSkill/RangaDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150007, 
+        "MasterPcLotteryMessageId": 510000006, 
+        "MoviePathoffset": "sys/shizu/voice_sys_shizu_038_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/ShizuDefault_Battle_SpecialSkill/ShizuDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150008, 
+        "MasterPcLotteryMessageId": 510000007, 
+        "MoviePathoffset": "sys/shuna/voice_sys_shuna_037_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/ShunaDefault_Battle_SpecialSkill/ShunaDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150009, 
+        "MasterPcLotteryMessageId": 510000008, 
+        "MoviePathoffset": "sys/treyni/voice_sys_treyni_040_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/TreyniDefault_Battle_SpecialSkill/TreyniDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150010, 
+        "MasterPcLotteryMessageId": 510000009, 
+        "MoviePathoffset": "sys/milim/voice_sys_milim_037_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/MilimDefault_Battle_SpecialSkill/MilimDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150015, 
+        "MasterPcLotteryMessageId": 510000010, 
+        "MoviePathoffset": "sys/rimuru/voice_sys_rimuru_074_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/RimuruDefault_Battle_SpecialSkill/RimuruDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150014, 
+        "MasterPcLotteryMessageId": 510000012, 
+        "MoviePathoffset": "sys/milim/voice_sys_milim_039_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/MilimWithoutMantle_Battle_SpecialSkill/MilimWithoutMantle_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150011, 
+        "MasterPcLotteryMessageId": 510000013, 
+        "MoviePathoffset": "sys/hakuro/voice_sys_hakuro_040_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/HakuroDefault_Battle_SpecialSkill/HakuroDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150012, 
+        "MasterPcLotteryMessageId": 510000014, 
+        "MoviePathoffset": "sys/beretta/voice_sys_beretta_39_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/BerettaDefault_Battle_SpecialSkill/BerettaDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150003, 
+        "MasterPcLotteryMessageId": 510000015, 
+        "MoviePathoffset": "sys/rimuru/voice_sys_rimuru_037_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/RimuruMagician_Battle_SpecialSkill/RimuruMagician_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250001, 
+        "MasterPcLotteryMessageId": 510000016, 
+        "MoviePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_001_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/DemonLordGeldDefault_Battle_BlessSkill/DemonLordGeldDefault_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250002, 
+        "MasterPcLotteryMessageId": 510000017, 
+        "MoviePathoffset": "sys/veldora/voice_sys_veldora_045_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/VeldoraDefault_Battle_BlessSkill/VeldoraDefault_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250003, 
+        "MasterPcLotteryMessageId": 510000018, 
+        "MoviePathoffset": "sys/ifrit/voice_sys_ifrit_001_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/IfritDefault_Battle_BlessSkill/IfritDefault_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250004, 
+        "MasterPcLotteryMessageId": 510000019, 
+        "MoviePathoffset": "sys/charybdis/voice_sys_charybdis_001_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/CharybdisDefault_Battle_BlessSkill/CharybdisDefault_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250005, 
+        "MasterPcLotteryMessageId": 510000020, 
+        "MoviePathoffset": "sys/ramiris/voice_sys_ramiris_040_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/RamirisDefault_Battle_BlessSkill/RamirisDefault_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250006, 
+        "MasterPcLotteryMessageId": 510000021, 
+        "MoviePathoffset": "sys/elementalcolossus/voice_sys_elementalcolossus_001_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/ElementalColossusDefault_Battle_BlessSkill/ElementalColossusDefault_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250007, 
+        "MasterPcLotteryMessageId": 510000022, 
+        "MoviePathoffset": "sys/milim/voice_sys_milim_040_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/MilimOriginalCostumeWhiteDress_Battle_BlessSkill/MilimOriginalCostumeWhiteDress_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
+    }
+]

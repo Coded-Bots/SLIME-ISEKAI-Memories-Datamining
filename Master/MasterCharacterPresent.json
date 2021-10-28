@@ -1,0 +1,18 @@
+[
+    {
+        "AddAffection": 0, 
+        "FavoriteItemBonusAffection": 0, 
+        "MasterCharacterPresentId": 3008000001, 
+        "MasterItemId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredAffectionLevel": 1
+    }, 
+    {
+        "AddAffection": 0, 
+        "FavoriteItemBonusAffection": 0, 
+        "MasterCharacterPresentId": 3008000002, 
+        "MasterItemId": 0, 
+        "ReleaseLabeloffset": "", 
+        "RequiredAffectionLevel": 1
+    }
+]

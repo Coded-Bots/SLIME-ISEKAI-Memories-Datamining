@@ -1,0 +1,74 @@
+[
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000001, 
+        "MasterMobTalkId": 3801000001, 
+        "ReleaseLabeloffset": "gen/goblina_b/voice_gen_goblina_b_016_A"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000002, 
+        "MasterMobTalkId": 3801000002, 
+        "ReleaseLabeloffset": "gen/goblina_a/voice_gen_goblina_a_016"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000003, 
+        "MasterMobTalkId": 3801000003, 
+        "ReleaseLabeloffset": "gen/hobgoblin_b/voice_gen_hobgoblin_b_017_A"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000004, 
+        "MasterMobTalkId": 3801000004, 
+        "ReleaseLabeloffset": "gen/hobgoblin_a/voice_gen_hobgoblin_a_017"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000005, 
+        "MasterMobTalkId": 3801000005, 
+        "ReleaseLabeloffset": "gen/goblin_a/voice_gen_goblin_a_017"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000006, 
+        "MasterMobTalkId": 3801000006, 
+        "ReleaseLabeloffset": "gen/goblin/voice_gen_goblin_017"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000007, 
+        "MasterMobTalkId": 3801000007, 
+        "ReleaseLabeloffset": "gen/orc_b/voice_gen_orc_b_017"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000008, 
+        "MasterMobTalkId": 3801000008, 
+        "ReleaseLabeloffset": "gen/orc_a/voice_gen_orc_a_017"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000009, 
+        "MasterMobTalkId": 3801000009, 
+        "ReleaseLabeloffset": "gen/lizardman_a/voice_gen_lizardman_a_017_A"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000010, 
+        "MasterMobTalkId": 3801000010, 
+        "ReleaseLabeloffset": "gen/lizardman_b/voice_gen_lizardman_b_017"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000011, 
+        "MasterMobTalkId": 3801000011, 
+        "ReleaseLabeloffset": "gen/lizardman_d/voice_gen_lizardman_d_017_A"
+    }, 
+    {
+        "BalloonVoicePathoffset": "", 
+        "MasterCharacterMobId": 3015000012, 
+        "MasterMobTalkId": 3801000012, 
+        "ReleaseLabeloffset": "gen/lizardman_c/voice_gen_lizardman_c_017_A"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "MasterGreatSageTransitionMessageId": 307000001, 
+        "MasterGreatSageTransitionMessageType": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000002, 
+        "MasterGreatSageTransitionMessageType": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000003, 
+        "MasterGreatSageTransitionMessageType": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000004, 
+        "MasterGreatSageTransitionMessageType": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000005, 
+        "MasterGreatSageTransitionMessageType": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000006, 
+        "MasterGreatSageTransitionMessageType": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000007, 
+        "MasterGreatSageTransitionMessageType": 9, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000008, 
+        "MasterGreatSageTransitionMessageType": 10, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000009, 
+        "MasterGreatSageTransitionMessageType": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000010, 
+        "MasterGreatSageTransitionMessageType": 11, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000011, 
+        "MasterGreatSageTransitionMessageType": 12, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterGreatSageTransitionMessageId": 307000012, 
+        "MasterGreatSageTransitionMessageType": 7, 
+        "ReleaseLabeloffset": ""
+    }
+]

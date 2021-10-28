@@ -1,0 +1,47 @@
+[
+    {
+        "DefineNameoffset": "MasterElementType.None", 
+        "MasterElementTypeMessageId": 805000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Earth", 
+        "MasterElementTypeMessageId": 805000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Air", 
+        "MasterElementTypeMessageId": 805000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Wind", 
+        "MasterElementTypeMessageId": 805000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Water", 
+        "MasterElementTypeMessageId": 805000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Fire", 
+        "MasterElementTypeMessageId": 805000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Holy", 
+        "MasterElementTypeMessageId": 805000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Dark", 
+        "MasterElementTypeMessageId": 805000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "MasterElementType.Time", 
+        "MasterElementTypeMessageId": 805000009, 
+        "ReleaseLabeloffset": ""
+    }
+]

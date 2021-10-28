@@ -1,0 +1,32 @@
+[
+    {
+        "EndTimeoffset": "7:00:00", 
+        "IsLocal": false, 
+        "MasterReleasePeriodId": 50003000001, 
+        "Offset": 0, 
+        "ReleaseLabeloffset": "gasha_@2020", 
+        "StartTimeoffset": "6:00:00", 
+        "Termoffset": "1:00", 
+        "Week": 0
+    }, 
+    {
+        "EndTimeoffset": "23:00:00", 
+        "IsLocal": true, 
+        "MasterReleasePeriodId": 50003000002, 
+        "Offset": 0, 
+        "ReleaseLabeloffset": "mission_@2020", 
+        "StartTimeoffset": "21:00:00", 
+        "Termoffset": "2:00", 
+        "Week": 80
+    }, 
+    {
+        "EndTimeoffset": "20:00:00", 
+        "IsLocal": true, 
+        "MasterReleasePeriodId": 50003000003, 
+        "Offset": 0, 
+        "ReleaseLabeloffset": "founding_@2020", 
+        "StartTimeoffset": "18:30:00", 
+        "Termoffset": "1:30", 
+        "Week": 32
+    }
+]

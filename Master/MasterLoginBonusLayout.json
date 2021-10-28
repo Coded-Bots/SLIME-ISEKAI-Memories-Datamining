@@ -1,0 +1,14 @@
+[
+    {
+        "LayoutType": 1, 
+        "MasterLoginBonusId": 60000010001, 
+        "MasterLoginBonusLayoutId": 61110001001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LayoutType": 0, 
+        "MasterLoginBonusId": 60000000002, 
+        "MasterLoginBonusLayoutId": 61100002001, 
+        "ReleaseLabeloffset": ""
+    }
+]

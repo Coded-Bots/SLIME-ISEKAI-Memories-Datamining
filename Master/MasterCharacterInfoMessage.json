@@ -1,0 +1,102 @@
+[
+    {
+        "DefineNameoffset": "CharacterInfo.LvUp.LackMaterial", 
+        "MasterCharacterInfoMessageId": 811000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.LvUp.MaxLvWarning", 
+        "MasterCharacterInfoMessageId": 811000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.LvUp.UnselectableSkill", 
+        "MasterCharacterInfoMessageId": 811000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Evolution.Announce.Format", 
+        "MasterCharacterInfoMessageId": 811000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Skill.PassiveSkill", 
+        "MasterCharacterInfoMessageId": 811000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Skill.SpecialSkill", 
+        "MasterCharacterInfoMessageId": 811000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.Skill.None", 
+        "MasterCharacterInfoMessageId": 811000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.Pc.SkillForce", 
+        "MasterCharacterInfoMessageId": 811000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.BlessPc.SkillForce", 
+        "MasterCharacterInfoMessageId": 811000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.LockByPopulation", 
+        "MasterCharacterInfoMessageId": 811000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.LockByLevel", 
+        "MasterCharacterInfoMessageId": 811000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.LockByOtherLockedCubes", 
+        "MasterCharacterInfoMessageId": 811000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.LockByShortageMaterial", 
+        "MasterCharacterInfoMessageId": 811000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.LimitBreakLock.Message", 
+        "MasterCharacterInfoMessageId": 811000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Evolution6.SubTitle", 
+        "MasterCharacterInfoMessageId": 811000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Evolution.SubTitle", 
+        "MasterCharacterInfoMessageId": 811000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.BoardCube.LockByRank", 
+        "MasterCharacterInfoMessageId": 811000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInto.Skill.Enhancement.LockByQuest", 
+        "MasterCharacterInfoMessageId": 811000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Skill.EvolutionLast.Title.L", 
+        "MasterCharacterInfoMessageId": 811000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "CharacterInfo.Skill.EvolutionLast.Title.R", 
+        "MasterCharacterInfoMessageId": 811000020, 
+        "ReleaseLabeloffset": ""
+    }
+]

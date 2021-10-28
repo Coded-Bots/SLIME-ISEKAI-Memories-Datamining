@@ -1,0 +1,11 @@
+[
+    {
+        "ExchangeMasterRewardGroupId": 802102400004, 
+        "ExchangeRate": 1, 
+        "ExchangeReleaseLabeloffset": "202110_lottery_release_anniversary_exchange", 
+        "MasterLotteryPointItemId": 508000002, 
+        "MasterOgcLotteryShopId": 500000011, 
+        "MaxLimit": 20000, 
+        "ReleaseLabeloffset": ""
+    }
+]

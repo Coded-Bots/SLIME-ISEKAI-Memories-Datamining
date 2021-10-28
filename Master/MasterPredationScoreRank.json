@@ -1,0 +1,98 @@
+[
+    {
+        "MasterPredationScoreRankId": 5003030001, 
+        "RankType": 0, 
+        "RateMax": 9999999, 
+        "RateMin": 20000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 300
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030002, 
+        "RankType": 1, 
+        "RateMax": 19999, 
+        "RateMin": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 300
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030003, 
+        "RankType": 2, 
+        "RateMax": 9999, 
+        "RateMin": -9999999, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 300
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030101, 
+        "RankType": 0, 
+        "RateMax": 9999999, 
+        "RateMin": 20000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 301
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030102, 
+        "RankType": 1, 
+        "RateMax": 19999, 
+        "RateMin": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 301
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030103, 
+        "RankType": 2, 
+        "RateMax": 9999, 
+        "RateMin": -9999999, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 301
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030201, 
+        "RankType": 0, 
+        "RateMax": 9999999, 
+        "RateMin": 20000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 302
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030202, 
+        "RankType": 1, 
+        "RateMax": 19999, 
+        "RateMin": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 302
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030203, 
+        "RankType": 2, 
+        "RateMax": 9999, 
+        "RateMin": -9999999, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 302
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030301, 
+        "RankType": 0, 
+        "RateMax": 9999999, 
+        "RateMin": 13000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 303
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030302, 
+        "RankType": 1, 
+        "RateMax": 12999, 
+        "RateMin": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 303
+    }, 
+    {
+        "MasterPredationScoreRankId": 5003030303, 
+        "RankType": 2, 
+        "RateMax": 9999, 
+        "RateMin": -9999999, 
+        "ReleaseLabeloffset": "", 
+        "ScoreRankGroupId": 303
+    }
+]

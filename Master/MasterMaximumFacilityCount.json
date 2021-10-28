@@ -1,0 +1,436 @@
+[
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110103, 
+        "MasterMaximumFacilityCountId": 402010301, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110104, 
+        "MasterMaximumFacilityCountId": 402010401, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110104, 
+        "MasterMaximumFacilityCountId": 402010402, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110105, 
+        "MasterMaximumFacilityCountId": 402010501, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001401, 
+        "MasterMaximumFacilityCountGroupId": 403110105, 
+        "MasterMaximumFacilityCountId": 402010502, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110105, 
+        "MasterMaximumFacilityCountId": 402010503, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010601, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001401, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010602, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001402, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010603, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001301, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010604, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001313, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010605, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001302, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010606, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110106, 
+        "MasterMaximumFacilityCountId": 402010607, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010701, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001401, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010702, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001402, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010703, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001301, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010704, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001313, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010705, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001302, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010706, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001403, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010707, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001307, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010708, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110107, 
+        "MasterMaximumFacilityCountId": 402010709, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010801, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001401, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010802, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001402, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010803, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001301, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010804, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001313, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010805, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001302, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010806, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001403, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010807, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001307, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010808, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001404, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010809, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001304, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010810, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110108, 
+        "MasterMaximumFacilityCountId": 402010811, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010901, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001401, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010902, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001402, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010903, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001301, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010904, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001313, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010905, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001302, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010906, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001403, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010907, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001307, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010908, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001404, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010909, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001304, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010910, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001406, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010911, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001303, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010912, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110109, 
+        "MasterMaximumFacilityCountId": 402010913, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001314, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011001, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001401, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011002, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001402, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011003, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001301, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011004, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001313, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011005, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001302, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011006, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001403, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011007, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001307, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011008, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001404, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011009, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001304, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011010, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001406, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011011, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001303, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011012, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001405, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011013, 
+        "MaximumFacilityCount": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001308, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011014, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001305, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011015, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterFacilityId": 400001306, 
+        "MasterMaximumFacilityCountGroupId": 403110110, 
+        "MasterMaximumFacilityCountId": 402011016, 
+        "MaximumFacilityCount": 2, 
+        "ReleaseLabeloffset": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "DefineNameoffset": "User.Rank.Title.F", 
+        "MasterUserProfileMessageId": 815000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.F", 
+        "MasterUserProfileMessageId": 815000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Cautiion.Wrong.Text.Edit", 
+        "MasterUserProfileMessageId": 815000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Cautiion.Copy.UID", 
+        "MasterUserProfileMessageId": 815000004, 
+        "ReleaseLabeloffset": ""
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "DefineNameoffset": "Builtin.AssetDownload.Confirm.Title", 
+        "MasterBuiltinMessageId": 814000001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Builtin.AssetDownload.Confirm.Text", 
+        "MasterBuiltinMessageId": 814000002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Builtin.AssetDownload.Confirm.Unit.MB", 
+        "MasterBuiltinMessageId": 814000003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Builtin.AssetDownload.Confirm.Unit.GB", 
+        "MasterBuiltinMessageId": 814000004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Startup.SelectLanguage.Title", 
+        "MasterBuiltinMessageId": 814000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Startup.SelectLanguage.Message", 
+        "MasterBuiltinMessageId": 814000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Startup.SelectRegion.Title", 
+        "MasterBuiltinMessageId": 814000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Startup.SelectRegion.Message", 
+        "MasterBuiltinMessageId": 814000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Startup.InputName.Confirm", 
+        "MasterBuiltinMessageId": 814000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Startup.InputName.Error", 
+        "MasterBuiltinMessageId": 814000010, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "UserDelete.Confirm.Title", 
+        "MasterBuiltinMessageId": 814000011, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "UserDelete.Confirm.Message", 
+        "MasterBuiltinMessageId": 814000012, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "UserDelete.Result.Message", 
+        "MasterBuiltinMessageId": 814000013, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ResetMarathon.Confirm.Title", 
+        "MasterBuiltinMessageId": 814000014, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ResetMarathon.Confirm.Message", 
+        "MasterBuiltinMessageId": 814000015, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "UserId.Reset.Message", 
+        "MasterBuiltinMessageId": 814000016, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "UserId.TryReset.Message", 
+        "MasterBuiltinMessageId": 814000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Device.MigrateDevice.Message", 
+        "MasterBuiltinMessageId": 814000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Device.TryMigrateDevice.Message", 
+        "MasterBuiltinMessageId": 814000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Maintenance.DataTimeFormat.Unit", 
+        "MasterBuiltinMessageId": 814000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Maintenance.Display.Message", 
+        "MasterBuiltinMessageId": 814000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Maintenance.DisplayLimitTime.Message", 
+        "MasterBuiltinMessageId": 814000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Error.Code.Message", 
+        "MasterBuiltinMessageId": 814000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Error.ConnectError.Message", 
+        "MasterBuiltinMessageId": 814000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Error.Common.Title", 
+        "MasterBuiltinMessageId": 814000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Error.GameLib.Message", 
+        "MasterBuiltinMessageId": 814000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Region.AP.Name", 
+        "MasterBuiltinMessageId": 814000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Region.US.Name", 
+        "MasterBuiltinMessageId": 814000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Region.EU.Name", 
+        "MasterBuiltinMessageId": 814000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Language.English", 
+        "MasterBuiltinMessageId": 814000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Language.Korean", 
+        "MasterBuiltinMessageId": 814000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Language.Chinese", 
+        "MasterBuiltinMessageId": 814000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "DataRecover.Confirm.Message", 
+        "MasterBuiltinMessageId": 814000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Error.MigratedDevice.Title", 
+        "MasterBuiltinMessageId": 814000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ChangeLanguage.TitleBack.Title", 
+        "MasterBuiltinMessageId": 814000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ChangeLanguage.TitleBack.Message", 
+        "MasterBuiltinMessageId": 814000036, 
+        "ReleaseLabeloffset": ""
+    }
+]

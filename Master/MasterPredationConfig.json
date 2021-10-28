@@ -1,0 +1,18 @@
+[
+    {
+        "MasterPredationConfigId": 5006000001, 
+        "ReleaseLabeloffset": "", 
+        "SuccessRateConfirmMax": 13000, 
+        "SuccessRateConfirmMin": 10000, 
+        "SuccessRateHighMax": 9999, 
+        "SuccessRateHighMin": 7001, 
+        "SuccessRateInitValue": -2000, 
+        "SuccessRateLowMax": 3000, 
+        "SuccessRateLowMin": 1, 
+        "SuccessRateMiddleMax": 7000, 
+        "SuccessRateMiddleMin": 3001, 
+        "SuccessRateNothingMax": 0, 
+        "SuccessRateNothingMin": -2000, 
+        "UseSkillPoint": 30
+    }
+]

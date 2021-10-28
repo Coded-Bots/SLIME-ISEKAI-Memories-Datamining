@@ -1,0 +1,5879 @@
+[
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101021, 
+        "MasterFacilityLevelIdGroups": 403110102, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101031, 
+        "MasterFacilityLevelIdGroups": 403110103, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 1800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101041, 
+        "MasterFacilityLevelIdGroups": 403110104, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 90
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101042, 
+        "MasterFacilityLevelIdGroups": 403110104, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 3200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101051, 
+        "MasterFacilityLevelIdGroups": 403110105, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 190
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101052, 
+        "MasterFacilityLevelIdGroups": 403110105, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 6000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101061, 
+        "MasterFacilityLevelIdGroups": 403110106, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 300
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101062, 
+        "MasterFacilityLevelIdGroups": 403110106, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101071, 
+        "MasterFacilityLevelIdGroups": 403110107, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 420
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101072, 
+        "MasterFacilityLevelIdGroups": 403110107, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101081, 
+        "MasterFacilityLevelIdGroups": 403110108, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 560
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101082, 
+        "MasterFacilityLevelIdGroups": 403110108, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101091, 
+        "MasterFacilityLevelIdGroups": 403110109, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 830
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101092, 
+        "MasterFacilityLevelIdGroups": 403110109, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 30000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410101101, 
+        "MasterFacilityLevelIdGroups": 403110110, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 999
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410101102, 
+        "MasterFacilityLevelIdGroups": 403110110, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 40000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410301011, 
+        "MasterFacilityLevelIdGroups": 404130101, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010005008, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301041, 
+        "MasterFacilityLevelIdGroups": 404130104, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 3500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301081, 
+        "MasterFacilityLevelIdGroups": 404130108, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301101, 
+        "MasterFacilityLevelIdGroups": 404130110, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 15500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301121, 
+        "MasterFacilityLevelIdGroups": 404130112, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 21500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301141, 
+        "MasterFacilityLevelIdGroups": 404130114, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 27500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301161, 
+        "MasterFacilityLevelIdGroups": 404130116, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 33500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301181, 
+        "MasterFacilityLevelIdGroups": 404130118, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301201, 
+        "MasterFacilityLevelIdGroups": 404130120, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 45500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301221, 
+        "MasterFacilityLevelIdGroups": 404130122, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 51500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410301241, 
+        "MasterFacilityLevelIdGroups": 404130124, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 57500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410313011, 
+        "MasterFacilityLevelIdGroups": 404131301, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010005008, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313041, 
+        "MasterFacilityLevelIdGroups": 404131304, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 3500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313081, 
+        "MasterFacilityLevelIdGroups": 404131308, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313101, 
+        "MasterFacilityLevelIdGroups": 404131310, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 15500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313121, 
+        "MasterFacilityLevelIdGroups": 404131312, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 21500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313141, 
+        "MasterFacilityLevelIdGroups": 404131314, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 27500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313161, 
+        "MasterFacilityLevelIdGroups": 404131316, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 33500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313181, 
+        "MasterFacilityLevelIdGroups": 404131318, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313201, 
+        "MasterFacilityLevelIdGroups": 404131320, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 45500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313221, 
+        "MasterFacilityLevelIdGroups": 404131322, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 51500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410313241, 
+        "MasterFacilityLevelIdGroups": 404131324, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 57500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410302011, 
+        "MasterFacilityLevelIdGroups": 404130201, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007010, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302041, 
+        "MasterFacilityLevelIdGroups": 404130204, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302081, 
+        "MasterFacilityLevelIdGroups": 404130208, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302101, 
+        "MasterFacilityLevelIdGroups": 404130210, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302121, 
+        "MasterFacilityLevelIdGroups": 404130212, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302141, 
+        "MasterFacilityLevelIdGroups": 404130214, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302161, 
+        "MasterFacilityLevelIdGroups": 404130216, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302181, 
+        "MasterFacilityLevelIdGroups": 404130218, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302201, 
+        "MasterFacilityLevelIdGroups": 404130220, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 32500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302221, 
+        "MasterFacilityLevelIdGroups": 404130222, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 36500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410302241, 
+        "MasterFacilityLevelIdGroups": 404130224, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 40500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410303011, 
+        "MasterFacilityLevelIdGroups": 404130301, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010006011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303041, 
+        "MasterFacilityLevelIdGroups": 404130304, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 6000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303081, 
+        "MasterFacilityLevelIdGroups": 404130308, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 10000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303101, 
+        "MasterFacilityLevelIdGroups": 404130310, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303121, 
+        "MasterFacilityLevelIdGroups": 404130312, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 18000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303141, 
+        "MasterFacilityLevelIdGroups": 404130314, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 22000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303161, 
+        "MasterFacilityLevelIdGroups": 404130316, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 26000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303181, 
+        "MasterFacilityLevelIdGroups": 404130318, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 30000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303201, 
+        "MasterFacilityLevelIdGroups": 404130320, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303221, 
+        "MasterFacilityLevelIdGroups": 404130322, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 38000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410303241, 
+        "MasterFacilityLevelIdGroups": 404130324, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 42000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410304011, 
+        "MasterFacilityLevelIdGroups": 404130401, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007010, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304041, 
+        "MasterFacilityLevelIdGroups": 404130404, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304081, 
+        "MasterFacilityLevelIdGroups": 404130408, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304101, 
+        "MasterFacilityLevelIdGroups": 404130410, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304121, 
+        "MasterFacilityLevelIdGroups": 404130412, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304141, 
+        "MasterFacilityLevelIdGroups": 404130414, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304161, 
+        "MasterFacilityLevelIdGroups": 404130416, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304181, 
+        "MasterFacilityLevelIdGroups": 404130418, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304201, 
+        "MasterFacilityLevelIdGroups": 404130420, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 32500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304221, 
+        "MasterFacilityLevelIdGroups": 404130422, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 36500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410304241, 
+        "MasterFacilityLevelIdGroups": 404130424, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 40500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410305011, 
+        "MasterFacilityLevelIdGroups": 404130501, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010010010, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305051, 
+        "MasterFacilityLevelIdGroups": 404130505, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305071, 
+        "MasterFacilityLevelIdGroups": 404130507, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 13800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305091, 
+        "MasterFacilityLevelIdGroups": 404130509, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 17800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305111, 
+        "MasterFacilityLevelIdGroups": 404130511, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 21800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305131, 
+        "MasterFacilityLevelIdGroups": 404130513, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 25800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305151, 
+        "MasterFacilityLevelIdGroups": 404130515, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305171, 
+        "MasterFacilityLevelIdGroups": 404130517, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 33800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305191, 
+        "MasterFacilityLevelIdGroups": 404130519, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 37800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305211, 
+        "MasterFacilityLevelIdGroups": 404130521, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 41800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305231, 
+        "MasterFacilityLevelIdGroups": 404130523, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 45800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305251, 
+        "MasterFacilityLevelIdGroups": 404130525, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305271, 
+        "MasterFacilityLevelIdGroups": 404130527, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 53800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305291, 
+        "MasterFacilityLevelIdGroups": 404130529, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 57800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305311, 
+        "MasterFacilityLevelIdGroups": 404130531, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 61800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305331, 
+        "MasterFacilityLevelIdGroups": 404130533, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 65800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305351, 
+        "MasterFacilityLevelIdGroups": 404130535, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305371, 
+        "MasterFacilityLevelIdGroups": 404130537, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 73800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305391, 
+        "MasterFacilityLevelIdGroups": 404130539, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305411, 
+        "MasterFacilityLevelIdGroups": 404130541, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 81800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305431, 
+        "MasterFacilityLevelIdGroups": 404130543, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 85800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305451, 
+        "MasterFacilityLevelIdGroups": 404130545, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305471, 
+        "MasterFacilityLevelIdGroups": 404130547, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 93800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410305491, 
+        "MasterFacilityLevelIdGroups": 404130549, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 97800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410306011, 
+        "MasterFacilityLevelIdGroups": 404130601, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010001005, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306051, 
+        "MasterFacilityLevelIdGroups": 404130605, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 2000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306071, 
+        "MasterFacilityLevelIdGroups": 404130607, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 5200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306091, 
+        "MasterFacilityLevelIdGroups": 404130609, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306111, 
+        "MasterFacilityLevelIdGroups": 404130611, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 13200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306131, 
+        "MasterFacilityLevelIdGroups": 404130613, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 17200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306151, 
+        "MasterFacilityLevelIdGroups": 404130615, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 21200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306171, 
+        "MasterFacilityLevelIdGroups": 404130617, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 25200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410306191, 
+        "MasterFacilityLevelIdGroups": 404130619, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410307011, 
+        "MasterFacilityLevelIdGroups": 404130701, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010002108, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307051, 
+        "MasterFacilityLevelIdGroups": 404130705, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 5200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307091, 
+        "MasterFacilityLevelIdGroups": 404130709, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307111, 
+        "MasterFacilityLevelIdGroups": 404130711, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 13000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307131, 
+        "MasterFacilityLevelIdGroups": 404130713, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 17000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307151, 
+        "MasterFacilityLevelIdGroups": 404130715, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 21000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307171, 
+        "MasterFacilityLevelIdGroups": 404130717, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 25000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410307191, 
+        "MasterFacilityLevelIdGroups": 404130719, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410308011, 
+        "MasterFacilityLevelIdGroups": 404130801, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010009113, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308051, 
+        "MasterFacilityLevelIdGroups": 404130805, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308091, 
+        "MasterFacilityLevelIdGroups": 404130809, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 13000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308111, 
+        "MasterFacilityLevelIdGroups": 404130811, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 17000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308131, 
+        "MasterFacilityLevelIdGroups": 404130813, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 21000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308151, 
+        "MasterFacilityLevelIdGroups": 404130815, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 25000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308171, 
+        "MasterFacilityLevelIdGroups": 404130817, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308191, 
+        "MasterFacilityLevelIdGroups": 404130819, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 33000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308211, 
+        "MasterFacilityLevelIdGroups": 404130821, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 37000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308231, 
+        "MasterFacilityLevelIdGroups": 404130823, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 41000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308251, 
+        "MasterFacilityLevelIdGroups": 404130825, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 45000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308271, 
+        "MasterFacilityLevelIdGroups": 404130827, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308291, 
+        "MasterFacilityLevelIdGroups": 404130829, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 53000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308311, 
+        "MasterFacilityLevelIdGroups": 404130831, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 57000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308331, 
+        "MasterFacilityLevelIdGroups": 404130833, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 61000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308351, 
+        "MasterFacilityLevelIdGroups": 404130835, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 65000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308371, 
+        "MasterFacilityLevelIdGroups": 404130837, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308391, 
+        "MasterFacilityLevelIdGroups": 404130839, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 72000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308411, 
+        "MasterFacilityLevelIdGroups": 404130841, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 75000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308431, 
+        "MasterFacilityLevelIdGroups": 404130843, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 78000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308451, 
+        "MasterFacilityLevelIdGroups": 404130845, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 81000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308471, 
+        "MasterFacilityLevelIdGroups": 404130847, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 84000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410308491, 
+        "MasterFacilityLevelIdGroups": 404130849, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 87000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410309011, 
+        "MasterFacilityLevelIdGroups": 404130901, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004006, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309061, 
+        "MasterFacilityLevelIdGroups": 404130906, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309091, 
+        "MasterFacilityLevelIdGroups": 404130909, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309111, 
+        "MasterFacilityLevelIdGroups": 404130911, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309131, 
+        "MasterFacilityLevelIdGroups": 404130913, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309151, 
+        "MasterFacilityLevelIdGroups": 404130915, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309171, 
+        "MasterFacilityLevelIdGroups": 404130917, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410309191, 
+        "MasterFacilityLevelIdGroups": 404130919, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410310011, 
+        "MasterFacilityLevelIdGroups": 404131001, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004006, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310061, 
+        "MasterFacilityLevelIdGroups": 404131006, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310091, 
+        "MasterFacilityLevelIdGroups": 404131009, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310111, 
+        "MasterFacilityLevelIdGroups": 404131011, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310131, 
+        "MasterFacilityLevelIdGroups": 404131013, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310151, 
+        "MasterFacilityLevelIdGroups": 404131015, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310171, 
+        "MasterFacilityLevelIdGroups": 404131017, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410310191, 
+        "MasterFacilityLevelIdGroups": 404131019, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410311011, 
+        "MasterFacilityLevelIdGroups": 404131101, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004006, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311061, 
+        "MasterFacilityLevelIdGroups": 404131106, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311091, 
+        "MasterFacilityLevelIdGroups": 404131109, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311111, 
+        "MasterFacilityLevelIdGroups": 404131111, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311131, 
+        "MasterFacilityLevelIdGroups": 404131113, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311151, 
+        "MasterFacilityLevelIdGroups": 404131115, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311171, 
+        "MasterFacilityLevelIdGroups": 404131117, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410311191, 
+        "MasterFacilityLevelIdGroups": 404131119, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410312011, 
+        "MasterFacilityLevelIdGroups": 404131201, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004006, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312061, 
+        "MasterFacilityLevelIdGroups": 404131206, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312091, 
+        "MasterFacilityLevelIdGroups": 404131209, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312111, 
+        "MasterFacilityLevelIdGroups": 404131211, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312131, 
+        "MasterFacilityLevelIdGroups": 404131213, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312151, 
+        "MasterFacilityLevelIdGroups": 404131215, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312171, 
+        "MasterFacilityLevelIdGroups": 404131217, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410312191, 
+        "MasterFacilityLevelIdGroups": 404131219, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410315011, 
+        "MasterFacilityLevelIdGroups": 404131501, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004006, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315061, 
+        "MasterFacilityLevelIdGroups": 404131506, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315091, 
+        "MasterFacilityLevelIdGroups": 404131509, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315111, 
+        "MasterFacilityLevelIdGroups": 404131511, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315131, 
+        "MasterFacilityLevelIdGroups": 404131513, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315151, 
+        "MasterFacilityLevelIdGroups": 404131515, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315171, 
+        "MasterFacilityLevelIdGroups": 404131517, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410315191, 
+        "MasterFacilityLevelIdGroups": 404131519, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410314041, 
+        "MasterFacilityLevelIdGroups": 404131404, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 1200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410314061, 
+        "MasterFacilityLevelIdGroups": 404131406, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 1800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410314101, 
+        "MasterFacilityLevelIdGroups": 404131410, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 5200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410314131, 
+        "MasterFacilityLevelIdGroups": 404131413, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410314151, 
+        "MasterFacilityLevelIdGroups": 404131415, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 13200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410401041, 
+        "MasterFacilityLevelIdGroups": 406140104, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010001102, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410401071, 
+        "MasterFacilityLevelIdGroups": 406140107, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010001202, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410401111, 
+        "MasterFacilityLevelIdGroups": 406140111, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004205, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410401161, 
+        "MasterFacilityLevelIdGroups": 406140116, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 600
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410401211, 
+        "MasterFacilityLevelIdGroups": 406140121, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 900
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410401261, 
+        "MasterFacilityLevelIdGroups": 406140126, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1200
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410401311, 
+        "MasterFacilityLevelIdGroups": 406140131, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1500
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410401361, 
+        "MasterFacilityLevelIdGroups": 406140136, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1800
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410402011, 
+        "MasterFacilityLevelIdGroups": 406140201, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010001005, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410402041, 
+        "MasterFacilityLevelIdGroups": 406140204, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010001104, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410402071, 
+        "MasterFacilityLevelIdGroups": 406140207, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010001204, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410402111, 
+        "MasterFacilityLevelIdGroups": 406140211, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010005207, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410402161, 
+        "MasterFacilityLevelIdGroups": 406140216, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 650
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410402211, 
+        "MasterFacilityLevelIdGroups": 406140221, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 950
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410402261, 
+        "MasterFacilityLevelIdGroups": 406140226, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1250
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410402311, 
+        "MasterFacilityLevelIdGroups": 406140231, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1550
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410402361, 
+        "MasterFacilityLevelIdGroups": 406140236, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1850
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410403011, 
+        "MasterFacilityLevelIdGroups": 406140301, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010002008, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410403041, 
+        "MasterFacilityLevelIdGroups": 406140304, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010002108, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410403071, 
+        "MasterFacilityLevelIdGroups": 406140307, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010002208, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410403111, 
+        "MasterFacilityLevelIdGroups": 406140311, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010006210, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410403161, 
+        "MasterFacilityLevelIdGroups": 406140316, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 700
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410403211, 
+        "MasterFacilityLevelIdGroups": 406140321, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1000
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410403261, 
+        "MasterFacilityLevelIdGroups": 406140326, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1300
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410403311, 
+        "MasterFacilityLevelIdGroups": 406140331, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1600
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410403361, 
+        "MasterFacilityLevelIdGroups": 406140336, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1900
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410404011, 
+        "MasterFacilityLevelIdGroups": 406140401, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010005001, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410404041, 
+        "MasterFacilityLevelIdGroups": 406140404, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004105, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410404071, 
+        "MasterFacilityLevelIdGroups": 406140407, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010004205, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410404111, 
+        "MasterFacilityLevelIdGroups": 406140411, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008211, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410404161, 
+        "MasterFacilityLevelIdGroups": 406140416, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 750
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410404211, 
+        "MasterFacilityLevelIdGroups": 406140421, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1050
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410404261, 
+        "MasterFacilityLevelIdGroups": 406140426, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1350
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410404311, 
+        "MasterFacilityLevelIdGroups": 406140431, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1650
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410404361, 
+        "MasterFacilityLevelIdGroups": 406140436, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1950
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410405011, 
+        "MasterFacilityLevelIdGroups": 406140501, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007002, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410405041, 
+        "MasterFacilityLevelIdGroups": 406140504, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007102, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410405071, 
+        "MasterFacilityLevelIdGroups": 406140507, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007202, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410405111, 
+        "MasterFacilityLevelIdGroups": 406140511, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010009213, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410405161, 
+        "MasterFacilityLevelIdGroups": 406140516, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 800
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410405211, 
+        "MasterFacilityLevelIdGroups": 406140521, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1100
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410405261, 
+        "MasterFacilityLevelIdGroups": 406140526, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1400
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410405311, 
+        "MasterFacilityLevelIdGroups": 406140531, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1700
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410405361, 
+        "MasterFacilityLevelIdGroups": 406140536, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 2000
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410406011, 
+        "MasterFacilityLevelIdGroups": 406140601, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007008, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410406041, 
+        "MasterFacilityLevelIdGroups": 406140604, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007108, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410406071, 
+        "MasterFacilityLevelIdGroups": 406140607, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007208, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410406111, 
+        "MasterFacilityLevelIdGroups": 406140611, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010010209, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410406161, 
+        "MasterFacilityLevelIdGroups": 406140616, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 850
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410406211, 
+        "MasterFacilityLevelIdGroups": 406140621, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1150
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410406261, 
+        "MasterFacilityLevelIdGroups": 406140626, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1450
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410406311, 
+        "MasterFacilityLevelIdGroups": 406140631, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 1750
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410406361, 
+        "MasterFacilityLevelIdGroups": 406140636, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 2050
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410502011, 
+        "MasterFacilityLevelIdGroups": 414150201, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 10000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410503011, 
+        "MasterFacilityLevelIdGroups": 414150301, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410504011, 
+        "MasterFacilityLevelIdGroups": 414150401, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 3000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410505011, 
+        "MasterFacilityLevelIdGroups": 414150501, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 4000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410509011, 
+        "MasterFacilityLevelIdGroups": 414150901, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 1000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410510011, 
+        "MasterFacilityLevelIdGroups": 414151001, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 6200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410511011, 
+        "MasterFacilityLevelIdGroups": 414151101, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9500, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410606011, 
+        "MasterFacilityLevelIdGroups": 404160601, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010007008, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410606021, 
+        "MasterFacilityLevelIdGroups": 404160602, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 6000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410606031, 
+        "MasterFacilityLevelIdGroups": 404160603, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410606041, 
+        "MasterFacilityLevelIdGroups": 404160604, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410606051, 
+        "MasterFacilityLevelIdGroups": 404160605, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 15000, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410607011, 
+        "MasterFacilityLevelIdGroups": 408160701, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607031, 
+        "MasterFacilityLevelIdGroups": 408160703, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607061, 
+        "MasterFacilityLevelIdGroups": 408160706, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607081, 
+        "MasterFacilityLevelIdGroups": 408160708, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607101, 
+        "MasterFacilityLevelIdGroups": 408160710, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607121, 
+        "MasterFacilityLevelIdGroups": 408160712, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607141, 
+        "MasterFacilityLevelIdGroups": 408160714, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607161, 
+        "MasterFacilityLevelIdGroups": 408160716, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607181, 
+        "MasterFacilityLevelIdGroups": 408160718, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607201, 
+        "MasterFacilityLevelIdGroups": 408160720, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607221, 
+        "MasterFacilityLevelIdGroups": 408160722, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607241, 
+        "MasterFacilityLevelIdGroups": 408160724, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607261, 
+        "MasterFacilityLevelIdGroups": 408160726, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607281, 
+        "MasterFacilityLevelIdGroups": 408160728, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607301, 
+        "MasterFacilityLevelIdGroups": 408160730, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607321, 
+        "MasterFacilityLevelIdGroups": 408160732, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607341, 
+        "MasterFacilityLevelIdGroups": 408160734, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607361, 
+        "MasterFacilityLevelIdGroups": 408160736, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607381, 
+        "MasterFacilityLevelIdGroups": 408160738, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607401, 
+        "MasterFacilityLevelIdGroups": 408160740, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607421, 
+        "MasterFacilityLevelIdGroups": 408160742, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607441, 
+        "MasterFacilityLevelIdGroups": 408160744, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607461, 
+        "MasterFacilityLevelIdGroups": 408160746, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607481, 
+        "MasterFacilityLevelIdGroups": 408160748, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607501, 
+        "MasterFacilityLevelIdGroups": 408160750, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607521, 
+        "MasterFacilityLevelIdGroups": 408160752, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607541, 
+        "MasterFacilityLevelIdGroups": 408160754, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607561, 
+        "MasterFacilityLevelIdGroups": 408160756, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607581, 
+        "MasterFacilityLevelIdGroups": 408160758, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607601, 
+        "MasterFacilityLevelIdGroups": 408160760, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607621, 
+        "MasterFacilityLevelIdGroups": 408160762, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607641, 
+        "MasterFacilityLevelIdGroups": 408160764, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607661, 
+        "MasterFacilityLevelIdGroups": 408160766, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607681, 
+        "MasterFacilityLevelIdGroups": 408160768, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607701, 
+        "MasterFacilityLevelIdGroups": 408160770, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607721, 
+        "MasterFacilityLevelIdGroups": 408160772, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607741, 
+        "MasterFacilityLevelIdGroups": 408160774, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607761, 
+        "MasterFacilityLevelIdGroups": 408160776, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607781, 
+        "MasterFacilityLevelIdGroups": 408160778, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607801, 
+        "MasterFacilityLevelIdGroups": 408160780, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607821, 
+        "MasterFacilityLevelIdGroups": 408160782, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607841, 
+        "MasterFacilityLevelIdGroups": 408160784, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607861, 
+        "MasterFacilityLevelIdGroups": 408160786, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607881, 
+        "MasterFacilityLevelIdGroups": 408160788, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607901, 
+        "MasterFacilityLevelIdGroups": 408160790, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607921, 
+        "MasterFacilityLevelIdGroups": 408160792, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607941, 
+        "MasterFacilityLevelIdGroups": 408160794, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607961, 
+        "MasterFacilityLevelIdGroups": 408160796, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410607981, 
+        "MasterFacilityLevelIdGroups": 408160798, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410608011, 
+        "MasterFacilityLevelIdGroups": 408160801, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608031, 
+        "MasterFacilityLevelIdGroups": 408160803, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608061, 
+        "MasterFacilityLevelIdGroups": 408160806, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608081, 
+        "MasterFacilityLevelIdGroups": 408160808, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608101, 
+        "MasterFacilityLevelIdGroups": 408160810, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608121, 
+        "MasterFacilityLevelIdGroups": 408160812, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608141, 
+        "MasterFacilityLevelIdGroups": 408160814, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608161, 
+        "MasterFacilityLevelIdGroups": 408160816, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608181, 
+        "MasterFacilityLevelIdGroups": 408160818, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608201, 
+        "MasterFacilityLevelIdGroups": 408160820, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608221, 
+        "MasterFacilityLevelIdGroups": 408160822, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608241, 
+        "MasterFacilityLevelIdGroups": 408160824, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608261, 
+        "MasterFacilityLevelIdGroups": 408160826, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608281, 
+        "MasterFacilityLevelIdGroups": 408160828, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608301, 
+        "MasterFacilityLevelIdGroups": 408160830, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608321, 
+        "MasterFacilityLevelIdGroups": 408160832, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608341, 
+        "MasterFacilityLevelIdGroups": 408160834, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608361, 
+        "MasterFacilityLevelIdGroups": 408160836, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608381, 
+        "MasterFacilityLevelIdGroups": 408160838, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608401, 
+        "MasterFacilityLevelIdGroups": 408160840, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608421, 
+        "MasterFacilityLevelIdGroups": 408160842, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608441, 
+        "MasterFacilityLevelIdGroups": 408160844, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608461, 
+        "MasterFacilityLevelIdGroups": 408160846, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608481, 
+        "MasterFacilityLevelIdGroups": 408160848, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608501, 
+        "MasterFacilityLevelIdGroups": 408160850, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608521, 
+        "MasterFacilityLevelIdGroups": 408160852, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608541, 
+        "MasterFacilityLevelIdGroups": 408160854, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608561, 
+        "MasterFacilityLevelIdGroups": 408160856, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608581, 
+        "MasterFacilityLevelIdGroups": 408160858, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608601, 
+        "MasterFacilityLevelIdGroups": 408160860, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608621, 
+        "MasterFacilityLevelIdGroups": 408160862, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608641, 
+        "MasterFacilityLevelIdGroups": 408160864, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608661, 
+        "MasterFacilityLevelIdGroups": 408160866, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608681, 
+        "MasterFacilityLevelIdGroups": 408160868, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608701, 
+        "MasterFacilityLevelIdGroups": 408160870, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608721, 
+        "MasterFacilityLevelIdGroups": 408160872, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608741, 
+        "MasterFacilityLevelIdGroups": 408160874, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608761, 
+        "MasterFacilityLevelIdGroups": 408160876, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608781, 
+        "MasterFacilityLevelIdGroups": 408160878, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608801, 
+        "MasterFacilityLevelIdGroups": 408160880, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608821, 
+        "MasterFacilityLevelIdGroups": 408160882, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608841, 
+        "MasterFacilityLevelIdGroups": 408160884, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608861, 
+        "MasterFacilityLevelIdGroups": 408160886, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608881, 
+        "MasterFacilityLevelIdGroups": 408160888, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608901, 
+        "MasterFacilityLevelIdGroups": 408160890, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608921, 
+        "MasterFacilityLevelIdGroups": 408160892, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608941, 
+        "MasterFacilityLevelIdGroups": 408160894, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608961, 
+        "MasterFacilityLevelIdGroups": 408160896, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410608981, 
+        "MasterFacilityLevelIdGroups": 408160898, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410609011, 
+        "MasterFacilityLevelIdGroups": 408160901, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609031, 
+        "MasterFacilityLevelIdGroups": 408160903, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609061, 
+        "MasterFacilityLevelIdGroups": 408160906, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609081, 
+        "MasterFacilityLevelIdGroups": 408160908, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609101, 
+        "MasterFacilityLevelIdGroups": 408160910, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609121, 
+        "MasterFacilityLevelIdGroups": 408160912, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609141, 
+        "MasterFacilityLevelIdGroups": 408160914, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609161, 
+        "MasterFacilityLevelIdGroups": 408160916, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609181, 
+        "MasterFacilityLevelIdGroups": 408160918, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609201, 
+        "MasterFacilityLevelIdGroups": 408160920, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609221, 
+        "MasterFacilityLevelIdGroups": 408160922, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609241, 
+        "MasterFacilityLevelIdGroups": 408160924, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609261, 
+        "MasterFacilityLevelIdGroups": 408160926, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609281, 
+        "MasterFacilityLevelIdGroups": 408160928, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609301, 
+        "MasterFacilityLevelIdGroups": 408160930, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609321, 
+        "MasterFacilityLevelIdGroups": 408160932, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609341, 
+        "MasterFacilityLevelIdGroups": 408160934, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609361, 
+        "MasterFacilityLevelIdGroups": 408160936, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609381, 
+        "MasterFacilityLevelIdGroups": 408160938, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609401, 
+        "MasterFacilityLevelIdGroups": 408160940, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609421, 
+        "MasterFacilityLevelIdGroups": 408160942, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609441, 
+        "MasterFacilityLevelIdGroups": 408160944, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609461, 
+        "MasterFacilityLevelIdGroups": 408160946, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609481, 
+        "MasterFacilityLevelIdGroups": 408160948, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609501, 
+        "MasterFacilityLevelIdGroups": 408160950, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609521, 
+        "MasterFacilityLevelIdGroups": 408160952, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609541, 
+        "MasterFacilityLevelIdGroups": 408160954, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609561, 
+        "MasterFacilityLevelIdGroups": 408160956, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609581, 
+        "MasterFacilityLevelIdGroups": 408160958, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609601, 
+        "MasterFacilityLevelIdGroups": 408160960, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609621, 
+        "MasterFacilityLevelIdGroups": 408160962, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609641, 
+        "MasterFacilityLevelIdGroups": 408160964, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609661, 
+        "MasterFacilityLevelIdGroups": 408160966, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609681, 
+        "MasterFacilityLevelIdGroups": 408160968, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609701, 
+        "MasterFacilityLevelIdGroups": 408160970, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609721, 
+        "MasterFacilityLevelIdGroups": 408160972, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609741, 
+        "MasterFacilityLevelIdGroups": 408160974, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609761, 
+        "MasterFacilityLevelIdGroups": 408160976, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609781, 
+        "MasterFacilityLevelIdGroups": 408160978, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609801, 
+        "MasterFacilityLevelIdGroups": 408160980, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609821, 
+        "MasterFacilityLevelIdGroups": 408160982, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609841, 
+        "MasterFacilityLevelIdGroups": 408160984, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609861, 
+        "MasterFacilityLevelIdGroups": 408160986, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609881, 
+        "MasterFacilityLevelIdGroups": 408160988, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609901, 
+        "MasterFacilityLevelIdGroups": 408160990, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609921, 
+        "MasterFacilityLevelIdGroups": 408160992, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609941, 
+        "MasterFacilityLevelIdGroups": 408160994, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609961, 
+        "MasterFacilityLevelIdGroups": 408160996, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410609981, 
+        "MasterFacilityLevelIdGroups": 408160998, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410610011, 
+        "MasterFacilityLevelIdGroups": 408161001, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610031, 
+        "MasterFacilityLevelIdGroups": 408161003, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610061, 
+        "MasterFacilityLevelIdGroups": 408161006, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610081, 
+        "MasterFacilityLevelIdGroups": 408161008, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610101, 
+        "MasterFacilityLevelIdGroups": 408161010, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610121, 
+        "MasterFacilityLevelIdGroups": 408161012, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610141, 
+        "MasterFacilityLevelIdGroups": 408161014, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610161, 
+        "MasterFacilityLevelIdGroups": 408161016, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610181, 
+        "MasterFacilityLevelIdGroups": 408161018, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610201, 
+        "MasterFacilityLevelIdGroups": 408161020, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610221, 
+        "MasterFacilityLevelIdGroups": 408161022, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610241, 
+        "MasterFacilityLevelIdGroups": 408161024, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610261, 
+        "MasterFacilityLevelIdGroups": 408161026, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610281, 
+        "MasterFacilityLevelIdGroups": 408161028, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610301, 
+        "MasterFacilityLevelIdGroups": 408161030, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610321, 
+        "MasterFacilityLevelIdGroups": 408161032, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610341, 
+        "MasterFacilityLevelIdGroups": 408161034, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610361, 
+        "MasterFacilityLevelIdGroups": 408161036, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610381, 
+        "MasterFacilityLevelIdGroups": 408161038, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610401, 
+        "MasterFacilityLevelIdGroups": 408161040, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610421, 
+        "MasterFacilityLevelIdGroups": 408161042, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610441, 
+        "MasterFacilityLevelIdGroups": 408161044, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610461, 
+        "MasterFacilityLevelIdGroups": 408161046, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610481, 
+        "MasterFacilityLevelIdGroups": 408161048, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610501, 
+        "MasterFacilityLevelIdGroups": 408161050, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610521, 
+        "MasterFacilityLevelIdGroups": 408161052, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610541, 
+        "MasterFacilityLevelIdGroups": 408161054, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610561, 
+        "MasterFacilityLevelIdGroups": 408161056, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610581, 
+        "MasterFacilityLevelIdGroups": 408161058, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610601, 
+        "MasterFacilityLevelIdGroups": 408161060, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610621, 
+        "MasterFacilityLevelIdGroups": 408161062, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610641, 
+        "MasterFacilityLevelIdGroups": 408161064, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610661, 
+        "MasterFacilityLevelIdGroups": 408161066, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610681, 
+        "MasterFacilityLevelIdGroups": 408161068, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610701, 
+        "MasterFacilityLevelIdGroups": 408161070, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610721, 
+        "MasterFacilityLevelIdGroups": 408161072, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610741, 
+        "MasterFacilityLevelIdGroups": 408161074, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610761, 
+        "MasterFacilityLevelIdGroups": 408161076, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610781, 
+        "MasterFacilityLevelIdGroups": 408161078, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610801, 
+        "MasterFacilityLevelIdGroups": 408161080, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610821, 
+        "MasterFacilityLevelIdGroups": 408161082, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610841, 
+        "MasterFacilityLevelIdGroups": 408161084, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610861, 
+        "MasterFacilityLevelIdGroups": 408161086, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610881, 
+        "MasterFacilityLevelIdGroups": 408161088, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610901, 
+        "MasterFacilityLevelIdGroups": 408161090, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610921, 
+        "MasterFacilityLevelIdGroups": 408161092, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610941, 
+        "MasterFacilityLevelIdGroups": 408161094, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610961, 
+        "MasterFacilityLevelIdGroups": 408161096, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410610981, 
+        "MasterFacilityLevelIdGroups": 408161098, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410611011, 
+        "MasterFacilityLevelIdGroups": 408161101, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611031, 
+        "MasterFacilityLevelIdGroups": 408161103, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611061, 
+        "MasterFacilityLevelIdGroups": 408161106, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611081, 
+        "MasterFacilityLevelIdGroups": 408161108, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611101, 
+        "MasterFacilityLevelIdGroups": 408161110, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611121, 
+        "MasterFacilityLevelIdGroups": 408161112, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611141, 
+        "MasterFacilityLevelIdGroups": 408161114, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611161, 
+        "MasterFacilityLevelIdGroups": 408161116, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611181, 
+        "MasterFacilityLevelIdGroups": 408161118, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611201, 
+        "MasterFacilityLevelIdGroups": 408161120, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611221, 
+        "MasterFacilityLevelIdGroups": 408161122, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611241, 
+        "MasterFacilityLevelIdGroups": 408161124, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611261, 
+        "MasterFacilityLevelIdGroups": 408161126, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611281, 
+        "MasterFacilityLevelIdGroups": 408161128, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611301, 
+        "MasterFacilityLevelIdGroups": 408161130, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611321, 
+        "MasterFacilityLevelIdGroups": 408161132, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611341, 
+        "MasterFacilityLevelIdGroups": 408161134, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611361, 
+        "MasterFacilityLevelIdGroups": 408161136, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611381, 
+        "MasterFacilityLevelIdGroups": 408161138, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611401, 
+        "MasterFacilityLevelIdGroups": 408161140, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611421, 
+        "MasterFacilityLevelIdGroups": 408161142, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611441, 
+        "MasterFacilityLevelIdGroups": 408161144, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611461, 
+        "MasterFacilityLevelIdGroups": 408161146, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611481, 
+        "MasterFacilityLevelIdGroups": 408161148, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611501, 
+        "MasterFacilityLevelIdGroups": 408161150, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611521, 
+        "MasterFacilityLevelIdGroups": 408161152, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611541, 
+        "MasterFacilityLevelIdGroups": 408161154, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611561, 
+        "MasterFacilityLevelIdGroups": 408161156, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611581, 
+        "MasterFacilityLevelIdGroups": 408161158, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611601, 
+        "MasterFacilityLevelIdGroups": 408161160, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611621, 
+        "MasterFacilityLevelIdGroups": 408161162, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611641, 
+        "MasterFacilityLevelIdGroups": 408161164, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611661, 
+        "MasterFacilityLevelIdGroups": 408161166, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611681, 
+        "MasterFacilityLevelIdGroups": 408161168, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611701, 
+        "MasterFacilityLevelIdGroups": 408161170, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611721, 
+        "MasterFacilityLevelIdGroups": 408161172, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611741, 
+        "MasterFacilityLevelIdGroups": 408161174, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611761, 
+        "MasterFacilityLevelIdGroups": 408161176, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611781, 
+        "MasterFacilityLevelIdGroups": 408161178, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611801, 
+        "MasterFacilityLevelIdGroups": 408161180, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611821, 
+        "MasterFacilityLevelIdGroups": 408161182, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611841, 
+        "MasterFacilityLevelIdGroups": 408161184, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611861, 
+        "MasterFacilityLevelIdGroups": 408161186, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611881, 
+        "MasterFacilityLevelIdGroups": 408161188, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611901, 
+        "MasterFacilityLevelIdGroups": 408161190, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611921, 
+        "MasterFacilityLevelIdGroups": 408161192, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611941, 
+        "MasterFacilityLevelIdGroups": 408161194, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611961, 
+        "MasterFacilityLevelIdGroups": 408161196, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410611981, 
+        "MasterFacilityLevelIdGroups": 408161198, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410612011, 
+        "MasterFacilityLevelIdGroups": 408161201, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612031, 
+        "MasterFacilityLevelIdGroups": 408161203, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612061, 
+        "MasterFacilityLevelIdGroups": 408161206, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612081, 
+        "MasterFacilityLevelIdGroups": 408161208, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612101, 
+        "MasterFacilityLevelIdGroups": 408161210, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612121, 
+        "MasterFacilityLevelIdGroups": 408161212, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612141, 
+        "MasterFacilityLevelIdGroups": 408161214, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612161, 
+        "MasterFacilityLevelIdGroups": 408161216, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612181, 
+        "MasterFacilityLevelIdGroups": 408161218, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612201, 
+        "MasterFacilityLevelIdGroups": 408161220, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612221, 
+        "MasterFacilityLevelIdGroups": 408161222, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612241, 
+        "MasterFacilityLevelIdGroups": 408161224, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612261, 
+        "MasterFacilityLevelIdGroups": 408161226, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612281, 
+        "MasterFacilityLevelIdGroups": 408161228, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612301, 
+        "MasterFacilityLevelIdGroups": 408161230, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612321, 
+        "MasterFacilityLevelIdGroups": 408161232, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612341, 
+        "MasterFacilityLevelIdGroups": 408161234, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612361, 
+        "MasterFacilityLevelIdGroups": 408161236, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612381, 
+        "MasterFacilityLevelIdGroups": 408161238, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612401, 
+        "MasterFacilityLevelIdGroups": 408161240, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612421, 
+        "MasterFacilityLevelIdGroups": 408161242, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612441, 
+        "MasterFacilityLevelIdGroups": 408161244, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612461, 
+        "MasterFacilityLevelIdGroups": 408161246, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612481, 
+        "MasterFacilityLevelIdGroups": 408161248, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612501, 
+        "MasterFacilityLevelIdGroups": 408161250, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612521, 
+        "MasterFacilityLevelIdGroups": 408161252, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612541, 
+        "MasterFacilityLevelIdGroups": 408161254, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612561, 
+        "MasterFacilityLevelIdGroups": 408161256, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612581, 
+        "MasterFacilityLevelIdGroups": 408161258, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612601, 
+        "MasterFacilityLevelIdGroups": 408161260, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612621, 
+        "MasterFacilityLevelIdGroups": 408161262, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612641, 
+        "MasterFacilityLevelIdGroups": 408161264, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612661, 
+        "MasterFacilityLevelIdGroups": 408161266, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612681, 
+        "MasterFacilityLevelIdGroups": 408161268, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612701, 
+        "MasterFacilityLevelIdGroups": 408161270, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612721, 
+        "MasterFacilityLevelIdGroups": 408161272, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612741, 
+        "MasterFacilityLevelIdGroups": 408161274, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612761, 
+        "MasterFacilityLevelIdGroups": 408161276, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612781, 
+        "MasterFacilityLevelIdGroups": 408161278, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612801, 
+        "MasterFacilityLevelIdGroups": 408161280, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612821, 
+        "MasterFacilityLevelIdGroups": 408161282, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612841, 
+        "MasterFacilityLevelIdGroups": 408161284, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612861, 
+        "MasterFacilityLevelIdGroups": 408161286, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612881, 
+        "MasterFacilityLevelIdGroups": 408161288, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612901, 
+        "MasterFacilityLevelIdGroups": 408161290, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612921, 
+        "MasterFacilityLevelIdGroups": 408161292, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612941, 
+        "MasterFacilityLevelIdGroups": 408161294, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612961, 
+        "MasterFacilityLevelIdGroups": 408161296, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410612981, 
+        "MasterFacilityLevelIdGroups": 408161298, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410613011, 
+        "MasterFacilityLevelIdGroups": 408161301, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613031, 
+        "MasterFacilityLevelIdGroups": 408161303, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 9800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613061, 
+        "MasterFacilityLevelIdGroups": 408161306, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 14800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613081, 
+        "MasterFacilityLevelIdGroups": 408161308, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 19800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613101, 
+        "MasterFacilityLevelIdGroups": 408161310, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613121, 
+        "MasterFacilityLevelIdGroups": 408161312, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 29800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613141, 
+        "MasterFacilityLevelIdGroups": 408161314, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 34800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613161, 
+        "MasterFacilityLevelIdGroups": 408161316, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 39800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613181, 
+        "MasterFacilityLevelIdGroups": 408161318, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 44800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613201, 
+        "MasterFacilityLevelIdGroups": 408161320, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 49800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613221, 
+        "MasterFacilityLevelIdGroups": 408161322, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 54800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613241, 
+        "MasterFacilityLevelIdGroups": 408161324, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 59800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613261, 
+        "MasterFacilityLevelIdGroups": 408161326, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 64800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613281, 
+        "MasterFacilityLevelIdGroups": 408161328, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 69800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613301, 
+        "MasterFacilityLevelIdGroups": 408161330, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 74800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613321, 
+        "MasterFacilityLevelIdGroups": 408161332, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 77800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613341, 
+        "MasterFacilityLevelIdGroups": 408161334, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 80800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613361, 
+        "MasterFacilityLevelIdGroups": 408161336, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 83800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613381, 
+        "MasterFacilityLevelIdGroups": 408161338, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 86800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613401, 
+        "MasterFacilityLevelIdGroups": 408161340, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 89800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613421, 
+        "MasterFacilityLevelIdGroups": 408161342, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 92800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613441, 
+        "MasterFacilityLevelIdGroups": 408161344, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 95800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613461, 
+        "MasterFacilityLevelIdGroups": 408161346, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 98800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613481, 
+        "MasterFacilityLevelIdGroups": 408161348, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 101800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613501, 
+        "MasterFacilityLevelIdGroups": 408161350, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 104800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613521, 
+        "MasterFacilityLevelIdGroups": 408161352, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 107800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613541, 
+        "MasterFacilityLevelIdGroups": 408161354, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 110800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613561, 
+        "MasterFacilityLevelIdGroups": 408161356, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 113800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613581, 
+        "MasterFacilityLevelIdGroups": 408161358, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 116800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613601, 
+        "MasterFacilityLevelIdGroups": 408161360, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 119800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613621, 
+        "MasterFacilityLevelIdGroups": 408161362, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 122800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613641, 
+        "MasterFacilityLevelIdGroups": 408161364, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 125800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613661, 
+        "MasterFacilityLevelIdGroups": 408161366, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 128800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613681, 
+        "MasterFacilityLevelIdGroups": 408161368, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 131800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613701, 
+        "MasterFacilityLevelIdGroups": 408161370, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 134800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613721, 
+        "MasterFacilityLevelIdGroups": 408161372, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 137800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613741, 
+        "MasterFacilityLevelIdGroups": 408161374, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 140800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613761, 
+        "MasterFacilityLevelIdGroups": 408161376, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 143800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613781, 
+        "MasterFacilityLevelIdGroups": 408161378, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 146800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613801, 
+        "MasterFacilityLevelIdGroups": 408161380, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 149800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613821, 
+        "MasterFacilityLevelIdGroups": 408161382, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 152800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613841, 
+        "MasterFacilityLevelIdGroups": 408161384, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 155800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613861, 
+        "MasterFacilityLevelIdGroups": 408161386, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 158800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613881, 
+        "MasterFacilityLevelIdGroups": 408161388, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 161800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613901, 
+        "MasterFacilityLevelIdGroups": 408161390, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 164800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613921, 
+        "MasterFacilityLevelIdGroups": 408161392, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 167800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613941, 
+        "MasterFacilityLevelIdGroups": 408161394, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 170800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613961, 
+        "MasterFacilityLevelIdGroups": 408161396, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 173800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410613981, 
+        "MasterFacilityLevelIdGroups": 408161398, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 176800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410614011, 
+        "MasterFacilityLevelIdGroups": 408161401, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010008011, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614031, 
+        "MasterFacilityLevelIdGroups": 408161403, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 10200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614061, 
+        "MasterFacilityLevelIdGroups": 408161406, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 15200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614081, 
+        "MasterFacilityLevelIdGroups": 408161408, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614101, 
+        "MasterFacilityLevelIdGroups": 408161410, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 25200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614121, 
+        "MasterFacilityLevelIdGroups": 408161412, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 30200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614141, 
+        "MasterFacilityLevelIdGroups": 408161414, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 35200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614161, 
+        "MasterFacilityLevelIdGroups": 408161416, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 40200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614181, 
+        "MasterFacilityLevelIdGroups": 408161418, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 45200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614201, 
+        "MasterFacilityLevelIdGroups": 408161420, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 50200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614221, 
+        "MasterFacilityLevelIdGroups": 408161422, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 55200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614241, 
+        "MasterFacilityLevelIdGroups": 408161424, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 60200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614261, 
+        "MasterFacilityLevelIdGroups": 408161426, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 65200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614281, 
+        "MasterFacilityLevelIdGroups": 408161428, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 70200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614301, 
+        "MasterFacilityLevelIdGroups": 408161430, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 75200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614321, 
+        "MasterFacilityLevelIdGroups": 408161432, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 78200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614341, 
+        "MasterFacilityLevelIdGroups": 408161434, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 81200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614361, 
+        "MasterFacilityLevelIdGroups": 408161436, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 84200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614381, 
+        "MasterFacilityLevelIdGroups": 408161438, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 87200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614401, 
+        "MasterFacilityLevelIdGroups": 408161440, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 90200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614421, 
+        "MasterFacilityLevelIdGroups": 408161442, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 93200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614441, 
+        "MasterFacilityLevelIdGroups": 408161444, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 96200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614461, 
+        "MasterFacilityLevelIdGroups": 408161446, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 99200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614481, 
+        "MasterFacilityLevelIdGroups": 408161448, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 102200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614501, 
+        "MasterFacilityLevelIdGroups": 408161450, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 105200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614521, 
+        "MasterFacilityLevelIdGroups": 408161452, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 108200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614541, 
+        "MasterFacilityLevelIdGroups": 408161454, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 111200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614561, 
+        "MasterFacilityLevelIdGroups": 408161456, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 114200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614581, 
+        "MasterFacilityLevelIdGroups": 408161458, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 117200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614601, 
+        "MasterFacilityLevelIdGroups": 408161460, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 120200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614621, 
+        "MasterFacilityLevelIdGroups": 408161462, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 123200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614641, 
+        "MasterFacilityLevelIdGroups": 408161464, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 126200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614661, 
+        "MasterFacilityLevelIdGroups": 408161466, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 129200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614681, 
+        "MasterFacilityLevelIdGroups": 408161468, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 132200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614701, 
+        "MasterFacilityLevelIdGroups": 408161470, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 135200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614721, 
+        "MasterFacilityLevelIdGroups": 408161472, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 138200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614741, 
+        "MasterFacilityLevelIdGroups": 408161474, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 141200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614761, 
+        "MasterFacilityLevelIdGroups": 408161476, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 144200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614781, 
+        "MasterFacilityLevelIdGroups": 408161478, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 147200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614801, 
+        "MasterFacilityLevelIdGroups": 408161480, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 150200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614821, 
+        "MasterFacilityLevelIdGroups": 408161482, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 153200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614841, 
+        "MasterFacilityLevelIdGroups": 408161484, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 156200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614861, 
+        "MasterFacilityLevelIdGroups": 408161486, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 159200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614881, 
+        "MasterFacilityLevelIdGroups": 408161488, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 162200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614901, 
+        "MasterFacilityLevelIdGroups": 408161490, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 165200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614921, 
+        "MasterFacilityLevelIdGroups": 408161492, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 168200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614941, 
+        "MasterFacilityLevelIdGroups": 408161494, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 171200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614961, 
+        "MasterFacilityLevelIdGroups": 408161496, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 174200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410614981, 
+        "MasterFacilityLevelIdGroups": 408161498, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 177200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410604011, 
+        "MasterFacilityLevelIdGroups": 407160401, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010003108, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604041, 
+        "MasterFacilityLevelIdGroups": 407160404, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 2200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604061, 
+        "MasterFacilityLevelIdGroups": 407160406, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 5600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604081, 
+        "MasterFacilityLevelIdGroups": 407160408, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604101, 
+        "MasterFacilityLevelIdGroups": 407160410, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 12600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604121, 
+        "MasterFacilityLevelIdGroups": 407160412, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 16600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604141, 
+        "MasterFacilityLevelIdGroups": 407160414, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 20600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604161, 
+        "MasterFacilityLevelIdGroups": 407160416, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 24600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604181, 
+        "MasterFacilityLevelIdGroups": 407160418, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 28600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410604201, 
+        "MasterFacilityLevelIdGroups": 407160420, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 32600, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 1, 
+        "MasterFacilityLevelConditionId": 410617011, 
+        "MasterFacilityLevelIdGroups": 407161701, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 0, 
+        "TargetId": 4010002008, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410617021, 
+        "MasterFacilityLevelIdGroups": 407161702, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 1800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410617031, 
+        "MasterFacilityLevelIdGroups": 407161703, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 3800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410617041, 
+        "MasterFacilityLevelIdGroups": 407161704, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 6800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410617051, 
+        "MasterFacilityLevelIdGroups": 407161705, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 8800, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 2, 
+        "MasterFacilityLevelConditionId": 410617061, 
+        "MasterFacilityLevelIdGroups": 407161706, 
+        "ReleaseLabeloffset": "", 
+        "TargetCount": 11200, 
+        "TargetId": 0, 
+        "TargetLevel": 0
+    }
+]
