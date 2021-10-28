@@ -1,0 +1,13 @@
+[
+    {
+        "Description": 88, 
+        "IconPathoffset": "Image/Item/Gem/3000001/gem_3000001_Item{0}", 
+        "ItemType": -14655, 
+        "MasterGemId": 3000001, 
+        "MasterItemCategoryId": 1000014, 
+        "MaxLimit": 2147483647, 
+        "Name": 17179869292, 
+        "Rarity": 4, 
+        "ReleaseLabeloffset": ""
+    }
+]

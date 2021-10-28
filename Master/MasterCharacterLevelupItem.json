@@ -1,0 +1,16 @@
+[
+    {
+        "Description": 128, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/CharacterLevelup/1700001/character_levelup_item_1700001_Item{0}", 
+        "Locationoffset": "", 
+        "MasterCharacterLevelupItemId": 1700001, 
+        "MaxLimit": 9999999, 
+        "Name": 549755814028, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 0, 
+        "Value2": 0, 
+        "Value3": 0
+    }
+]

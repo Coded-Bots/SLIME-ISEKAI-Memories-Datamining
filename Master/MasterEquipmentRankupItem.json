@@ -1,0 +1,44 @@
+[
+    {
+        "Description": 132, 
+        "Gold": 3700, 
+        "IconPathoffset": "Image/Item/EquipmentRankup/2000001/equipment_rankup_item_2000001_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterEquipmentRankupId": 2000001, 
+        "MaxLimit": 99999, 
+        "Name": 566935683216, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 0, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 132, 
+        "Gold": 7300, 
+        "IconPathoffset": "Image/Item/EquipmentRankup/2000002/equipment_rankup_item_2000002_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterEquipmentRankupId": 2000002, 
+        "MaxLimit": 99999, 
+        "Name": 566935683216, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 0, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 136, 
+        "Gold": 14600, 
+        "IconPathoffset": "Image/Item/EquipmentRankup/2000003/equipment_rankup_item_2000003_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterEquipmentRankupId": 2000003, 
+        "MaxLimit": 99999, 
+        "Name": 584115552404, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 0, 
+        "Value2": 0, 
+        "Value3": 0
+    }
+]

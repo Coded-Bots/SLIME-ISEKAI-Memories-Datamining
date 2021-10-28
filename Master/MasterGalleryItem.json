@@ -1,0 +1,26 @@
+[
+    {
+        "Descriptionoffset": "", 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/GalleryItem/2500001/gallery_item_2500001_Item{0}", 
+        "ImagePathoffset": "Image/Gallery/2500001/gallery_2500001", 
+        "Locationoffset": "", 
+        "MasterGalleryItemId": 2500001, 
+        "MaxLimit": 99999, 
+        "Name": 704374636720, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Descriptionoffset": "", 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/GalleryItem/2500001/gallery_item_2500001_Item{0}", 
+        "ImagePathoffset": "Image/Gallery/2500002/gallery_2500002", 
+        "Locationoffset": "", 
+        "MasterGalleryItemId": 2500002, 
+        "MaxLimit": 99999, 
+        "Name": 687194767532, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }
+]

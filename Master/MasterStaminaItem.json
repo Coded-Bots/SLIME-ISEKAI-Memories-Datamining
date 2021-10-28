@@ -1,0 +1,30 @@
+[
+    {
+        "Description": 116, 
+        "Gold": 300, 
+        "IconPathoffset": "Image/Item/Stamina/1500001/stamina_item_1500001_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterStaminaItemId": 1500001, 
+        "MaxLimit": 99999, 
+        "Name": 42949673092, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 10, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 108, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Stamina/1500002/stamina_item_1500002_Item{0}", 
+        "Locationoffset": "", 
+        "MasterStaminaItemId": 1500002, 
+        "MaxLimit": 99999, 
+        "Name": 463856468088, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 0, 
+        "Value2": 0, 
+        "Value3": 0
+    }
+]

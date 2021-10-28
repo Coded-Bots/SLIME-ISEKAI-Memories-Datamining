@@ -1,0 +1,90 @@
+[
+    {
+        "LuaPathoffset": "officehall_new_race_goblin", 
+        "MasterFacilityId": 0, 
+        "MasterNewRaceAnnounceId": 4005000001, 
+        "MasterQuestId": 4010001002, 
+        "Message": 137438953516, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_ranga", 
+        "MasterFacilityId": 400001402, 
+        "MasterNewRaceAnnounceId": 4005000002, 
+        "MasterQuestId": 4010001005, 
+        "Message": 188978561080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_kaijin", 
+        "MasterFacilityId": 400001617, 
+        "MasterNewRaceAnnounceId": 4005000003, 
+        "MasterQuestId": 4010002008, 
+        "Message": 171798691892, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_benimaru", 
+        "MasterFacilityId": 400001404, 
+        "MasterNewRaceAnnounceId": 4005000004, 
+        "MasterQuestId": 4010005001, 
+        "Message": 171798691892, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_treyni", 
+        "MasterFacilityId": 0, 
+        "MasterNewRaceAnnounceId": 4005000005, 
+        "MasterQuestId": 4010007001, 
+        "Message": 154618822704, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_geld", 
+        "MasterFacilityId": 400001405, 
+        "MasterNewRaceAnnounceId": 4005000006, 
+        "MasterQuestId": 4010007002, 
+        "Message": 188978561080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_gazel", 
+        "MasterFacilityId": 0, 
+        "MasterNewRaceAnnounceId": 4005000007, 
+        "MasterQuestId": 4010007007, 
+        "Message": 154618822704, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_vesta", 
+        "MasterFacilityId": 400001606, 
+        "MasterNewRaceAnnounceId": 4005000008, 
+        "MasterQuestId": 4010007008, 
+        "Message": 188978561080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_gabiru", 
+        "MasterFacilityId": 400001406, 
+        "MasterNewRaceAnnounceId": 4005000009, 
+        "MasterQuestId": 4010007008, 
+        "Message": 188978561080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_milim", 
+        "MasterFacilityId": 0, 
+        "MasterNewRaceAnnounceId": 4005000010, 
+        "MasterQuestId": 4010007010, 
+        "Message": 154618822704, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LuaPathoffset": "officehall_new_race_trya", 
+        "MasterFacilityId": 0, 
+        "MasterNewRaceAnnounceId": 4005000011, 
+        "MasterQuestId": 4010008010, 
+        "Message": 154618822704, 
+        "ReleaseLabeloffset": ""
+    }
+]

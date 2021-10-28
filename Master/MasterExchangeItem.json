@@ -1,0 +1,68 @@
+[
+    {
+        "Description": 4294967408, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400001/exchange_item_2400001_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400001, 
+        "MaxLimit": 99999, 
+        "Name": 481036337276, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967412, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400001/exchange_item_2400001_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400999, 
+        "MaxLimit": 99999, 
+        "Name": 498216206464, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967412, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400001/exchange_item_2400001_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400002, 
+        "MaxLimit": 99999, 
+        "Name": 498216206464, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967408, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400004/exchange_item_2400004_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400004, 
+        "MaxLimit": 99999, 
+        "Name": 481036337276, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967408, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400001/exchange_item_2400001_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400005, 
+        "MaxLimit": 99999, 
+        "Name": 481036337276, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 12884902000, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400008/exchange_item_2400008_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400008, 
+        "MaxLimit": 99999, 
+        "Name": 481036337276, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": ""
+    }
+]

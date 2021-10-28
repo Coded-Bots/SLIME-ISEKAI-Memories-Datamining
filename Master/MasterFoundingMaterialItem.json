@@ -1,0 +1,35 @@
+[
+    {
+        "Description": 4294967428, 
+        "Gold": 10, 
+        "IconPathoffset": "Image/Item/FoundingMaterial/1200001/founding_material_1200001_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterFoundingMaterialItemId": 1200001, 
+        "MaxLimit": 99999, 
+        "Name": 566935683216, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967428, 
+        "Gold": 10, 
+        "IconPathoffset": "Image/Item/FoundingMaterial/1200002/founding_material_1200002_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterFoundingMaterialItemId": 1200002, 
+        "MaxLimit": 99999, 
+        "Name": 566935683216, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967424, 
+        "Gold": 10, 
+        "IconPathoffset": "Image/Item/FoundingMaterial/1200005/founding_material_1200005_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterFoundingMaterialItemId": 1200005, 
+        "MaxLimit": 99999, 
+        "Name": 549755814028, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }
+]

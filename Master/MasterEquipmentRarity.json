@@ -1,0 +1,44 @@
+[
+    {
+        "MasterEquipmentRarityId": 1550000001, 
+        "MaxLevel": 10, 
+        "Rarity": 1, 
+        "RarityName": 28, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterEquipmentRarityId": 1550000002, 
+        "MaxLevel": 20, 
+        "Rarity": 2, 
+        "RarityName": 28, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterEquipmentRarityId": 1550000003, 
+        "MaxLevel": 30, 
+        "Rarity": 3, 
+        "RarityName": 32, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterEquipmentRarityId": 1550000004, 
+        "MaxLevel": 40, 
+        "Rarity": 4, 
+        "RarityName": 28, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterEquipmentRarityId": 1550000005, 
+        "MaxLevel": 50, 
+        "Rarity": 5, 
+        "RarityName": 32, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterEquipmentRarityId": 1550000006, 
+        "MaxLevel": 60, 
+        "Rarity": 6, 
+        "RarityName": 32, 
+        "ReleaseLabeloffset": ""
+    }
+]

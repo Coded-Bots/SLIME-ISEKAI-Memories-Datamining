@@ -1,0 +1,324 @@
+[
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.ChangeAppearance.Caution.Currently.Set", 
+        "MasterCharacterAffectionMessageId": 817000001, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.ChangeAppearance.Caution.CantAppearHome", 
+        "MasterCharacterAffectionMessageId": 817000002, 
+        "Message": 68719476764, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.ChangeAppearance.Caution.NotHavePc", 
+        "MasterCharacterAffectionMessageId": 817000003, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Caution.AffectionLimit", 
+        "MasterCharacterAffectionMessageId": 817000004, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Caution.NoItem", 
+        "MasterCharacterAffectionMessageId": 817000005, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Comment.EventRate", 
+        "MasterCharacterAffectionMessageId": 817000006, 
+        "Message": 68719476764, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Comment.RequestQuest", 
+        "MasterCharacterAffectionMessageId": 817000007, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.CommonLabel", 
+        "MasterCharacterAffectionMessageId": 817000008, 
+        "Message": 68719476764, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.PcLock", 
+        "MasterCharacterAffectionMessageId": 817000009, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Training.CloseLevelUpModal", 
+        "MasterCharacterAffectionMessageId": 817000010, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Traning.CloseStatusBoardModal", 
+        "MasterCharacterAffectionMessageId": 817000011, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Traning.CloseAwakenModal", 
+        "MasterCharacterAffectionMessageId": 817000012, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Traning.CloseSkillLevelUpModal", 
+        "MasterCharacterAffectionMessageId": 817000013, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Traning.EquipWeapon", 
+        "MasterCharacterAffectionMessageId": 817000014, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Traning.Evolve", 
+        "MasterCharacterAffectionMessageId": 817000015, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.CommunicationInMorning", 
+        "MasterCharacterAffectionMessageId": 817000016, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.CommunicationInNoon", 
+        "MasterCharacterAffectionMessageId": 817000017, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.CommunicationInNight", 
+        "MasterCharacterAffectionMessageId": 817000018, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.PresentIn", 
+        "MasterCharacterAffectionMessageId": 817000019, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.AffectionUp", 
+        "MasterCharacterAffectionMessageId": 817000020, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.AffectionLevelUp", 
+        "MasterCharacterAffectionMessageId": 817000021, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Alone", 
+        "MasterCharacterAffectionMessageId": 817000022, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Touch", 
+        "MasterCharacterAffectionMessageId": 817000023, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Home.RimuruSoliloquy", 
+        "MasterCharacterAffectionMessageId": 817000024, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Home.HomeTalk", 
+        "MasterCharacterAffectionMessageId": 817000025, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.QuestSelection", 
+        "MasterCharacterAffectionMessageId": 817000026, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.Switching", 
+        "MasterCharacterAffectionMessageId": 817000027, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.Greetings", 
+        "MasterCharacterAffectionMessageId": 817000028, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.Welcome", 
+        "MasterCharacterAffectionMessageId": 817000029, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.Quit", 
+        "MasterCharacterAffectionMessageId": 817000030, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.TapVoice1", 
+        "MasterCharacterAffectionMessageId": 817000031, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.TapVoice2", 
+        "MasterCharacterAffectionMessageId": 817000032, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.Verification", 
+        "MasterCharacterAffectionMessageId": 817000033, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.StrengthenSucess", 
+        "MasterCharacterAffectionMessageId": 817000034, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.StrengthenBigSucess", 
+        "MasterCharacterAffectionMessageId": 817000035, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.StrengthenSpecialSucess", 
+        "MasterCharacterAffectionMessageId": 817000036, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.ManufacturingSucess", 
+        "MasterCharacterAffectionMessageId": 817000037, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.ManufacturingBigSucess", 
+        "MasterCharacterAffectionMessageId": 817000038, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.BlackSmithCharacter.ManufacturingSpecialSucess", 
+        "MasterCharacterAffectionMessageId": 817000039, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 99, 
+        "DefineNameoffset": "Character.CharacterAffection.WaveConversation", 
+        "MasterCharacterAffectionMessageId": 817000040, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Party.Edit.Main", 
+        "MasterCharacterAffectionMessageId": 817000041, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Party.Edit.Support", 
+        "MasterCharacterAffectionMessageId": 817000042, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Party.Edit.BlessPc", 
+        "MasterCharacterAffectionMessageId": 817000043, 
+        "Message": 103079215140, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Party.Edit.StartBattle", 
+        "MasterCharacterAffectionMessageId": 817000044, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 0, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Not.Enough.Level", 
+        "MasterCharacterAffectionMessageId": 817000045, 
+        "Message": 51539607576, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "DefineNameoffset": "Character.CharacterAffection.Voice.Lottery", 
+        "MasterCharacterAffectionMessageId": 817000046, 
+        "Message": 85899345952, 
+        "ReleaseLabeloffset": ""
+    }
+]

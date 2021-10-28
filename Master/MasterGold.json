@@ -1,0 +1,12 @@
+[
+    {
+        "Description": 171798691936, 
+        "IconPathoffset": "Image/Item/Gold/3100001/gold_3100001_Item{0}", 
+        "MasterGoldId": 3100001, 
+        "MasterItemCategoryId": 1000015, 
+        "MaxLimit": 999999999, 
+        "Name": 8589934704, 
+        "Rarity": 2, 
+        "ReleaseLabeloffset": ""
+    }
+]

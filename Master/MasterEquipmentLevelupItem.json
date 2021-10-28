@@ -1,0 +1,44 @@
+[
+    {
+        "Description": 132, 
+        "Gold": 80, 
+        "IconPathoffset": "Image/Item/EquipmentLevelup/1900001/equipment_levelup_item_1900001_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterEquipmentLevelupItemId": 1900001, 
+        "MaxLimit": 99999, 
+        "Name": 214748364948, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 50, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 136, 
+        "Gold": 230, 
+        "IconPathoffset": "Image/Item/EquipmentLevelup/1900002/equipment_levelup_item_1900002_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterEquipmentLevelupItemId": 1900002, 
+        "MaxLimit": 99999, 
+        "Name": 644245094552, 
+        "Rarity": 2, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 150, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 136, 
+        "Gold": 910, 
+        "IconPathoffset": "Image/Item/EquipmentLevelup/1900003/equipment_levelup_item_1900003_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterEquipmentLevelupItemId": 1900003, 
+        "MaxLimit": 99999, 
+        "Name": 2576980377752, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "", 
+        "Value1": 600, 
+        "Value2": 0, 
+        "Value3": 0
+    }
+]

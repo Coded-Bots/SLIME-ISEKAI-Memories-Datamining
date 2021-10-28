@@ -1,0 +1,62 @@
+[
+    {
+        "Description": 4294967416, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000001/lottery_ticket_item_505000001_Item{0}", 
+        "MasterLotteryTicketId": 505000001, 
+        "MaxLimit": 99999, 
+        "Name": 515396075652, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967420, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000003/lottery_ticket_item_505000003_Item{0}", 
+        "MasterLotteryTicketId": 505000002, 
+        "MaxLimit": 99999, 
+        "Name": 532575944840, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967420, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000004/lottery_ticket_item_505000004_Item{0}", 
+        "MasterLotteryTicketId": 505000003, 
+        "MaxLimit": 99999, 
+        "Name": 532575944840, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967416, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000004/lottery_ticket_item_505000004_Item{0}", 
+        "MasterLotteryTicketId": 505000004, 
+        "MaxLimit": 99999, 
+        "Name": 515396075652, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967416, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000004/lottery_ticket_item_505000004_Item{0}", 
+        "MasterLotteryTicketId": 505000005, 
+        "MaxLimit": 99999, 
+        "Name": 515396075652, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967416, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000004/lottery_ticket_item_505000004_Item{0}", 
+        "MasterLotteryTicketId": 505000006, 
+        "MaxLimit": 99999, 
+        "Name": 515396075652, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": ""
+    }
+]

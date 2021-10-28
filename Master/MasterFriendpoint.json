@@ -1,0 +1,12 @@
+[
+    {
+        "Description": 154618822760, 
+        "IconPathoffset": "Image/Item/FriendPoint/3200001/friend_point_3200001_Item{0}", 
+        "MasterFriendId": 3200001, 
+        "MasterItemCategoryId": 1000016, 
+        "MaxLimit": 999999999, 
+        "Name": 8589934712, 
+        "Rarity": 2, 
+        "ReleaseLabeloffset": ""
+    }
+]
