@@ -1,0 +1,167 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000001, 
+        "Text": "The Storm Dragon, Veldora"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000002, 
+        "Text": "In the Kingdom of the Dwarves"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000003, 
+        "Text": "Inherited Will"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000004, 
+        "Text": "Attack of the Ogres"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000005, 
+        "Text": "Gabiru Is Here!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000006, 
+        "Text": "The One Who Devours All"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000007, 
+        "Text": "Demon Lord Milim Attacks"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000008, 
+        "Text": "Charybdis"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000009, 
+        "Text": "Shizu's Students"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000010, 
+        "Text": "Saved Souls"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001000090, 
+        "Text": "Prologue"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001001001, 
+        "Text": "Ability Release Quest"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001001002, 
+        "Text": "Gold Coin Quest"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001001003, 
+        "Text": "Level Up Quest"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001001004, 
+        "Text": "Daily Quest"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003001, 
+        "Text": "Gobta's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003002, 
+        "Text": "Ranga's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003003, 
+        "Text": "Rigurd's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003004, 
+        "Text": "Benimaru's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003005, 
+        "Text": "Shion's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003006, 
+        "Text": "Shuna's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003007, 
+        "Text": "Souei's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003008, 
+        "Text": "Kurobe's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003009, 
+        "Text": "Hakurou's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003010, 
+        "Text": "Kaijin's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003011, 
+        "Text": "Gabiru's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003012, 
+        "Text": "Geld's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003013, 
+        "Text": "Vesta's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003014, 
+        "Text": "Treyni's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003015, 
+        "Text": "Trya's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003016, 
+        "Text": "Milim Nava's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001003017, 
+        "Text": "Gazel Dwargo's Request"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001004001, 
+        "Text": "Conquest"
+    }
+]

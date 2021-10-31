@@ -1,0 +1,102 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000001, 
+        "Text": "No Equipment Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000002, 
+        "Text": "You reached the hold limit.\nEquipment was sent to the Gift Box."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000003, 
+        "Text": "Forge time limit exceeded."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000004, 
+        "Text": "Forge at facility level: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000005, 
+        "Text": "Material Insufficient"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000006, 
+        "Text": "Insufficient facility level."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000007, 
+        "Text": "Insufficient materials"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000008, 
+        "Text": "Left: x{0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000009, 
+        "Text": "Success points are at max. You can reforge with success or higher guaranteed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000010, 
+        "Text": "Ability stats are maxed out."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000011, 
+        "Text": "You have no items."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000012, 
+        "Text": "Insufficient equipment level."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000013, 
+        "Text": "The forge has an insufficient facility level. (Level required: {0})"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000014, 
+        "Text": "Insufficient materials"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000015, 
+        "Text": "You've reached the evolution limit."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000016, 
+        "Text": "You've reached the enhancement limit."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000017, 
+        "Text": "You've reached the expansion limit."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000018, 
+        "Text": "Can't select any more facilities."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000019, 
+        "Text": "Confirm Equipment"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 812000020, 
+        "Text": "Equipment has not been saved.\nChanges will be reverted to the previous equipment.\nContinue?"
+    }
+]

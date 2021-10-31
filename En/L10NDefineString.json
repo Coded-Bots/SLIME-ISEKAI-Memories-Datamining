@@ -1,0 +1,127 @@
+[
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000001, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000002, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000003, 
+        "Text": "Could not connect to server.\n Now returning to title screen."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000004, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000005, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000006, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000007, 
+        "Text": "https://bnfaq.channel.or.jp/title/2783"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000008, 
+        "Text": "https://bnfaq.channel.or.jp/title/2784"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000009, 
+        "Text": "Error code:{0}\n \nUnexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000010, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000011, 
+        "Text": "Incorrect data transfer user ID or password."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000012, 
+        "Text": "Error code: {0}\nError message: {1}"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000013, 
+        "Text": "Closing the app. Continue?"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000014, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000015, 
+        "Text": "Expired item(s) could not be processed."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000016, 
+        "Text": "55efe4d40100204a25fbe0a3b71f41654727dfbfe4d71db416eda85f8be085caf7fc5e422e33c78bfcdb88d4d3de9c232abd03"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000017, 
+        "Text": "3b05e920409f6dc72ed984b92fe0d857b603840a9e120b3f448dae8692e592da10b5f29fa53762585c68e97c0ed1c6df9464d8"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000018, 
+        "Text": "GREEtensuramaoryu"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000019, 
+        "Text": "MxfSHzkwx5cBKXQSPubw"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000020, 
+        "Text": "Connection failed. Retry?"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000021, 
+        "Text": "Connection failed again."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000022, 
+        "Text": "Return to the title screen?"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000023, 
+        "Text": "https://apps.apple.com/app/id1577316192"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000024, 
+        "Text": "https://play.google.com/store/apps/details?id=com.bandainamcoent.tensuramrkww"
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000025, 
+        "Text": "An unexpected error has occurred."
+    }
+]

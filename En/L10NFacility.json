@@ -1,0 +1,462 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001101, 
+        "Text": "Central Office"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001101, 
+        "Text": "A facility that increases the max population and expands the area you can use for facilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001301, 
+        "Text": "Farm"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001301, 
+        "Text": "A facility that generates Rice Balls, useful for increasing a character's Bond Levels, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001302, 
+        "Text": "Mountain Supply Corps Base"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001302, 
+        "Text": "A facility that generates Bulldeer Shishkabobs, useful for increasing a character's Bond Levels, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001303, 
+        "Text": "Ocean Supply Corps Base"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001303, 
+        "Text": "A facility that generates Sashimi, useful for increasing a character's Bond Levels, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001304, 
+        "Text": "Forest Supply Corps Base"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001304, 
+        "Text": "A facility that generates Fresh Fruit, useful for increasing a character's Bond Levels, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001305, 
+        "Text": "Clothing Store"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001305, 
+        "Text": "A facility that generates Gold Coins, useful as a construction material, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001306, 
+        "Text": "Restaurant"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001306, 
+        "Text": "A facility that generates Gold Coins, useful as a construction material, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001307, 
+        "Text": "Tavern"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001307, 
+        "Text": "A facility that generates Gold Coins, useful as a construction material, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001308, 
+        "Text": "Caf\u00e9"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001308, 
+        "Text": "A facility that generates Gold Coins, useful as a construction material, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001309, 
+        "Text": "Digsite for Stamina Magistones"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001309, 
+        "Text": "A facility that generates Stamina Magistones, useful for Ability Release, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001310, 
+        "Text": "Digsite for Attack Magistones"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001310, 
+        "Text": "A facility that generates Attack Magistones, useful for Ability Release, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001311, 
+        "Text": "Protection Magistone Digsite"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001311, 
+        "Text": "A facility that generates Protection Magistones, useful for Ability Release, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001312, 
+        "Text": "Digsite for Training Magistones"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001312, 
+        "Text": "A facility that generates Training Magistones, useful for Ability Release, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001313, 
+        "Text": "Field"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001313, 
+        "Text": "A facility that generates Salad Sticks, useful for increasing a character's Bond Levels, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001314, 
+        "Text": "Training Ground"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001314, 
+        "Text": "A facility that generates Magicules, useful for levelling up characters, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001315, 
+        "Text": "Digsite for Defense Magistones"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001315, 
+        "Text": "A facility that generates Defense Magistones, useful for Ability Release, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001401, 
+        "Text": "Goblin House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001401, 
+        "Text": "Increases population. A facility for Goblins to live in."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001402, 
+        "Text": "Direwolf House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001402, 
+        "Text": "Increases population. A facility for Direwolves to live in."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001403, 
+        "Text": "Dwarves' House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001403, 
+        "Text": "Increases population. A facility for Dwarves to live in."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001404, 
+        "Text": "Ogres' House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001404, 
+        "Text": "Increases population. A facility for Ogres to live in."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001405, 
+        "Text": "Orcs' House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001405, 
+        "Text": "Increases population. A facility for Orcs to live in."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001406, 
+        "Text": "Lizardmen's House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001406, 
+        "Text": "Increases population. A facility for Lizardmen to live in."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001502, 
+        "Text": "Rimuru Trophy"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001502, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001503, 
+        "Text": "Park"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001503, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001504, 
+        "Text": "Bench"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001504, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001505, 
+        "Text": "Guard Tower"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001505, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001506, 
+        "Text": "Rimuru's Stump"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001506, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001507, 
+        "Text": "Logs"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001507, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001508, 
+        "Text": "Barrels"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001508, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001509, 
+        "Text": "Flower Bed"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001509, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001510, 
+        "Text": "Lantern"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001510, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001511, 
+        "Text": "Street Light"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001511, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001512, 
+        "Text": "Roadside Tree (Green)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001512, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001513, 
+        "Text": "Roadside Tree (Cherry Blossom)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001513, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001514, 
+        "Text": "Roadside Tree (Fall)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001514, 
+        "Text": "A facility purely for decoration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001604, 
+        "Text": "Rimuru's Hut"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001604, 
+        "Text": "A facility that increases your Sworn Friendship limit."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001606, 
+        "Text": "Laboratory"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001606, 
+        "Text": "A facility that generates Healing Potions, an item that recovers your stamina, after a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001607, 
+        "Text": "Fire Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001607, 
+        "Text": "This facility amplifies the status of characters with the fire attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001608, 
+        "Text": "Water Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001608, 
+        "Text": "This facility amplifies the status of characters with the water attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001609, 
+        "Text": "Earth Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001609, 
+        "Text": "This facility amplifies the status of characters with the earth attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001610, 
+        "Text": "Wind Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001610, 
+        "Text": "This facility amplifies the status of characters with the wind attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001611, 
+        "Text": "Space Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001611, 
+        "Text": "This facility amplifies the status of characters with the space attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001612, 
+        "Text": "Light Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001612, 
+        "Text": "This facility amplifies the status of characters with the light attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001613, 
+        "Text": "Dark Magic Device"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001613, 
+        "Text": "This facility amplifies the status of characters with the dark attribute."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001614, 
+        "Text": "Symbol of Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001614, 
+        "Text": "This facility amplifies the staus of protective characters."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 400001617, 
+        "Text": "Forge"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001617, 
+        "Text": "This facility is used to\nmanufacture, upgrade, and \ndisassemble equipment."
+    }
+]

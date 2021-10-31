@@ -1,0 +1,367 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000001, 
+        "Text": "Exceeds population limit. Cannot construct."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000002, 
+        "Text": "Unlock conditions not met"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000003, 
+        "Text": "Insufficient materials/coins"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000004, 
+        "Text": "Not enough space"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000005, 
+        "Text": "Material Insufficient"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000006, 
+        "Text": "Insufficient Space"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000007, 
+        "Text": "Raise the level of your Central Office (Mayor's House) and increase your max population"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000008, 
+        "Text": "{0}d "
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000009, 
+        "Text": "{0}hr "
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000010, 
+        "Text": "{0}min "
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000011, 
+        "Text": "{0}sec"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000012, 
+        "Text": "Unlock by acquiring {0} or more citizens."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000013, 
+        "Text": "Can't select any more facilities."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000014, 
+        "Text": "Return to facility selection without saving changes?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000015, 
+        "Text": "Return to the home screen without saving changes?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000016, 
+        "Text": "Recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000017, 
+        "Text": "Change all appointments for this facility?\nNote: Characters with 0 output won't be recommended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000018, 
+        "Text": "Reset"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000019, 
+        "Text": "Reset appointments for this facility?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000020, 
+        "Text": "Recommend All"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000021, 
+        "Text": "Change all facility appointments?\nNote: Characters with 0 output won't be recommended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000022, 
+        "Text": "Reset All"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000023, 
+        "Text": "Reset all facility appointments?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000024, 
+        "Text": "Complete"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000025, 
+        "Text": "Shorten Construction Time"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000026, 
+        "Text": "Use magicrystals to temporarily increase the concurrent construction limit"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000027, 
+        "Text": "Construction Complete"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000028, 
+        "Text": "Construct"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000029, 
+        "Text": "Use <color=#2be41d>{0}</color> magicrystals to increase the concurrent construction limit by <color=#2be41d>{1}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000030, 
+        "Text": "No Output Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000031, 
+        "Text": "{0} magicrystals will be consumed. Continue?\n{1} -> {2}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000032, 
+        "Text": "Insufficient magicrystals. Buy more?\n{0} -> {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000033, 
+        "Text": "Pop. Limit"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000034, 
+        "Text": "Collect All Limit"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000035, 
+        "Text": "Citizens"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000036, 
+        "Text": "Production Time"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000037, 
+        "Text": "Pop.: <color=#ed4b39>{0}+</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000038, 
+        "Text": "Clear <color=#ed4b39>Chapter {0} Part {1}: {2} {3}</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000039, 
+        "Text": "Total Facility Level: <color=#ed4b39>{0}+</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000040, 
+        "Text": "Insufficient Space"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000041, 
+        "Text": "Shorten production time by {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000042, 
+        "Text": "Shorten production time: <color=#2be41d>{0} -> {1}</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000043, 
+        "Text": "Pop. Limit Reached"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000044, 
+        "Text": "Build Now"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000045, 
+        "Text": "Consume <color=#2be41d>{0}</color> magicrystals and complete construction now?\n<color=#ed4b39>Gold coins will also be consumed for construction.</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000046, 
+        "Text": "Level Up Now"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000047, 
+        "Text": "Consume <color=#2be41d>{0}</color> magicrystals and level up immediately?\n<color=#ed4b39>Gold coins will also be consumed to level up.</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000048, 
+        "Text": "Complete"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000049, 
+        "Text": "Remaining construction time ran out before executing Level Up Now.\n\nNo magicrystals were consumed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000050, 
+        "Text": "Build Now"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000051, 
+        "Text": "Consume <color=#2be41d>{0}</color> magicrystals and shorten time?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000052, 
+        "Text": "<color=#ed4b39>Unlock with {0}+ citizens</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000053, 
+        "Text": "Unlock by clearing <color=#ed4b39>Chapter {0} Part {1}: {2} {3}</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000054, 
+        "Text": "<color=#ed4b39>Unlock with {0}+ Total Facility Level</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000055, 
+        "Text": "Exceeded the time to construct this facility."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000056, 
+        "Text": "Construction Time Exceeded"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000057, 
+        "Text": "Failed to Receive Aid"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000058, 
+        "Text": "Construction is complete on all facilities that required aid.\n\nAid cannot be received."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000059, 
+        "Text": "Unlocked with Central Office Lv. {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000060, 
+        "Text": "Who should we appoint?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000061, 
+        "Text": "I know someone perfect for the job."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000062, 
+        "Text": "All the town's people really do work hard...I must work harder, too!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000063, 
+        "Text": "Insufficient population."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000064, 
+        "Text": "Insufficient total facility level."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000065, 
+        "Text": "Insufficient population and total facility level."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000066, 
+        "Text": "Failed to Request Aid"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000067, 
+        "Text": "Construction is already complete. Aid was not sent."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000068, 
+        "Text": "Failed to Accept Gift"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000069, 
+        "Text": "You reached the hold limit.\nItems will be sent to the Gift Box."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000070, 
+        "Text": "You have reached the daily limit on aid requests.\nNote: The daily limit is reset every day at {0}."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000071, 
+        "Text": "Obtain <color=#ed4b39>{0}</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000072, 
+        "Text": "Obtain <color=#ed4b39>{0}</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 802000073, 
+        "Text": "Total Items Retrieved"
+    }
+]

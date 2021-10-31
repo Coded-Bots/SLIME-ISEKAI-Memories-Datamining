@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3000001, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 3000001, 
+        "Text": "An item required for encountering new companions"
+    }
+]

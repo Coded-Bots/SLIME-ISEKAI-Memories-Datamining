@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1130430001, 
+        "Text": "Ultramarine Bangle"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1130440001, 
+        "Text": "Verdant Green Necklace"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1130440003, 
+        "Text": "Large Broach"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1130440004, 
+        "Text": "Silver Bracelet"
+    }
+]

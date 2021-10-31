@@ -1,0 +1,112 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000001, 
+        "Text": "Because you have cleared Chapter 1 Episode 2 (Beginner) 'Goblin Village', <color=#2be41d>the goblins now respect Rimuru and have come under his banner.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000002, 
+        "Text": "Because you have cleared Chapter 1 Episode 5 (Beginner) 'Deathmarch', <color=#2be41d>Ranga now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000002, 
+        "Text": "Because Ranga has joined your party, Direwolf Houses are now unlocked.\nWould you like to construct one now?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000003, 
+        "Text": "Because you have cleared Chapter 2 Episode 8 (Beginner) 'New Master', <color=#2be41d>Kaijin now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000003, 
+        "Text": "Because Kaijin has joined your party, the forge is now unlocked.\nWould you like to construct one now?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000004, 
+        "Text": "Because you have cleared Chapter 5 Episode 1 (Beginner) 'Evolution and Subjects', <color=#2be41d>Benimaru, Shion, Shuna, and Kurobe now respect Rimuru and have joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000004, 
+        "Text": "Because Benimaru and others have joined your party, Ogres' Houses are now unlocked.\nWould you like to construct one now?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000005, 
+        "Text": "Because you have cleared Chapter 7 Episode 1 (Beginner) 'The Jura Forest Alliance', <color=#2be41d>Treyni now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000006, 
+        "Text": "Because you have cleared Chapter 7 Episode 2 (Beginner) 'Swallowed Sins', <color=#2be41d>Geld now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000006, 
+        "Text": "Because Geld and his companions have joined your party, Orcs' Houses are now unlocked.\nWould you like to construct one now?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000007, 
+        "Text": "Because you have cleared Chapter 7 Episode 7 (Beginner) 'Gazel Attacks', <color=#2be41d>Gazel now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000008, 
+        "Text": "Because you have cleared Chapter 7 Episode 8 (Beginner) 'A Series of Unexpected Guests', <color=#2be41d>Vesta now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000008, 
+        "Text": "Because Vesta has joined your party, the laboratory is now unlocked."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000009, 
+        "Text": "Because you have cleared Chapter 7 Episode 8 (Beginner) 'A Series of Unexpected Guests', <color=#2be41d>Gabiru now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000009, 
+        "Text": "Because Gabiru has joined your party, Lizardmen's Houses are now unlocked.\nWould you like to construct one now?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000010, 
+        "Text": "Because you have cleared Chapter 7 Episode 10 (Beginner) 'Besties', <color=#2be41d>Milim now shows affection for Rimuru, and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4005000011, 
+        "Text": "Because you have cleared Chapter 8 Episode 10 (Beginner) 'Puppet Master', <color=#2be41d>Trya now respects Rimuru and has joined his party.</color>"
+    }, 
+    {
+        "ColumnName": "unlock_facility_message", 
+        "LocalizationTargetId": 4005000011, 
+        "Text": ""
+    }
+]

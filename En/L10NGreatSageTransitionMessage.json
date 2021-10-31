@@ -1,0 +1,62 @@
+[
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000002, 
+        "Text": "Take on {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000003, 
+        "Text": "Construct facility?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000004, 
+        "Text": "Awaken individual {1} {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000005, 
+        "Text": "Level up individual {1} {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000006, 
+        "Text": "Release the abilities of {0} {1}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000007, 
+        "Text": "Take on {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000008, 
+        "Text": "Take on Predator quest {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000009, 
+        "Text": "Take on {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000010, 
+        "Text": "Check daily missions?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000011, 
+        "Text": "Take on {0}?"
+    }, 
+    {
+        "ColumnName": "transition_message", 
+        "LocalizationTargetId": 307000012, 
+        "Text": "Enhance battle skill of individual: {0}{1}?"
+    }
+]

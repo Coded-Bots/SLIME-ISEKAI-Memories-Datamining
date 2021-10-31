@@ -1,0 +1,642 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 100001, 
+        "Text": "Rimuru Tempest (Tutorial)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 100001, 
+        "Text": "Chancellor of Tempest"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 100002, 
+        "Text": "Benimaru (Tutorial)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 100002, 
+        "Text": "Samurai General of Hellfire"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 100003, 
+        "Text": "Milim Nava (Tutorial)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 100003, 
+        "Text": "Dragon Majin"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 130001, 
+        "Text": "Rigurd"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 130001, 
+        "Text": "Hobgoblin Monarch"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 130002, 
+        "Text": "Alice Rondo"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 130002, 
+        "Text": "Golem Master"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 130003, 
+        "Text": "Kenya Misaki"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 130003, 
+        "Text": "Heroic Vessel"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 130004, 
+        "Text": "Ryota Sekiguchi"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 130004, 
+        "Text": "Harmonizer of Insanity and Calm"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 130005, 
+        "Text": "Kurobe"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 130005, 
+        "Text": "Immobile Black Ogre"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 130006, 
+        "Text": "Gale Gibson"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 130006, 
+        "Text": "Earth Spirit Lodger"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140001, 
+        "Text": "Gobta"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140001, 
+        "Text": "Hobgoblin Ascendant"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140002, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140002, 
+        "Text": "Reincarnated"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140003, 
+        "Text": "Gabiru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140003, 
+        "Text": "Waving Spear"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140004, 
+        "Text": "Yuuki Kagurazaka"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140004, 
+        "Text": "Grandmaster"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140005, 
+        "Text": "Trya"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140005, 
+        "Text": "Summer Breeze of Benevolence"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140006, 
+        "Text": "Kurobe"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140006, 
+        "Text": "Steel Heart of the Forge"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140007, 
+        "Text": "Gelmud"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140007, 
+        "Text": "Secret Operator"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140008, 
+        "Text": "Chloe Aubert"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140008, 
+        "Text": "Lovely Innocence"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140009, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140009, 
+        "Text": "Next Clan Leader"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140010, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140010, 
+        "Text": "Blue Gale"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140011, 
+        "Text": "Geld"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140011, 
+        "Text": "Orc King"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140012, 
+        "Text": "Ranga"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140012, 
+        "Text": "Loyal Wolf"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140013, 
+        "Text": "Phobio"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140013, 
+        "Text": "Leopard Fang"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140014, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140014, 
+        "Text": "Purple Smash"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140015, 
+        "Text": "Hakurou"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140015, 
+        "Text": "White Slash"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140016, 
+        "Text": "Shuna"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140016, 
+        "Text": "Pink Ogre Princess"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140017, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140017, 
+        "Text": "Instant Spy"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140018, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140018, 
+        "Text": "Swordsmanship Forge"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140019, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140019, 
+        "Text": "Valiant Kijin"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140020, 
+        "Text": "Shuna"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140020, 
+        "Text": "Excellent Tailor"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140021, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140021, 
+        "Text": "Ardent Attendant"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140022, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140022, 
+        "Text": "Delighter in Everyday Life"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 140023, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140023, 
+        "Text": "Crimson Ogre Warrior"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150001, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150001, 
+        "Text": "Samurai General of Hellfire"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150002, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150002, 
+        "Text": "Steel Annihilator"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150003, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150003, 
+        "Text": "Harmonizer of Majin and Humans"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150004, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150004, 
+        "Text": "Spy in the Shadows"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150005, 
+        "Text": "Gazel Dwargo"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150005, 
+        "Text": "King of an Armed Nation"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150006, 
+        "Text": "Ranga"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150006, 
+        "Text": "Tempest Star Wolf"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150007, 
+        "Text": "Shizue Izawa"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150007, 
+        "Text": "Conqueror of Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150008, 
+        "Text": "Shuna"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150008, 
+        "Text": "Holy Princess"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150009, 
+        "Text": "Treyni"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150009, 
+        "Text": "Budding of Deep Green"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150010, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150010, 
+        "Text": "Dragon Majin"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150011, 
+        "Text": "Hakurou"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150011, 
+        "Text": "Instructor of the Flashing Sword"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150012, 
+        "Text": "Beretta"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150012, 
+        "Text": "Arch Golem"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150013, 
+        "Text": "Shuna"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150013, 
+        "Text": "Pink Ogre of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150014, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150014, 
+        "Text": "One of the Oldest Demon Lords"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150015, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150015, 
+        "Text": "Chancellor of Tempest"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150017, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150017, 
+        "Text": "The Black Progenitor"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150024, 
+        "Text": "Veldora Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150024, 
+        "Text": "Seal Releaser"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150027, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150027, 
+        "Text": "Manifestation of the Dragon"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150028, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150028, 
+        "Text": "Awakened Demon Lord"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150033, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150033, 
+        "Text": "the Proud Dragon Demon Lord"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 180001, 
+        "Text": "Rimuru Tempest (Human Form)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 180001, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 180002, 
+        "Text": "Rigurd (Pre-Evolution)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 180002, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190001, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190001, 
+        "Text": "DEBUG_1"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190002, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190002, 
+        "Text": "DEBUG_2"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190003, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190003, 
+        "Text": "DEBUG_3"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190004, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190004, 
+        "Text": "DEBUG_4"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190005, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190005, 
+        "Text": "DEBUG_5"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190006, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190006, 
+        "Text": "DEBUG_6"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190007, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190007, 
+        "Text": "DEBUG_7"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190008, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190008, 
+        "Text": "DEBUG_8"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190009, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190009, 
+        "Text": "DEBUG_9"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 190010, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 190010, 
+        "Text": "DEBUG_10"
+    }
+]

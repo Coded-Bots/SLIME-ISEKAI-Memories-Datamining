@@ -1,0 +1,112 @@
+[
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000001, 
+        "Text": "Build your nation while enjoying scenarios and battles from 'That Time I Got Reincarnated as a Slime', and cultivate a Tempest nation of your own!"
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000002, 
+        "Text": "Advance through the main story to get new companions to stop by your town."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000003, 
+        "Text": "Expand your town to more easily enhance your troops."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000004, 
+        "Text": "Increase your nation's population to raise your stamina limit and unlock a range of functions."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000005, 
+        "Text": "Increase your nation's Central Office level to expand the territory of your town."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000006, 
+        "Text": "Talk to companions who show up in your town to obtain Bond Level experience points once per day."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000007, 
+        "Text": "After talking to companions in your town, you may receive presents from them."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000008, 
+        "Text": "Increase your population to unlock Growth quests where you can obtain items to grow your companions."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000009, 
+        "Text": "Use ability release to enhance the secret skill strength, output, and unlock the attributes of your characters."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000010, 
+        "Text": "Activate 5 or more souls in your hand to unleash a linked combo attack with multiple characters."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000011, 
+        "Text": "Activate multiple souls in your hand to use a combo. More souls means greater gauge increase and damage."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000012, 
+        "Text": "Attack enemies using battle characters with attribute compatibility for increased damage."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000013, 
+        "Text": "Your Soul of Secrets secret skill gauge can be increased more than that of any other soul."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000014, 
+        "Text": "Your Soul of Divine Protection protection gauge can be increased more than that of any other soul."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000015, 
+        "Text": "Your Soul of Skills skill gauge can be increased more than that of any other soul."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000016, 
+        "Text": "When your secret skill gauge turns rainbow-colored, you can activate that character's Soul of Combos at start of turn."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000017, 
+        "Text": "Clear a Predator quest with a high rating to increase the number of enhancement skills you can acquire."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000018, 
+        "Text": "Appoint characters to facilities in your nation to increase the production speed of items."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000019, 
+        "Text": "Complete missions to obtain rewards and Great Sage experience points."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000020, 
+        "Text": "Increase your Great Sage Level to obtain and enhance Great Sage skills."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000021, 
+        "Text": "If you get stuck while playing, use the Great Sage button at the top of the screen to ask for help."
+    }, 
+    {
+        "ColumnName": "tips", 
+        "LocalizationTargetId": 50004000022, 
+        "Text": "Whenever you activate a combat skill, the cost of that skill increases."
+    }
+]

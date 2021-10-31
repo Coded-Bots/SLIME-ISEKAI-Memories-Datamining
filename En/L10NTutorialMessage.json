@@ -1,0 +1,392 @@
+[
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000101, 
+        "Text": "Tutorial Recruit"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000101, 
+        "Text": "Notice: <color=#F7E416>Recruiting</color> has now been unlocked. This is your chance to recruit some powerful new allies."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000102, 
+        "Text": "Tutorial Recruit"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000102, 
+        "Text": "Normally, recruiting new allies consumes Magicrystals. This time, however, you can do it for free."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000103, 
+        "Text": "Tutorial Recruit"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000103, 
+        "Text": "You've recruited new characters.\nThey're sure to be valuable allies!"
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000201, 
+        "Text": "Level up"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000201, 
+        "Text": "Notice: Level up your newly-acquired character."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000202, 
+        "Text": "Level up"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000202, 
+        "Text": "In addition to completing quests, you can also <color=#F7E416>level up characters from their Details screen by using Magicules</color>."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000203, 
+        "Text": "Level up"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000203, 
+        "Text": "<color=#F7E416>Hold down</color> to level up by consuming Magicules. You can earn more Magicules in various ways, such as by completing quests. For now, hold down and increase the level to Lv. 10."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000204, 
+        "Text": "Level up"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000204, 
+        "Text": "Characters' parameters will improve as their level increases. Collect more Magicules to make your allies even stronger."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000301, 
+        "Text": "Assign Troops"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000301, 
+        "Text": "Notice: A new quest has been unlocked."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000302, 
+        "Text": "Assign Troops"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000302, 
+        "Text": "Notice: <color=#F7E416>Add your new characters</color> to your party."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000303, 
+        "Text": "Assign Troops"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000303, 
+        "Text": "Confirmed. Tap <color=#F7E416>Move Out</color> to start the next quest."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000401, 
+        "Text": "Prologue Town Tour"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000401, 
+        "Text": "Take a walk around the town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000402, 
+        "Text": "Prologue Town Tour"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000402, 
+        "Text": "Talk to different characters around town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000403, 
+        "Text": "Prologue Town Tour"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000403, 
+        "Text": "Talk to a character you haven't spoken with yet."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000404, 
+        "Text": "Prologue Town Tour"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000404, 
+        "Text": "Talk to a character you haven't spoken with yet."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000501, 
+        "Text": "Great Sage Missions"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000501, 
+        "Text": "Notice: A completed mission exists."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000502, 
+        "Text": "Great Sage Missions"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000502, 
+        "Text": "Notice: It is recommended to accept all rewards for a completed mission."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000503, 
+        "Text": "Great Sage Missions"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000503, 
+        "Text": "Great Sage has gained experience and can now use Thought Acceleration and All of Creation. <color=#F7E416> These skills will allow you to change the battle speed and use the Auto function.</color>"
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000504, 
+        "Text": "Great Sage Missions"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000504, 
+        "Text": "Completing missions will unlock even more new functions."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000601, 
+        "Text": "Skill Enhancement"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000601, 
+        "Text": "Notice: Beginning enhancement of skills with </color>enhancement skills<color=#F7E416> obtained by eating."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000602, 
+        "Text": "Skill Enhancement"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000602, 
+        "Text": "Skills can be enhanced from a character's Details screen."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000603, 
+        "Text": "Skill Enhancement"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000603, 
+        "Text": "Enhance a skill."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000604, 
+        "Text": "Skill Enhancement"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000604, 
+        "Text": "Select the materials to enhance a skill. Materials with the <color=#F7E416>same shape as the skill icon</color> are 50% more effective. It is recommended that you select multiple materials and level up to level 2."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000605, 
+        "Text": "Skill Enhancement"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000605, 
+        "Text": "Leveling up a skill improves its effectiveness."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000701, 
+        "Text": "Asking Great Sage"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000701, 
+        "Text": "Notice: Explaining quest and enhancement recommendations."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101000702, 
+        "Text": "Asking Great Sage"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101000702, 
+        "Text": "It is recommended that you continue to proceed with a quest.\nThis concludes the basic explanation."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020101, 
+        "Text": "Nation_House Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020101, 
+        "Text": "As you recruit new companions, you'll also need to develop the town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020102, 
+        "Text": "Nation_House Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020102, 
+        "Text": "Building houses will allow the <color=#F7E416>population</color> of the town to grow."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020103, 
+        "Text": "Nation_House Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020103, 
+        "Text": "Unlock a facility by tapping the <color=#F7E416>check mark</color>."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020104, 
+        "Text": "Nation_House Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020104, 
+        "Text": "The population has grown. The town can be improved with <color=#F7E416>new functions and other features</color> as the population increases."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020201, 
+        "Text": "Nation_Facility Menu"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020201, 
+        "Text": "Tap a facility to open up a menu with options for that facility."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020202, 
+        "Text": "Nation_Facility Menu"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020202, 
+        "Text": "Either use <color=#F7E416>Level Up</color> to increase the population, or options such as <color=#F7E416>Move</color> and <color=#F7E416>Save</color> to change the layout of the town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020301, 
+        "Text": "Nation_Training Ground Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020301, 
+        "Text": "It is recommended that you construct <color=#F7E416>training grounds</color> in your town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020302, 
+        "Text": "Nation_Training Ground Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020302, 
+        "Text": "Building a Training Ground will allow you to acquire <color=#F7E416>Magicules</color>. These are used to power up your characters."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020303, 
+        "Text": "Nation_Training Ground Construction"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020303, 
+        "Text": "The Training Ground is complete.\n<color=#F7E416>As time passes, you'll be able to acquire more Magicules.</color>\nThese are used to level up your characters."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020401, 
+        "Text": "Nation_Summary"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020401, 
+        "Text": "You should continue building new <color=#F7E416>houses</color> and <color=#F7E416>facilities</color> in order to develop your town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020402, 
+        "Text": "Nation_Summary"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020402, 
+        "Text": "Going home to check the status of your town."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020501, 
+        "Text": "Nation_Population Milestone Reward"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020501, 
+        "Text": "Notice: You can now receive a <color=#F7E416>population milestone</color> reward."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020502, 
+        "Text": "Nation_Population Milestone Reward"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020502, 
+        "Text": "For Population Milestone Rewards, you will receive a large number of <color=#F7E416>Magicrystals</color>, and use them for recruiting new allies."
+    }, 
+    {
+        "ColumnName": "message_group_name", 
+        "LocalizationTargetId": 101020503, 
+        "Text": "Nation_Population Milestone Reward"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 101020503, 
+        "Text": "In addition, <color=#F7E416>increasing the population will also unlock new features</color>, so build and level up houses whenever you can!"
+    }
+]

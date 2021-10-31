@@ -1,0 +1,217 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000017, 
+        "Text": "Powerful attack incoming"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000018, 
+        "Text": "Secret skill incoming"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000019, 
+        "Text": "Enemy prepared to unleash secret skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000020, 
+        "Text": "Powerful enemy has appeared\nDefeat through use of skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000021, 
+        "Text": "Multiple enemies have appeared\nAttack-raising and card-changing skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000022, 
+        "Text": "Enemy that uses secret skills has appeared"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000023, 
+        "Text": "Powerful enemy has appeared\nDefeat through use of skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000024, 
+        "Text": "Enemy prepared to unleash secret skill\nSwitching low-HP members to rearguard recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000025, 
+        "Text": "Confirmed enemy with guard rate increase\nConcentrated attack recommended when enhancement wears off"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000026, 
+        "Text": "Confirmed enemy with significant guard rate increase\nConcentrated attack recommended when enhancement wears off"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000027, 
+        "Text": "Damage from Soul of Divine Protection has decreased\nSoul-changing skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000028, 
+        "Text": "Damage from Soul of Skills has decreased\nSoul-changing skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000029, 
+        "Text": "Confirmed enemy ATK increase\nSingle-target attacks recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000030, 
+        "Text": "Enemy that uses a concentrated attack at the start of battle has appeared\nDefense-raising skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000031, 
+        "Text": "Enemy that uses a secret skill attack at the start of battle has appeared\nDefense-raising skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000032, 
+        "Text": "Enemy that uses a powerful attack in the second half has appeared\nQuick defeat through concentrated attack recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000033, 
+        "Text": "Confirmed enemy attack increase\nEnemy prepared to unleash secret skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000034, 
+        "Text": "Confirmed enemy attack further increase\nEnemy prepared to unleash secret skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000035, 
+        "Text": "Enemy's attack has increased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000036, 
+        "Text": "Confirmed enemy attack further increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000037, 
+        "Text": "Temporary increase in enemy's durability anticipated\nPowerful concentrated attack recommended when enhancement ends"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000038, 
+        "Text": "Confirmed enemy with significant guard rate increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000039, 
+        "Text": "Confirmed decrease in secret skill strength"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000040, 
+        "Text": "Enemy's defense has decreased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000041, 
+        "Text": "Enemy's attack has decreased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000042, 
+        "Text": "Confirmed ally defense decrease"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000043, 
+        "Text": "Confirmed enemy counterattack rate increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000044, 
+        "Text": "Enemy with high durability has appeared\nEnemy appears to cause stat abnormality"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000045, 
+        "Text": "Enemy with high durability has appeared\nUses stat abnormality when HP is low"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000046, 
+        "Text": "Confirmed enemy pierce resistance increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000047, 
+        "Text": "Enemy that uses dark attacks has appeared"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000048, 
+        "Text": "Confirmed ally attack decrease"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000049, 
+        "Text": "Confirmed enemy critical resistance increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000050, 
+        "Text": "Confirmed decrease in Soul of Secrets damage\nSoul-changing skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000051, 
+        "Text": "Confirmed enemy pierce rate increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000052, 
+        "Text": "Confirmed obstruction of Soul of Skills gauge increase effect\nSoul-changing skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000053, 
+        "Text": "Enemy prepared to unleash secret skill\nSingle-target attacks recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000054, 
+        "Text": ".............................."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000055, 
+        "Text": "Multiple enemies that use secret skills have appeared\nDefeat before they use secret skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000056, 
+        "Text": "Incoming stun attack anticipated"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000057, 
+        "Text": "Confirmed obstruction of Soul of Skills gauge increase effect\nSoul-changing skills recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000058, 
+        "Text": "Confirmed ally defense decrease\nIncoming stun attack anticipated"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000059, 
+        "Text": "Incoming stat abnormality attack anticipated"
+    }
+]

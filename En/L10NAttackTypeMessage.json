@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 804000001, 
+        "Text": "Physical"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 804000002, 
+        "Text": "Magic"
+    }
+]

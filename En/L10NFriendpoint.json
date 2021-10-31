@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3200001, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 3200001, 
+        "Text": "Proofs of Sworn Friendship obtained by receiving aid. Use at the Bazaar."
+    }
+]

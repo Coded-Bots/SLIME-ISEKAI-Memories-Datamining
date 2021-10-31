@@ -1,0 +1,152 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300001, 
+        "Text": "Perfect Workmanship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300001, 
+        "Text": "Skill that enhances all other skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300002, 
+        "Text": "Perfect Technique"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300002, 
+        "Text": "Skill that enhances all other skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300003, 
+        "Text": "Perfect Striking"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300003, 
+        "Text": "Skill that enhances all other skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300004, 
+        "Text": "Fierce Attack Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300004, 
+        "Text": "Skill that enhances attack-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300005, 
+        "Text": "Fierce Attack Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300005, 
+        "Text": "Skill that enhances attack-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300006, 
+        "Text": "Fierce Attack Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300006, 
+        "Text": "Skill that enhances attack-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300007, 
+        "Text": "Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300007, 
+        "Text": "Skill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300008, 
+        "Text": "Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300008, 
+        "Text": "Skill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300009, 
+        "Text": "Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300009, 
+        "Text": "Skill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300010, 
+        "Text": "Body and Spirit Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300010, 
+        "Text": "Skill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300011, 
+        "Text": "Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300011, 
+        "Text": "Skill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300012, 
+        "Text": "Body and Spirit Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300012, 
+        "Text": "Skill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300013, 
+        "Text": "Soul Reincarnation Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300013, 
+        "Text": "Skill that enhances magic-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300014, 
+        "Text": "Soul Reincarnation Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300014, 
+        "Text": "Skill that enhances magic-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300015, 
+        "Text": "Soul Reincarnation Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300015, 
+        "Text": "Skill that enhances magic-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }
+]

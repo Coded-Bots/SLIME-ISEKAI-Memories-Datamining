@@ -1,0 +1,37 @@
+[
+    {
+        "ColumnName": "blue_charge_combo_description", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "Extra Protection Boost"
+    }, 
+    {
+        "ColumnName": "red_burst_combo_description", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "Extra ATK Boost"
+    }, 
+    {
+        "ColumnName": "yellow_accele_combo_description", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "Extra Magicules Boost"
+    }, 
+    {
+        "ColumnName": "additional_card_combo_description", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "Executes an additional attack."
+    }, 
+    {
+        "ColumnName": "blue_effect_format", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "Protection Boost"
+    }, 
+    {
+        "ColumnName": "red_effect_format", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "ATK UP"
+    }, 
+    {
+        "ColumnName": "yellow_effect_format", 
+        "LocalizationTargetId": 2002000001, 
+        "Text": "Magicule Boost"
+    }
+]

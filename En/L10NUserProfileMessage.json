@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000001, 
+        "Text": "Monster"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000002, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000003, 
+        "Text": "Contains invalid characters."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000004, 
+        "Text": "Chancellor ID copied"
+    }
+]

@@ -1,0 +1,1022 @@
+[
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000302, 
+        "Text": "Do you have a second, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000302, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000306, 
+        "Text": "Do you have a second, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000306, 
+        "Text": "Benimaru's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000310, 
+        "Text": "Do you have a second, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000310, 
+        "Text": "Benimaru's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000313, 
+        "Text": "Do you have a second, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000313, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000316, 
+        "Text": "Do you have a second, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000316, 
+        "Text": "Benimaru's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000320, 
+        "Text": "Do you have a second, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000320, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000402, 
+        "Text": "Great Rimuru, there you are!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000402, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000406, 
+        "Text": "Great Rimuru, there you are!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000406, 
+        "Text": "Gobta's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000410, 
+        "Text": "Great Rimuru, there you are!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000410, 
+        "Text": "Gobta's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000413, 
+        "Text": "Great Rimuru, there you are!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000413, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000416, 
+        "Text": "Great Rimuru, there you are!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000416, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000420, 
+        "Text": "Great Rimuru, there you are!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000420, 
+        "Text": "Gobta's Request 6"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000502, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000502, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000506, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000506, 
+        "Text": "Shion's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000510, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000510, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000513, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000513, 
+        "Text": "Shion's Request 4"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000516, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000516, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000520, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000520, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000602, 
+        "Text": "Master!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000602, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000606, 
+        "Text": "Master!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000606, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000610, 
+        "Text": "Master!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000610, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000613, 
+        "Text": "Master!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000613, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000616, 
+        "Text": "Master!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000616, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000620, 
+        "Text": "Master!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000620, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000702, 
+        "Text": "\u2026\u2026\u2026\u2026"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000702, 
+        "Text": "Souei's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000706, 
+        "Text": "\u2026\u2026\u2026\u2026"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000706, 
+        "Text": "Souei's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000710, 
+        "Text": "\u2026\u2026\u2026\u2026"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000710, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000713, 
+        "Text": "\u2026\u2026\u2026\u2026"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000713, 
+        "Text": "Souei's Request 4"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000716, 
+        "Text": "\u2026\u2026\u2026\u2026"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000716, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000720, 
+        "Text": "\u2026\u2026\u2026\u2026"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000720, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000802, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000802, 
+        "Text": "Rigurd's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000806, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000806, 
+        "Text": "Rigurd's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000810, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000810, 
+        "Text": "Rigurd's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000813, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000813, 
+        "Text": "Rigurd's Request 4"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000816, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000816, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000820, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000820, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000902, 
+        "Text": "Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000902, 
+        "Text": "Gazel Dwargo's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000906, 
+        "Text": "Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000906, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000910, 
+        "Text": "Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000910, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000913, 
+        "Text": "Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000913, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000916, 
+        "Text": "Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000916, 
+        "Text": "Gazel Dwargo's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005000920, 
+        "Text": "Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005000920, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001002, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001002, 
+        "Text": "Shuna's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001006, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001006, 
+        "Text": "Shuna's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001010, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001010, 
+        "Text": "Shuna's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001013, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001016, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001020, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001020, 
+        "Text": "Shuna's Request 6"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001102, 
+        "Text": "Teehee!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001102, 
+        "Text": "Treyni's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001106, 
+        "Text": "Teehee!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001106, 
+        "Text": "Treyni's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001110, 
+        "Text": "Teehee!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001110, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001113, 
+        "Text": "Teehee!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001113, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001116, 
+        "Text": "Teehee!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001116, 
+        "Text": "Treyni's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001120, 
+        "Text": "Teehee!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001120, 
+        "Text": "Treyni's Request 6"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001202, 
+        "Text": "Hey..."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001202, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001206, 
+        "Text": "Hey..."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001206, 
+        "Text": "Trya's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001210, 
+        "Text": "Hey..."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001210, 
+        "Text": "Trya's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001213, 
+        "Text": "Hey..."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001213, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001216, 
+        "Text": "Hey..."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001216, 
+        "Text": "Trya's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001220, 
+        "Text": "Hey..."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001220, 
+        "Text": "Trya's Request 6"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001502, 
+        "Text": "Me, Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001502, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001506, 
+        "Text": "Me, Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001506, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001510, 
+        "Text": "Me, Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001510, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001513, 
+        "Text": "Me, Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001513, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001516, 
+        "Text": "Me, Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001516, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001520, 
+        "Text": "Me, Rimuru!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001520, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001602, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001602, 
+        "Text": "Gabiru's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001606, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001606, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001610, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001610, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001613, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001613, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001616, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001616, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001620, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001620, 
+        "Text": "Gabiru's Request 6"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001702, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001702, 
+        "Text": "Geld's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001706, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001706, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001710, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001710, 
+        "Text": "Geld's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001713, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001713, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001716, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001716, 
+        "Text": "Geld's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001720, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001720, 
+        "Text": "Geld's Request 6"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001802, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001802, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001806, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001806, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001810, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001810, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001813, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001813, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001816, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001816, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001820, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001820, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001902, 
+        "Text": "Found ya!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001902, 
+        "Text": "Kurobe's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001906, 
+        "Text": "Found ya!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001906, 
+        "Text": "Kurobe's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001910, 
+        "Text": "Found ya!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001910, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001913, 
+        "Text": "Found ya!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001913, 
+        "Text": "Kurobe's Request 4"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001916, 
+        "Text": "Found ya!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001916, 
+        "Text": "Kurobe's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005001920, 
+        "Text": "Found ya!"
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005001920, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005051002, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005051002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005051006, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005051006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005051010, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005051010, 
+        "Text": "Vesta's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005051013, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005051013, 
+        "Text": "Vesta's Request 4"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005051016, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005051016, 
+        "Text": "Vesta's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005051020, 
+        "Text": "Great Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005051020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005052002, 
+        "Text": "Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005052002, 
+        "Text": "Kaijin's Request 1"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005052006, 
+        "Text": "Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005052006, 
+        "Text": "Kaijin's Request 2"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005052010, 
+        "Text": "Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005052010, 
+        "Text": "Kaijin's Request 3"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005052013, 
+        "Text": "Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005052013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005052016, 
+        "Text": "Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005052016, 
+        "Text": "Kaijin's Request 5"
+    }, 
+    {
+        "ColumnName": "balloon_message", 
+        "LocalizationTargetId": 3005052020, 
+        "Text": "Rimuru."
+    }, 
+    {
+        "ColumnName": "delivery_quest_title", 
+        "LocalizationTargetId": 3005052020, 
+        "Text": ""
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400001, 
+        "Text": "Rice Ball"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400001, 
+        "Text": "A gift that slightly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400002, 
+        "Text": "Rice Ball Set"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400002, 
+        "Text": "A gift that increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400003, 
+        "Text": "Rice Ball Box Lunch"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400003, 
+        "Text": "A gift that greatly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400004, 
+        "Text": "Salad Stick"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400004, 
+        "Text": "A gift that slightly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400005, 
+        "Text": "Healthy Mini Salad"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400005, 
+        "Text": "A gift that increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400006, 
+        "Text": "Potato Salad with Fruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400006, 
+        "Text": "A gift that greatly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400007, 
+        "Text": "Bulldeer Shishkabob"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400007, 
+        "Text": "A gift that slightly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400008, 
+        "Text": "Bulldeer Shishkabob Assortment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400008, 
+        "Text": "A gift that increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400009, 
+        "Text": "Supersized Bulldeer Meat Set"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400009, 
+        "Text": "A gift that greatly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400010, 
+        "Text": "Sashimi"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400010, 
+        "Text": "A gift that slightly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400011, 
+        "Text": "Five Sashimi Platter"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400011, 
+        "Text": "A gift that increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400012, 
+        "Text": "Megalodon Sashimi"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400012, 
+        "Text": "A gift that greatly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400013, 
+        "Text": "Fresh Fruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400013, 
+        "Text": "A gift that slightly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400014, 
+        "Text": "High-Quality Fruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400014, 
+        "Text": "A gift that increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400015, 
+        "Text": "Premium Fruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400015, 
+        "Text": "A gift that greatly increases your bond with a companion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1400016, 
+        "Text": "Nation of Monsters Hot Pot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1400016, 
+        "Text": "A gift that greatly increases your bond with a companion."
+    }
+]

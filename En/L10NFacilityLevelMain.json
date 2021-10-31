@@ -1,0 +1,132 @@
+[
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160401, 
+        "Text": "Increases Sworn Friendship limit by 1."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160402, 
+        "Text": "Increases Sworn Friendship limit by 2."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160403, 
+        "Text": "Increases Sworn Friendship limit by 3."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160404, 
+        "Text": "Increases Sworn Friendship limit by 4."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160405, 
+        "Text": "Increases Sworn Friendship limit by 5."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160406, 
+        "Text": "Increases Sworn Friendship limit by 6."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160407, 
+        "Text": "Increases Sworn Friendship limit by 7."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160408, 
+        "Text": "Increases Sworn Friendship limit by 8."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160409, 
+        "Text": "Increases Sworn Friendship limit by 9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160410, 
+        "Text": "Increases Sworn Friendship limit by 10."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160411, 
+        "Text": "Increases Sworn Friendship limit by 11."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160412, 
+        "Text": "Increases Sworn Friendship limit by 12."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160413, 
+        "Text": "Increases Sworn Friendship limit by 13."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160414, 
+        "Text": "Increases Sworn Friendship limit by 14."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160415, 
+        "Text": "Increases Sworn Friendship limit by 15."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160416, 
+        "Text": "Increases Sworn Friendship limit by 16."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160417, 
+        "Text": "Increases Sworn Friendship limit by 17."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160418, 
+        "Text": "Increases Sworn Friendship limit by 18."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160419, 
+        "Text": "Increases Sworn Friendship limit by 19."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407160420, 
+        "Text": "Increases Sworn Friendship limit by 20."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407161701, 
+        "Text": "Grants ability to forge 1\u2605 equipment."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407161702, 
+        "Text": "Gain ability to evolve equipment to 2\u2605 rank and forge 2\u2605 equipment."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407161703, 
+        "Text": "Gain ability to evolve equipment to 3\u2605 rank and forge 3\u2605 equipment."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407161704, 
+        "Text": "Increases highest evolution rank to 4\u2605."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407161705, 
+        "Text": "Increases highest evolution rank to 5\u2605."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 407161706, 
+        "Text": "Increases highest evolution rank to 6\u2605."
+    }
+]

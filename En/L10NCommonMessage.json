@@ -1,0 +1,592 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000001, 
+        "Text": "{0}{1}% Increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000002, 
+        "Text": "Insufficient population. (Citizens required: {0})"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000003, 
+        "Text": "You haven't unlocked all previous ability levels."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000004, 
+        "Text": "Insufficient materials"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000005, 
+        "Text": "Insufficient level"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000006, 
+        "Text": "Encounter Ticket"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000007, 
+        "Text": "Unlock by clearing Chapter 5 Episode 1 (Beginner)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000008, 
+        "Text": "Days left: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000009, 
+        "Text": "Hours left: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000010, 
+        "Text": "Minutes left: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000011, 
+        "Text": "Under 1 minute left"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000012, 
+        "Text": "ALL"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000013, 
+        "Text": "Weapon"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000014, 
+        "Text": "Armor"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000015, 
+        "Text": "Decorations"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000016, 
+        "Text": "Consume {0} <color=#2be41d>x{1}</color> to recover stamina?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000017, 
+        "Text": "Complete {0} Line Bingos"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000018, 
+        "Text": "Unleash Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000019, 
+        "Text": "Attention"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000020, 
+        "Text": "Use {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000021, 
+        "Text": "Can't heal any more."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000022, 
+        "Text": "Extremely Rare"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000023, 
+        "Text": "Super Rare"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000024, 
+        "Text": "Rare"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000025, 
+        "Text": "Unlock Complete"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000026, 
+        "Text": "Unlock by clearing Chapter 2 Episode 8 (Beginner) and building a forge."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000027, 
+        "Text": "This mission has ended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000028, 
+        "Text": "{0} Left"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000029, 
+        "Text": "Next Update:"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000030, 
+        "Text": "Today: "
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000031, 
+        "Text": "This Week: "
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000032, 
+        "Text": "This Month: "
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000033, 
+        "Text": "Event Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000034, 
+        "Text": "Friendship Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000035, 
+        "Text": "Gold Coin Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000036, 
+        "Text": "Octagram Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000037, 
+        "Text": "Awakening Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000038, 
+        "Text": "Past Event Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000039, 
+        "Text": "Language settings changed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000040, 
+        "Text": "Language now set as {0}.\nReturning to the title screen."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000041, 
+        "Text": "Confirm Move"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000042, 
+        "Text": "Move to {0}?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000043, 
+        "Text": "Quest"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000044, 
+        "Text": "Build Nation"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000045, 
+        "Text": "Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000046, 
+        "Text": "Is anything the matter?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000047, 
+        "Text": "What do you need of me?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000048, 
+        "Text": "Taking care of you is my job, you know!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000049, 
+        "Text": "What do you need of me?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000050, 
+        "Text": "I serve humbly and sincerely at all times!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000051, 
+        "Text": "I'm doing everything I possibly can for the town!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000052, 
+        "Text": "That Time I Got Reincarnated as a Slime: ISEKAI Memories"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000053, 
+        "Text": "Notice: All stamina recovered."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000054, 
+        "Text": "Notice: A facility has completed construction."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000055, 
+        "Text": "Notice: Production limit reached for this facility. Retrieving items recommended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000056, 
+        "Text": "Notice: Parallel Processing complete. It is recommended to accept rewards."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000057, 
+        "Text": "You completed the current bingo sheet. The next bingo sheet has been unlocked."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000058, 
+        "Text": "Ends: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000059, 
+        "Text": "HH:mm, MM/dd/yyyy"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000060, 
+        "Text": "Age not registered"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000061, 
+        "Text": "Register your age"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000062, 
+        "Text": "Failed to receive age info"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000063, 
+        "Text": "Failed to process age registration"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000064, 
+        "Text": "Fail"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000065, 
+        "Text": "Age registration failed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000066, 
+        "Text": "Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000067, 
+        "Text": "Age registration completed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000068, 
+        "Text": "Cancel purchase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000069, 
+        "Text": "Purchase canceled"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000070, 
+        "Text": "Make purchase?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000073, 
+        "Text": "Limit Warning"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000074, 
+        "Text": "en_server_error_only_for_japan"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000075, 
+        "Text": "Magicrystal x{0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000076, 
+        "Text": "Magicrystal x{0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000077, 
+        "Text": "Magicrystal x{0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000078, 
+        "Text": "{0} \u00d7 {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000079, 
+        "Text": "Purchase of {0} complete"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000080, 
+        "Text": "Tempest Coin Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000081, 
+        "Text": "No matching characters found"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000082, 
+        "Text": "3\u2605 Awakening Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000083, 
+        "Text": "4\u2605 Awakening Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000084, 
+        "Text": "5\u2605 Awakening Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000085, 
+        "Text": "Unlock the ability Great Sage to proceed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000086, 
+        "Text": "Confirm Default Settings"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000087, 
+        "Text": "Return to default settings?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000088, 
+        "Text": "Purchase Pending"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000089, 
+        "Text": "This purchase has been saved. Complete purchase at a convenience store."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000090, 
+        "Text": "Purchase cannot be completed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000091, 
+        "Text": "Complete payment on pending purchases before making a new purchase."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000092, 
+        "Text": "Purchase Complete"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000093, 
+        "Text": "The following pending purchases have been completed.\n{0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000094, 
+        "Text": "No Bingo Missions currently available"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000095, 
+        "Text": "Expires in: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000096, 
+        "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000097, 
+        "Text": "Today's pack items were sent to the Gift Box"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000098, 
+        "Text": "Note: Healing Potion x5 and Nation of Monsters Hot Pot x1 are received at purchase. Healing Potion x5 and Nation of Monsters Hot Pot x1 are then received once every day for the next 29 days in the Login Bonus.\n Note: Log in after 4:00 a.m. to receive the Login Bonus for that day.\n Note: You can receive up to 30 days worth of items, including the day of purchase.\n Note: If you do not log in between 4:00 a.m. and 3:59 a.m. of the next day while the purchase is in effect, you will not receive the items for that day.\n Note: Items from the Monthly Potion Pack will be sent to your Gift Box.\n Note: Items in the Gift Box are deleted when their storage period expires.\n Note: You can purchase multiple items at a time.\n Note: In order to purchase the same item again, you must wait until your current purchase has expired.\n Note: You will still receive the regular Login Bonus while this purchase is in effect.\n Note: When transferring data to a device with a different OS, previously purchased periodic packs will no longer be in effect. However, you must wait the required number of days before purchasing the pack again."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000099, 
+        "Text": "Note: Recruit Ticket x1 and Nation of Monsters Hot Pot x1 are received at purchase. Recruit Ticket x1 and Nation of Monsters Hot Pot x1 are then received once every day for the next 6 days in the Login Bonus.\n Note: Log in after 4:00 a.m. to receive the Login Bonus for that day.\n Note: You can receive up to 7 days worth of items, including the day of purchase.\n Note: If you do not log in between 4:00 a.m. and 3:59 a.m. of the next day while the purchase is in effect, you will not receive the items for that day.\n Note: Items from the Weekly Recruit Ticket Pack will be sent to your Gift Box.\n Note: Items in the Gift Box are deleted when their storage period expires.\n Note: Recruit Tickets can be used for 30 days from the login you received them at.\n Note: Expired Recruit Tickets will be automatically deleted.\n Note: You can purchase multiple items at a time.\n Note: In order to purchase the same item again, you must wait until your current purchase has expired.\n Note: You will still receive the regular Login Bonus while this purchase is in effect.\n Note: When transferring data to a device with a different OS, previously purchased periodic packs will no longer be in effect. However, you must wait the required number of days before purchasing the pack again."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000100, 
+        "Text": "Note: Items for the first day of your purchase were sent to the Gift Box"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000101, 
+        "Text": "Note: All items except for Magicrystals were sent to the Gift Box"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000102, 
+        "Text": "ID copied"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000103, 
+        "Text": "AQCUIRED"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000104, 
+        "Text": "Enhancement"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000105, 
+        "Text": "Failed to Accept Gift"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000106, 
+        "Text": "You have exceeded your hold limit.\nYou were not able to receive the items."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000107, 
+        "Text": "Seeds of Growth Bazaar"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000108, 
+        "Text": "Expires in: {0} day(s)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000109, 
+        "Text": "Expires in: {0} hr"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000110, 
+        "Text": "Expires in: {0} min"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000111, 
+        "Text": "Expires in: <1 min"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000112, 
+        "Text": "You received the following items."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000113, 
+        "Text": "Unlock by clearing missions and obtaining the Great Sage ability"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000114, 
+        "Text": "This item has expired. It cannot be exchanged."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000115, 
+        "Text": "HH:mm, MM/dd/yyyy"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000116, 
+        "Text": "{0}-{1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000117, 
+        "Text": "Where are you going?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000118, 
+        "Text": "Shopping with Great Rimuru...\nHow exciting!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000119, 
+        "Text": "If there's anything you need, I'm at your service!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000120, 
+        "Text": "Can I help you with something?"
+    }
+]

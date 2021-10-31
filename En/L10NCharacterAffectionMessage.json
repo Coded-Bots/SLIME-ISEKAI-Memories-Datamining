@@ -1,0 +1,232 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000001, 
+        "Text": "Current style"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000002, 
+        "Text": "Cannot appear in town in this style"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000003, 
+        "Text": "Style not unlocked"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000004, 
+        "Text": "You've reached the Bond limit."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000005, 
+        "Text": "You have no items"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000006, 
+        "Text": "The chance of receiving a present following a friendly conversation is now <color=#2BE41D>{0}%</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000007, 
+        "Text": "Received {0}'s Request {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000008, 
+        "Text": "Common"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000009, 
+        "Text": "Obtain {0} to unlock"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000010, 
+        "Text": "Level Up"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000011, 
+        "Text": "Ability Release"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000012, 
+        "Text": "Awaken"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000013, 
+        "Text": "Skill Enhancement"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000014, 
+        "Text": "Use Equipment"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000015, 
+        "Text": "Awaken Evolution"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000016, 
+        "Text": "Greeting (Morning)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000017, 
+        "Text": "Greeting (Daytime)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000018, 
+        "Text": "Greeting (Night)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000019, 
+        "Text": "Gift"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000020, 
+        "Text": "Bond Boost"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000021, 
+        "Text": "Bond Level Up"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000022, 
+        "Text": "Standby"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000023, 
+        "Text": "Networking Conversation"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000024, 
+        "Text": "Home Talking to Self"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000025, 
+        "Text": "Home Talking to Companion"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000026, 
+        "Text": "Select Quest"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000027, 
+        "Text": "Change Blacksmith"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000028, 
+        "Text": "Forge Greeting"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000029, 
+        "Text": "Select Blacksmith"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000030, 
+        "Text": "Leave Forge"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000031, 
+        "Text": "Forge Conversation 1"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000032, 
+        "Text": "Forge Conversation 2"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000033, 
+        "Text": "Confirm Blacksmith"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000034, 
+        "Text": "Enhancement Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000035, 
+        "Text": "Enhancement Great Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000036, 
+        "Text": "Enhancement Massive Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000037, 
+        "Text": "Forgery Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000038, 
+        "Text": "Forgery Great Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000039, 
+        "Text": "Forgery Massive Success"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000040, 
+        "Text": "Wave Conversation"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000041, 
+        "Text": "Assign Battle Slot"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000042, 
+        "Text": "Assign Support Slot"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000043, 
+        "Text": "Assign Protection Slot"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000044, 
+        "Text": "Move Out"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000045, 
+        "Text": "Unlocked with Bond Lv. {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 817000046, 
+        "Text": "Available in the Recruit"
+    }
+]

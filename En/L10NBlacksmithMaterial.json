@@ -1,0 +1,172 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100001, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100001, 
+        "Text": "An item required for forging and evolving equipment."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100004, 
+        "Text": "High-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100004, 
+        "Text": "An item necessary for forging and evolving 1\u2605 weapons."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100005, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100005, 
+        "Text": "An item necessary for forging and evolving 2\u2605 weapons."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100006, 
+        "Text": "Highest-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100006, 
+        "Text": "An item necessary for forging and evolving 3\u2605 weapons."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100007, 
+        "Text": "High-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100007, 
+        "Text": "An item necessary for forging and evolving 1\u2605 armor."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100008, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100008, 
+        "Text": "An item necessary for forging and evolving 2\u2605 armor."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100009, 
+        "Text": "Highest-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100009, 
+        "Text": "An item necessary for forging and evolving 3\u2605 armor."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100019, 
+        "Text": "Small Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100019, 
+        "Text": "An item necessary for forging and evolving 1\u2605 decorations."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100020, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100020, 
+        "Text": "An item necessary for forging and evolving 2\u2605 decorations."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100021, 
+        "Text": "Giant Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100021, 
+        "Text": "An item necessary for forging and evolving 3\u2605 decorations."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100022, 
+        "Text": "Wind Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100022, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with wind attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100023, 
+        "Text": "Water Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100023, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with water attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100024, 
+        "Text": "Fire Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100024, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with fire attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100025, 
+        "Text": "Earth Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100025, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with earth attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100026, 
+        "Text": "Space Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100026, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with space attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100027, 
+        "Text": "Light Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100027, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with light attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100028, 
+        "Text": "Dark Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100028, 
+        "Text": "An item necessary for forging and evolving 3\u2605 equipment with dark attributes."
+    }
+]

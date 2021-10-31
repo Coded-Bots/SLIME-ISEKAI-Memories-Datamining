@@ -1,0 +1,102 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000001, 
+        "Text": "Forge Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000002, 
+        "Text": "Construction Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000003, 
+        "Text": "Cooking Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000004, 
+        "Text": "Cooked Item"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000005, 
+        "Text": "Stamina Recovery Item"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000006, 
+        "Text": "Construction Time Shortening Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000007, 
+        "Text": "Character Enhancement Items"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000008, 
+        "Text": "Character Awakening Items"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000009, 
+        "Text": "Equipment Evolution Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000010, 
+        "Text": "Equipment Evolution Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000011, 
+        "Text": "Ability Release Materials"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000012, 
+        "Text": "Sale-Only Item"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000013, 
+        "Text": "Skill Enhancement Material"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000014, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000015, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000016, 
+        "Text": "Friend Points"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000017, 
+        "Text": "Trade Item"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000018, 
+        "Text": "Recruit Points"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000019, 
+        "Text": "Gallery Items"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1000020, 
+        "Text": "TEST"
+    }
+]

@@ -1,0 +1,1307 @@
+[
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000011, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000012, 
+        "Text": "Clear without using a continue."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000013, 
+        "Text": "Have x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000021, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000022, 
+        "Text": "Have x3 or fewer party members."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000023, 
+        "Text": "Clear with Rimuru in party."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000031, 
+        "Text": "Use the specified skill."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000032, 
+        "Text": "Use a Protection Skill at least x3 times."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000033, 
+        "Text": "Use a Finishing Move 1 or more times."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000041, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000042, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000043, 
+        "Text": "Clear in 4 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000051, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000052, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000053, 
+        "Text": "Clear in 5 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000061, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000062, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000063, 
+        "Text": "Clear in 6 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000071, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000072, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000073, 
+        "Text": "Clear in 7 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000081, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000082, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000083, 
+        "Text": "Clear in 8 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000091, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000092, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000093, 
+        "Text": "Clear in 9 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000101, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000102, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000103, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000111, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000112, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000113, 
+        "Text": "Clear in 11 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000121, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000122, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000123, 
+        "Text": "Clear in 12 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000131, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000132, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000133, 
+        "Text": "Clear in 4 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001011, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001012, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001013, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001021, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001022, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001023, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001031, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001032, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001033, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001041, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001042, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001043, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001051, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001052, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001053, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001061, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001062, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001063, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001071, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001072, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001073, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001081, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001082, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001083, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001091, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001092, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001093, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001101, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001102, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001103, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001111, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001112, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001113, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001121, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001122, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001123, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001131, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001132, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001133, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001141, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001142, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001143, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001151, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001152, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001153, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001161, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001162, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001163, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001171, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001172, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001173, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001181, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001182, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001183, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001191, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001192, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001193, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001201, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001202, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001203, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001211, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001212, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001213, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001221, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001222, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001223, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001231, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001232, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001233, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001241, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001242, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001243, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001251, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001252, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001253, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001261, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001262, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001263, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001271, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001272, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001273, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001281, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001282, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001283, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001291, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001292, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001293, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001301, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001302, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001303, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001311, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001312, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001313, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001321, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001322, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001323, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001331, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001332, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001333, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001341, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001342, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001343, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001351, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001352, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001353, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001361, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001362, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001363, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001371, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001372, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001373, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001381, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001382, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001383, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001391, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001392, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001393, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001401, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001402, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001403, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001411, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001412, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001413, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001421, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001422, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001423, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001431, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001432, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001433, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001441, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001442, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001443, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001451, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001452, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001453, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001461, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001462, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001463, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001471, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001472, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001473, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001481, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001482, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001483, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001491, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001492, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001493, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001501, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001502, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001503, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001511, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001512, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001513, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001521, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001522, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001523, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001531, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001532, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001533, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001541, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001542, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001543, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001551, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001552, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001553, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001561, 
+        "Text": "Clear stage."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001562, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001563, 
+        "Text": "Clear in 10 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001571, 
+        "Text": "Clear with B rank or higher Predator Rating"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001572, 
+        "Text": "Clear with A rank or higher Predator Rating"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104001573, 
+        "Text": "Clear with S rank Predator Rating"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002011, 
+        "Text": "Complete Gobta's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002012, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002013, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002021, 
+        "Text": "Complete Ranga's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002022, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002023, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002031, 
+        "Text": "Complete Rigurd's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002032, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002033, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002041, 
+        "Text": "Complete Benimaru's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002042, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002043, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002051, 
+        "Text": "Complete Shion's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002052, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002053, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002061, 
+        "Text": "Complete Shuna's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002062, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002063, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002071, 
+        "Text": "Complete Souei's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002072, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002073, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002081, 
+        "Text": "Complete Kurobe's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002082, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002083, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002091, 
+        "Text": "Complete Hakurou's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002092, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002093, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002101, 
+        "Text": "Complete Kaijin's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002102, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002103, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002111, 
+        "Text": "Complete Gabiru's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002112, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002113, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002121, 
+        "Text": "Complete Geld's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002122, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002123, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002131, 
+        "Text": "Complete Vesta's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002132, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002133, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002141, 
+        "Text": "Complete Treyni's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002142, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002143, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002151, 
+        "Text": "Complete Trya's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002152, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002153, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002161, 
+        "Text": "Complete Milim's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002162, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002163, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002171, 
+        "Text": "Complete Gazel's Request"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002172, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002173, 
+        "Text": "Clear without using a continue"
+    }
+]

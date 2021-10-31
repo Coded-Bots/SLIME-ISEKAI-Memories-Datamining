@@ -1,0 +1,407 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000001, 
+        "Text": "HP"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000002, 
+        "Text": "ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000003, 
+        "Text": "DEF"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000004, 
+        "Text": "Critical Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000005, 
+        "Text": "Pierce Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000006, 
+        "Text": "Guard Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000007, 
+        "Text": "Super Guard Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000008, 
+        "Text": "Counterattack Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000009, 
+        "Text": "Super Counter Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000010, 
+        "Text": "Charm Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000011, 
+        "Text": "Evasion Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000012, 
+        "Text": "Miss Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000013, 
+        "Text": "P-ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000014, 
+        "Text": "M-ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000015, 
+        "Text": "Single Target ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000016, 
+        "Text": "All Target ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000017, 
+        "Text": "Critical Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000018, 
+        "Text": "Pierce Power"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000019, 
+        "Text": "Counter Power"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000020, 
+        "Text": "Guard Penetration"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000021, 
+        "Text": "Super Guard Penetration"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000022, 
+        "Text": "Earth ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000023, 
+        "Text": "Space ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000024, 
+        "Text": "Wind ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000025, 
+        "Text": "Water ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000026, 
+        "Text": "Fire ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000027, 
+        "Text": "Light ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000028, 
+        "Text": "Dark ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000029, 
+        "Text": "Time ATK"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000030, 
+        "Text": "Physical Attack Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000031, 
+        "Text": "Magic Attack Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000032, 
+        "Text": "Single-Target Attack Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000033, 
+        "Text": "All-Target Attack Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000034, 
+        "Text": "Critical Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000035, 
+        "Text": "Pierce Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000036, 
+        "Text": "Counterattack Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000037, 
+        "Text": "Guard Power"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000038, 
+        "Text": "Super Guard Power"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000039, 
+        "Text": "Earth Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000040, 
+        "Text": "Space Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000041, 
+        "Text": "Wind Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000042, 
+        "Text": "Water Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000043, 
+        "Text": "Fire Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000044, 
+        "Text": "Light Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000045, 
+        "Text": "Dark Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000046, 
+        "Text": "Time Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000047, 
+        "Text": "Physical Attack Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000048, 
+        "Text": "Magic Attack Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000049, 
+        "Text": "Single Target Attack Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000050, 
+        "Text": "All Target Attack Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000051, 
+        "Text": "Critical Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000052, 
+        "Text": "Pierce Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000053, 
+        "Text": "Counterattack Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000054, 
+        "Text": "Guard Penetration Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000055, 
+        "Text": "Earth Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000056, 
+        "Text": "Space Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000057, 
+        "Text": "Wind Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000058, 
+        "Text": "Water Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000059, 
+        "Text": "Fire Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000060, 
+        "Text": "Light Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000061, 
+        "Text": "Dark Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000062, 
+        "Text": "Time Damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000063, 
+        "Text": "Physical Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000064, 
+        "Text": "Magic Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000065, 
+        "Text": "Single-Target Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000066, 
+        "Text": "All-Target Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000067, 
+        "Text": "Critical Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000068, 
+        "Text": "Pierce Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000069, 
+        "Text": "Counterattack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000070, 
+        "Text": "Guard Effect"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000071, 
+        "Text": "Earth Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000072, 
+        "Text": "Space Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000073, 
+        "Text": "Wind Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000074, 
+        "Text": "Water Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000075, 
+        "Text": "Fire Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000076, 
+        "Text": "Light Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000077, 
+        "Text": "Dark Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000078, 
+        "Text": "Time Damage Resistance"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000079, 
+        "Text": "Stun Evasion Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000080, 
+        "Text": "Poison Evasion Rate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000000081, 
+        "Text": "Combo Multiplier"
+    }
+]

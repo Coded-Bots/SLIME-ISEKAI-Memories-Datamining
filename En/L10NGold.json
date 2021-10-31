@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3100001, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 3100001, 
+        "Text": "An item mostly used in constructing facilities, forging equipment and enhancing."
+    }
+]

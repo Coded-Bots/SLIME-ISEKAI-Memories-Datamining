@@ -1,0 +1,402 @@
+[
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000001, 
+        "Text": "Awaken Characters"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000001, 
+        "Text": "You can <color=#F7E416>unlock your level cap</color>, as well as <color=#F7E416>earn and strengthen traits</color> by awakening characters.\n<color=#F7E416>When you awaken a character five times, it increases that character's rarity.</color>\n\nWhen you recruit characters, you can get character-specific memory and contract stones that can be used to awaken them\n\nYou can also get memory stone and contract stone shards from events.\nAs long as the character type (Battle/Protection) and rarity match the character, you can use these materials to awaken that character."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000002, 
+        "Text": "Ability Release"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000002, 
+        "Text": "Use materials obtained during training quests to obtain abilities, as well as <color=#F7E416>raise character stats, power up Secret Skills, and enhance Divine Protection</color>.\n\nEach character has five levels of Ability Release, and releasing all the abilities at one level unlocks the next level."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000003, 
+        "Text": "Evolve Skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000003, 
+        "Text": "Raising a skill to a certain level causes it to evolve and increases its rarity.\n \n-Lv. 1 to 3: Common Skills (Silver)\n -Lv. 4 to 6: Extra Skills (Gold)\n -Lv. 7 to 10: Unique Skills (Rainbow)\n \nEach time a battle character's skill is evolved, <color=#F7E416>the points required to activate the skill is reduced</color>, making it <color=#F7E416>easier to activate skills</color> during battle.\n \nEnhancement skills must have the same rarity as the skill they are used to enhance.\n <color=#F7E416>The more difficult a Predator quest, the more likely it is to reward you with enhancement skills with a high rarity.</color>"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000004, 
+        "Text": "Ask the Great Sage"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000004, 
+        "Text": "Select information to ask the Great Sage a question, and you will get an appropriate answer.\n\nYou can get helpful info about recommended quests, enhanceable characters, constructable facilities, and more.\n\nYou can ask the Great Sage at any time, so be sure to use this function to your advantage."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000005, 
+        "Text": "Assembling Troops"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000005, 
+        "Text": "You can assign characters to your troop formation as you see fit by tapping a character and swapping places with another character.\n\nThe support slots and rearguard slots are unlocked as you increase the <color=#F7E416>population of your town</color>.\n\nUse the 'Recommendation' button whenever you are unsure of how to set up your formation."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000006, 
+        "Text": "Selecting Supports"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000006, 
+        "Text": "Set a support character to raise the\n<color=#F7E416>stats of your battle characters</color>.\n\n When the attributes of your <color=#F7E416> support characters and battle characters match</color>, a <color=#F7E416>Same Attribute Boost</color> is applied and increases your stats further."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000007, 
+        "Text": "Selecting Rearguard"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000007, 
+        "Text": "Setting a rearguard character allows you to <color=#F7E416>switch characters</color> in the heat of battle.\n\nAssign the max amount of characters to get the most firepower and take on difficult quests."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000008, 
+        "Text": "Switch Characters"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000008, 
+        "Text": "Set a rearguard character so that you can swap out members participating in a battle from the top right corner of the battle screen.\n\nSelect one character each from the vanguard and rearguard to swap places.\nOnce a character is moved to rearguard, that character cannot be swapped again until the turn ends."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000009, 
+        "Text": "Interaction"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000009, 
+        "Text": "You can interact with a selected character.\n\nGiving food items will increase your <color=#F7E416>Bond level</color>, providing <color=#F7E416>stat boosts</color>  and various other benefits.\n \nYou can also check the character's profile, and change their outfits by selecting Change Style.\n Note: Some outfits can be worn during Interaction and on your home screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000010, 
+        "Text": "Appointing Characters to Facilities"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000010, 
+        "Text": "Characters can be assigned to different facilities to <color=#F7E416>increase their output.</color>\n\n<color=#F7E416>Characters with a better affinity</color> for a facility will enhance it more than others."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000011, 
+        "Text": "Training Quest"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000011, 
+        "Text": "Training Quests allow you to collect items and materials used to power up your characters.\n\n<color=#F7E416>Daily Quests</color> can only be challenged once per day,<color=#F7E416> but you can get a lot of enhancement materials using Predator</color>. Be sure to check in and try them out every day."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000012, 
+        "Text": "Event Quests"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000012, 
+        "Text": "Event quests are where you can take on quests that are available for a limited amount of time.\n\nThere are bits of story that you can only see in event quests, so be sure not to miss one!"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000013, 
+        "Text": "Friendly Conversations"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000013, 
+        "Text": "Characters will appear at random in the town.\n\nYou can approach and speak with them, thereby <color=#F7E416>strengthening your bond with that character once per day</color>.\n\nLeveling up your Bond with a character provides increased stats and various other benefits."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000014, 
+        "Text": "Unlock Requests"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000014, 
+        "Text": "You can accept requests from\ndifferent characters in the Quest List.\n\nFulfilling these requests will earn you rewards and increase your\nBond level with that character."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000015, 
+        "Text": "Bingo Missions"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000015, 
+        "Text": "When you complete a Bingo mission, you can receive an achievement reward, a line bingo reward, or a completion reward.\n\nAt the beginner Bingo, you can win a <color=#F7E416>5\u2605 battle character version of Shuna</color> wearing a special outfit.\nNote: If you already have a character, you will get character-specific memory stones.\n\nComplete your bingo, awaken Shuna, and put her in your team!"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000016, 
+        "Text": "Increase Your Population, Grow your Town"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000016, 
+        "Text": "<color=#F7E416>Construct houses and increase your population.</color>\nOnce your population reaches a certain level, you can level up your Mayor's House to 2.\n\nBy raising your Mayor's House to level 2, <color=#F7E416>you can increase the size of your town, the amount of items you can collect, your max population,</color> as well as all sorts of other benefits.\n\n Further level up the Mayor's House to renovate it into the Central Office. This will expand your realm and greatly alter the appearance of your facilities."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000017, 
+        "Text": "Food Production Facility"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000017, 
+        "Text": "When you construct food facilities, <color=#F7E416>they will produce food after a certain amount of time</color>.\n\nThe food produced can be <color=#F7E416>gifted to other characters</color> in order to increase your bond."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000018, 
+        "Text": "Forge"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000018, 
+        "Text": "Constructing a forge allows you to <color=#F7E416>produce new equipment, enhance them, and disassemble them</color>.\n\nEquip your characters to <color=#F7E416>increase their stats</color>."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000019, 
+        "Text": "Stroll Around Town"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000020, 
+        "Text": "Speak With Three Different People"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000020, 
+        "Text": "If a speech balloon button appears over a townsperson when you approach, tap it to speak with them.\nStroll around town and speak with <color=#F7E416>three</color> different people."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000021, 
+        "Text": "Enhance a Skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000021, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000022, 
+        "Text": "Use Combos"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000022, 
+        "Text": "A combo is executed by selecting multiple souls and unleashing an attack. The higher the combo, <color=#F7E416>the more damage each hit does</color>, and <color=#F7E416>the more each hit fills your gauge</color>.\n \n <color=#F7E416>A four card combo or higher will increase damage</color>.\n <color=#F7E416>A card combo of five or more will allow your characters to attack all at once</color>."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000023, 
+        "Text": "Attribute Compatibility is Important"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000023, 
+        "Text": "Each character has an attribute.\n<color=#F7E416>If you attack a character with an attribute that you have an advantage over, you will deal increased damage.</color>\nPay attention to your enemies' attributes and choose characters wisely to deal more damage.\n\nYou can check attribute strengths and weaknesses during battle from the menu."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000024, 
+        "Text": "Change Rimuru's Form"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000024, 
+        "Text": "Tap Rimuru on the Home screen to change between slime and human form.\n \n Interact with citizens in your preferred form."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000025, 
+        "Text": "Request Aid"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000025, 
+        "Text": "When you request aid, your Sworn Friends can help you by <color=#F7E416>shortening your facilities' construction time</color>.\n\nTap a facility that is currently under construction or levelling up to bring up the menu and select 'Request Aid'.\nWhen your Sworn Friends send aid, the construction time is shortened.\n\n<color=#F7E416>You can request aid from each Sworn Friend once per day.</color>"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000026, 
+        "Text": "Continue Growing your Town"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000026, 
+        "Text": "To raise up your Central Office past level 4, you need to increase your <color=#F7E416>Total Facility Level</color>.\nIncrease your population while constructing and levelling up buildings to expand your town and raise your Central Office Level.\n\nEach time you level up your Central Office, <color=#F7E416>you can further increase the size of your town, the amount of items you can collect, and your max population,</color> as well as receive all sorts of other benefits."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000027, 
+        "Text": "Rimuru's Hut"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000027, 
+        "Text": "Construct buildings to <color=#F7E416>increase your max number of Sworn Friends</color>.\n\nRequest and approve Sworn Friends in the 'Other' menu.\nBy forming Sworn Friendships with other chancellors, you can request aid to <color=#F7E416>shorten the construction time</color> of facilities currently under construction.\n\nPlus, when you send aid to a Sworn Friend, you receive <color=#F7E416>Proofs of Sworn Friendship that can be used at the Bazaar</color>. Form lots of Sworn Friendships and help out all your friends."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000028, 
+        "Text": "Digsite for Magistones"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000028, 
+        "Text": "Construct a digsite to generate <color=#F7E416>magistones</color> at regular intervals.\nMagistones are used to <color=#F7E416>release abilities</color>.\n\nThere are 5 types of magistone digsites: HP, Attack, Defense, Training, and Protection."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000029, 
+        "Text": "Gold Coin Mint"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000029, 
+        "Text": "Construct a Gold Coin Mint to get <color=#F7E416>Gold Coins</color> at regular intervals.\n \nGold Coins can be used to <color=#F7E416>construct and level up facilities</color>."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000030, 
+        "Text": "Magic Device"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000030, 
+        "Text": "Construct magic devices to <color=#F7E416>raise the stats for battle characters of each attribute</color>.\n\nThere are 7 types of magic device: Fire, Water, Earth, Wind, Space, Light, and Dark.\n\nOnly protection characters can be appointed to magic devices. Doing so enhances the stat increases for battle characters."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000031, 
+        "Text": "Laboratory"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000031, 
+        "Text": "Construct a laboratory to produce <color=#F7E416>healing potions</color> at regular intervals.\n\nUse healing potions to <color=#F7E416>recover stamina</color> so you can go on quests."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000032, 
+        "Text": "Symbol of Protection"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000032, 
+        "Text": "Building a Symbol of Protection will <color=#F7E416>boost the stats of your protection characters</color>.\n\nAssigning protection characters to a Symbol will further increase its effect."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000033, 
+        "Text": "Build your Nation and Increase Functions"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000033, 
+        "Text": "Use the 'Build Nation' function to develop the Goblin village into a town and then a nation.\n\nAs the town becomes more advanced, you'll earn <color=#F7E416>Magicrystals</color> and other useful rewards, such as <color=#F7E416>Training Quests and larger party limits.</color>"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000034, 
+        "Text": "Attack Enemies with Souls"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000034, 
+        "Text": "There are 3 types of <color=#F7E416>souls</color> that you can use against enemies in battle.\n \nChoose cards of the same type or character and attack the enemy."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000035, 
+        "Text": "Fill the Gauge with Souls"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000035, 
+        "Text": "Activating each type of soul increases a different gauge.\n \nFill up the Secret Skill Gauge with the <color=#F7E416>Soul of Secrets</color>. Use the gauge to unleash your <color=#F7E416>Secret Skill</color>.\n<color=#F7E416>You can make combos with every type of soul and do massive damage to the enemy</color>, so don't hesitate to use them."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000036, 
+        "Text": "How to Play"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000036, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000037, 
+        "Text": "Protection Characters"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000037, 
+        "Text": "Protection characters can use the skill Divine Protection, which has a permanent effect during battle, and also <color=#F7E416>increase the status of all battle characters in both the vanguard and rearguard of your troop.</color>\n\nThe stronger the protection character, the greater the status increase, so train them well."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000038, 
+        "Text": "Collect Materials and Forge Equipment"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000038, 
+        "Text": "Use materials collected in the main story and events to <color=#F7E416>forge</color> equipment.\n\nWhen you're low on materials, <color=#F7E416>disassemble</color> equipment that you no longer need for their materials.\n\nEquipment produces an effect when <color=#F7E416>equipped to characters</color>.\n\nWhen you're done forging a piece of equipment, don't forget to equip it."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000039, 
+        "Text": "Enhance Forged Equipment"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000039, 
+        "Text": "Forged equipment can become stronger by <color=#F7E416>leveling up</color>.\nWhen it reaches the max level, equipment can be evolved, which <color=#F7E416>increases its rarity and raises the level up limit</color>.\n\nYou can also reforge the equipment multiple times to <color=#F7E416>raise its status as high as possible</color>."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 102000040, 
+        "Text": "Run quests multiple times with Parallel Processing"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 102000040, 
+        "Text": "Parallel Processing enables you to <color=#F7E416>automatically clear</color> a set number of quests while you do something else.\n Note: Parallel Processing continues in the background even if you close the game.\n\nIf you want to clear quests more quickly, <color=#F7E416>use a troop with more EP to shorten the time</color>.\n\n If you do not currently fulfill the requirements to do Parallel Processing, tap to see what you are missing."
+    }
+]

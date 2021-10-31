@@ -1,0 +1,142 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000001, 
+        "Text": "There are no scheduled events."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000002, 
+        "Text": "No quests to display."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000003, 
+        "Text": "Limit reached."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000004, 
+        "Text": "Daily limit reached."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000005, 
+        "Text": "Weekly limit reached."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000006, 
+        "Text": "Unlock by acquiring {0} or more citizens."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000007, 
+        "Text": "Unlock by acquiring {0} or more citizens."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000008, 
+        "Text": "Bond Level: {0} required."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000009, 
+        "Text": "Unlock by clearing the Story Quest Chapter 1."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000010, 
+        "Text": "Unlock by clearing quest difficulty Beginner."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000011, 
+        "Text": "Unlock by clearing quest difficulty Normal."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000012, 
+        "Text": "Unlocked {0} (Normal)."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000013, 
+        "Text": "Unlocked {0} (Expert)."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000014, 
+        "Text": "Beginner"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000015, 
+        "Text": "Normal"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000016, 
+        "Text": "Expert"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000017, 
+        "Text": "Chapter {0} Part {1} - {2}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000018, 
+        "Text": "Resume Battle"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000019, 
+        "Text": "Resume Battle"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000020, 
+        "Text": "You have a battle in progress\nResume battle?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000021, 
+        "Text": "No battles in progress\nNow returning to home screen"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000022, 
+        "Text": "Clear this quest once to unlock the auto function"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000023, 
+        "Text": "Unlock the ability Great Sage to proceed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000024, 
+        "Text": "This quest has expired."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000025, 
+        "Text": "This quest has ended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000026, 
+        "Text": "This quest will consume stamina before moving out.\nContinue?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000027, 
+        "Text": "Predator Battle Unlocked"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000028, 
+        "Text": "Quest Cannot Proceed"
+    }
+]

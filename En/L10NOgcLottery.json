@@ -1,0 +1,92 @@
+[
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000003, 
+        "Text": "One 5\u2605 Battle Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000008, 
+        "Text": "One 4\u2605+ Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000011, 
+        "Text": "4\u2605+ Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000012, 
+        "Text": "5\u2605 Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000015, 
+        "Text": "Once Per Day!"
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000016, 
+        "Text": "5\u2605 Character Guaranteed"
+    }
+]

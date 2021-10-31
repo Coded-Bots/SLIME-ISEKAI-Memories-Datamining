@@ -1,0 +1,142 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000002, 
+        "Text": "First Encounter Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000002, 
+        "Text": "One 5\u2605 battle character guaranteed!\nThis banner includes awesome characters like 5\u2605 Rimuru Tempest, the Chancellor of Tempest and more!"
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000002, 
+        "Text": "   One time only! <style=LotteryCopyFire>Get 10 free summons!</style>\n<style=LotteryCopyHoly>One 5\u2605 battle character</style> <style=LotteryCopyFire>guaranteed!</style>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000011, 
+        "Text": "Release Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000012, 
+        "Text": "Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000013, 
+        "Text": "4\u2605+ Guaranteed Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000014, 
+        "Text": "5\u2605 Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000015, 
+        "Text": "Free Once Per Day Release Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000016, 
+        "Text": "7 Days Only 5\u2605 Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000016, 
+        "Text": ""
+    }
+]

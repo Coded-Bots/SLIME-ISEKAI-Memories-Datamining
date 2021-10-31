@@ -1,0 +1,212 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000001, 
+        "Text": "Assign a character to Battle."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000002, 
+        "Text": "Assign a character to Support."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000003, 
+        "Text": "Assign a character to Protection."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000004, 
+        "Text": "Characters cannot be assigned to Support only."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000005, 
+        "Text": "You cannot have 0 troops."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000006, 
+        "Text": "Unlock by acquiring {0} or more citizens."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000007, 
+        "Text": "Return to the troop assignment screen without saving changes?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000008, 
+        "Text": "Troop {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000009, 
+        "Text": "0"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000010, 
+        "Text": "1"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000011, 
+        "Text": "2"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000012, 
+        "Text": "3"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000013, 
+        "Text": "4"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000014, 
+        "Text": "5"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000015, 
+        "Text": "6"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000016, 
+        "Text": "7"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000017, 
+        "Text": "8"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000018, 
+        "Text": "9"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000019, 
+        "Text": "10"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000020, 
+        "Text": "Prioritize EP"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000021, 
+        "Text": "Prioritize Evade Stun"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000022, 
+        "Text": "Prioritize Evade Poison"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000023, 
+        "Text": "Prioritize Physical Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000024, 
+        "Text": "Prioritize Magic Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000025, 
+        "Text": "Prioritize Fire Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000026, 
+        "Text": "Prioritize Water Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000027, 
+        "Text": "Prioritize Wind Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000028, 
+        "Text": "Prioritize Earth Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000029, 
+        "Text": "Prioritize Space Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000030, 
+        "Text": "Prioritize Light Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000031, 
+        "Text": "Prioritize Dark Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000032, 
+        "Text": "Unable to move out because parallel processing is set to longer than the quest period."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000033, 
+        "Text": "Obtain {0}+ EP."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000034, 
+        "Text": "Complete quest achievement."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000035, 
+        "Text": "Matching character not found."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000036, 
+        "Text": "Not enough characters meet the conditions. Assigned recommended characters."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000037, 
+        "Text": "Troop cannot be altered during Parallel Processing."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000038, 
+        "Text": "Starting Parallel Processing"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000039, 
+        "Text": "Prioritize HP"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000040, 
+        "Text": "Prioritize ATK"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000041, 
+        "Text": "Prioritize DEF"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 810000042, 
+        "Text": "Use <color=#2BE41D>{0}</color> points of stamina to start parallel processing?"
+    }
+]

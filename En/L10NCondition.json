@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2001000001, 
+        "Text": "Stun"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2001000002, 
+        "Text": "Poison"
+    }
+]

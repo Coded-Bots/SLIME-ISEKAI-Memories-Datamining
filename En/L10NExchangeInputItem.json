@@ -1,0 +1,132 @@
+[
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010001, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010004, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010010, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010012, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010015, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010030, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010050, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010060, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002010100, 
+        "Text": "Proof of Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020001, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020004, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020005, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020008, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020010, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020012, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020015, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020020, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002020030, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040001, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040002, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040003, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040004, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040006, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040012, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040015, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002040030, 
+        "Text": "Seed of Growth"
+    }
+]

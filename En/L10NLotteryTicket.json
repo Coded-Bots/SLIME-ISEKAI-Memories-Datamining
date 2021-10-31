@@ -1,0 +1,62 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000001, 
+        "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000001, 
+        "Text": "Ticket used in the Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000002, 
+        "Text": "4\u2605 or Higher Guaranteed Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000002, 
+        "Text": "Ticket used in the 4\u2605+ Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000003, 
+        "Text": "5\u2605 Guaranteed Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000003, 
+        "Text": "Ticket used in the 5\u2605 Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000004, 
+        "Text": "5\u2605 Battle Character Guaranteed Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000004, 
+        "Text": "Use in the 5\u2605 Battle Character Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000005, 
+        "Text": "5\u2605 Protection Character Guaranteed Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000005, 
+        "Text": "Use in the 5\u2605 Protection Character Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000006, 
+        "Text": "7 Days Only 5\u2605 Guaranteed Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000006, 
+        "Text": "Ticket used in the 7 Days Only 5\u2605 Guaranteed Ticket Recruit"
+    }
+]

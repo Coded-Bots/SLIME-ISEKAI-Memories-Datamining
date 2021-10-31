@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000001, 
+        "Text": "Bronze Blacksmith's Hammer"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2000001, 
+        "Text": "An item required for evolving a piece of equipment to 4\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000002, 
+        "Text": "Silver Blacksmith's Hammer"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2000002, 
+        "Text": "An item required for evolving a piece of equipment to 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2000003, 
+        "Text": "Gold Blacksmith's Hammer"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2000003, 
+        "Text": "An item required for evolving a piece of equipment to 6\u2605."
+    }
+]

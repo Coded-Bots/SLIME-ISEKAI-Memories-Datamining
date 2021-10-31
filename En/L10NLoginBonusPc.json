@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "dialog_text", 
+        "LocalizationTargetId": 61000002001, 
+        "Text": "Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "dialog_text", 
+        "LocalizationTargetId": 61000002002, 
+        "Text": "Welcome back!"
+    }
+]

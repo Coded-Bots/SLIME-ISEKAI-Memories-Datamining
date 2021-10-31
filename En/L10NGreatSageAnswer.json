@@ -1,0 +1,77 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000001, 
+        "Text": "There is a quest with tries\nremaining."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000002, 
+        "Text": "There is a facility that can still\nbe constructed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000004, 
+        "Text": "There is an individual who can still\nbe awakened."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000005, 
+        "Text": "There is an individual ready to level up."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000006, 
+        "Text": "There is an individual ready to be released."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000007, 
+        "Text": "Insufficient materials for leveling up."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000008, 
+        "Text": "Insufficient materials to release this ability."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000009, 
+        "Text": "Insufficient battle skill enhancement materials."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000014, 
+        "Text": "There are incomplete daily missions available"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000015, 
+        "Text": "There are events ending today."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000016, 
+        "Text": "There is an individual whose battle skills can still be enhanced"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2400001, 
+        "Text": "Tempest Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400001, 
+        "Text": "Item that can be exchanged for materials."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2400002, 
+        "Text": "Recruit Bazaar Points"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400002, 
+        "Text": "Item that can be exchanged for materials."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2400004, 
+        "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400004, 
+        "Text": "Item that can be exchanged for materials."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2400005, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400005, 
+        "Text": "Item that can be exchanged for materials."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2400008, 
+        "Text": "Octagram"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400008, 
+        "Text": "Item that can be exchanged for Octagram Demon Lords."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2400999, 
+        "Text": "Recruit Bazaar Points"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400999, 
+        "Text": "Item that can be exchanged for materials."
+    }
+]

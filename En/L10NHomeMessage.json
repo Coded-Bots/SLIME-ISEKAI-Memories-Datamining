@@ -1,0 +1,57 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000001, 
+        "Text": "Confirm"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000002, 
+        "Text": "Return to the quest?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000003, 
+        "Text": "You have no items to retrieve."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000004, 
+        "Text": "Stamina recovered."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000005, 
+        "Text": "Confirm Stamina Recovery"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000006, 
+        "Text": "Insufficient stamina.\nRecover stamina?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000007, 
+        "Text": "The chance of receiving a present following a friendly conversation is now <color=#2BE41D>{0}%</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000008, 
+        "Text": "Consume magicrystal <color=#2be41d>x{0}</color> to recover stamina?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000009, 
+        "Text": "<color=#ED4B39>(Stamina Required: {0}) </color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000010, 
+        "Text": "Failed to recover stamina"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 801000011, 
+        "Text": "Updated on next visit"
+    }
+]

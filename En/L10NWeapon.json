@@ -1,0 +1,322 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110001, 
+        "Text": "Odachi of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110002, 
+        "Text": "Odachi of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110003, 
+        "Text": "Odachi of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110004, 
+        "Text": "Odachi of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110005, 
+        "Text": "Odachi of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110006, 
+        "Text": "Odachi of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110007, 
+        "Text": "Odachi of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110008, 
+        "Text": "Ninja Sword"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110110009, 
+        "Text": "Wakizashi"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120001, 
+        "Text": "Chokken of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120002, 
+        "Text": "Chokken of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120003, 
+        "Text": "Chokken of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120004, 
+        "Text": "Chokken of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120005, 
+        "Text": "Chokken of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120006, 
+        "Text": "Chokken of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120007, 
+        "Text": "Chokken of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120008, 
+        "Text": "Longsword"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120009, 
+        "Text": "Shortsword"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110120025, 
+        "Text": "Rimuru's Sword"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130001, 
+        "Text": "Greatsword of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130002, 
+        "Text": "Greatsword of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130003, 
+        "Text": "Greatsword of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130004, 
+        "Text": "Greatsword of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130005, 
+        "Text": "Greatsword of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130006, 
+        "Text": "Greatsword of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130007, 
+        "Text": "Greatsword of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130008, 
+        "Text": "Buster Sword"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110130009, 
+        "Text": "Claymore"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140001, 
+        "Text": "Hoko of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140002, 
+        "Text": "Hoko of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140003, 
+        "Text": "Hoko of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140004, 
+        "Text": "Hoko of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140005, 
+        "Text": "Hoko of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140006, 
+        "Text": "Hoko of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140007, 
+        "Text": "Hoko of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140008, 
+        "Text": "Trident"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110140009, 
+        "Text": "Spear"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150001, 
+        "Text": "Battlehammer of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150002, 
+        "Text": "Battlehammer of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150003, 
+        "Text": "Battlehammer of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150004, 
+        "Text": "Battlehammer of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150005, 
+        "Text": "Battlehammer of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150006, 
+        "Text": "Battlehammer of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150007, 
+        "Text": "Battlehammer of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150008, 
+        "Text": "Large Hammer"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110150009, 
+        "Text": "Warhammer"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160001, 
+        "Text": "Claws of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160002, 
+        "Text": "Claws of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160003, 
+        "Text": "Claws of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160004, 
+        "Text": "Claws of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160005, 
+        "Text": "Claws of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160006, 
+        "Text": "Claws of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160007, 
+        "Text": "Claws of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160008, 
+        "Text": "Iron Fist"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110160009, 
+        "Text": "Knuckleduster"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270001, 
+        "Text": "Tome of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270002, 
+        "Text": "Tome of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270003, 
+        "Text": "Tome of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270004, 
+        "Text": "Tome of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270005, 
+        "Text": "Tome of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270006, 
+        "Text": "Tome of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270007, 
+        "Text": "Tome of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270008, 
+        "Text": "Book of Spirit Magic"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1110270009, 
+        "Text": "Book of Elemental Magic"
+    }
+]

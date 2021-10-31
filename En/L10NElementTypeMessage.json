@@ -1,0 +1,47 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000001, 
+        "Text": "No Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000002, 
+        "Text": "Earth Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000003, 
+        "Text": "Space Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000004, 
+        "Text": "Wind Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000005, 
+        "Text": "Water Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000006, 
+        "Text": "Fire Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000007, 
+        "Text": "Light Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000008, 
+        "Text": "Dark Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 805000009, 
+        "Text": "Time Attribute"
+    }
+]

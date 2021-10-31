@@ -1,0 +1,42 @@
+[
+    {
+        "ColumnName": "technique_card_name", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Soul of Skills"
+    }, 
+    {
+        "ColumnName": "friendship_card_name", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "brave_card_name", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "special_card_name", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Soul of Combos"
+    }, 
+    {
+        "ColumnName": "technique_card_description", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Increase your Soul of Skills and attack the enemy"
+    }, 
+    {
+        "ColumnName": "friendship_card_description", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Increase your Soul of Divine Protection and attack the enemy"
+    }, 
+    {
+        "ColumnName": "brave_card_description", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Increase your Soul of Secrets and attack the enemy"
+    }, 
+    {
+        "ColumnName": "special_card_description", 
+        "LocalizationTargetId": 2003000001, 
+        "Text": "Attack the enemy with powerful Secret Skills"
+    }
+]

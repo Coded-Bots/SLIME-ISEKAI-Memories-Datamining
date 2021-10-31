@@ -1,0 +1,52 @@
+[
+    {
+        "ColumnName": "function_enter_voice_text", 
+        "LocalizationTargetId": 1570000001, 
+        "Text": "What'll it be?"
+    }, 
+    {
+        "ColumnName": "welcome_voice_text", 
+        "LocalizationTargetId": 1570000001, 
+        "Text": "Hey there."
+    }, 
+    {
+        "ColumnName": "seeyou_voice_text", 
+        "LocalizationTargetId": 1570000001, 
+        "Text": "Take care."
+    }, 
+    {
+        "ColumnName": "tap_voice_text_1", 
+        "LocalizationTargetId": 1570000001, 
+        "Text": "Hmm, what's the matter?"
+    }, 
+    {
+        "ColumnName": "tap_voice_text_2", 
+        "LocalizationTargetId": 1570000001, 
+        "Text": "Do you enjoy touching an old man?"
+    }, 
+    {
+        "ColumnName": "function_enter_voice_text", 
+        "LocalizationTargetId": 1570000002, 
+        "Text": "What's it gonna be?"
+    }, 
+    {
+        "ColumnName": "welcome_voice_text", 
+        "LocalizationTargetId": 1570000002, 
+        "Text": "There ya are!"
+    }, 
+    {
+        "ColumnName": "seeyou_voice_text", 
+        "LocalizationTargetId": 1570000002, 
+        "Text": "Come back any time."
+    }, 
+    {
+        "ColumnName": "tap_voice_text_1", 
+        "LocalizationTargetId": 1570000002, 
+        "Text": "I've been waiting."
+    }, 
+    {
+        "ColumnName": "tap_voice_text_2", 
+        "LocalizationTargetId": 1570000002, 
+        "Text": "Would you like to try hammering a blade?"
+    }
+]

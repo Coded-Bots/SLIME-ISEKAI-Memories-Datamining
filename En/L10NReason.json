@@ -1,0 +1,142 @@
+[
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000101, 
+        "Text": "Reward for clearing a quest mission."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000102, 
+        "Text": "Reward from completing all quest missions."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000103, 
+        "Text": "Reward for clearing a quest."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000104, 
+        "Text": "Reward for clearing a quest."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000105, 
+        "Text": "Reward for clearing a quest."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000106, 
+        "Text": "Item made at a facility."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000107, 
+        "Text": "Reward received from a mission."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000108, 
+        "Text": "Reward for completing a request."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000109, 
+        "Text": "Reward for clearing a quest for the first time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000110, 
+        "Text": "Reward for hitting a population milestone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000111, 
+        "Text": "Reward for reaching a certain Bond Level."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000112, 
+        "Text": "Reward for reaching a certain Great Sage Level."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000113, 
+        "Text": "Reward received as a login bonus."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000114, 
+        "Text": "Reward from clearing a line in a Bingo mission."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000115, 
+        "Text": "Reward from completing all Bingo missions."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000116, 
+        "Text": "Present from a character."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000117, 
+        "Text": "Present for participating in the closed beta test."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000118, 
+        "Text": "This is a Scout Bazaar Point reward."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000119, 
+        "Text": "Reward for hitting the preregistration milestone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000120, 
+        "Text": "A Beginner Boost Login Bonus reward."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000121, 
+        "Text": "This is a Nation of Monsters Diabolic Secretary total item reward"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000122, 
+        "Text": "Item purchased in a pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000123, 
+        "Text": "Reward received from the Login Bonus: Nation of Monsters Diabolic Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000124, 
+        "Text": "Item traded for at a shop."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000125, 
+        "Text": "Reward for completing the special broadcast challenge."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000010000, 
+        "Text": "Equipment made at the forge."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000010001, 
+        "Text": "You have reached the limit for this item."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803100000000, 
+        "Text": "TEST-en"
+    }
+]

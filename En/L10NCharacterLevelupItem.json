@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1700001, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1700001, 
+        "Text": "An item necessary for leveling up a companion."
+    }
+]

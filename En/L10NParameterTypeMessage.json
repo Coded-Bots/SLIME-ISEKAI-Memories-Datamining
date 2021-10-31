@@ -1,0 +1,407 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000001, 
+        "Text": "HP"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000002, 
+        "Text": "ATK"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000003, 
+        "Text": "DEF"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000004, 
+        "Text": "Critical Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000005, 
+        "Text": "Pierce Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000006, 
+        "Text": "Guard Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000007, 
+        "Text": "Super Guard Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000008, 
+        "Text": "Counter Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000009, 
+        "Text": "Super Counter Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000010, 
+        "Text": "Charm Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000011, 
+        "Text": "Evasion Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000012, 
+        "Text": "Miss Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000013, 
+        "Text": "Physical Attack Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000014, 
+        "Text": "Magic Attack Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000015, 
+        "Text": "Single Target Attack Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000016, 
+        "Text": "All Target Attack Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000017, 
+        "Text": "Critical Damage"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000018, 
+        "Text": "Pierce Power"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000019, 
+        "Text": "Counter Power"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000020, 
+        "Text": "Guard Penetration"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000021, 
+        "Text": "Super Guard Penetration"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000022, 
+        "Text": "Earth Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000023, 
+        "Text": "Space Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000024, 
+        "Text": "Wind Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000025, 
+        "Text": "Water Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000026, 
+        "Text": "Fire Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000027, 
+        "Text": "Light Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000028, 
+        "Text": "Dark Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000029, 
+        "Text": "Time Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000030, 
+        "Text": "Physical Attack Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000031, 
+        "Text": "Magic Attack Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000032, 
+        "Text": "Single-Target Attack Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000033, 
+        "Text": "All-Target Attack Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000034, 
+        "Text": "Critical Resist"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000035, 
+        "Text": "Pierce Resist"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000036, 
+        "Text": "Counter Resist"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000037, 
+        "Text": "Guard Power"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000038, 
+        "Text": "Super Guard Power"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000039, 
+        "Text": "Earth Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000040, 
+        "Text": "Space Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000041, 
+        "Text": "Wind Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000042, 
+        "Text": "Water Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000043, 
+        "Text": "Fire Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000044, 
+        "Text": "Light Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000045, 
+        "Text": "Dark Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000046, 
+        "Text": "Time Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000047, 
+        "Text": "Physical Attack Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000048, 
+        "Text": "Magic Attack Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000049, 
+        "Text": "Single Target Attack Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000050, 
+        "Text": "All Target Attack Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000051, 
+        "Text": "Critical Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000052, 
+        "Text": "Pierce Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000053, 
+        "Text": "Counterattack Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000054, 
+        "Text": "Guard Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000055, 
+        "Text": "Earth Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000056, 
+        "Text": "Space Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000057, 
+        "Text": "Wind Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000058, 
+        "Text": "Water Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000059, 
+        "Text": "Fire Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000060, 
+        "Text": "Light Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000061, 
+        "Text": "Dark Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000062, 
+        "Text": "Time Damage Effect"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000063, 
+        "Text": "Physical Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000064, 
+        "Text": "Magic Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000065, 
+        "Text": "Single-Target Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000066, 
+        "Text": "All-Target Attack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000067, 
+        "Text": "Critical Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000068, 
+        "Text": "Pierce Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000069, 
+        "Text": "Counterattack Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000070, 
+        "Text": "Guard Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000071, 
+        "Text": "Earth Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000072, 
+        "Text": "Space Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000073, 
+        "Text": "Wind Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000074, 
+        "Text": "Water Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000075, 
+        "Text": "Fire Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000076, 
+        "Text": "Light Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000077, 
+        "Text": "Dark Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000078, 
+        "Text": "Time Damage Resistance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000079, 
+        "Text": "Stun Evasion Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000080, 
+        "Text": "Poison Evasion Rate"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 807000081, 
+        "Text": "Combo Multiplier"
+    }
+]

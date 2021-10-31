@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnName": "rarity_name", 
+        "LocalizationTargetId": 1550000001, 
+        "Text": "Normal Class"
+    }, 
+    {
+        "ColumnName": "rarity_name", 
+        "LocalizationTargetId": 1550000002, 
+        "Text": "Special Class"
+    }, 
+    {
+        "ColumnName": "rarity_name", 
+        "LocalizationTargetId": 1550000003, 
+        "Text": "Rare Class"
+    }, 
+    {
+        "ColumnName": "rarity_name", 
+        "LocalizationTargetId": 1550000004, 
+        "Text": "Rare Class+"
+    }, 
+    {
+        "ColumnName": "rarity_name", 
+        "LocalizationTargetId": 1550000005, 
+        "Text": "Unique Class"
+    }, 
+    {
+        "ColumnName": "rarity_name", 
+        "LocalizationTargetId": 1550000006, 
+        "Text": "Unique Class+"
+    }
+]

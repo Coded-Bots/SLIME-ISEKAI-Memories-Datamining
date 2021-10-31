@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 300000001, 
+        "Text": "Please explain each function."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 300000001, 
+        "Text": "To-do List"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 300000002, 
+        "Text": "How can I strengthen my troops?"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 300000002, 
+        "Text": "How to Strengthen Your Troops"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 300000003, 
+        "Text": "What quest should I take on now?"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 300000003, 
+        "Text": "Suggested Quests"
+    }
+]

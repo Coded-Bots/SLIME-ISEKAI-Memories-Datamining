@@ -1,0 +1,262 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230001, 
+        "Text": "Butterflies of the Night Owner"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230001, 
+        "Text": "Bewitching Shopkeeper"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230002, 
+        "Text": "Psychic Elf"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230002, 
+        "Text": "Fortuneteller"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230003, 
+        "Text": "Garm"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230003, 
+        "Text": "The Armor Artisan"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230004, 
+        "Text": "Dord"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230004, 
+        "Text": "The Skilled Artisan"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230005, 
+        "Text": "Myrd"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230005, 
+        "Text": "The Construction Artisan"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230006, 
+        "Text": "Haruna"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230006, 
+        "Text": "The Affectionate Hobgoblin"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 230007, 
+        "Text": "Gobuichi"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 230007, 
+        "Text": "The Hobgoblin Chef"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240001, 
+        "Text": "Kaijin"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240001, 
+        "Text": "The Forge Artisan"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240002, 
+        "Text": "Sky Dragon"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240002, 
+        "Text": "Soaring Dragon Calamity"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240003, 
+        "Text": "Salamander"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240003, 
+        "Text": "The Flame Master"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240004, 
+        "Text": "Vesta"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240004, 
+        "Text": "The Seeker"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240005, 
+        "Text": "Veldora Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240005, 
+        "Text": "The Proud Kin of Dragons"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240006, 
+        "Text": "Gard Mjolmire"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240006, 
+        "Text": "The Competent Merchant"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240007, 
+        "Text": "Fuze"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240007, 
+        "Text": "The Guildmaster"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 240008, 
+        "Text": "Light Spirit"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 240008, 
+        "Text": "The Heroic Conductor"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250001, 
+        "Text": "Orc Disaster"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250001, 
+        "Text": "Starved"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250002, 
+        "Text": "Veldora Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250002, 
+        "Text": "The Storm Dragon"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250003, 
+        "Text": "Ifrit"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250003, 
+        "Text": "Burning Spirit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250004, 
+        "Text": "Charybdis"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250004, 
+        "Text": "Swimming Calamity"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250005, 
+        "Text": "Ramiris"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250005, 
+        "Text": "The Fairy of the Labyrinth"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250006, 
+        "Text": "Elemental Colossus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250006, 
+        "Text": "Golem"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250007, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250007, 
+        "Text": "The Bellicose Dragoneye"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250009, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250009, 
+        "Text": "The Talented Secretary"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 290001, 
+        "Text": "Orc Disaster(debug)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 290001, 
+        "Text": "DEBUG_1"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 290002, 
+        "Text": "Veldora Tempest(debug)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 290002, 
+        "Text": "DEBUG_2"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 290003, 
+        "Text": "Ifrit(debug)"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 290003, 
+        "Text": "DEBUG_3"
+    }
+]

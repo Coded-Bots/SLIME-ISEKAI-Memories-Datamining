@@ -1,0 +1,47 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310001, 
+        "Text": "Mantle of Swift Wind"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310002, 
+        "Text": "Mantle of Icy Water"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310003, 
+        "Text": "Mantle of Blazing Flames"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310004, 
+        "Text": "Mantle of Firm Ground"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310005, 
+        "Text": "Mantle of Empty Space"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310006, 
+        "Text": "Mantle of Heavenly Light"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310007, 
+        "Text": "Mantle of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310008, 
+        "Text": "Sorcerer's Robe"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310010, 
+        "Text": "Iron Plate"
+    }
+]

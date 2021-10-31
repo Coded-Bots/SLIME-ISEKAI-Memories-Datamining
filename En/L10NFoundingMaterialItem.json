@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1200001, 
+        "Text": "Jura Lumber"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1200001, 
+        "Text": "Material needed to construct decorative facilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1200002, 
+        "Text": "Mined Stones"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1200002, 
+        "Text": "Material needed to construct decorative facilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1200005, 
+        "Text": "Metal Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1200005, 
+        "Text": "Material needed to construct decorative facilities."
+    }
+]

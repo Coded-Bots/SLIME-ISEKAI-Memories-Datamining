@@ -1,0 +1,182 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100001, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100001, 
+        "Text": "An item required for unlocking ATK ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100002, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100002, 
+        "Text": "An item required for unlocking ATK ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100003, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100003, 
+        "Text": "An item required for unlocking ATK ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100004, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100004, 
+        "Text": "An item required for unlocking DEF ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100005, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100005, 
+        "Text": "An item required for unlocking DEF ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100006, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100006, 
+        "Text": "An item required for unlocking DEF ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100007, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100007, 
+        "Text": "An item required for unlocking Stamina ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100008, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100008, 
+        "Text": "An item required for unlocking Stamina ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100009, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100009, 
+        "Text": "An item required for unlocking Stamina ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100010, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100010, 
+        "Text": "An item required for unlocking a battle character's output ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100011, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100011, 
+        "Text": "An item required for unlocking a battle character's output ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100012, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100012, 
+        "Text": "An item required for unlocking a battle character's output ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100013, 
+        "Text": "Intelligence Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100013, 
+        "Text": "An item required for unlocking secret skill or Divine Protection abilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100014, 
+        "Text": "Intelligence Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100014, 
+        "Text": "An item required for unlocking secret skill or Divine Protection abilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100015, 
+        "Text": "Intelligence Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100015, 
+        "Text": "An item required for unlocking secret skill or Divine Protection abilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100016, 
+        "Text": "Protection Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100016, 
+        "Text": "An item required for unlocking a protection character's output ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100017, 
+        "Text": "Protection Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100017, 
+        "Text": "An item required for unlocking a protection character's output ability."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2100018, 
+        "Text": "Protection Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2100018, 
+        "Text": "An item required for unlocking a protection character's output ability."
+    }
+]

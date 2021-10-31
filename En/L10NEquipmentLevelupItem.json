@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1900001, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1900001, 
+        "Text": "An item that slightly enhances your equipment."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1900002, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1900002, 
+        "Text": "An item that enhances your equipment."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1900003, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1900003, 
+        "Text": "An item that greatly enhances your equipment."
+    }
+]

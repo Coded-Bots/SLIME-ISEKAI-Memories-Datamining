@@ -1,0 +1,167 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000001, 
+        "Text": "{0}mo ago"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000002, 
+        "Text": "{0}wk ago"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000003, 
+        "Text": "{0}d ago"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000004, 
+        "Text": "{0}hr ago"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000005, 
+        "Text": "< 1hr ago"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000006, 
+        "Text": "What's everyone up to?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000007, 
+        "Text": "There can never be enough copies of me.\nI can make more, though."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000008, 
+        "Text": "When someone asks for my help,\nI just can't say no..."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000009, 
+        "Text": "Dissolving Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000010, 
+        "Text": "Dissolve Sworn Friendship with <color=yellow>{0}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000011, 
+        "Text": "Sworn Friendship Dissolved"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000012, 
+        "Text": "<color=yellow>{0}</color> was removed from your Sworn Friends list."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000013, 
+        "Text": "Cancelling Sworn Friendship Request"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000014, 
+        "Text": "Cancel request to <color=yellow>{0}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000015, 
+        "Text": "Request Cancelled"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000016, 
+        "Text": "Cancelled Sworn Friendship request to <color=yellow>{0}</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000017, 
+        "Text": "Accepting Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000018, 
+        "Text": "Accept Sworn Friendship request from <color=yellow>{0}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000019, 
+        "Text": "Sworn Friendship Accepted"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000020, 
+        "Text": "You became Sworn Friends with <color=yellow>{0}</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000021, 
+        "Text": "Rejecting Sworn Friendship"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000022, 
+        "Text": "Reject Sworn Friendship request from <color=yellow>{0}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000023, 
+        "Text": "Sworn Friendship Rejected"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000024, 
+        "Text": "Rejected Sworn Friendship request from <color=yellow>{0}</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000025, 
+        "Text": "Sending Sworn Friendship Request"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000026, 
+        "Text": "Send Sworn Friendship request to <color=yellow>{0}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000027, 
+        "Text": "Request Sent"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000028, 
+        "Text": "Sent Sworn Friendship request to <color=yellow>{0}</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000029, 
+        "Text": "Chancellor not found."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000030, 
+        "Text": "You can't continue searching."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000031, 
+        "Text": "Deleted Sworn Friendship request."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000032, 
+        "Text": "Sworn Friendship acceptance failed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000033, 
+        "Text": "Sworn Friendship request failed."
+    }
+]

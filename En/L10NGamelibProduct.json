@@ -1,0 +1,1162 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000001, 
+        "Text": "Magicrystal x12"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000001, 
+        "Text": "Magicrystal x12"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000002, 
+        "Text": "Magicrystal x50"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000002, 
+        "Text": "Magicrystal x50"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000003, 
+        "Text": "Magicrystal x100"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000003, 
+        "Text": "Magicrystal x100"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000004, 
+        "Text": "Magicrystal x160"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000004, 
+        "Text": "Magicrystal x160"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000005, 
+        "Text": "Magicrystal x330"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000005, 
+        "Text": "Magicrystal x330"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000006, 
+        "Text": "Magicrystal x570"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000006, 
+        "Text": "Magicrystal x570"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000007, 
+        "Text": "Magicrystal x1200"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000007, 
+        "Text": "Magicrystal x1200"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000008, 
+        "Text": "For Newbies: Highest Rarity Character Guaranteed Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000008, 
+        "Text": "For Newbies: Highest Rarity Character Guaranteed Pack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000009, 
+        "Text": "Release Special: 5\u2605 Battle Character Limit Break Item Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000009, 
+        "Text": "Release Special: 5\u2605 Battle Character Limit Break Item Pack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000010, 
+        "Text": "Highest Rarity Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000010, 
+        "Text": "Highest Rarity Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000011, 
+        "Text": "[Sale] Magicrystal x400"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000011, 
+        "Text": "[Sale] Magicrystal x400"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000012, 
+        "Text": "[Sale] Magicrystal x800"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000012, 
+        "Text": "[Sale] Magicrystal x800"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000013, 
+        "Text": "[Sale] Magicrystal x1800"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000013, 
+        "Text": "[Sale] Magicrystal x400"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000014, 
+        "Text": "Monthly Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000014, 
+        "Text": "Monthly Pack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000016, 
+        "Text": "Magicrystal A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000016, 
+        "Text": "You can obtain Magicrystal x10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000017, 
+        "Text": "Magicrystal A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000017, 
+        "Text": "You can obtain Magicrystal x10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000018, 
+        "Text": "Magicrystal A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000018, 
+        "Text": "You can obtain Magicrystal x10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000019, 
+        "Text": "Magicrystal A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000019, 
+        "Text": "You can obtain Magicrystal x10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000020, 
+        "Text": "Magicrystal A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000020, 
+        "Text": "You can obtain Magicrystal x10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000021, 
+        "Text": "Magicrystal A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000021, 
+        "Text": "You can obtain Magicrystal x10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000022, 
+        "Text": "Magicrystal B"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000022, 
+        "Text": "You can obtain Magicrystal x42."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000023, 
+        "Text": "Magicrystal B"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000023, 
+        "Text": "You can obtain Magicrystal x42."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000024, 
+        "Text": "Magicrystal B"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000024, 
+        "Text": "You can obtain Magicrystal x42."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000025, 
+        "Text": "Magicrystal B"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000025, 
+        "Text": "You can obtain Magicrystal x42."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000026, 
+        "Text": "Magicrystal B"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000026, 
+        "Text": "You can obtain Magicrystal x42."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000027, 
+        "Text": "Magicrystal B"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000027, 
+        "Text": "You can obtain Magicrystal x42."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000028, 
+        "Text": "Magicrystal C"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000028, 
+        "Text": "You can obtain Magicrystal x85."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000029, 
+        "Text": "Magicrystal C"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000029, 
+        "Text": "You can obtain Magicrystal x85."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000030, 
+        "Text": "Magicrystal C"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000030, 
+        "Text": "You can obtain Magicrystal x85."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000031, 
+        "Text": "Magicrystal C"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000031, 
+        "Text": "You can obtain Magicrystal x85."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000032, 
+        "Text": "Magicrystal C"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000032, 
+        "Text": "You can obtain Magicrystal x85."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000033, 
+        "Text": "Magicrystal C"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000033, 
+        "Text": "You can obtain Magicrystal x85."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000034, 
+        "Text": "Magicrystal D"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000034, 
+        "Text": "You can obtain Magicrystal x135."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000035, 
+        "Text": "Magicrystal D"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000035, 
+        "Text": "You can obtain Magicrystal x135."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000036, 
+        "Text": "Magicrystal D"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000036, 
+        "Text": "You can obtain Magicrystal x135."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000037, 
+        "Text": "Magicrystal D"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000037, 
+        "Text": "You can obtain Magicrystal x135."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000038, 
+        "Text": "Magicrystal D"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000038, 
+        "Text": "You can obtain Magicrystal x135."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000039, 
+        "Text": "Magicrystal D"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000039, 
+        "Text": "You can obtain Magicrystal x135."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000040, 
+        "Text": "Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000040, 
+        "Text": "You can obtain Magicrystal x275."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000041, 
+        "Text": "Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000041, 
+        "Text": "You can obtain Magicrystal x275."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000042, 
+        "Text": "Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000042, 
+        "Text": "You can obtain Magicrystal x275."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000043, 
+        "Text": "Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000043, 
+        "Text": "You can obtain Magicrystal x275."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000044, 
+        "Text": "Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000044, 
+        "Text": "You can obtain Magicrystal x275."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000045, 
+        "Text": "Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000045, 
+        "Text": "You can obtain Magicrystal x275."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000046, 
+        "Text": "Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000046, 
+        "Text": "You can obtain Magicrystal x475."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000047, 
+        "Text": "Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000047, 
+        "Text": "You can obtain Magicrystal x475."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000048, 
+        "Text": "Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000048, 
+        "Text": "You can obtain Magicrystal x475."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000049, 
+        "Text": "Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000049, 
+        "Text": "You can obtain Magicrystal x475."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000050, 
+        "Text": "Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000050, 
+        "Text": "You can obtain Magicrystal x475."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000051, 
+        "Text": "Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000051, 
+        "Text": "You can obtain Magicrystal x475."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000052, 
+        "Text": "Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000052, 
+        "Text": "You can obtain Magicrystal x1000."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000053, 
+        "Text": "Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000053, 
+        "Text": "You can obtain Magicrystal x1000."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000054, 
+        "Text": "Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000054, 
+        "Text": "You can obtain Magicrystal x1000."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000055, 
+        "Text": "Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000055, 
+        "Text": "You can obtain Magicrystal x1000."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000056, 
+        "Text": "Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000056, 
+        "Text": "You can obtain Magicrystal x1000."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000057, 
+        "Text": "Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000057, 
+        "Text": "You can obtain Magicrystal x1000."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000058, 
+        "Text": "[Sale] Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000058, 
+        "Text": "Once per person. You can obtain Magicrystal x350."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000059, 
+        "Text": "[Sale] Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000059, 
+        "Text": "Once per person. You can obtain Magicrystal x350."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000060, 
+        "Text": "[Sale] Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000060, 
+        "Text": "Once per person. You can obtain Magicrystal x350."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000061, 
+        "Text": "[Sale] Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000061, 
+        "Text": "Once per person. You can obtain Magicrystal x350."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000062, 
+        "Text": "[Sale] Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000062, 
+        "Text": "Once per person. You can obtain Magicrystal x350."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000063, 
+        "Text": "[Sale] Magicrystal E"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000063, 
+        "Text": "Once per person. You can obtain Magicrystal x350."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000064, 
+        "Text": "[Sale] Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000064, 
+        "Text": "Once per person. You can obtain Magicrystal x600."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000065, 
+        "Text": "[Sale] Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000065, 
+        "Text": "Once per person. You can obtain Magicrystal x600."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000066, 
+        "Text": "[Sale] Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000066, 
+        "Text": "Once per person. You can obtain Magicrystal x600."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000067, 
+        "Text": "[Sale] Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000067, 
+        "Text": "Once per person. You can obtain Magicrystal x600."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000068, 
+        "Text": "[Sale] Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000068, 
+        "Text": "Once per person. You can obtain Magicrystal x600."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000069, 
+        "Text": "[Sale] Magicrystal F"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000069, 
+        "Text": "Once per person. You can obtain Magicrystal x600."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000070, 
+        "Text": "[Sale] Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000070, 
+        "Text": "Once per person. You can obtain Magicrystal x1500."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000071, 
+        "Text": "[Sale] Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000071, 
+        "Text": "Once per person. You can obtain Magicrystal x1500."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000072, 
+        "Text": "[Sale] Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000072, 
+        "Text": "Once per person. You can obtain Magicrystal x1500."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000073, 
+        "Text": "[Sale] Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000073, 
+        "Text": "Once per person. You can obtain Magicrystal x1500."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000074, 
+        "Text": "[Sale] Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000074, 
+        "Text": "Once per person. You can obtain Magicrystal x1500."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000075, 
+        "Text": "[Sale] Magicrystal G"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000075, 
+        "Text": "Once per person. You can obtain Magicrystal x1500."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000076, 
+        "Text": "7 Days Only:5 Star Scout Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000076, 
+        "Text": "One time only. Available for 7 days after you start playing. You can obtain 5\u2605 Guaranteed Recruit Ticket x1 (expires in 7 days) and Magicrystal x300.\nNote: Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000077, 
+        "Text": "7 Days Only:5 Star Scout Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000077, 
+        "Text": "One time only. Available for 7 days after you start playing. You can obtain 5\u2605 Guaranteed Recruit Ticket x1 (expires in 7 days) and Magicrystal x300.\nNote: Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000078, 
+        "Text": "7 Days Only:5 Star Scout Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000078, 
+        "Text": "One time only. Available for 7 days after you start playing. You can obtain 5\u2605 Guaranteed Recruit Ticket x1 (expires in 7 days) and Magicrystal x300.\nNote: Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000079, 
+        "Text": "7 Days Only:5 Star Scout Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000079, 
+        "Text": "One time only. Available for 7 days after you start playing. You can obtain 5\u2605 Guaranteed Recruit Ticket x1 (expires in 7 days) and Magicrystal x300.\nNote: Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000080, 
+        "Text": "7 Days Only:5 Star Scout Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000080, 
+        "Text": "One time only. Available for 7 days after you start playing. You can obtain 5\u2605 Guaranteed Recruit Ticket x1 (expires in 7 days) and Magicrystal x300.\nNote: Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000081, 
+        "Text": "7 Days Only:5 Star Scout Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000081, 
+        "Text": "One time only. Available for 7 days after you start playing. You can obtain 5\u2605 Guaranteed Recruit Ticket x1 (expires in 7 days) and Magicrystal x300.\nNote: Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000082, 
+        "Text": "5-Star Awakening Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000082, 
+        "Text": "One time only. You can obtain 5\u2605 Memory Stone Shard x5, necessary in awakening 5\u2605 battle characters, and Magicrystal x450.\nNote: 5\u2605 Memory Stone Shards can only be used on characters whose starting rarity is 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000083, 
+        "Text": "5-Star Awakening Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000083, 
+        "Text": "One time only. You can obtain 5\u2605 Memory Stone Shard x5, necessary in awakening 5\u2605 battle characters, and Magicrystal x450.\nNote: 5\u2605 Memory Stone Shards can only be used on characters whose starting rarity is 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000084, 
+        "Text": "5-Star Awakening Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000084, 
+        "Text": "One time only. You can obtain 5\u2605 Memory Stone Shard x5, necessary in awakening 5\u2605 battle characters, and Magicrystal x450.\nNote: 5\u2605 Memory Stone Shards can only be used on characters whose starting rarity is 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000085, 
+        "Text": "5-Star Awakening Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000085, 
+        "Text": "One time only. You can obtain 5\u2605 Memory Stone Shard x5, necessary in awakening 5\u2605 battle characters, and Magicrystal x450.\nNote: 5\u2605 Memory Stone Shards can only be used on characters whose starting rarity is 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000086, 
+        "Text": "5-Star Awakening Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000086, 
+        "Text": "One time only. You can obtain 5\u2605 Memory Stone Shard x5, necessary in awakening 5\u2605 battle characters, and Magicrystal x450.\nNote: 5\u2605 Memory Stone Shards can only be used on characters whose starting rarity is 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000087, 
+        "Text": "5-Star Awakening Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000087, 
+        "Text": "One time only. You can obtain 5\u2605 Memory Stone Shard x5, necessary in awakening 5\u2605 battle characters, and Magicrystal x450.\nNote: 5\u2605 Memory Stone Shards can only be used on characters whose starting rarity is 5\u2605."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000088, 
+        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000088, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000089, 
+        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000089, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000090, 
+        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000090, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000091, 
+        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000091, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000092, 
+        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000092, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000093, 
+        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000093, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000094, 
+        "Text": "[Periodic] Monthly Potion Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000094, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000095, 
+        "Text": "[Periodic] Monthly Potion Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000095, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000096, 
+        "Text": "[Periodic] Monthly Potion Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000096, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000097, 
+        "Text": "[Periodic] Monthly Potion Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000097, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000098, 
+        "Text": "[Periodic] Monthly Potion Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000098, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000099, 
+        "Text": "[Periodic] Monthly Potion Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000099, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000100, 
+        "Text": "[Periodic] Weekly Recruit Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000100, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000101, 
+        "Text": "[Periodic] Weekly Recruit Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000101, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000102, 
+        "Text": "[Periodic] Weekly Recruit Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000102, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000103, 
+        "Text": "[Periodic] Weekly Recruit Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000103, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000104, 
+        "Text": "[Periodic] Weekly Recruit Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000104, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000105, 
+        "Text": "[Periodic] Weekly Recruit Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000105, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000106, 
+        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000106, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000107, 
+        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000107, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000108, 
+        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000108, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000109, 
+        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000109, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000110, 
+        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000110, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000111, 
+        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000111, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000090001, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000090001, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000090002, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000090002, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000090003, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000090003, 
+        "Text": "One time only. Available for 7 days. You can obtain Magicrystal x300 and 5\u2605 Guaranteed Special Recruit Ticket x1."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000090004, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000090004, 
+        "Text": "Get Healing Potion x5 and Nation of Monsters Hot Pot x1 every day for 30 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000090005, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000090005, 
+        "Text": "Get Recruit Ticket x1 and Nation of Monsters Hot Pot x1 every day for 7 days when you log in!"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000090006, 
+        "Text": "TEST"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000090006, 
+        "Text": "One time only. Available for 7 days. You can obtain Magicrystal x300 and 5\u2605 Guaranteed Special Recruit Ticket x1."
+    }
+]

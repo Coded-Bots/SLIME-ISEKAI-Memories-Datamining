@@ -1,0 +1,492 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000002, 
+        "Text": "Thought Acceleration"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000002, 
+        "Text": "Enables battle speed increase"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000003, 
+        "Text": "All of Creation"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000003, 
+        "Text": "Unlocks Auto Battle"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000004, 
+        "Text": "Chant Annulment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000004, 
+        "Text": "Skips battle animations"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000005, 
+        "Text": "Thought Acceleration"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000005, 
+        "Text": "Enables greater battle speed increase"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000006, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000006, 
+        "Text": "Unlocks Parallel Processing"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000007, 
+        "Text": "Chant Annulment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000007, 
+        "Text": "Battle animations can be turned on or off from the options menu"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000008, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000008, 
+        "Text": "Shorten Parallel Processing time by 8%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000009, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000009, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 10%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000010, 
+        "Text": "All of Creation"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000010, 
+        "Text": "Enables you to see the rankings of other chancellors (coming soon)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000011, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000011, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 20%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000012, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000012, 
+        "Text": "Shorten Parallel Processing time by 12%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000013, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000013, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 30%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000014, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000014, 
+        "Text": "Shorten Parallel Processing time by 14%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000015, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000015, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 35%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000016, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000016, 
+        "Text": "Shorten Parallel Processing time by 16%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000017, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000017, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 40%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000018, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000018, 
+        "Text": "Shorten Parallel Processing time by 18%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000019, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000019, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 45%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000020, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000020, 
+        "Text": "Shorten Parallel Processing time by 20%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000021, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000021, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 50%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000022, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000022, 
+        "Text": "Shorten Parallel Processing time by 22%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000023, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000023, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 55%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000024, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000024, 
+        "Text": "Shorten Parallel Processing time by 24%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000025, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000025, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 60%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000026, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000026, 
+        "Text": "Shorten Parallel Processing time by 26%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000027, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000027, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 65%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000028, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000028, 
+        "Text": "Shorten Parallel Processing time by 28%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000029, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000029, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 70%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000030, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000030, 
+        "Text": "Shorten Parallel Processing time by 30%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000031, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000031, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 75%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000032, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000032, 
+        "Text": "Shorten Parallel Processing time by 32%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000033, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000033, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 80%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000034, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000034, 
+        "Text": "Shorten Parallel Processing time by 34%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000035, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000035, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 85%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000036, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000036, 
+        "Text": "Shorten Parallel Processing time by 36%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000037, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000037, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 90%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000038, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000038, 
+        "Text": "Shorten Parallel Processing time by 38%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000039, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000039, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 95%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000040, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000040, 
+        "Text": "Shorten Parallel Processing time by 40%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000041, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000041, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 100%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000042, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000042, 
+        "Text": "Shorten Parallel Processing time by 42%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000043, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000043, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 105%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000044, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000044, 
+        "Text": "Shorten Parallel Processing time by 44%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000045, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000045, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 110%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000046, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000046, 
+        "Text": "Shorten Parallel Processing time by 46%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000047, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000047, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 115%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000048, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000048, 
+        "Text": "Shorten Parallel Processing time by 48%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000049, 
+        "Text": "Analytical Appraisal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000049, 
+        "Text": "Increases Bond experience points gained from friendly conversation by 120%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 305000050, 
+        "Text": "Parallel Processing"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 305000050, 
+        "Text": "Shorten Parallel Processing time by 50%"
+    }
+]

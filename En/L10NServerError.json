@@ -1,0 +1,332 @@
+[
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000010, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000010, 
+        "Text": "Undergoing maintenance.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000011, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000011, 
+        "Text": "Undergoing maintenance.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000012, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000012, 
+        "Text": "Undergoing maintenance.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000014, 
+        "Text": "New Version Notice"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000014, 
+        "Text": "New version available.\nPlease update your app from your device's app store."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000015, 
+        "Text": "Data Update"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000015, 
+        "Text": "Data update available.\nWill now perform update."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000016, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000016, 
+        "Text": "Undergoing feature maintenance.\nNow returning to home screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000017, 
+        "Text": "Campaign Ended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000017, 
+        "Text": "This campaign has ended."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000018, 
+        "Text": "Date Change"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000018, 
+        "Text": "The date has changed.\nNow returning to the title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000000019, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000000019, 
+        "Text": "Undergoing feature maintenance.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001001, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001001, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001002, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001002, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001003, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001003, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001004, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001004, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001005, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001005, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001006, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001006, 
+        "Text": "Unexpected Error.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001007, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001007, 
+        "Text": "Undergoing maintenance.\nNow returning to title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000001008, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000001008, 
+        "Text": "Connection failed.\nNow returning to the title screen."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002001, 
+        "Text": "Connection Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002001, 
+        "Text": "A connection error has occurred."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002002, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002002, 
+        "Text": "Data transfer code not registered."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002003, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002003, 
+        "Text": "Data transfer password not registered."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002004, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002004, 
+        "Text": "Incorrect data transfer user ID or password."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002005, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002005, 
+        "Text": "Incorrect data transfer user ID or password."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002006, 
+        "Text": "Maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002006, 
+        "Text": "We are currently under system maintenance."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002007, 
+        "Text": "Limit Warning"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002007, 
+        "Text": "en_server_error_only_for_japan"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002008, 
+        "Text": "Not Supported"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002008, 
+        "Text": "Country/currency not supported."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002009, 
+        "Text": "Purchase cannot be completed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002009, 
+        "Text": "Complete payment on pending purchases before making a new purchase."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002010, 
+        "Text": "Cancel/Purchase Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002010, 
+        "Text": "Your purchase may have been canceled or restricted.\nIf your purchase information has not been correctly applied, try restarting the app.\n Go to the Shop screen to confirm the status of this issue."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002011, 
+        "Text": "Purchase Pending"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002011, 
+        "Text": "This purchase has been saved. Complete purchase at a convenience store."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002012, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002012, 
+        "Text": "Already being processed."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002013, 
+        "Text": "Failed to receive age info"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002013, 
+        "Text": "en_server_error_only_for_japan"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002014, 
+        "Text": "Fail"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002014, 
+        "Text": "en_server_error_only_for_japan"
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002015, 
+        "Text": "Purchase cannot be completed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002015, 
+        "Text": "Item no longer available. This purchase cannot be completed."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 8000002016, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 8000002016, 
+        "Text": "An error has occurred."
+    }
+]

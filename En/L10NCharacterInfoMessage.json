@@ -1,0 +1,102 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000001, 
+        "Text": "Not enough materials."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000002, 
+        "Text": "You've reached the level limit."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000003, 
+        "Text": "Cannot select this skill."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000004, 
+        "Text": "{0} evolves."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000005, 
+        "Text": "Trait"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000006, 
+        "Text": "Secret Skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000007, 
+        "Text": "No Skills"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000008, 
+        "Text": "Enhance Secret Skill"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000009, 
+        "Text": "Enhance Guidance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000010, 
+        "Text": "<color=#ed4b39>Insufficient population (Citizens required: {0})</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000011, 
+        "Text": "<color=#ed4b39>Insufficient level (Level required: {0})</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000012, 
+        "Text": "<color=#ed4b39>All other abilities must be released</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000013, 
+        "Text": "<color=#ed4b39>Insufficient materials</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000014, 
+        "Text": "Unlock by acquiring {0} or more citizens."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000015, 
+        "Text": "6\u2605 AWAKENED"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000016, 
+        "Text": "AWAKENED"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000017, 
+        "Text": "<color=#ed4b39>All abilities on the previous level must be released</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000018, 
+        "Text": "Unlock by clearing Chapter 1 Episode 4 (Beginner)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000019, 
+        "Text": "Final"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 811000020, 
+        "Text": "Evolve"
+    }
+]

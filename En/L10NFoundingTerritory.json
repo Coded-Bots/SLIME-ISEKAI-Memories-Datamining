@@ -1,0 +1,52 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000001, 
+        "Text": "Goblin Village"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000002, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000003, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000004, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000005, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000006, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000007, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000008, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000009, 
+        "Text": "Crossroads"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 411000010, 
+        "Text": "Crossroads"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1500001, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1500001, 
+        "Text": "An item that heals your stamina by 10."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1500002, 
+        "Text": "Stamina"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1500002, 
+        "Text": "An item that heals your stamina immediately."
+    }
+]

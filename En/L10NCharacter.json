@@ -1,0 +1,692 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000001, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000001, 
+        "Text": "Miho Okasaki"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000001, 
+        "Text": "Salaryman Satoru Mikami was reborn as a slime after getting stabbed on the street. Using the Unique Skills he had mastered at the time of his rebirth, Great Sage and Predator, he acquired all sorts of abilities. Despite being a slime, he formed bonds transcending race with other monsters such as the dragon Veldora, and became the leader of the Jura Tempest Federation, a nation of monsters. Together with his friends he develops Tempest into a land with a high living standard comparable to other major nations, building on the basic principle of creating a nation where people of every race can live happily together."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000003, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000003, 
+        "Text": "Makoto Furukawa"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000003, 
+        "Text": "Son of the chief of the ogres, a clan wiped out by the orcs. He can be identified by his crimson hair and jet black horns. Has a strong sense of justice, always fighting against wrongdoings. When Rimuru named him Benimaru, he evolved into a Kijin and joined the slime's side. Assigned to the post of samurai general, he is in charge of Tempest's military affairs. He loves tempura and sweets."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000004, 
+        "Text": "Gobta"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000004, 
+        "Text": "Asuna Tomari"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000004, 
+        "Text": "A Goblin from the Goblin Village. He's an easily-excited, infectiously-cheerful type who always comes through in a pinch. He evolved from a Goblin into a Hobgoblin after Rimuru named him. He\u2019s close friends with Rimuru despite their difference in standing. Being a bit of a prodigy in battle, he quickly learned to use Shadow Movement, and was appointed captain of the Goblin Riders."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000005, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000005, 
+        "Text": "M\u30fbA\u30fbO"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000005, 
+        "Text": "An ogre with purple hair and obsidian horns. Appears to be a beautiful woman with a cool demeanor, but she is also a powerful fighter. She wields a huge sword called Goriki-maru, a gift from Rimuru. Her terrible cooking skills are famous throughout Tempest, and Benimaru has been designated her permanent taste tester. By eating Shion's cooking, Gobta obtained poison resistance."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000006, 
+        "Text": "Ranga"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000006, 
+        "Text": "Chikahiro Kobayashi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000006, 
+        "Text": "He adores his master Rimuru, and is always hiding in his shadow watching over him. He loves having Rimuru pet his dark fur. By using Wind Manipulation and Black Lightning simultaneously in battle, he can use the finishing move Death Storm, which produces an electrified tornado. When he visited the Freedom Academy in the Kingdom of Ingrassia with Rimuru, the students were afraid of him at first, but gradually grew fond of him."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000007, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000007, 
+        "Text": "Takuya Eguchi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000007, 
+        "Text": "A member of the Ogre clan. He has dark blue hair and tanned skin, and a single pure-white horn. Covert operations are his forte, thanks to his cool and collected personality. He conducts precise information gathering and is faster than anyone else at sussing out the information Rimuru needs. He dispassionately performs his duties as Rimuru\u2019s shadow with unconditional loyalty, but can show sudden glimpses of another side that deeply cares for his friends."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000008, 
+        "Text": "Rigurd"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000008, 
+        "Text": "Kanehira Yamamoto"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000008, 
+        "Text": "Chief of the Goblin Village. He agonized over the Direwolves\u2019 attack, and lost one of his sons in the battle. He gained a brawny physique when he became a Hobgoblin after being named by Rimuru. Since then, he\u2019s managed the domestic affairs of Tempest, and Rimuru has absolute faith in his skills."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000009, 
+        "Text": "Gazel Dwargo"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000009, 
+        "Text": "Takaya Hashi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000009, 
+        "Text": "The third generation dwarf-king who rules the Armed Nation of Dwargon. A great man with a sturdy frame, also known as the Hero King. The Dwarven people have absolute faith in him. He is not merely a political ally of Rimuru, but cares for him as a junior, and advises him about his approach to kingship and his attitude toward his subjects."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000010, 
+        "Text": "Shuna"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000010, 
+        "Text": "Sayaka Sembongi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000010, 
+        "Text": "Benimaru\u2019s younger sister, the Ogre princess. She has pale pink hair and horns like white porcelain. Gifted not only with girlish good looks, but also with a talent for cooking and making clothing. She also puts her refined accomplishments to good use on many fronts, such as assisting Rimuru with diplomacy. She serves as a Holy Princess in Tempest. Her Unique Skill, Analyzer, allows her to perfectly analyze her targets."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000011, 
+        "Text": "Treyni"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000011, 
+        "Text": "Rie Tanaka"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000011, 
+        "Text": "One of the dryads, the caretakers of the Great Forest who serve as guardians of the treants, a high-level race of the forests. Though her people are rarely seen, she appeared before Rimuru to request his aid in defeating the Orc Lord. Served under Ramiris when she was the Spirit Queen, but she was still a tiny spirit at that time."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000012, 
+        "Text": "Trya"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000012, 
+        "Text": "Kana Asumi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000012, 
+        "Text": "Treyni\u2019s younger sister, and second-born among the Dryads. Treyni is her older sister, and they have a third-born younger sister called Dris. During the attack from Charybdis, she served under Rimuru along with Treyni in a support role, monitoring the enemy and so on."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000013, 
+        "Text": "Shizue Izawa"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000013, 
+        "Text": "Yumiri Hanamori"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000013, 
+        "Text": "A woman summoned from World War II Japan by the Demon Lord Leon. Leon had Ifrit possess her body, the power of which she learned to contain following significant hardships. After becoming a combat instructor in the Kingdom of Engrassia, she befriended Yuuki and Hinata, two other humans summoned from Japan. By the time she met Rimuru, so much time had passed that she was no longer able to control the monster within."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000014, 
+        "Text": "Gelmud"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000014, 
+        "Text": "Kengo Kawanishi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000014, 
+        "Text": "A majin who secretly served as Clayman\u2019s puppet in hopes of creating a Demon Lord. He hoped to become a Demon Lord himself, as well. His finishing move is Deathmarch Dance, which rains magic bullets on his enemies. His plan involved expanding his influence by naming Rigur\u2019s older brother, as well as Gabiru and the Orc Lord Geld, but Benimaru and the other ogres were suspicious of his motives and refused to be named by him."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000015, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000015, 
+        "Text": "Rina Hidaka"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000015, 
+        "Text": "The dragonoid called Milim Nava, also known as the Destroyer.\nOne of the oldest of the Demon Lords. She recognized that Rimuru was no ordinary creature and sought him out. During her visit to Tempest, she formed a friendship with Rimuru, her new \u201cbestie\u201d. She\u2019s extremely attached to Rimuru, and she\u2019s fond of the Dragon Knuckles he gave her as a present, even though they curb her power."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000016, 
+        "Text": "Gabiru"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000016, 
+        "Text": "Jun Fukushima"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000016, 
+        "Text": "Head warrior of the Lizardmen who live around Lake Siss. He started out as an ambitious type who was steadily conquering the nearby Goblin villages, but after the battle with the Demon Lord Geld, he joined Rimuru\u2019s followers. His one flaw is his easily puffed up ego, but he applies himself earnestly to cultivating the hipokute herbs used for making full-potions, as ordered by Rimuru."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000017, 
+        "Text": "Geld"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000017, 
+        "Text": "Taro Yamaguchi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000017, 
+        "Text": "He was one of the Orc Generals who followed the Orc Disaster Geld, but after the Demon Lord Geld was defeated, he was given his name by Rimuru as the new leader of the Orcs. He evolved into an Orc King after being named."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000018, 
+        "Text": "Hakurou"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000018, 
+        "Text": "Hochu Otsuka"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000018, 
+        "Text": "An elderly ogre and follower of Benimaru. Despite his age, he is still a skilled swordsman. Assigned to the post of swordsmanship instructor in Tempest, he has trained Gobta and many others in the art of the blade. He also taught Master Swordsman Gazel, King of Dwargon, how to fight."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000019, 
+        "Text": "Kurobe"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000019, 
+        "Text": "Junichi Yanagita"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000019, 
+        "Text": "An ogre survivor from the same village as Benimaru. Has two small horns protruding from his forehead. He carries on his family trade as a skilled swordsmith. Contributes to the Tempest military by producing armor using his skills as a blacksmith and the unique skill Researcher."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000020, 
+        "Text": "Ryota Sekiguchi"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000020, 
+        "Text": "Shizuka Ishigami"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000020, 
+        "Text": "A child victim of a failed summoning. Though he has a reserved personality, he gets along well with Kenya. He rejected Rimuru at first, but eventually recognized the slime as his teacher. Rimuru combined two types of spirits to create a single artificial spirit of wind and water, then unified it with Ryota's body to prevent his Magicules from destroying him from inside."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000021, 
+        "Text": "Alice Rondo"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000021, 
+        "Text": "Haruka Shiraishi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000021, 
+        "Text": "One of the incompletely summoned children. She's a boisterous child, and the baby of the bunch at only nine years old. Although she opposed it at first, she accepted Rimuru as her instructor and became his student. She formed a bond with an artificial superior spirit of space, to prevent the destruction of her body by the rampaging magicules inside her."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000022, 
+        "Text": "Kenya Misaki"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000022, 
+        "Text": "Ayaka Asai"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000022, 
+        "Text": "One of the incompletely summoned children. The leader of the bunch, with a lively spirit. Although he opposed it at first, he accepted Rimuru as his instructor and became his student. He was recognized as having a Hero's temperament by a spirit of light, and formed a bond with it to prevent the destruction of his body by the rampaging magicules inside him."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000023, 
+        "Text": "Gale Gibson"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000023, 
+        "Text": "Gen Sato"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000023, 
+        "Text": "One of the incompletely summoned children. The oldest of the bunch at eleven years old, and the peacemaker among the five. Although he opposed it at first, he accepted Rimuru as his instructor and became his student. He formed a bond with an artificial superior spirit of earth, to prevent the destruction of his body by the rampaging magicules inside him."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000024, 
+        "Text": "Beretta"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000024, 
+        "Text": "Ayako Kawasumi"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000024, 
+        "Text": "A Golem inhabited by a superior spirit, created by Rimuru to be a bodyguard for Ramiris when they met in the Dwelling of Spirits. He became an Arch Golem when he was named. Summoned by Rimuru on the condition that he would guard Ramiris for 100 years, he was told that he could keep the golem for his own use when that term was up."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000025, 
+        "Text": "Chloe Aubert"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000025, 
+        "Text": "Azusa Tadokoro"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000025, 
+        "Text": "One of the incompletely summoned children. A quiet girl who loves books. Although she opposed it at first, she accepted Rimuru as her instructor and became his student. She formed a bond with some sort of spirit from the future, according to Ramiris, to prevent the destruction of her body by the rampaging magicules inside her. Even Great Sage could make no calculations about what that spirit might be."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000026, 
+        "Text": "Yuuki Kagurazaka"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000026, 
+        "Text": "Natsuki Hanae"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000026, 
+        "Text": "An Otherworlder and former student of Shizu who came to this world from Japan. He serves as the Grandmaster of the Free Union, a society of adventurers in Ingrassia. He also serves as the director of Freedom Academy, attended by kids like Chloe and Alice. He loves manga, and often asks Rimuru to give him magazines and comics."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000027, 
+        "Text": "Phobio"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000027, 
+        "Text": "Seiichiro Yamashita"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000027, 
+        "Text": "One of the Three Beastketeers from the Animal Kingdom of Eurazania, also known as the Leopard Fang. When he first visited Tempest, Milim caught him acting aggressive and utterly crushed him. He was tricked into becoming Charybdis by the Moderate Harlequin Alliance, but was rescued by Rimuru. He considers himself in debt to Rimuru, and admires him second only to Carrion."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000501, 
+        "Text": "Veldora Tempest"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000501, 
+        "Text": "Tomoaki Maeno"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000501, 
+        "Text": "A Catastrophe class dragon and the first to meet Rimuru after his reincarnation. Also known as the Storm Dragon, he was sealed away in a cave by a Hero for 300 years, but freed by the evolved Rimuru and Raphael, and incarnated into Rimuru\u2019s Body Double. His abilities have grown stronger due to Rimuru's evolution."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000502, 
+        "Text": "Orc Disaster"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000502, 
+        "Text": "Kenji Nomura"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000502, 
+        "Text": "The form of Orc Lord Geld after he evolved into an Orc Disaster. He was manipulated by the majin Gelmud, and invaded the Jura Forest with his Orcs, becoming a menace to the Goblins and Lizardmen. Aware of his own sinfulness as he suffered from incessant hunger and devoured his companions, he unburdened himself of his sins and expressed his affection for his people during his battle with Rimuru, and went out with a peaceful look on his face in the end."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000503, 
+        "Text": "Ifrit"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000503, 
+        "Text": "Taku Yashiro"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000503, 
+        "Text": "A superior spirit of fire that dwelled within Shizu after she was summoned by the Demon Lord Leon. Eventually he tried to snatch control of her body away from her, but was devoured by Rimuru. After that, while inside of Rimuru, he met Veldora, who had also been devoured by him, and they began a curious sort of cohabitation."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000504, 
+        "Text": "Charybdis"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000504, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000504, 
+        "Text": "A Calamity class monster, known as the Ruler of the Skies. It was sealed away by a Hero, but revived when it possessed Phobio, who had been tricked by the Moderate Harlequin Alliance. It has no innate intelligence and is therefore not recognized as a Demon Lord, but is said to be a match for them in strength, and even the combined efforts of all of Tempest were not enough to defeat it."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000505, 
+        "Text": "Elemental Colossus"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000505, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000505, 
+        "Text": "A Golem created by Ramiris in the Dwelling of Spirits. According to Great Sage\u2019s appraisal, its entire body is magisteel, and calculating from its magicule energy levels, it\u2019s stronger than a Sky Dragon. It blocked the way of Rimuru and his group, but was destroyed by Arcane Thread Fetters and Hell Flare. Its destruction was the reason Beretta was summoned."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000506, 
+        "Text": "Ramiris"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000506, 
+        "Text": "Anzu Haruno"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000506, 
+        "Text": "Queen of the Dwelling of Spirits, where the spirits and fairies live, and one of the Demon Lords. She looks like a tiny, winged fairy. She has another side to her as a sacred guide who bestows the divine protection of the spirits upon Heroes. She has the ability to create a vast virtual space called Small World. She\u2019s one of the oldest Demon Lords, on the level of Guy and Milim, and Guy shows deference to her."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000507, 
+        "Text": "Gard Mjolmire"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000507, 
+        "Text": "Yutaka Aoyama"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000507, 
+        "Text": "A wealthy merchant from the Kingdom of Blumund. He operated as a moneylender while also serving as head of the Blumund shopping district. Rimuru saved his life from a Sky Dragon attack, which led to him striking a deal with Tempest. Rimuru has absolute faith in him as a merchant."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000508, 
+        "Text": "Salamander"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000508, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000508, 
+        "Text": "An inferior spirit of fire, summoned by Ifrit. It harassed Rimuru and Eren\u2019s group with fire attacks, but was obliterated by the Icicle Shotgun that Rimuru devised using Eren\u2019s Icicle Lance as inspiration."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000509, 
+        "Text": "Fuze"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000509, 
+        "Text": "Ken Narita"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000509, 
+        "Text": "Head of the Kingdom of Blumund branch of the Free Union. After detecting the disappearance of Veldora's presence, he sent Kaval's crew to investigate. He was formerly a powerful A-rank adventurer. Initially, he was skeptical of Rimuru, but eventually came to trust the slime after a visit to Tempest."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000510, 
+        "Text": "Vesta"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000510, 
+        "Text": "Kenjiro Tsuda"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000510, 
+        "Text": "Former minister of the Armed Nation of Dwargon. Often made unreasonable demands of Kaijin, who he has known for many years. King Gazel saw through his lies and banished him from entering the palace, bringing him to ruin. Later, when King Gazel ordered him to live in Tempest, he turned over a new leaf and reconciled with Kaijin and Rimuru. Uses his spirit engineering knowledge to aid his research into healing potions and other crafts for Tempest."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000511, 
+        "Text": "Sky Dragon"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000511, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000511, 
+        "Text": "The Sky Dragon that appeared in the Kingdom of Ingrassia. It is a superior dragon that inherited the blood of the first dragons, and can use lightning attacks. They are a Calamity class menace, but Rimuru easily defeated it with the strength he had gained from devouring numerous enemies. Rimuru's relationship with Mjolmire, a wealthy merchant from Blumund, began when he saved him from being attacked by the same Sky Dragon."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000512, 
+        "Text": "Light spirit"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000512, 
+        "Text": "Tomo Muranaka"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000512, 
+        "Text": "A superior spirit who formed a bond with Kenya in response to his call when he visited the Dwelling of Spirits. It recognized Kenya as having the temperament of a Hero, and swore to protect him. The bond they formed prevented the destruction of Kenya\u2019s body by the rampaging magicules inside him, and saved his life."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000513, 
+        "Text": "Butterflies of the Night Owner"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000513, 
+        "Text": "Naoko Komatsu"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000513, 
+        "Text": "The owner of Butterflies of the Night, a bar staffed by beautiful elf girls who live in the Armed Nation of Dwargon. She's a golden-haired elf who radiates womanly appeal. She met Rimuru when Kaijin brought him to visit her bar. She always gives Rimuru and his friends a warm welcome when they evade Shuna and Shion's watch to visit her bar. With his slime's constitution, Rimuru can't get drunk, but he still always looks forward to spending time at Butterflies of the Night."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000514, 
+        "Text": "Psychic Elf"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000514, 
+        "Text": "Harumi Sakurai"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000514, 
+        "Text": "A black-haired Dark Elf and talented fortuneteller who works at Butterflies of the Night in the Armed Nation of Dwargon. She told Rimuru\u2019s fortune the first time he visited the bar, and showed him the image of someone he was fated to meet in her crystal. When Rimuru eventually met that person, she turned out to be Shizue Izawa."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000515, 
+        "Text": "Garm"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000515, 
+        "Text": "Koichi Soma"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000515, 
+        "Text": "Eldest of the three Dwarf brothers, and a skilled armor artisan. A childhood friend of Kaijin, he left Dwargon with him when invited to move to Tempest by Rimuru. He loves to show off his talent as an artisan, and spends day and night doing nothing but producing armor and items."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000516, 
+        "Text": "Dord"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000516, 
+        "Text": "Ryo Sugisaki"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000516, 
+        "Text": "Second of the three Dwarf brothers, he has a special talent for craftsmanship. A childhood friend of Kaijin, he left Dwargon with him when invited to move to Tempest by Rimuru. He loves to show off his talent as an artisan, and spends day and night doing nothing but producing items."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000517, 
+        "Text": "Myrd"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000517, 
+        "Text": "Masashi Nogawa"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000517, 
+        "Text": "Third of the three Dwarf brothers, he has a special talent for architecture and the arts. A childhood friend of Kaijin, he left Dwargon with him when invited to move to Tempest by Rimuru. He loves to show off his talent as an artisan, and spends day and night doing nothing but producing buildings and items."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000518, 
+        "Text": "Haruna"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000518, 
+        "Text": "Juri Kimura"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000518, 
+        "Text": "As a Goblina in charge of needlework and food, she studies under Shuna, and is steadily improving her skills and abilities. Growing and making good use of the etiquette she learns from Shuna, she has reached a level where she can entertain visiting state guests with her skills as a diplomat."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000519, 
+        "Text": "Gobuichi"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000519, 
+        "Text": "Kazumasa Nakamura"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000519, 
+        "Text": "A goblin with a budding culinary gift. The cuisine served at banquets in Tempest includes many dishes made by Gobuichi, and he rivals Shuna at pleasing the appetites of the people of Tempest. Rimuru has absolute faith in him, and often asks him to cook food from his original world such as Japanese cuisine, which he recreates faithfully."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 3001000520, 
+        "Text": "Kaijin"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000520, 
+        "Text": "Atsushi Ono"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000520, 
+        "Text": "A dwarf blacksmith who ran an armor shop in the Armed Nation of Dwargon with his childhood friends, the brothers Garm, Dord, and Myrd. Captain of the security force Kaido is his brother. Since leaving Dwargon and moving to Tempest, he has contributed to the development of many crafts. Often trades opinions on weapon-making with Kurobe."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 306000001, 
+        "Text": "Complete: {0}."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 306000002, 
+        "Text": "A new facility can be constructed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 306000003, 
+        "Text": "Facility construction complete."
+    }
+]

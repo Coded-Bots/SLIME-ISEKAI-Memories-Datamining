@@ -1,0 +1,337 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000001, 
+        "Text": "Notice: You can select a character to attack from the cards in your hand. \nYou can also select multiple cards with the same <color=#F7E416>character</color> or <color=#F7E416>type</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000002, 
+        "Text": "When you use the <color=#2BE41D>Soul of Skills</color>, it will give you <color=#2BE41D>skill points</color>, allowing characters to use their skills."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000003, 
+        "Text": "Since all cards in your hand are the <color=#2BE41D>Soul of Skills</color>, you can select all six. The skill button in the bottom left displays the amount of <color=#2BE41D>skill points</color> added to this attack."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000004, 
+        "Text": "Select multiple cards to use a combo. <color=#F7E416>More cards means more damage.</color>\nUnleash <color=#F7E416>even more powerful attacks</color> with a combo of four or more cards."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000005, 
+        "Text": "Use the <color=#EFBE15>Soul of Secrets</color> to fill the <color=#EFBE15>Secret Skill Gauge</color> displayed under each character's HP.\nWhen this gauge fills up, you can unleash a secret skill."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000006, 
+        "Text": "It is recommended that you utilize the skill you just acquired to increase your <color=#EFBE15>Soul of Secrets</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000007, 
+        "Text": "Choose a skill that turns <color=#2BE41D>Soul of Skills</color> into <color=#EFBE15>Soul of Secrets</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000008, 
+        "Text": "The <color=#EFBE15>Soul of Secrets</color> can be used to unleash a six-card combo. Each character's <color=#EFBE15>secret skill gauge</color> displays how much the gauge will be increased with the current attack."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000009, 
+        "Text": "As you have filled your <color=#EFBE15>Secret Skill Gauge</color>, <color=#F7E416>Secret Skill</color> activation is now available. Selecting this will use up the gauge and activate the Secret Skill, doing massive damage to the enemy."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000010, 
+        "Text": "You can use any card combination when activating a <color=#F7E416>Secret Skill</color>. We recommend selecting more cards before unleashing your attack."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000011, 
+        "Text": "This party has been blessed with Veldora Tempest's protection. Veldora's \n<color=#116DD5>'Divine Protection'</color> skill will increase the party's attack strength."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000012, 
+        "Text": "Using the <color=#116DD5>Soul of Divine Protection</color> will fill the <color=#116DD5>Protection Gauge</color>, allowing you to use specific skills."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000013, 
+        "Text": "The <color=#116DD5>Soul of Divine Protection</color> can be used to unleash a three-card combo. Each character's protection gauge displays how much the gauge will be increased with the current attack."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000014, 
+        "Text": "The previous turn has filled up your gauge, and now you can use a <color=#116DD5>Protection Skill</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000015, 
+        "Text": "Divine Protection has converted <color=#2BE41D>Soul of Skills</color> to <color=#EFBE15>Soul of Secrets</color> and increased the strength of this skill. From now on, you will be able to use it in battle freely."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000016, 
+        "Text": "Hold your finger down on an enemy or ally to display detailed information.\nIt is recommended that you engage in battle based on an understanding of your enemy's information."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000019, 
+        "Text": "You can eat things during certain quests.\nWhen you successfully eat something with <color=#F7E416>Predator</color>, you can <color=#F7E416>enhance your skills</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000020, 
+        "Text": "The success rate for eating is 0% at the start of a battle. <color=#F7E416>As you land attacks, the Predator gauge will fill up, and the success rate increases</color>."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000021, 
+        "Text": "You can activate the unique skill <color=#F7E416>Predator</color> by pressing the predator button.\nYour success rate depends on how full your gauge is."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000022, 
+        "Text": "Your predator gauge will go down when you get attacked by enemies."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000023, 
+        "Text": "Predator Success Rate: <color=#F7E416>High</color>\nIt is recommended that you activate the unique skill Predator."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000024, 
+        "Text": "The higher your Predator rating, the\nmore items you can acquire."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000025, 
+        "Text": "Acquired items may be used from the character details screen, and skills can also be enhanced."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000026, 
+        "Text": "Chapter {0} Part {1} - {2}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000027, 
+        "Text": "{0} Increased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000028, 
+        "Text": "{0} Decreased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000029, 
+        "Text": "MISS"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000030, 
+        "Text": "Nullified"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000031, 
+        "Text": "Status: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000032, 
+        "Text": "{0} Released"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000033, 
+        "Text": "MISS"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000034, 
+        "Text": "Increases damage by {0}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000035, 
+        "Text": "Decreases damage by {0}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000036, 
+        "Text": "Increases your gauge increase by {0}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000037, 
+        "Text": "Decreases your gauge increase by {0}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000038, 
+        "Text": "Increases amount of damage according to your combo by {0}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000039, 
+        "Text": "-"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000040, 
+        "Text": "Increases gauge increase rate according to your combo by {0}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000041, 
+        "Text": "-"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000042, 
+        "Text": "Begin Battle"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000043, 
+        "Text": "Increased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000044, 
+        "Text": "Decreased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000045, 
+        "Text": "(Turns: {0})"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000046, 
+        "Text": "{2} {0} by {1}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000047, 
+        "Text": "Changes status to: {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000048, 
+        "Text": "Cancels {0} Status"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000049, 
+        "Text": "(Turns: {0})"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000050, 
+        "Text": "Damage Inflicted Score"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000051, 
+        "Text": "Damage Received Score"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000052, 
+        "Text": "Turn Bonus"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000053, 
+        "Text": "Predator Success Rate Bonus"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000054, 
+        "Text": "Weakness Effect Bonus"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000055, 
+        "Text": "{0} Status: {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000056, 
+        "Text": "(Turns Remaining: {0})"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000057, 
+        "Text": "(Forever)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000058, 
+        "Text": "Increased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000059, 
+        "Text": "Decreased"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000060, 
+        "Text": "{0}{1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000061, 
+        "Text": "{2} {0} by {1}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000062, 
+        "Text": "{0} Status: {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000063, 
+        "Text": "(Trait)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000064, 
+        "Text": "Predator Success Rate: <color=#F7E416>100%+</color>\nIt is recommended that you activate the unique skill Predator."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000065, 
+        "Text": "Secret Skill Gauge UP"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000066, 
+        "Text": "Secret Skill Gauge DOWN"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000067, 
+        "Text": "Confirm Default Settings"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000068, 
+        "Text": "Return to default settings?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000069, 
+        "Text": "{0} Lv.{1}"
+    }
+]

@@ -1,0 +1,3462 @@
+[
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000101, 
+        "Text": "For me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000102, 
+        "Text": "Oh, thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000103, 
+        "Text": "You're the best."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000104, 
+        "Text": "I can always count on you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000105, 
+        "Text": "Please tell me you're not in sleep mode, too?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000106, 
+        "Text": "Morning. Sleep well?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000107, 
+        "Text": "You're such a hard worker. Very impressive."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000108, 
+        "Text": "Isn't it about time you got some sleep? Don't overdo it!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000109, 
+        "Text": "Hey, didn't you need something?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000110, 
+        "Text": "Ah, you scared me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000111, 
+        "Text": "Whaddaya need?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000112, 
+        "Text": "Blub blub! Heh."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000113, 
+        "Text": "Huh? Is something on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000114, 
+        "Text": "Uh, Great Sage... Oh, never mind. Just thinking about something."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000115, 
+        "Text": "Feels good to the touch, doesn't it? I take care of it every...well, never really."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000116, 
+        "Text": "Why not enjoy some tea and take a load off?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000117, 
+        "Text": "You can always come to me with your problems. I know I look like any old slime, but I'm more than that!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000118, 
+        "Text": "I'm so grateful for all the support I get. I better make sure I don't let everyone down!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000119, 
+        "Text": "You want to poke me and make me go glub glub? Fine... Poke to your heart's content."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000120, 
+        "Text": "What're these clothes?! They look amazing!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000121, 
+        "Text": "Whaddaya think? Looks better than you thought it would, huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000122, 
+        "Text": "Hey, hey, I dunno about this..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000123, 
+        "Text": "Blub blub! Heh."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000300, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000301, 
+        "Text": "For me? Really?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000302, 
+        "Text": "Thank you so much!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000303, 
+        "Text": "I'll stick by your side."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000304, 
+        "Text": "I'll keep supporting you with all I've got."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000305, 
+        "Text": "Something on your mind?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000306, 
+        "Text": "Good morning."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000307, 
+        "Text": "You always look busy."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000308, 
+        "Text": "Almost at the end of another day."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000309, 
+        "Text": "If you want me to wait, I can wait forever."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000310, 
+        "Text": "Did you need something? Go on, tell me what it is."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000311, 
+        "Text": "What? Is there something stuck to my face?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000314, 
+        "Text": "Let me go with you when you head out."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000316, 
+        "Text": "If bandits attack, I'll smash them all!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000319, 
+        "Text": "I'm here for you whenever you need help."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000320, 
+        "Text": "This feels good, and I like the way it looks, too."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000321, 
+        "Text": "What do you think about this? I'm just not used to this look..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000322, 
+        "Text": "Okay, so I wear this, and then what?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000323, 
+        "Text": "I'll keep supporting you with all I've got."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000400, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000401, 
+        "Text": "Oh, is this for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000402, 
+        "Text": "Thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000403, 
+        "Text": "I will continue doing my best!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000404, 
+        "Text": "I trust you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000405, 
+        "Text": "Hmm, maybe I'll keep slacking on the sly..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000406, 
+        "Text": "Aaah, good morning..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000407, 
+        "Text": "Hey!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000408, 
+        "Text": "Zzz... Oh! Hello!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000409, 
+        "Text": "Um... How much more do I have to wait?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000410, 
+        "Text": "Huh? You needed something?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000411, 
+        "Text": "Eek! Oh, I thought you were Hakurou..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000414, 
+        "Text": "'Touch me and you will feel the pain!' Oh, I just wanted to try saying that once."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000416, 
+        "Text": "Wanna go fishing? I know a great spot!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000418, 
+        "Text": "Hehehe... You can't help but be concerned about me, huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000420, 
+        "Text": "Oh, I like this outfit!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000421, 
+        "Text": "Hehe... How do I look?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000422, 
+        "Text": "This doesn't look right on me..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000501, 
+        "Text": "For me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000502, 
+        "Text": "Thank you so much!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000503, 
+        "Text": "Allow me to continue serving you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000504, 
+        "Text": "I will follow you for the rest of my life!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000505, 
+        "Text": "Is there something wrong?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000506, 
+        "Text": "Good morning."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000507, 
+        "Text": "You can always count on me."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000508, 
+        "Text": "Another day almost finished..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000509, 
+        "Text": "What is your next command?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000510, 
+        "Text": "What do you need of me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000511, 
+        "Text": "Taking care of you is my job, you know!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000513, 
+        "Text": "Is anything the matter?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000514, 
+        "Text": "I'm fond of my position as secretary."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000518, 
+        "Text": "I'll knock every enemy down!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000520, 
+        "Text": "What do you think? It's a new outfit!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000521, 
+        "Text": "Feels pretty good to wear, doesn't it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000522, 
+        "Text": "How d-does it look?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000601, 
+        "Text": "This is for me?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000602, 
+        "Text": "I thank you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000603, 
+        "Text": "Please allow me to continue to attend upon you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000604, 
+        "Text": "You have my loyalty, Master."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000605, 
+        "Text": "It is not my intention to stand in your way, Master, but..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000606, 
+        "Text": "What are your plans for today, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000607, 
+        "Text": "Sometimes we must take a break, surely."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000608, 
+        "Text": "If you ever need something, don't hesitate to call on me."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000609, 
+        "Text": "My Master, we can only wait so long..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000610, 
+        "Text": "Did you call for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000611, 
+        "Text": "Is there something you needed from me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000613, 
+        "Text": "When you go out, please take me with you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000615, 
+        "Text": "Did you have an errand for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000618, 
+        "Text": "To be petted by you is supreme bliss."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000620, 
+        "Text": "Such a wonderful gift, and for me! You have my gratitude!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000621, 
+        "Text": "This is good, too."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000622, 
+        "Text": "It's difficult to move..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000623, 
+        "Text": "How do you like my fur?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000701, 
+        "Text": "What? For me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000702, 
+        "Text": "I'm extremely delighted by this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000703, 
+        "Text": "I'll keep trying to help out."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000704, 
+        "Text": "Serving you is my greatest joy."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000705, 
+        "Text": "He seems to be deep in thought..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000706, 
+        "Text": "I see you're already awake.\nYou look well."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000707, 
+        "Text": "It's not often I see you alone in the afternoon."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000708, 
+        "Text": "Night patrol? Allow me to join you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000709, 
+        "Text": "Please let me know if you need anything."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000710, 
+        "Text": "Nothing's happened that's worth reporting."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000711, 
+        "Text": "What is it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000712, 
+        "Text": "Let's not play around too much."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000716, 
+        "Text": "Talk to me before you head out."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000719, 
+        "Text": "I am your loyal shadow. Command me, and it shall be done."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000720, 
+        "Text": "Thank you for this wonderful clothing."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000721, 
+        "Text": "I'm not used to this outfit. What do you think of it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000722, 
+        "Text": "So this is what he prefers..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000723, 
+        "Text": "I'm extremely delighted by this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000801, 
+        "Text": "Are you absolutely sure?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000802, 
+        "Text": "Oh, thank you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000803, 
+        "Text": "A good man..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000804, 
+        "Text": "I am a loyal servant!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000805, 
+        "Text": "Whatever might be the problem...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000806, 
+        "Text": "Good morning! Did you sleep well last night?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000807, 
+        "Text": "Hello, hello! Good day!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000808, 
+        "Text": "Good evening! Such a lovely night."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000809, 
+        "Text": "Please do not hesitate to let me know if I make a mistake!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000810, 
+        "Text": "What do you need of me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000811, 
+        "Text": "All the town's people really do work hard... I must work harder, too!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000812, 
+        "Text": "I'm doing everything I possibly can for the town!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000815, 
+        "Text": "Ooh, thank you so much for calling on me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000819, 
+        "Text": "To be honest, I'm a bit proud of this physique..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000820, 
+        "Text": "Such a fantastic outfit! I'm not worthy of this honor!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000821, 
+        "Text": "For someone like me... Does it look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000822, 
+        "Text": "This won't do..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000901, 
+        "Text": "What's this? A gift?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000902, 
+        "Text": "Bwahahaha! For me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000903, 
+        "Text": "I expect our good relationship to continue, understood?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000904, 
+        "Text": "I'm relying on you, my good friend."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000905, 
+        "Text": "No one makes me wait but you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000906, 
+        "Text": "The light of a good day."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000907, 
+        "Text": "You always seem busy!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000908, 
+        "Text": "The end of another day."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000909, 
+        "Text": "What? You need something, don't you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000910, 
+        "Text": "It's important to take a rest on occasion."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000911, 
+        "Text": "Time to engage in battle?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000912, 
+        "Text": "How goes it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000914, 
+        "Text": "A ruler cannot spoil his citizens. Remember this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000916, 
+        "Text": "You can rely on me if it comes down to it."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000920, 
+        "Text": "Well? How's it suit me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000921, 
+        "Text": "I don't wear such things."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000922, 
+        "Text": "What would you have me do?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001001, 
+        "Text": "Oh, is this for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001002, 
+        "Text": "Oh, this makes me so happy... Thank you so much!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001003, 
+        "Text": "I'm happy."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001004, 
+        "Text": "Hurry up and take your time."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001005, 
+        "Text": "You went to sleep?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001006, 
+        "Text": "Good morning."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001007, 
+        "Text": "What should I make for lunch?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001008, 
+        "Text": "Such a beautiful night."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001009, 
+        "Text": "You look so very thoughtful...I suppose you're making plans for the future of our town."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001010, 
+        "Text": "Oh, what did you need?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001011, 
+        "Text": "How are you doing?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001012, 
+        "Text": "Did you see my brother?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001013, 
+        "Text": "Another beautiful day. Perfect laundry weather."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001016, 
+        "Text": "These are freshly baked sweets. Please take one."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001020, 
+        "Text": "Wow, such an amazing outfit! Does this look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001021, 
+        "Text": "When you look at me like that, it makes me blush..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001022, 
+        "Text": "I've never seen this type of design before..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001101, 
+        "Text": "Oh, is this for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001102, 
+        "Text": "I will accept this with gratitude!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001103, 
+        "Text": "Thank you for everything."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001104, 
+        "Text": "You have our cooperation."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001105, 
+        "Text": "If you have a problem, consider talking to someone about it."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001106, 
+        "Text": "Good morning."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001107, 
+        "Text": "I'm taking a break at the moment. Care to join me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001108, 
+        "Text": "Looks like the day will end without mishap."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001109, 
+        "Text": "How long should I stand by?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001110, 
+        "Text": "Long time no see."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001111, 
+        "Text": "Is there something I can help you with as caretaker of the forest?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001112, 
+        "Text": "The forest is peaceful today too, thankfully."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001113, 
+        "Text": "If anything unusual occurs in the forest, I'll report to you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001115, 
+        "Text": "Don't be afraid to come talk to me with your problems. I'll help."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001120, 
+        "Text": "Oh, wonderful!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001121, 
+        "Text": "I've never worn anything like this before. How does it look?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001122, 
+        "Text": "Um, this is for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001200, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001201, 
+        "Text": "Are you sure about this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001202, 
+        "Text": "I'll treasure it, teehee!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001203, 
+        "Text": "You're an interesting one."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001204, 
+        "Text": "What are you here to talk about today?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001205, 
+        "Text": "There are so many things here that we never see in the forest."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001206, 
+        "Text": "Let's enjoy soaking up this morning sun."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001207, 
+        "Text": "Are you taking a break? Why not spend it with me...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001208, 
+        "Text": "The forest is so quiet at night. I don't mind a noisy night too, though."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001209, 
+        "Text": "Please tell me more."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001210, 
+        "Text": "What did you want? Oh? Just to talk...? Teehee!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001211, 
+        "Text": "Are you interested in Dryads?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001212, 
+        "Text": "Do you like the forest?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001215, 
+        "Text": "Treyni is my older sister. I also have a younger sister by the name of Dris."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001219, 
+        "Text": "A nice breeze is blowing. I hope you're enjoying your day."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001220, 
+        "Text": "Oh, what a wonderful outfit!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001221, 
+        "Text": "I'm a little embarrassed."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001222, 
+        "Text": "This is...not very modest..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001301, 
+        "Text": "Huh? What?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001302, 
+        "Text": "Wow... Thanks."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001303, 
+        "Text": "You're kind."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001304, 
+        "Text": "I'm glad you came."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001305, 
+        "Text": "I don't mind a bit of silence."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001306, 
+        "Text": "Lovely morning, isn't it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001307, 
+        "Text": "Hello, are you going somewhere?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001308, 
+        "Text": "Good evening. The nights are peaceful in this land."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001309, 
+        "Text": "Guess I'll take care of my mask..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001310, 
+        "Text": "Hehe, what is it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001311, 
+        "Text": "You really are strong, aren't you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001312, 
+        "Text": "There's a sweet in Japan that looks like a slime?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001315, 
+        "Text": "Tell me more about Japan."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001317, 
+        "Text": "I wish I knew what you looked like before you were reincarnated."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001320, 
+        "Text": "Oh, really? Are you sure it's okay for me to have this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001321, 
+        "Text": "You really are good at getting people to do what you want, huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001322, 
+        "Text": "I've never dressed like this before... It's not weird?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001401, 
+        "Text": "For me, you say?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001402, 
+        "Text": "Hmph... Of course..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001403, 
+        "Text": "Have you any interest in being my subordinate?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001404, 
+        "Text": "I\u2019ve grown sick of waiting, you scum!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001405, 
+        "Text": "This is my chance to escape...Wh-What?! Y-You! You're still here?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001406, 
+        "Text": "I\u2019m happy so long as you aren't puttering around lazily all day long. Keep on working hard for me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001407, 
+        "Text": "I simply can't relax in all this dratted sunlight!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001408, 
+        "Text": "Ahh, the moon. Its light suits me handsomely, don't you think? Of course you do! Hahahaha!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001409, 
+        "Text": "Y-You dare to leave me behind...? Hey! Geld! Where is Geld?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001410, 
+        "Text": "You have some nerve, trying to touch me like that!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001413, 
+        "Text": "Make some friends, you say?! Hmph! I need no such thing!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001414, 
+        "Text": "Surely you don't imagine you can wheedle your way into the heart of the great Lord Gelmud, do you?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001415, 
+        "Text": "Your entire attitude disgusts me...Ugh, have it your way."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001417, 
+        "Text": "Join forces with me, the great Lord Gelmud, and we shall rule the world! Wahaha!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001420, 
+        "Text": "Not a bad design at all. You think so too, don't you?! Don't you?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001421, 
+        "Text": "Of course it looks good!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001422, 
+        "Text": "Does this amuse you? Aaarrrgh!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001500, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001501, 
+        "Text": "Huh? For me?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001502, 
+        "Text": "Not bad! I'll take it!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001503, 
+        "Text": "You're an interesting one!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001504, 
+        "Text": "I like you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001505, 
+        "Text": "Why are you leaving me behind! Pay attention to me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001506, 
+        "Text": "What a fantastic morning! When's breakfast?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001507, 
+        "Text": "I'm starved! Let's eat now!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001508, 
+        "Text": "I'm sleepy! Prepare my bed!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001509, 
+        "Text": "I'm bored! So bored! I hate being bored!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001510, 
+        "Text": "What's your business with me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001512, 
+        "Text": "Got anything tasty?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001513, 
+        "Text": "You want to play with me? Doing what?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001516, 
+        "Text": "We're besties, right?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001518, 
+        "Text": "Hmph. You are all playing without me. Let me play, too!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001520, 
+        "Text": "This is nice! It looks good on me, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001521, 
+        "Text": "Don't stare like that, you're making me blush!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001522, 
+        "Text": "I just can't relax for some reason..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001523, 
+        "Text": "What's your business with me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001601, 
+        "Text": "Oh, for me? Really?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001602, 
+        "Text": "Oh, thank you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001603, 
+        "Text": "I will always be your loyal follower."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001604, 
+        "Text": "Allow me to serve you even more faithfully!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001605, 
+        "Text": "Did you need something?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001606, 
+        "Text": "It's an honor to see you this fine morning!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001607, 
+        "Text": "How about a break?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001608, 
+        "Text": "Another day, almost done..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001609, 
+        "Text": "I can help any time you need me."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001610, 
+        "Text": "I'll let you know if something happens!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001612, 
+        "Text": "Did I do something wrong?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001613, 
+        "Text": "My work is coming along just fine!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001614, 
+        "Text": "If you've got some free time, why not inspect my workplace?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001616, 
+        "Text": "If an enemy appears, leave it to the Dragonewts!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001619, 
+        "Text": "Does this suit me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001620, 
+        "Text": "This feels good on the skin, and is easy to move around in."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001621, 
+        "Text": "Does this suit me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001622, 
+        "Text": "I'm not sure I should be wearing this..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001701, 
+        "Text": "For...me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001702, 
+        "Text": "Thank you for this!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001703, 
+        "Text": "I'll stay useful to you, you'll see."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001704, 
+        "Text": "I await your every command."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001705, 
+        "Text": "Are you...telling me to take a break? How kind..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001706, 
+        "Text": "Good morning. I'll work hard today, too."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001707, 
+        "Text": "Hello, sir. The work is going smoothly today, too."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001708, 
+        "Text": "Hello, sir. Let's rest up well for tomorrow."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001709, 
+        "Text": "Um, was there something you need?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001710, 
+        "Text": "Can I assist you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001711, 
+        "Text": "If you need help, I'll send someone who is free."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001712, 
+        "Text": "Oh, good timing. I wanted to talk to you about the construction work..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001714, 
+        "Text": "Is this an invitation to a bout?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001715, 
+        "Text": "If you're free, please come by the work site. I'm sure everyone would be happy to see you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001720, 
+        "Text": "This is perfect for me. Thank you so much!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001721, 
+        "Text": "I'm sure the quality is good, but I must say I find this a bit embarrassing..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001722, 
+        "Text": "Does this look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001800, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001801, 
+        "Text": "Did you need me for something?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001802, 
+        "Text": "I humbly accept."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001803, 
+        "Text": "You truly are a good Master."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001804, 
+        "Text": "How about a cup of tea?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001805, 
+        "Text": "Meditation, is it? Good, good."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001806, 
+        "Text": "I'm doing fine. Oldsters like to wake up early."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001807, 
+        "Text": "Care to join me for training this afternoon?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001808, 
+        "Text": "Would you like to have a drink and a look at the moon with me tonight?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001809, 
+        "Text": "Thinking? I\u2019ll have to work on my power of concentration, too..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001810, 
+        "Text": "What did you need?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001811, 
+        "Text": "Always maintain your weapon."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001812, 
+        "Text": "Maybe I'll go for a walk."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001814, 
+        "Text": "Glad to see you're in good health today."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001815, 
+        "Text": "You want to speak with an old man?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001820, 
+        "Text": "What a fantastic article... Feels great on the skin."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001821, 
+        "Text": "This brocade, it's too much for a geezer like me."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001822, 
+        "Text": "Wearing this and drawing my sword...Oh yeah, I can call this part of my training."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001900, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001901, 
+        "Text": "Oh! A gift!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001902, 
+        "Text": "It's a good thing!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001903, 
+        "Text": "I'll polish my skills for you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001904, 
+        "Text": "I've been waiting!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001905, 
+        "Text": "I made it, but there was no one there to see it..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001906, 
+        "Text": "Another great morning! I'm gonna get a lot of work done today."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001907, 
+        "Text": "At last, I can take a break! Don't you overdo it either, all right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001908, 
+        "Text": "If you don't get to bed early, it'll affect your work tomorrow you know?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001909, 
+        "Text": "All right, back to the workshop."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001911, 
+        "Text": "Would you like to try hammering a blade?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001912, 
+        "Text": "The steel gets incredibly hot. It's no joke. Why, just the other day..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001915, 
+        "Text": "Looks like we can make some more nice weapons."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001917, 
+        "Text": "Make sure to ask me if there's ever something I can do for ya."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001919, 
+        "Text": "I'm hungry..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001920, 
+        "Text": "Whoa! Sure, sure!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001921, 
+        "Text": "This is wasted on me..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010001922, 
+        "Text": "Does it really...look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002001, 
+        "Text": "Oh? That's mine?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002002, 
+        "Text": "Eheheh, thanks..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002003, 
+        "Text": "Teach me all sorts of stuff, 'kay?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002004, 
+        "Text": "Thank you for everything, Teacher..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002005, 
+        "Text": "How much longer do I gotta wait, though?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002006, 
+        "Text": "G-Good morning!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002007, 
+        "Text": "Let's go eat!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002008, 
+        "Text": "You've been working this whole time...? That's a lotta work..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002009, 
+        "Text": "Maybe everyone forgot about me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002010, 
+        "Text": "You just gotta study."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002011, 
+        "Text": "You're going somewhere? Can I go with you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002012, 
+        "Text": "You sometimes do childish things, don't you Teacher?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002015, 
+        "Text": "I wanna play tag or something with you again, Teacher!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002018, 
+        "Text": "Have you seen Ken? We were supposed to do something, but I can't find him anywhere..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002020, 
+        "Text": "This is easy to move around in, and light... It's great!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002021, 
+        "Text": "Does this look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002022, 
+        "Text": "What? I gotta wear this, you mean?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002101, 
+        "Text": "A present for me? Huh..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002102, 
+        "Text": "Thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002103, 
+        "Text": "Doesn't seem like a bad person..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002104, 
+        "Text": "I think I like him...maybe."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002105, 
+        "Text": "How dare you leave me by myself!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002106, 
+        "Text": "What a nice morning. I woke up right away."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002107, 
+        "Text": "How are you doing? Wanna go somewhere and play?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002108, 
+        "Text": "I don't wanna go to sleep yet! Stop treating me like a kid!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002109, 
+        "Text": "Hey! You've got time! Pay attention to me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002110, 
+        "Text": "What. What do you want?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002111, 
+        "Text": "Do you know where Chlo went?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002115, 
+        "Text": "Do you wanna see my dollies, too? Okay, fine. You can see 'em."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002116, 
+        "Text": "Hey, let's play a game."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002117, 
+        "Text": "Praise me some more! You're not praising me enough!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002120, 
+        "Text": "How's this look? Good on me? Teehee!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002121, 
+        "Text": "Don't look at me, I'm embarrassed!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002122, 
+        "Text": "What am I gonna do with this...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002201, 
+        "Text": "Something for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002202, 
+        "Text": "Yay! Thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002203, 
+        "Text": "I guess I can accept you...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002204, 
+        "Text": "Thanks for everything."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002205, 
+        "Text": "What? How boring."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002206, 
+        "Text": "Goood mooorning!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002207, 
+        "Text": "I'm so hungry... Let's go eat something!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002208, 
+        "Text": "I'm not sleepy yet, so let's play!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002209, 
+        "Text": "I'm bored... I said I'm bored!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002210, 
+        "Text": "Next time I'll definitely win!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002211, 
+        "Text": "Adults are the worst!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002212, 
+        "Text": "Don't look, I'm practicing my finishing move!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002213, 
+        "Text": "Hey, hey, let's do a mock battle!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002216, 
+        "Text": "Hey, hey, what game are we gonna play tomorrow?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002220, 
+        "Text": "Whoa, cooooool!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002221, 
+        "Text": "This looks good on me? Does it? Does it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002222, 
+        "Text": "This clothes...is hard to wear."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002301, 
+        "Text": "That's for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002302, 
+        "Text": "Oh, thank you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002303, 
+        "Text": "Teach me more stuff!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002304, 
+        "Text": "I'll learn to be more like you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002305, 
+        "Text": "Do you need something?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002306, 
+        "Text": "Good morning, Teacher."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002307, 
+        "Text": "What's the afternoon class about?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002308, 
+        "Text": "I'm starting to get a little sleepy..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002309, 
+        "Text": "Maybe it's time to go back to the school?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002310, 
+        "Text": "What are we gonna do next, Teacher?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002313, 
+        "Text": "What's today's lesson about?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002314, 
+        "Text": "Study hard and play hard, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002316, 
+        "Text": "Have you seen Kenya and the others?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002319, 
+        "Text": "You can do anything, can't you Teacher?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002320, 
+        "Text": "Clothes other than our uniform? Thank you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002321, 
+        "Text": "I'm not really used to wearing this... Does it look okay though?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002322, 
+        "Text": "Kenya's gonna laugh at me..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002323, 
+        "Text": "What's today's lesson about?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002401, 
+        "Text": "Can it be? For me...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002402, 
+        "Text": "Oh, thank you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002403, 
+        "Text": "You are a splendid person, indeed."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002404, 
+        "Text": "I swear my loyalty to you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002405, 
+        "Text": "Have I perhaps made a blunder of some sort...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002406, 
+        "Text": "You seem in good health. I am glad."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002407, 
+        "Text": "Please, take all the time you need."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002408, 
+        "Text": "Set your mind at ease. I shall protect Queen Ramiris without fail."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002409, 
+        "Text": "Do you have further orders for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002410, 
+        "Text": "Is there something you need from me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002412, 
+        "Text": "I enjoy spending time with Queen Ramiris, as well."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002413, 
+        "Text": "Do you have new orders for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002416, 
+        "Text": "I have grown very pleasantly accustomed to this body of mine."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002418, 
+        "Text": "Are you certain that I am well-qualified enough to advise you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002420, 
+        "Text": "Thank you very much for this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002421, 
+        "Text": "I'm not quite sure it suits me..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002422, 
+        "Text": "I apologize. I'm not sure how to respond..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002501, 
+        "Text": "A present...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002502, 
+        "Text": "Thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002503, 
+        "Text": "Such a good person..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002504, 
+        "Text": "Um... I like you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002505, 
+        "Text": "Why are you leaving me alone?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002506, 
+        "Text": "Good mornin'... Ooh, I'm still sleepy..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002507, 
+        "Text": "Hello. Did you already eat lunch?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002508, 
+        "Text": "Hi... I want to say good night and go to sleep already..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002509, 
+        "Text": "I'm sad when you don't pay attention to me."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002510, 
+        "Text": "Whaaat?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002511, 
+        "Text": "Where did Alice go?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002512, 
+        "Text": "I'm reading a picture book now. Can we do this later?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002513, 
+        "Text": "Oh, you scared me..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002514, 
+        "Text": "Thanks for caring a whole whole lot about me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002520, 
+        "Text": "So cute... I'm so happy!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002521, 
+        "Text": "Uh, are you sure this looks good on me though...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002522, 
+        "Text": "I don't like this..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002601, 
+        "Text": "Oh? That's for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002602, 
+        "Text": "Wow, thank you so much!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002603, 
+        "Text": "Amazing as always, Master!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002604, 
+        "Text": "I was waiting for you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002605, 
+        "Text": "What is it? Oh, don't tell me it's the next manga?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002606, 
+        "Text": "Such a brisk and refreshing morning."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002607, 
+        "Text": "Oh, how are the children doing?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002608, 
+        "Text": "Are you done with your work? Do you have time to talk for a bit?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002609, 
+        "Text": "Yes, sir! I can't stop reading manga these days..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002610, 
+        "Text": "Oh, hello there Great Rimuru."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002612, 
+        "Text": "If you ever need anything, please feel free to ask the Free Union."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002613, 
+        "Text": "It's lonely at the top, isn't it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002614, 
+        "Text": "Do you ever feel like calling it quits, even before the job is done?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002617, 
+        "Text": "I'm amazed by how far Japanese manga have come in terms of artistry!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002620, 
+        "Text": "Ooh, this looks exactly like what that one character wears!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002621, 
+        "Text": "Whoa, does this look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002622, 
+        "Text": "Aah...maybe too flashy?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002623, 
+        "Text": "It's lonely at the top, isn't it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002701, 
+        "Text": "For me? What is it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002702, 
+        "Text": "Hmm, it\u2019s not bad..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002703, 
+        "Text": "You seem like a good person."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002704, 
+        "Text": "I swear loyalty to you above all others, except Lord Carrion."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002705, 
+        "Text": "Why must you leave me behind?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002706, 
+        "Text": "Morning has come. Are you awake?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002707, 
+        "Text": "It is already noon. Are you working hard?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002708, 
+        "Text": "The enemy is particularly likely to raid at night. You must be cautious."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002709, 
+        "Text": "You're still keeping me waiting?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002710, 
+        "Text": "What's this, all of a sudden?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002711, 
+        "Text": "I must ask you to stop touching me so familiarly."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002712, 
+        "Text": "Leopard Fang Flaming Palm! Ha, I'm only joking."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002715, 
+        "Text": "Are you really that concerned about me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002720, 
+        "Text": "What fine clothing. I quite like it."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002721, 
+        "Text": "It suits me? I see..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002722, 
+        "Text": "I...can't wear this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050101, 
+        "Text": "Oho, an offering for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050102, 
+        "Text": "Delicious! This is delicious!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050103, 
+        "Text": "I expected nothing less of you, my friend. Hehehe..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050105, 
+        "Text": "Hey, hey! Don't you care about me? Why are you ignoring me?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050106, 
+        "Text": "Gwahahaha! What a fine morning!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050107, 
+        "Text": "Hmph, noon already? I hope you've got something tasty for me to eat."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050108, 
+        "Text": "The night is long! We can chat together to our hearts' content!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050109, 
+        "Text": "Being left behind is so lonely...I'm so lonesome, my friend..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050110, 
+        "Text": "You are my friend, and that is that! You should take great pride in it!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050111, 
+        "Text": "I'm quite pleased with this Tempest name I received from you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050113, 
+        "Text": "Still, don't you think you might be using my magicules a little too freely?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050115, 
+        "Text": "Are there more of these sacred writings? I can't help being curious!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050116, 
+        "Text": "I never imagined the Great Forest of Jura could flourish like this!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050120, 
+        "Text": "Imagine me, dressed like this!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050121, 
+        "Text": "Oh, does it suit me? I see, I see!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050122, 
+        "Text": "Doesn't this seem somewhat undignified?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050123, 
+        "Text": "Gwahahaha! Behold my power!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050201, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050202, 
+        "Text": "Gah-hahaha!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050203, 
+        "Text": "Gah-hahaha!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050204, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050205, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050206, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050207, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050209, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050220, 
+        "Text": "Gah-hahaha!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050301, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050302, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050303, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050304, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050305, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050306, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050307, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050308, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050320, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050401, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050402, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050403, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050404, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050405, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050406, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050407, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050408, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050409, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050420, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050501, 
+        "Text": "Well? Well?? Amazing, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050502, 
+        "Text": "Limit Break!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050503, 
+        "Text": "I'll give you some eeextra special\nhelp!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050504, 
+        "Text": "Well? Well?? Amazing, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050505, 
+        "Text": "Elemental Colossus, activate!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050506, 
+        "Text": "Elemental Colossus, activate!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050507, 
+        "Text": "Elemental Colossus, activate!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050508, 
+        "Text": "Well? Well?? Amazing, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050509, 
+        "Text": "Limit Break!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050520, 
+        "Text": "Well? Well?? Amazing, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050601, 
+        "Text": "What, what? What are you giving me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050602, 
+        "Text": "Woohoo! Thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050603, 
+        "Text": "Are you a good guy, then?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050604, 
+        "Text": "I will accept that you are no fool."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050605, 
+        "Text": "Hey! I'm bored!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050606, 
+        "Text": "G'morning! What're you gonna do now, huh? Huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050607, 
+        "Text": "What should I have for lunch today? Got any suggestions? What do you suggest, huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050608, 
+        "Text": "You always work so hard. I'm amazed how you never seem to get tired..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050609, 
+        "Text": "I'll have to do mischief while he's thinking of something..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050610, 
+        "Text": "Whaaat? Something fun?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050611, 
+        "Text": "I can go wherever I want."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050612, 
+        "Text": "Aah, you startled me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050617, 
+        "Text": "Hey, you! Don't hog all the fun things for yourself!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050619, 
+        "Text": "Beretta is imitating me? Is there something wrong with that?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050620, 
+        "Text": "I wear this well, of course!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050621, 
+        "Text": "Do you really think this looks good on me? Don't you dare lie!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050622, 
+        "Text": "...This is a joke, right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050701, 
+        "Text": "Are you sure about this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050702, 
+        "Text": "You have my gratitude!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050703, 
+        "Text": "Let's build a good relationship."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050704, 
+        "Text": "Got any new moneymaking schemes?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050705, 
+        "Text": "Let's build a good relationship."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050706, 
+        "Text": "Let's build a good relationship."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050707, 
+        "Text": "Let's build a good relationship."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050708, 
+        "Text": "Got any new moneymaking schemes?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050709, 
+        "Text": "Heheheh, that sounds like another interesting scheme."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050720, 
+        "Text": "Heheheh, that sounds like another interesting scheme."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050801, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050802, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050803, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050805, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050806, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050807, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050808, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050809, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050819, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050820, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050901, 
+        "Text": "What? For me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050902, 
+        "Text": "Thank you very much for this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050903, 
+        "Text": "You're inexhaustible, aren't you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050904, 
+        "Text": "I hope I can always count on you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050905, 
+        "Text": "Look, I know you're a busy guy, but..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050906, 
+        "Text": "Good morning. Looks like a nice one, huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050907, 
+        "Text": "If you're going to go train, do you mind bringing me along?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050908, 
+        "Text": "This turned into an awfully long stay without us realizing it, huh?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050909, 
+        "Text": "How long has it been since we last took it easy like this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050910, 
+        "Text": "Oh? What did you need?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050911, 
+        "Text": "Being here is turning everything I thought I knew on its head...That's how it feels, anyway."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050912, 
+        "Text": "You're just full of surprises for me, aren't you?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050913, 
+        "Text": "It's so cheerful and peaceful here. What a great place."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050914, 
+        "Text": "If you need a guide to show you around Blumund, I'm your man."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050920, 
+        "Text": "Ever since I saw the clothes Kaval and the others got, I've been wanting some of my own!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050921, 
+        "Text": "How is it? Does it suit me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050922, 
+        "Text": "How...avant-garde."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051001, 
+        "Text": "For one such as me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051002, 
+        "Text": "You have my gratitude."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051003, 
+        "Text": "I owe you a debt."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051004, 
+        "Text": "I will meet your expectations."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051005, 
+        "Text": "He seems busy... I guess I'll take this time to organize my research materials."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051006, 
+        "Text": "Good morning. It's bright outside of the cave, isn't it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051007, 
+        "Text": "I love how busy the town gets during the afternoon."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051008, 
+        "Text": "Oh, it's night time already. When I'm concentrating on my research, I lose track of time..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051009, 
+        "Text": "I see you're still not free."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051010, 
+        "Text": "My research is going well."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051011, 
+        "Text": "You don't visit the laboratory very often."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051012, 
+        "Text": "Please let me know if you plan on sending a message to King Gazel."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051015, 
+        "Text": "This town truly is full of inspirational things."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051018, 
+        "Text": "Why did I cling to my authority so insistently before...?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051020, 
+        "Text": "This feels great to wear."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051021, 
+        "Text": "I don't dress like this very often. How does it suit me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051022, 
+        "Text": "This outfit is a bit..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051101, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051102, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051103, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051104, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051105, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051106, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051107, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051109, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051120, 
+        "Text": "..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051201, 
+        "Text": "Ooh, what's this? Something for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051202, 
+        "Text": "Hooray! Wow, thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051203, 
+        "Text": "I ought to thank you for summoning me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051204, 
+        "Text": "I ought to thank you for summoning me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051205, 
+        "Text": "I've taken a real shine to this place! Oh, and Ken, too, of course."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051206, 
+        "Text": "I've taken a real shine to this place! Oh, and Ken, too, of course."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051207, 
+        "Text": "I've taken a real shine to this place! Oh, and Ken, too, of course."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051208, 
+        "Text": "I'll take good care of Ken, so don't worry about a thing! He might become a Hero, you know!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051209, 
+        "Text": "I love it here! Ken likes it too."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051220, 
+        "Text": "Hooray! Wow, thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051301, 
+        "Text": "Oh my, what's this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051302, 
+        "Text": "Heehee, I\u2019ll have to give you a freebie next time."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051303, 
+        "Text": "You're always welcome at my bar."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051304, 
+        "Text": "You're always welcome at my bar."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051305, 
+        "Text": "Oh my, what's this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051306, 
+        "Text": "Oh my, what's this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051307, 
+        "Text": "Oh my, what's this?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051308, 
+        "Text": "For a customer like you, we're sure to roll out the welcome wagon!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051309, 
+        "Text": "You really do have a surprisingly good head for business."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051320, 
+        "Text": "Heehee, I\u2019ll have to give you a freebie next time."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051401, 
+        "Text": "What? What\u2019s the matter?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051402, 
+        "Text": "Oh, my goodness, how generous!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051403, 
+        "Text": "You\u2019re really irresistible, you know that?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051404, 
+        "Text": "What? What\u2019s the matter?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051405, 
+        "Text": "What? What\u2019s the matter?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051406, 
+        "Text": "What? What\u2019s the matter?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051407, 
+        "Text": "Oh, hey! Why don\u2019t I tell your fortune?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051408, 
+        "Text": "Oh, hey! Why don\u2019t I tell your fortune?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051409, 
+        "Text": "Be careful out there, okay? There are a lot of people with their eyes on you, you know."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051420, 
+        "Text": "Oh, my goodness, how generous!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051501, 
+        "Text": "You're giving that to me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051502, 
+        "Text": "Thanks."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051503, 
+        "Text": "You\u2019re an amazing guy."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051504, 
+        "Text": "I just made some new clothes. Could you try them on when they're ready?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051505, 
+        "Text": "I just made some new clothes. Could you try them on when they're ready?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051506, 
+        "Text": "I just made some new clothes. Could you try them on when they're ready?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051507, 
+        "Text": "Your ideas are always so interesting..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051508, 
+        "Text": "I just made some new clothes. Could you try them on when they're ready?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051509, 
+        "Text": "Your ideas are always so interesting..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051520, 
+        "Text": "Your ideas are always so interesting..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051601, 
+        "Text": "Is that for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051602, 
+        "Text": "I thank you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051603, 
+        "Text": "I appreciate all that you do."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051604, 
+        "Text": "We're pretty well-known as the three Dwarf brothers, Garm, Myrd, and Dord."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051605, 
+        "Text": "We're pretty well-known as the three Dwarf brothers, Garm, Myrd, and Dord."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051606, 
+        "Text": "We're pretty well-known as the three Dwarf brothers, Garm, Myrd, and Dord."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051607, 
+        "Text": "To think, you could use a carved seal that way..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051608, 
+        "Text": "We're pretty well-known as the three Dwarf brothers, Garm, Myrd, and Dord."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051609, 
+        "Text": "To think, you could use a carved seal that way..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051620, 
+        "Text": "I thank you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051701, 
+        "Text": "Mmm?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051702, 
+        "Text": "Mhm!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051703, 
+        "Text": "Mm... Mmm."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051704, 
+        "Text": "Hm..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051705, 
+        "Text": "Hm..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051706, 
+        "Text": "Hm..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051707, 
+        "Text": "Mm... Mmm."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051708, 
+        "Text": "Hm..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051709, 
+        "Text": "Hmm?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051720, 
+        "Text": "Mhm!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051801, 
+        "Text": "For me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051802, 
+        "Text": "Wow! I\u2019ll treasure it!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051803, 
+        "Text": "Um...I\u2019ve always admired you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051804, 
+        "Text": "I'd love to be of help... Is that a problem?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051805, 
+        "Text": "I'd love to be of help... Is that a problem?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051806, 
+        "Text": "I'd love to be of help... Is that a problem?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051807, 
+        "Text": "Um...I\u2019ve always admired you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051808, 
+        "Text": "I-I wish I could help you, too...Um, have I said too much?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051809, 
+        "Text": "Giving us names has granted us a long lifespan... So the least I can do is treasure the life you gave me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051820, 
+        "Text": "Wow! I\u2019ll treasure it!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051901, 
+        "Text": "I-Is that for me?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051902, 
+        "Text": "I'll devote myself to returning the favor!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051903, 
+        "Text": "I\u2019ll stick by your side!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051904, 
+        "Text": "Is there something you need from me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051905, 
+        "Text": "Is there something you need from me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051906, 
+        "Text": "Is there something you need from me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051907, 
+        "Text": "I found some ingredients that look interesting!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051908, 
+        "Text": "Is there something you need from me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051909, 
+        "Text": "I found some ingredients that look interesting!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010051920, 
+        "Text": "I-Is that for me?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052001, 
+        "Text": "Oh? For me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052002, 
+        "Text": "Hehe, thanks!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052003, 
+        "Text": "You can always rely on me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052004, 
+        "Text": "I can always count on you!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052005, 
+        "Text": "Sometimes it's nice to just think about nothing at all like this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052006, 
+        "Text": "Another day to put our back into it, eh Rimuru?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052007, 
+        "Text": "I know you're busy, but at least take time out for lunch, all right?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052008, 
+        "Text": "Hello. Another day, doing our best."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052009, 
+        "Text": "Heyyy, what is it? I'm heading back to the forge."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052010, 
+        "Text": "Hmm, what's the matter?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052011, 
+        "Text": "Do you enjoy touching an old man?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052013, 
+        "Text": "When it comes to weapons, just leave it to me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052017, 
+        "Text": "How about a drink after work?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052019, 
+        "Text": "Leave the forging to me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052020, 
+        "Text": "Ooh! This is a nice outfit!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052021, 
+        "Text": "Hehe, I'm a little embarrassed to wear this..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010052022, 
+        "Text": "Yeah, I don't think so..."
+    }
+]

@@ -1,0 +1,4887 @@
+[
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201010001, 
+        "Text": "Rearguard Troop Slot"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201020001, 
+        "Text": "Assigned Troops and Supports"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201030001, 
+        "Text": "Ability Release Function"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201050001, 
+        "Text": "Ability Release Level 2"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201060001, 
+        "Text": "Ability Release Level 3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201070001, 
+        "Text": "Ability Release Level 4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201080001, 
+        "Text": "Ability Release Level 5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201090001, 
+        "Text": "Training Quest"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201100001, 
+        "Text": "Gold Coin Quest"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201100002, 
+        "Text": "Level Up Quest"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201100003, 
+        "Text": "Daily Quest"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201100004, 
+        "Text": "Ability Release Quest"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201100005, 
+        "Text": "Conquest"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110001, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110002, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110003, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110004, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110005, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110006, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110007, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201110008, 
+        "Text": "Home Display Citizens Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201120001, 
+        "Text": "Home Chat Characters Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201120002, 
+        "Text": "Home Chat Characters Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201120003, 
+        "Text": "Home Chat Characters Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201120004, 
+        "Text": "Home Chat Characters Added"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201130001, 
+        "Text": "Appointments"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140001, 
+        "Text": "Mayor's House Lv.2"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140002, 
+        "Text": "Flower Bed Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140003, 
+        "Text": "Training Ground Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140004, 
+        "Text": "Central Office Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140005, 
+        "Text": "Training Ground Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140006, 
+        "Text": "Forge Lv.2"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140007, 
+        "Text": "Restaurant Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140008, 
+        "Text": "Rimuru's Hut Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140009, 
+        "Text": "Bench Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140010, 
+        "Text": "Central Office Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140011, 
+        "Text": "Farm Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140012, 
+        "Text": "Field Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140013, 
+        "Text": "Forge Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140014, 
+        "Text": "Digsite for Stamina Magistones Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140015, 
+        "Text": "Digsite for Attack Magistones Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140016, 
+        "Text": "Protection Magistone Digsite Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140017, 
+        "Text": "Digsite for Training Magistones Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140018, 
+        "Text": "Digsite for Defense Magistones Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140019, 
+        "Text": "Guard Tower Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140020, 
+        "Text": "Mountain Supply Corps Base Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140021, 
+        "Text": "Forest Supply Corps Base Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140022, 
+        "Text": "Restaurant Lv.7"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140023, 
+        "Text": "Tavern Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140024, 
+        "Text": "Training Ground Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140025, 
+        "Text": "Rimuru's Hut Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140026, 
+        "Text": "Central Office Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140027, 
+        "Text": "Ocean Supply Corps Base Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140028, 
+        "Text": "Laboratory Lv.2"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140029, 
+        "Text": "Lantern Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140030, 
+        "Text": "Forge Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140031, 
+        "Text": "Digsite for Stamina Magistones Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140032, 
+        "Text": "Digsite for Attack Magistones Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140033, 
+        "Text": "Protection Magistone Digsite Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140034, 
+        "Text": "Digsite for Training Magistones Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140035, 
+        "Text": "Digsite for Defense Magistones Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140036, 
+        "Text": "Laboratory Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140037, 
+        "Text": "Mountain Supply Corps Base Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140038, 
+        "Text": "Forest Supply Corps Base Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140039, 
+        "Text": "Rimuru's Hut Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140040, 
+        "Text": "Forge Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140041, 
+        "Text": "Tavern Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140042, 
+        "Text": "Caf\u00e9 Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140043, 
+        "Text": "Restaurant Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140044, 
+        "Text": "Training Ground Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140045, 
+        "Text": "Farm Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140046, 
+        "Text": "Field Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140047, 
+        "Text": "Street Light Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140048, 
+        "Text": "Central Office Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140049, 
+        "Text": "Clothing Store Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140050, 
+        "Text": "Fire Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140051, 
+        "Text": "Water Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140052, 
+        "Text": "Earth Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140053, 
+        "Text": "Wind Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140054, 
+        "Text": "Space Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140055, 
+        "Text": "Light Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140056, 
+        "Text": "Dark Magic Device Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140057, 
+        "Text": "Ocean Supply Corps Base Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140058, 
+        "Text": "Rimuru Trophy Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140059, 
+        "Text": "Symbol of Protection Lv.3"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140060, 
+        "Text": "Forge Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140061, 
+        "Text": "Digsite for Stamina Magistones Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140062, 
+        "Text": "Digsite for Attack Magistones Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140063, 
+        "Text": "Protection Magistone Digsite Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140064, 
+        "Text": "Digsite for Training Magistones Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140065, 
+        "Text": "Digsite for Defense Magistones Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140066, 
+        "Text": "Park Lv.1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140067, 
+        "Text": "Laboratory Lv.4"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140068, 
+        "Text": "Mountain Supply Corps Base Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140069, 
+        "Text": "Forest Supply Corps Base Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140070, 
+        "Text": "Rimuru's Hut Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140071, 
+        "Text": "Tavern Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140072, 
+        "Text": "Caf\u00e9 Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140073, 
+        "Text": "Restaurant Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140074, 
+        "Text": "Training Ground Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140075, 
+        "Text": "Clothing Store Lv.7"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140076, 
+        "Text": "Central Office Lv.7"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140077, 
+        "Text": "Ocean Supply Corps Base Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140078, 
+        "Text": "Fire Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140079, 
+        "Text": "Water Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140080, 
+        "Text": "Earth Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140081, 
+        "Text": "Wind Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140082, 
+        "Text": "Space Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140083, 
+        "Text": "Light Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140084, 
+        "Text": "Dark Magic Device Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140085, 
+        "Text": "Laboratory Lv.5"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140086, 
+        "Text": "Symbol of Protection Lv.6"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140087, 
+        "Text": "Farm Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140088, 
+        "Text": "Field Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140089, 
+        "Text": "Digsite for Stamina Magistones Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140090, 
+        "Text": "Digsite for Attack Magistones Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140091, 
+        "Text": "Protection Magistone Digsite Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140092, 
+        "Text": "Digsite for Training Magistones Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140093, 
+        "Text": "Digsite for Defense Magistones Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140094, 
+        "Text": "Mountain Supply Corps Base Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140095, 
+        "Text": "Forest Supply Corps Base Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140096, 
+        "Text": "Rimuru's Hut Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140097, 
+        "Text": "Tavern Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140098, 
+        "Text": "Caf\u00e9 Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140099, 
+        "Text": "Restaurant Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140100, 
+        "Text": "Clothing Store Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140101, 
+        "Text": "Ocean Supply Corps Base Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140102, 
+        "Text": "Fire Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140103, 
+        "Text": "Water Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140104, 
+        "Text": "Earth Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140105, 
+        "Text": "Wind Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140106, 
+        "Text": "Space Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140107, 
+        "Text": "Light Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140108, 
+        "Text": "Dark Magic Device Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140109, 
+        "Text": "Central Office Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140110, 
+        "Text": "Digsite for Stamina Magistones Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140111, 
+        "Text": "Digsite for Attack Magistones Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140112, 
+        "Text": "Protection Magistone Digsite Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140113, 
+        "Text": "Digsite for Training Magistones Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140114, 
+        "Text": "Digsite for Defense Magistones Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140115, 
+        "Text": "Symbol of Protection Lv.8"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140116, 
+        "Text": "Mountain Supply Corps Base Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140117, 
+        "Text": "Forest Supply Corps Base Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140118, 
+        "Text": "Rimuru's Hut Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140119, 
+        "Text": "Tavern Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140120, 
+        "Text": "Caf\u00e9 Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140121, 
+        "Text": "Restaurant Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140122, 
+        "Text": "Farm Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140123, 
+        "Text": "Field Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140124, 
+        "Text": "Clothing Store Lv.11"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140125, 
+        "Text": "Ocean Supply Corps Base Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140126, 
+        "Text": "Digsite for Stamina Magistones Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140127, 
+        "Text": "Digsite for Attack Magistones Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140128, 
+        "Text": "Protection Magistone Digsite Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140129, 
+        "Text": "Digsite for Training Magistones Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140130, 
+        "Text": "Digsite for Defense Magistones Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140131, 
+        "Text": "Mountain Supply Corps Base Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140132, 
+        "Text": "Forest Supply Corps Base Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140133, 
+        "Text": "Rimuru's Hut Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140134, 
+        "Text": "Fire Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140135, 
+        "Text": "Water Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140136, 
+        "Text": "Earth Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140137, 
+        "Text": "Wind Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140138, 
+        "Text": "Space Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140139, 
+        "Text": "Light Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140140, 
+        "Text": "Dark Magic Device Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140141, 
+        "Text": "Tavern Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140142, 
+        "Text": "Caf\u00e9 Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140143, 
+        "Text": "Restaurant Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140144, 
+        "Text": "Symbol of Protection Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140145, 
+        "Text": "Clothing Store Lv.13"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140146, 
+        "Text": "Ocean Supply Corps Base Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140147, 
+        "Text": "Farm Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140148, 
+        "Text": "Field Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140149, 
+        "Text": "Digsite for Stamina Magistones Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140150, 
+        "Text": "Digsite for Attack Magistones Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140151, 
+        "Text": "Protection Magistone Digsite Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140152, 
+        "Text": "Digsite for Training Magistones Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140153, 
+        "Text": "Digsite for Defense Magistones Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140154, 
+        "Text": "Mountain Supply Corps Base Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140155, 
+        "Text": "Forest Supply Corps Base Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140156, 
+        "Text": "Rimuru's Hut Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140157, 
+        "Text": "Tavern Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140158, 
+        "Text": "Caf\u00e9 Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140159, 
+        "Text": "Restaurant Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140160, 
+        "Text": "Clothing Store Lv.15"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140161, 
+        "Text": "Fire Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140162, 
+        "Text": "Water Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140163, 
+        "Text": "Earth Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140164, 
+        "Text": "Wind Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140165, 
+        "Text": "Space Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140166, 
+        "Text": "Light Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140167, 
+        "Text": "Dark Magic Device Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140168, 
+        "Text": "Central Office Lv.9"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140169, 
+        "Text": "Ocean Supply Corps Base Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140170, 
+        "Text": "Symbol of Protection Lv.12"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140171, 
+        "Text": "Mountain Supply Corps Base Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140172, 
+        "Text": "Forest Supply Corps Base Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140173, 
+        "Text": "Rimuru's Hut Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140174, 
+        "Text": "Caf\u00e9 Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140175, 
+        "Text": "Farm Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140176, 
+        "Text": "Field Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140177, 
+        "Text": "Clothing Store Lv.17"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140178, 
+        "Text": "Ocean Supply Corps Base Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140179, 
+        "Text": "Fire Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140180, 
+        "Text": "Water Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140181, 
+        "Text": "Earth Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140182, 
+        "Text": "Wind Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140183, 
+        "Text": "Space Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140184, 
+        "Text": "Light Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140185, 
+        "Text": "Dark Magic Device Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140186, 
+        "Text": "Symbol of Protection Lv.14"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140187, 
+        "Text": "Mountain Supply Corps Base Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140188, 
+        "Text": "Forest Supply Corps Base Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140189, 
+        "Text": "Caf\u00e9 Lv.21"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140190, 
+        "Text": "Clothing Store Lv.19"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140191, 
+        "Text": "Ocean Supply Corps Base Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140192, 
+        "Text": "Farm Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140193, 
+        "Text": "Field Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140194, 
+        "Text": "Fire Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140195, 
+        "Text": "Water Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140196, 
+        "Text": "Earth Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140197, 
+        "Text": "Wind Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140198, 
+        "Text": "Space Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140199, 
+        "Text": "Light Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140200, 
+        "Text": "Dark Magic Device Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140201, 
+        "Text": "Central Office Lv.10"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140202, 
+        "Text": "Symbol of Protection Lv.16"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140203, 
+        "Text": "Mountain Supply Corps Base Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140204, 
+        "Text": "Forest Supply Corps Base Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140205, 
+        "Text": "Caf\u00e9 Lv.23"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140206, 
+        "Text": "Clothing Store Lv.21"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140207, 
+        "Text": "Ocean Supply Corps Base Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140208, 
+        "Text": "Fire Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140209, 
+        "Text": "Water Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140210, 
+        "Text": "Earth Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140211, 
+        "Text": "Wind Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140212, 
+        "Text": "Space Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140213, 
+        "Text": "Light Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140214, 
+        "Text": "Dark Magic Device Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140215, 
+        "Text": "Caf\u00e9 Lv.25"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140216, 
+        "Text": "Symbol of Protection Lv.18"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140217, 
+        "Text": "Farm Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140218, 
+        "Text": "Field Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140219, 
+        "Text": "Clothing Store Lv.23"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140220, 
+        "Text": "Caf\u00e9 Lv.27"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140221, 
+        "Text": "Clothing Store Lv.25"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140222, 
+        "Text": "Fire Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140223, 
+        "Text": "Water Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140224, 
+        "Text": "Earth Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140225, 
+        "Text": "Wind Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140226, 
+        "Text": "Space Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140227, 
+        "Text": "Light Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140228, 
+        "Text": "Dark Magic Device Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140229, 
+        "Text": "Symbol of Protection Lv.20"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140230, 
+        "Text": "Farm Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140231, 
+        "Text": "Field Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140232, 
+        "Text": "Caf\u00e9 Lv.29"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140233, 
+        "Text": "Clothing Store Lv.27"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140234, 
+        "Text": "Fire Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140235, 
+        "Text": "Water Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140236, 
+        "Text": "Earth Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140237, 
+        "Text": "Wind Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140238, 
+        "Text": "Space Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140239, 
+        "Text": "Light Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140240, 
+        "Text": "Dark Magic Device Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140241, 
+        "Text": "Symbol of Protection Lv.22"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140242, 
+        "Text": "Caf\u00e9 Lv.31"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140243, 
+        "Text": "Farm Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140244, 
+        "Text": "Field Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140245, 
+        "Text": "Clothing Store Lv.29"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140246, 
+        "Text": "Fire Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140247, 
+        "Text": "Water Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140248, 
+        "Text": "Earth Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140249, 
+        "Text": "Wind Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140250, 
+        "Text": "Space Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140251, 
+        "Text": "Light Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140252, 
+        "Text": "Dark Magic Device Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140253, 
+        "Text": "Symbol of Protection Lv.24"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140254, 
+        "Text": "Caf\u00e9 Lv.33"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140255, 
+        "Text": "Clothing Store Lv.31"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140256, 
+        "Text": "Fire Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140257, 
+        "Text": "Water Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140258, 
+        "Text": "Earth Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140259, 
+        "Text": "Wind Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140260, 
+        "Text": "Space Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140261, 
+        "Text": "Light Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140262, 
+        "Text": "Dark Magic Device Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140263, 
+        "Text": "Caf\u00e9 Lv.35"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140264, 
+        "Text": "Symbol of Protection Lv.26"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140265, 
+        "Text": "Clothing Store Lv.33"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140266, 
+        "Text": "Caf\u00e9 Lv.37"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140267, 
+        "Text": "Clothing Store Lv.35"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140268, 
+        "Text": "Fire Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140269, 
+        "Text": "Water Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140270, 
+        "Text": "Earth Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140271, 
+        "Text": "Wind Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140272, 
+        "Text": "Space Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140273, 
+        "Text": "Light Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140274, 
+        "Text": "Dark Magic Device Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140275, 
+        "Text": "Symbol of Protection Lv.28"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140276, 
+        "Text": "Caf\u00e9 Lv.39"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140277, 
+        "Text": "Clothing Store Lv.37"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140278, 
+        "Text": "Fire Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140279, 
+        "Text": "Water Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140280, 
+        "Text": "Earth Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140281, 
+        "Text": "Wind Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140282, 
+        "Text": "Space Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140283, 
+        "Text": "Light Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140284, 
+        "Text": "Dark Magic Device Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140285, 
+        "Text": "Caf\u00e9 Lv.41"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140286, 
+        "Text": "Symbol of Protection Lv.30"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140287, 
+        "Text": "Clothing Store Lv.39"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140288, 
+        "Text": "Fire Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140289, 
+        "Text": "Water Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140290, 
+        "Text": "Earth Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140291, 
+        "Text": "Wind Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140292, 
+        "Text": "Space Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140293, 
+        "Text": "Light Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140294, 
+        "Text": "Dark Magic Device Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140295, 
+        "Text": "Caf\u00e9 Lv.43"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140296, 
+        "Text": "Symbol of Protection Lv.32"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140297, 
+        "Text": "Fire Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140298, 
+        "Text": "Water Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140299, 
+        "Text": "Earth Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140300, 
+        "Text": "Wind Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140301, 
+        "Text": "Space Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140302, 
+        "Text": "Light Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140303, 
+        "Text": "Dark Magic Device Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140304, 
+        "Text": "Caf\u00e9 Lv.45"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140305, 
+        "Text": "Symbol of Protection Lv.34"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140306, 
+        "Text": "Clothing Store Lv.41"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140307, 
+        "Text": "Fire Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140308, 
+        "Text": "Water Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140309, 
+        "Text": "Earth Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140310, 
+        "Text": "Wind Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140311, 
+        "Text": "Space Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140312, 
+        "Text": "Light Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140313, 
+        "Text": "Dark Magic Device Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140314, 
+        "Text": "Caf\u00e9 Lv.47"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140315, 
+        "Text": "Symbol of Protection Lv.36"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140316, 
+        "Text": "Clothing Store Lv.43"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140317, 
+        "Text": "Fire Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140318, 
+        "Text": "Water Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140319, 
+        "Text": "Earth Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140320, 
+        "Text": "Wind Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140321, 
+        "Text": "Space Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140322, 
+        "Text": "Light Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140323, 
+        "Text": "Dark Magic Device Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140324, 
+        "Text": "Caf\u00e9 Lv.49"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140325, 
+        "Text": "Symbol of Protection Lv.38"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140326, 
+        "Text": "Clothing Store Lv.45"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140327, 
+        "Text": "Fire Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140328, 
+        "Text": "Water Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140329, 
+        "Text": "Earth Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140330, 
+        "Text": "Wind Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140331, 
+        "Text": "Space Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140332, 
+        "Text": "Light Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140333, 
+        "Text": "Dark Magic Device Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140334, 
+        "Text": "Symbol of Protection Lv.40"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140335, 
+        "Text": "Fire Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140336, 
+        "Text": "Water Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140337, 
+        "Text": "Earth Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140338, 
+        "Text": "Wind Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140339, 
+        "Text": "Space Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140340, 
+        "Text": "Light Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140341, 
+        "Text": "Dark Magic Device Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140342, 
+        "Text": "Symbol of Protection Lv.42"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140343, 
+        "Text": "Clothing Store Lv.47"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140344, 
+        "Text": "Fire Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140345, 
+        "Text": "Water Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140346, 
+        "Text": "Earth Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140347, 
+        "Text": "Wind Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140348, 
+        "Text": "Space Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140349, 
+        "Text": "Light Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140350, 
+        "Text": "Dark Magic Device Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140351, 
+        "Text": "Symbol of Protection Lv.44"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140352, 
+        "Text": "Clothing Store Lv.49"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140353, 
+        "Text": "Fire Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140354, 
+        "Text": "Water Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140355, 
+        "Text": "Earth Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140356, 
+        "Text": "Wind Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140357, 
+        "Text": "Space Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140358, 
+        "Text": "Light Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140359, 
+        "Text": "Dark Magic Device Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140360, 
+        "Text": "Symbol of Protection Lv.46"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140361, 
+        "Text": "Fire Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140362, 
+        "Text": "Water Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140363, 
+        "Text": "Earth Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140364, 
+        "Text": "Wind Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140365, 
+        "Text": "Space Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140366, 
+        "Text": "Light Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140367, 
+        "Text": "Dark Magic Device Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140368, 
+        "Text": "Symbol of Protection Lv.48"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140369, 
+        "Text": "Fire Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140370, 
+        "Text": "Water Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140371, 
+        "Text": "Earth Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140372, 
+        "Text": "Wind Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140373, 
+        "Text": "Space Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140374, 
+        "Text": "Light Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140375, 
+        "Text": "Dark Magic Device Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140376, 
+        "Text": "Symbol of Protection Lv.50"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140377, 
+        "Text": "Fire Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140378, 
+        "Text": "Water Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140379, 
+        "Text": "Earth Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140380, 
+        "Text": "Wind Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140381, 
+        "Text": "Space Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140382, 
+        "Text": "Light Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140383, 
+        "Text": "Dark Magic Device Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140384, 
+        "Text": "Symbol of Protection Lv.52"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140385, 
+        "Text": "Fire Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140386, 
+        "Text": "Water Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140387, 
+        "Text": "Earth Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140388, 
+        "Text": "Wind Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140389, 
+        "Text": "Space Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140390, 
+        "Text": "Light Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140391, 
+        "Text": "Dark Magic Device Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140392, 
+        "Text": "Symbol of Protection Lv.54"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140393, 
+        "Text": "Fire Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140394, 
+        "Text": "Water Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140395, 
+        "Text": "Earth Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140396, 
+        "Text": "Wind Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140397, 
+        "Text": "Space Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140398, 
+        "Text": "Light Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140399, 
+        "Text": "Dark Magic Device Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140400, 
+        "Text": "Symbol of Protection Lv.56"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140401, 
+        "Text": "Fire Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140402, 
+        "Text": "Water Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140403, 
+        "Text": "Earth Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140404, 
+        "Text": "Wind Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140405, 
+        "Text": "Space Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140406, 
+        "Text": "Light Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140407, 
+        "Text": "Dark Magic Device Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140408, 
+        "Text": "Symbol of Protection Lv.58"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140409, 
+        "Text": "Fire Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140410, 
+        "Text": "Water Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140411, 
+        "Text": "Earth Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140412, 
+        "Text": "Wind Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140413, 
+        "Text": "Space Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140414, 
+        "Text": "Light Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140415, 
+        "Text": "Dark Magic Device Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140416, 
+        "Text": "Symbol of Protection Lv.60"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140417, 
+        "Text": "Fire Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140418, 
+        "Text": "Water Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140419, 
+        "Text": "Earth Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140420, 
+        "Text": "Wind Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140421, 
+        "Text": "Space Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140422, 
+        "Text": "Light Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140423, 
+        "Text": "Dark Magic Device Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140424, 
+        "Text": "Symbol of Protection Lv.62"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140425, 
+        "Text": "Fire Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140426, 
+        "Text": "Water Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140427, 
+        "Text": "Earth Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140428, 
+        "Text": "Wind Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140429, 
+        "Text": "Space Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140430, 
+        "Text": "Light Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140431, 
+        "Text": "Dark Magic Device Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140432, 
+        "Text": "Symbol of Protection Lv.64"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140433, 
+        "Text": "Fire Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140434, 
+        "Text": "Water Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140435, 
+        "Text": "Earth Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140436, 
+        "Text": "Wind Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140437, 
+        "Text": "Space Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140438, 
+        "Text": "Light Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140439, 
+        "Text": "Dark Magic Device Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140440, 
+        "Text": "Symbol of Protection Lv.66"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140441, 
+        "Text": "Fire Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140442, 
+        "Text": "Water Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140443, 
+        "Text": "Earth Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140444, 
+        "Text": "Wind Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140445, 
+        "Text": "Space Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140446, 
+        "Text": "Light Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140447, 
+        "Text": "Dark Magic Device Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140448, 
+        "Text": "Symbol of Protection Lv.68"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140449, 
+        "Text": "Fire Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140450, 
+        "Text": "Water Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140451, 
+        "Text": "Earth Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140452, 
+        "Text": "Wind Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140453, 
+        "Text": "Space Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140454, 
+        "Text": "Light Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140455, 
+        "Text": "Dark Magic Device Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140456, 
+        "Text": "Symbol of Protection Lv.70"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140457, 
+        "Text": "Fire Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140458, 
+        "Text": "Water Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140459, 
+        "Text": "Earth Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140460, 
+        "Text": "Wind Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140461, 
+        "Text": "Space Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140462, 
+        "Text": "Light Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140463, 
+        "Text": "Dark Magic Device Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140464, 
+        "Text": "Symbol of Protection Lv.72"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140465, 
+        "Text": "Fire Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140466, 
+        "Text": "Water Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140467, 
+        "Text": "Earth Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140468, 
+        "Text": "Wind Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140469, 
+        "Text": "Space Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140470, 
+        "Text": "Light Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140471, 
+        "Text": "Dark Magic Device Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140472, 
+        "Text": "Symbol of Protection Lv.74"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140473, 
+        "Text": "Fire Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140474, 
+        "Text": "Water Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140475, 
+        "Text": "Earth Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140476, 
+        "Text": "Wind Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140477, 
+        "Text": "Space Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140478, 
+        "Text": "Light Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140479, 
+        "Text": "Dark Magic Device Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140480, 
+        "Text": "Symbol of Protection Lv.76"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140481, 
+        "Text": "Fire Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140482, 
+        "Text": "Water Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140483, 
+        "Text": "Earth Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140484, 
+        "Text": "Wind Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140485, 
+        "Text": "Space Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140486, 
+        "Text": "Light Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140487, 
+        "Text": "Dark Magic Device Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140488, 
+        "Text": "Symbol of Protection Lv.78"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140489, 
+        "Text": "Fire Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140490, 
+        "Text": "Water Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140491, 
+        "Text": "Earth Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140492, 
+        "Text": "Wind Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140493, 
+        "Text": "Space Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140494, 
+        "Text": "Light Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140495, 
+        "Text": "Dark Magic Device Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140496, 
+        "Text": "Symbol of Protection Lv.80"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140497, 
+        "Text": "Fire Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140498, 
+        "Text": "Water Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140499, 
+        "Text": "Earth Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140500, 
+        "Text": "Wind Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140501, 
+        "Text": "Space Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140502, 
+        "Text": "Light Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140503, 
+        "Text": "Dark Magic Device Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140504, 
+        "Text": "Symbol of Protection Lv.82"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140505, 
+        "Text": "Fire Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140506, 
+        "Text": "Water Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140507, 
+        "Text": "Earth Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140508, 
+        "Text": "Wind Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140509, 
+        "Text": "Space Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140510, 
+        "Text": "Light Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140511, 
+        "Text": "Dark Magic Device Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140512, 
+        "Text": "Symbol of Protection Lv.84"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140513, 
+        "Text": "Fire Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140514, 
+        "Text": "Water Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140515, 
+        "Text": "Earth Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140516, 
+        "Text": "Wind Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140517, 
+        "Text": "Space Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140518, 
+        "Text": "Light Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140519, 
+        "Text": "Dark Magic Device Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140520, 
+        "Text": "Symbol of Protection Lv.86"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140521, 
+        "Text": "Fire Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140522, 
+        "Text": "Water Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140523, 
+        "Text": "Earth Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140524, 
+        "Text": "Wind Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140525, 
+        "Text": "Space Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140526, 
+        "Text": "Light Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140527, 
+        "Text": "Dark Magic Device Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140528, 
+        "Text": "Symbol of Protection Lv.88"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140529, 
+        "Text": "Fire Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140530, 
+        "Text": "Water Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140531, 
+        "Text": "Earth Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140532, 
+        "Text": "Wind Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140533, 
+        "Text": "Space Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140534, 
+        "Text": "Light Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140535, 
+        "Text": "Dark Magic Device Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140536, 
+        "Text": "Symbol of Protection Lv.90"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140537, 
+        "Text": "Fire Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140538, 
+        "Text": "Water Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140539, 
+        "Text": "Earth Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140540, 
+        "Text": "Wind Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140541, 
+        "Text": "Space Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140542, 
+        "Text": "Light Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140543, 
+        "Text": "Dark Magic Device Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140544, 
+        "Text": "Symbol of Protection Lv.92"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140545, 
+        "Text": "Fire Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140546, 
+        "Text": "Water Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140547, 
+        "Text": "Earth Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140548, 
+        "Text": "Wind Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140549, 
+        "Text": "Space Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140550, 
+        "Text": "Light Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140551, 
+        "Text": "Dark Magic Device Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140552, 
+        "Text": "Symbol of Protection Lv.94"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140553, 
+        "Text": "Fire Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140554, 
+        "Text": "Water Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140555, 
+        "Text": "Earth Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140556, 
+        "Text": "Wind Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140557, 
+        "Text": "Space Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140558, 
+        "Text": "Light Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140559, 
+        "Text": "Dark Magic Device Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140560, 
+        "Text": "Symbol of Protection Lv.96"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140561, 
+        "Text": "Fire Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140562, 
+        "Text": "Water Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140563, 
+        "Text": "Earth Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140564, 
+        "Text": "Wind Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140565, 
+        "Text": "Space Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140566, 
+        "Text": "Light Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140567, 
+        "Text": "Dark Magic Device Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201140568, 
+        "Text": "Symbol of Protection Lv.98"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150002, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150003, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150004, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150005, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150006, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150007, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150008, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150009, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150010, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150011, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150012, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150013, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150014, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150015, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150016, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150017, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150018, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150019, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150020, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150021, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150022, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150023, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150024, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150025, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150026, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150027, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150028, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150029, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150030, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150031, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150032, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150033, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150034, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150035, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150036, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150037, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150038, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150039, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150040, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150041, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150042, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150043, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150044, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150045, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150046, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150047, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150048, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150049, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150050, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150051, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150052, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150053, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150054, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150055, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150056, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150057, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150058, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150059, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150060, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150061, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150062, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150063, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150064, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150065, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150066, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150067, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150068, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150069, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150070, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150071, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150072, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150073, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150074, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150075, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150076, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150077, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150078, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150079, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150080, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150081, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150082, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150083, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150084, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150085, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150086, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150087, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150088, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150089, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150090, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150091, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150092, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150093, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150094, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150095, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150096, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150097, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150098, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150099, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150100, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150101, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150102, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150103, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150104, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150105, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150106, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150107, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150108, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150109, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150110, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150111, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150112, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150113, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150114, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150115, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150116, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150117, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150118, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150119, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150120, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150121, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150122, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150123, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150124, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150125, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150126, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150127, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150128, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150129, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150130, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150131, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150132, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150133, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150134, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150135, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150136, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150137, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150138, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150139, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150140, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150141, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150142, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150143, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150144, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150145, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150146, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150147, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150148, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150149, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150150, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150151, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150152, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150153, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150154, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150155, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150156, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150157, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150158, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150159, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150160, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150161, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150162, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150163, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150164, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150165, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150166, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150167, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150168, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150169, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150170, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150171, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150172, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150173, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150174, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150175, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150176, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150177, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150178, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150179, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150180, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150181, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150182, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201150183, 
+        "Text": "Increase Equipment Slots +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160001, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160002, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160003, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160004, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160005, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160006, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160007, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160008, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160009, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160010, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160011, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160012, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160013, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160014, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160015, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160016, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160017, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160018, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160019, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160020, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160021, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160022, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160023, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160024, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160025, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160026, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160027, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160028, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160029, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160030, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160031, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160032, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160033, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160034, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160035, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160036, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160037, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160038, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160039, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160040, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160041, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160042, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160043, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160044, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160045, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160046, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160047, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160048, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160049, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160050, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160051, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160052, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160053, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160054, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160055, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160056, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160057, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160058, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160059, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160060, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160061, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160062, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160063, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160064, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160065, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160066, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160067, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160068, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160069, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160070, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160071, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160072, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160073, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160074, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160075, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160076, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160077, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160078, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160079, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160080, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160081, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160082, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160083, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160084, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160085, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160086, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160087, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160088, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160089, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160090, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160091, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160092, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160093, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160094, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160095, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160096, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160097, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160098, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160099, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160100, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160101, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160102, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160103, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160104, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160105, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160106, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160107, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160108, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160109, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160110, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160111, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160112, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160113, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160114, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160115, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160116, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160117, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160118, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160119, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160120, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160121, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160122, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160123, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160124, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160125, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160126, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160127, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160128, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160129, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160130, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160131, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160132, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160133, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160134, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160135, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160136, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160137, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160138, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160139, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160140, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160141, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160142, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160143, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160144, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160145, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160146, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160147, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160148, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160149, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160150, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160151, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160152, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160153, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160154, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160155, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160156, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160157, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160158, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160159, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160160, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160161, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160162, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160163, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160164, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160165, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160166, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160167, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160168, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160169, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160170, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160171, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160172, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160173, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160174, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160175, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160176, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160177, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160178, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160179, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160180, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160181, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160182, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160183, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160184, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160185, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160186, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160187, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160188, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160189, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160190, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160191, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160192, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160193, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160194, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160195, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160196, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160197, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160198, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160199, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201160200, 
+        "Text": "Stamina Increased: +1"
+    }, 
+    {
+        "ColumnName": "unlock_explanation", 
+        "LocalizationTargetId": 201170001, 
+        "Text": "Event Quests"
+    }
+]

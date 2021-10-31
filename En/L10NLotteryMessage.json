@@ -1,0 +1,62 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000001, 
+        "Text": "Do you want to use {0} Magicrystals to do Recruit x{1}?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000002, 
+        "Text": "Use {1} {0}s to do Recruit x{2}?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000003, 
+        "Text": "No Recruit currently available."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000004, 
+        "Text": "Free Recruit"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000005, 
+        "Text": "One 5\u2605 Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000006, 
+        "Text": "You have reached the limit on recruiting characters"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000007, 
+        "Text": "The recruit period has ended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000008, 
+        "Text": "{0}x{1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000009, 
+        "Text": "[{0}] {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000010, 
+        "Text": "[{0}] {1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000011, 
+        "Text": "{0}x{1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 813000012, 
+        "Text": "This item has expired. It cannot be exchanged."
+    }
+]

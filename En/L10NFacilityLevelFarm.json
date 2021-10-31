@@ -1,0 +1,1927 @@
+[
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130101, 
+        "Text": "Can generate Rice Ball \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130102, 
+        "Text": "Has a 95% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 5% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130103, 
+        "Text": "Has a 90% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130104, 
+        "Text": "Has a 90% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130105, 
+        "Text": "Has a 85% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 15% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130106, 
+        "Text": "Has a 80% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130107, 
+        "Text": "Has a 80% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130108, 
+        "Text": "Has a 75% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130109, 
+        "Text": "Has a 70% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130110, 
+        "Text": "Has a 70% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130111, 
+        "Text": "Has a 65% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130112, 
+        "Text": "Has a 60% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130113, 
+        "Text": "Has a 55% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130114, 
+        "Text": "Has a 50% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130115, 
+        "Text": "Has a 50% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130116, 
+        "Text": "Has a 45% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 5% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130117, 
+        "Text": "Has a 40% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 10% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130118, 
+        "Text": "Has a 35% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 15% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130119, 
+        "Text": "Has a 30% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 20% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130120, 
+        "Text": "Has a 25% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 25% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130121, 
+        "Text": "Has a 25% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 30% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130122, 
+        "Text": "Has a 25% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 35% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130123, 
+        "Text": "Has a 25% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 40% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130124, 
+        "Text": "Has a 25% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 45% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130125, 
+        "Text": "Has a 25% chance to generate Rice Ball \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Rice Ball Set \u00d7<color=#2be41d>1</color>,\nor a 50% chance to generate Rice Ball Box Lunch \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130201, 
+        "Text": "Can generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130202, 
+        "Text": "Has a 95% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 5% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130203, 
+        "Text": "Has a 90% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130204, 
+        "Text": "Has a 90% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130205, 
+        "Text": "Has a 85% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 15% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130206, 
+        "Text": "Has a 80% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130207, 
+        "Text": "Has a 80% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130208, 
+        "Text": "Has a 75% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130209, 
+        "Text": "Has a 70% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130210, 
+        "Text": "Has a 70% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130211, 
+        "Text": "Has a 65% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130212, 
+        "Text": "Has a 60% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130213, 
+        "Text": "Has a 55% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130214, 
+        "Text": "Has a 50% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130215, 
+        "Text": "Has a 50% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130216, 
+        "Text": "Has a 45% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 5% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130217, 
+        "Text": "Has a 40% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 10% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130218, 
+        "Text": "Has a 35% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 15% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130219, 
+        "Text": "Has a 30% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 20% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130220, 
+        "Text": "Has a 25% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 25% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130221, 
+        "Text": "Has a 25% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 30% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130222, 
+        "Text": "Has a 25% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 35% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130223, 
+        "Text": "Has a 25% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 40% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130224, 
+        "Text": "Has a 25% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 45% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130225, 
+        "Text": "Has a 25% chance to generate Bulldeer Shishkabob \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Bulldeer Shishkabob Assortment \u00d7<color=#2be41d>1</color>,\nor a 50% chance to generate Supersized Bulldeer Meat Set \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130301, 
+        "Text": "Can generate Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130302, 
+        "Text": "Has a 95% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 5% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130303, 
+        "Text": "Has a 90% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130304, 
+        "Text": "Has a 90% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130305, 
+        "Text": "Has a 85% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 15% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130306, 
+        "Text": "Has a 80% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130307, 
+        "Text": "Has a 80% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130308, 
+        "Text": "Has a 75% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130309, 
+        "Text": "Has a 70% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130310, 
+        "Text": "Has a 70% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130311, 
+        "Text": "Has a 65% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130312, 
+        "Text": "Has a 60% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130313, 
+        "Text": "Has a 55% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130314, 
+        "Text": "Has a 50% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130315, 
+        "Text": "Has a 50% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130316, 
+        "Text": "Has a 45% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 5% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130317, 
+        "Text": "Has a 40% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 10% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130318, 
+        "Text": "Has a 35% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 15% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130319, 
+        "Text": "Has a 30% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 20% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130320, 
+        "Text": "Has a 25% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 25% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130321, 
+        "Text": "Has a 25% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 30% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130322, 
+        "Text": "Has a 25% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 35% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130323, 
+        "Text": "Has a 25% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 40% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130324, 
+        "Text": "Has a 25% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 45% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130325, 
+        "Text": "Has a 25% chance to generate Sashimi \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Five Sashimi Platter \u00d7<color=#2be41d>1</color>,\nor a 50% chance to generate Megalodon Sashimi \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130401, 
+        "Text": "Can generate Fresh Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130402, 
+        "Text": "Has a 95% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 5% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130403, 
+        "Text": "Has a 90% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 10% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130404, 
+        "Text": "Has a 90% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 10% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130405, 
+        "Text": "Has a 85% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 15% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130406, 
+        "Text": "Has a 80% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 20% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130407, 
+        "Text": "Has a 80% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 20% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130408, 
+        "Text": "Has a 75% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 25% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130409, 
+        "Text": "Has a 70% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 30% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130410, 
+        "Text": "Has a 70% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 30% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130411, 
+        "Text": "Has a 65% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 35% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130412, 
+        "Text": "Has a 60% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 40% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130413, 
+        "Text": "Has a 55% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 45% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130414, 
+        "Text": "Has a 50% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130415, 
+        "Text": "Has a 50% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130416, 
+        "Text": "Has a 45% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 5% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130417, 
+        "Text": "Has a 40% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 10% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130418, 
+        "Text": "Has a 35% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 15% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130419, 
+        "Text": "Has a 30% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 20% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130420, 
+        "Text": "Has a 25% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 50% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 25% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130421, 
+        "Text": "Has a 25% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 45% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 30% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130422, 
+        "Text": "Has a 25% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 40% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 35% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130423, 
+        "Text": "Has a 25% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 35% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 40% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130424, 
+        "Text": "Has a 25% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 30% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 45% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130425, 
+        "Text": "Has a 25% chance to generate Fresh Fruit \u00d7<color=#2be41d>1</color>,\na 25% chance to generate High-Quality Fruit \u00d7<color=#2be41d>1</color>,\nor a 50% chance to generate Premium Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130501, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>40</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130502, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>41</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130503, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>42</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130504, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>42</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130505, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>43</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130506, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>44</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130507, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>44</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130508, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>45</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130509, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>46</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130510, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>46</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130511, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>47</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130512, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>48</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130513, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>49</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130514, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>50</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130515, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>50</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130516, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>51</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130517, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130518, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>53</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130519, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>54</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130520, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>55</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130521, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>56</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130522, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>57</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130523, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>58</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130524, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>59</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130525, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>60</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130526, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>61</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130527, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>62</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130528, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>63</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130529, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>64</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130530, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>65</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130531, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>66</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130532, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>67</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130533, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>68</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130534, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>69</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130535, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>70</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130536, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>71</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130537, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>72</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130538, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>73</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130539, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>74</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130540, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>75</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130541, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>76</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130542, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>77</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130543, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>78</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130544, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>79</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130545, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>80</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130546, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>81</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130547, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>82</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130548, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>83</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130549, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>84</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130550, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>85</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130601, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>55</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130602, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>56</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130603, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>57</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130604, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>57</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130605, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>58</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130606, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>59</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130607, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>59</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130608, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>60</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130609, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>61</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130610, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>61</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130611, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>62</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130612, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>63</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130613, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>64</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130614, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>65</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130615, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>65</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130616, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>66</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130617, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>67</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130618, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>68</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130619, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>69</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130620, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>70</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130701, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>55</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130702, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>56</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130703, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>57</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130704, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>57</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130705, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>58</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130706, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>59</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130707, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>59</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130708, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>60</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130709, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>61</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130710, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>61</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130711, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>62</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130712, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>63</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130713, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>64</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130714, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>65</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130715, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>65</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130716, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>66</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130717, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>67</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130718, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>68</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130719, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>69</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130720, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>70</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130801, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>10</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130802, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>11</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130803, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>12</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130804, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>12</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130805, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>13</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130806, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>14</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130807, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>14</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130808, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>15</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130809, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>16</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130810, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>16</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130811, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>17</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130812, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>18</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130813, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>19</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130814, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>20</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130815, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>20</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130816, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>21</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130817, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>22</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130818, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>23</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130819, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>24</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130820, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>25</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130821, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>26</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130822, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>27</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130823, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>28</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130824, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>29</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130825, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>30</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130826, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>31</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130827, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>32</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130828, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>33</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130829, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>34</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130830, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>35</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130831, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>36</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130832, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>37</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130833, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>38</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130834, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>39</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130835, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>40</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130836, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>41</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130837, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>42</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130838, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>43</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130839, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>44</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130840, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>45</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130841, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>46</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130842, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>47</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130843, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>48</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130844, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>49</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130845, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>50</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130846, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>51</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130847, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130848, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>53</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130849, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>54</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130850, 
+        "Text": "Can acquire Gold Coin \u00d7<color=#2be41d>55</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130901, 
+        "Text": "Can generate Stamina Magistone \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130902, 
+        "Text": "Has a 98.8% chance to generate Stamina Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130903, 
+        "Text": "Has a 80.8% chance to generate Stamina Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Stamina Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130904, 
+        "Text": "Has a 80.8% chance to generate Stamina Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Stamina Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130905, 
+        "Text": "Has a 76.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130906, 
+        "Text": "Has a 71.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130907, 
+        "Text": "Has a 71.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130908, 
+        "Text": "Has a 66.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130909, 
+        "Text": "Has a 61.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130910, 
+        "Text": "Has a 61.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130911, 
+        "Text": "Has a 56.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130912, 
+        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130913, 
+        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130914, 
+        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130915, 
+        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130916, 
+        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130917, 
+        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130918, 
+        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130919, 
+        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404130920, 
+        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131001, 
+        "Text": "Can generate Attack Magistone \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131002, 
+        "Text": "Has a 98.8% chance to generate Attack Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131003, 
+        "Text": "Has a 80.8% chance to generate Attack Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Attack Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131004, 
+        "Text": "Has a 80.8% chance to generate Attack Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Attack Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131005, 
+        "Text": "Has a 76.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131006, 
+        "Text": "Has a 71.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131007, 
+        "Text": "Has a 71.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131008, 
+        "Text": "Has a 66.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131009, 
+        "Text": "Has a 61.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131010, 
+        "Text": "Has a 61.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131011, 
+        "Text": "Has a 56.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131012, 
+        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131013, 
+        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131014, 
+        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131015, 
+        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131016, 
+        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131017, 
+        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131018, 
+        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131019, 
+        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131020, 
+        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131101, 
+        "Text": "Can generate Protection Magistone \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131102, 
+        "Text": "Has a 98.8% chance to generate Protection Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131103, 
+        "Text": "Has a 80.8% chance to generate Protection Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Protection Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131104, 
+        "Text": "Has a 80.8% chance to generate Protection Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Protection Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131105, 
+        "Text": "Has a 76.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131106, 
+        "Text": "Has a 71.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131107, 
+        "Text": "Has a 71.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131108, 
+        "Text": "Has a 66.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131109, 
+        "Text": "Has a 61.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131110, 
+        "Text": "Has a 61.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131111, 
+        "Text": "Has a 56.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131112, 
+        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131113, 
+        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131114, 
+        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131115, 
+        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131116, 
+        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131117, 
+        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131118, 
+        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131119, 
+        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131120, 
+        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131201, 
+        "Text": "Can generate Training Magistone \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131202, 
+        "Text": "Has a 98.8% chance to generate Training Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131203, 
+        "Text": "Has a 80.8% chance to generate Training Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Training Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131204, 
+        "Text": "Has a 80.8% chance to generate Training Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Training Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131205, 
+        "Text": "Has a 76.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131206, 
+        "Text": "Has a 71.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131207, 
+        "Text": "Has a 71.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131208, 
+        "Text": "Has a 66.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131209, 
+        "Text": "Has a 61.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131210, 
+        "Text": "Has a 61.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131211, 
+        "Text": "Has a 56.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131212, 
+        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131213, 
+        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131214, 
+        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131215, 
+        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131216, 
+        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131217, 
+        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131218, 
+        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131219, 
+        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131220, 
+        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131301, 
+        "Text": "Can generate Salad Sticks \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131302, 
+        "Text": "Has a 95% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 5% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131303, 
+        "Text": "Has a 90% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131304, 
+        "Text": "Has a 90% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 10% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131305, 
+        "Text": "Has a 85% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 15% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131306, 
+        "Text": "Has a 80% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131307, 
+        "Text": "Has a 80% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 20% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131308, 
+        "Text": "Has a 75% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131309, 
+        "Text": "Has a 70% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131310, 
+        "Text": "Has a 70% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131311, 
+        "Text": "Has a 65% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131312, 
+        "Text": "Has a 60% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131313, 
+        "Text": "Has a 55% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131314, 
+        "Text": "Has a 50% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131315, 
+        "Text": "Has a 50% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131316, 
+        "Text": "Has a 45% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 5% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131317, 
+        "Text": "Has a 40% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 10% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131318, 
+        "Text": "Has a 35% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 15% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131319, 
+        "Text": "Has a 30% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 20% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131320, 
+        "Text": "Has a 25% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 50% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 25% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131321, 
+        "Text": "Has a 25% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 45% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 30% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131322, 
+        "Text": "Has a 25% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 40% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 35% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131323, 
+        "Text": "Has a 25% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 35% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 40% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131324, 
+        "Text": "Has a 25% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 30% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 45% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131325, 
+        "Text": "Has a 25% chance to generate Salad Sticks \u00d7<color=#2be41d>1</color>,\na 25% chance to generate Healthy Mini Salad \u00d7<color=#2be41d>1</color>,\nor a 50% chance to generate Potato Salad with Fruit \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131401, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>50</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131402, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>51</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131403, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131404, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131405, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131406, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131407, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>52</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131408, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>53</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131409, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>54</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131410, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>55</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131411, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>56</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131412, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>57</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131413, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>58</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131414, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>59</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131415, 
+        "Text": "Can acquire Magicule \u00d7<color=#2be41d>60</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131501, 
+        "Text": "Can generate Defense Magistone \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131502, 
+        "Text": "Has a 98.8% chance to generate Defense Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131503, 
+        "Text": "Has a 80.8% chance to generate Defense Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Defense Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131504, 
+        "Text": "Has a 80.8% chance to generate Defense Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Defense Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131505, 
+        "Text": "Has a 76.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131506, 
+        "Text": "Has a 71.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131507, 
+        "Text": "Has a 71.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131508, 
+        "Text": "Has a 66.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131509, 
+        "Text": "Has a 61.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131510, 
+        "Text": "Has a 61.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131511, 
+        "Text": "Has a 56.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131512, 
+        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131513, 
+        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131514, 
+        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131515, 
+        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131516, 
+        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131517, 
+        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131518, 
+        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131519, 
+        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404131520, 
+        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404160601, 
+        "Text": "Can generate Healing Potion \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404160602, 
+        "Text": "Can generate Healing Potion \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404160603, 
+        "Text": "Can generate Healing Potion \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404160604, 
+        "Text": "Can generate Healing Potion \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 404160605, 
+        "Text": "Can generate Healing Potion \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1580000001, 
+        "Text": "Ogre Series"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1580000002, 
+        "Text": "Goblin Series"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000001, 
+        "Text": "Sword"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000002, 
+        "Text": "Katana"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000003, 
+        "Text": "Greatsword"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000004, 
+        "Text": "Lance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000005, 
+        "Text": "Hammer"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000006, 
+        "Text": "Fist"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 806000007, 
+        "Text": "Magic Tome"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000001, 
+        "Text": "Confirm Download"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000002, 
+        "Text": "Update available.\nDownload {0}{1} files."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000003, 
+        "Text": "MB"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000004, 
+        "Text": "GB"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000005, 
+        "Text": "Select Language"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000006, 
+        "Text": "Set language to {0}?\nNote: The language can be changed later."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000007, 
+        "Text": "Select Region"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000008, 
+        "Text": "Set to {0}?\nNote: The region cannot be changed later. When importing data, select the same region.\nNote: You cannot play with a chancellor in a different region."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000009, 
+        "Text": "Set chancellor name as <color=#2be41d>{0}</color>?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000010, 
+        "Text": "The word or words you entered cannot be used."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000011, 
+        "Text": "Confirm Deletion of Data"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000012, 
+        "Text": "Are you sure you want to delete this data?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000013, 
+        "Text": "Data deleted."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000014, 
+        "Text": "Confirm Shorter Tutorial"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000015, 
+        "Text": "Skip prologue and part of the tutorial?\n<color=#ed4b39>Choose YES to start the game from the Recruit tutorial.</color>"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000016, 
+        "Text": "Resetting user ID"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000017, 
+        "Text": "Failed to acquire user ID. Reset ID?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000018, 
+        "Text": "Device has been changed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000019, 
+        "Text": "Prepare for device change?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000020, 
+        "Text": "HH:mm, MM/dd/yyyy"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000021, 
+        "Text": "We are currently under maintenance"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000022, 
+        "Text": "{0}\n{1}~{2}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000023, 
+        "Text": "[GGL]{0}{1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000024, 
+        "Text": "Could not connect to server."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000025, 
+        "Text": "Error"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000026, 
+        "Text": "The app cannot currently be connected"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000027, 
+        "Text": "Asia-Pacific"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000028, 
+        "Text": "North and South America"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000029, 
+        "Text": "EU and Other"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000030, 
+        "Text": "English"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000031, 
+        "Text": "Korean"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000032, 
+        "Text": "Chinese (Trad.)"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000033, 
+        "Text": "Cache cleared.\nLog in from the title screen and re-download necessary game data."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000034, 
+        "Text": "Data will be transferred. Delete the app on this device to complete transfer."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000035, 
+        "Text": "Language settings changed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000036, 
+        "Text": "Language now set as {0}.\nReturning to the title screen."
+    }
+]

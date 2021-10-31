@@ -1,0 +1,712 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90130001, 
+        "Text": "Rigurd, the Hobgoblin Monarch Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90130001, 
+        "Text": "An item necessary in awakening Rigurd, the Hobgoblin Monarch."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90130002, 
+        "Text": "Alice Rondo, the Golem Master Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90130002, 
+        "Text": "An item necessary in awakening Alice Rondo, the Golem Master."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90130003, 
+        "Text": "Kenya Misaki, the Heroic Vessel Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90130003, 
+        "Text": "An item necessary in awakening Kenya Misaki, the Heroic Vessel."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90130004, 
+        "Text": "Ryota Sekiguchi, the Harmonizer of Insanity and Calm Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90130004, 
+        "Text": "An item necessary in awakening Ryota Sekiguchi, the Harmonizer of Insanity and Calm."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90130005, 
+        "Text": "Kurobe, the Immobile Black Ogre Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90130005, 
+        "Text": "An item necessary in awakening Kurobe, the Immobile Black Ogre."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90130006, 
+        "Text": "Gale Gibson, the Earth Spirit Lodger Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90130006, 
+        "Text": "An item necessary in awakening Gale, the Earth Spirit Lodger."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140001, 
+        "Text": "Gobta, the Hobgoblin Ascendant Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140001, 
+        "Text": "An item necessary in awakening Gobta, the Hobgoblin Ascendant."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140002, 
+        "Text": "Rimuru, the Reincarnated Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140002, 
+        "Text": "An item necessary in awakening Rimuru, the Reincarnated."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140003, 
+        "Text": "Gabiru, the Waving Spear Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140003, 
+        "Text": "An item necessary in awakening Gabiru, the Waving Spear."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140004, 
+        "Text": "Yuuki Kagurazaka, the Grandmaster Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140004, 
+        "Text": "An item necessary in awakening Yuuki Kagurazaka, the Grandmaster."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140005, 
+        "Text": "Trya, the Summer Breeze of Benevolence Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140005, 
+        "Text": "An item necessary in awakening Trya, the Summer Breeze of Benevolence."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140006, 
+        "Text": "Kurobe, the Steel Heart of the Forge Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140006, 
+        "Text": "An item necessary in awakening Kurobe, the Steel Heart of the Forge."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140007, 
+        "Text": "Gelmud, the Secret Operator Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140007, 
+        "Text": "An item necessary in awakening Gelmud, the Secret Operator."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140008, 
+        "Text": "Chloe Aubert, the Lovely Innocence Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140008, 
+        "Text": "An item necessary in awakening Chloe Aubert, the Lovely Innocence."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140009, 
+        "Text": "Benimaru, the Next Clan Leader Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140009, 
+        "Text": "An item necessary in awakening Benimaru, the Next Clan Leader."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140010, 
+        "Text": "Souei, the Blue Gale Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140010, 
+        "Text": "An item necessary in awakening Souei, the Blue Gale."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140011, 
+        "Text": "Geld, the Orc King Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140011, 
+        "Text": "An item necessary in awakening Geld, the Orc King."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140012, 
+        "Text": "Ranga, the Loyal Wolf Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140012, 
+        "Text": "An item necessary in awakening Ranga, the Loyal Wolf."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140013, 
+        "Text": "Phobio, the Leopard Fang Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140013, 
+        "Text": "An item necessary in awakening Phobio, the Leopard Fang."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140014, 
+        "Text": "Shion, the Purple Smash Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140014, 
+        "Text": "An item necessary in awakening Shion, the Purple Smash."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140015, 
+        "Text": "Hakurou, the White Slash Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140015, 
+        "Text": "An item necessary in awakening Hakurou, the White Slash."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140016, 
+        "Text": "Shuna, the Pink Ogre Princess Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140016, 
+        "Text": "An item necessary in awakening Shuna, the Pink Ogre Princess."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140017, 
+        "Text": "Souei, the Instant Spy Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140017, 
+        "Text": "An item necessary in awakening Souei, the Instant Spy."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140018, 
+        "Text": "Rimuru, the Swordsmanship Forge Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140018, 
+        "Text": "An item necessary in awakening Rimuru, the Swordsmanship Forge."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140019, 
+        "Text": "Benimaru, the Valiant Kijin Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140019, 
+        "Text": "An item necessary in awakening Benimaru, the Valiant Kijin."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140020, 
+        "Text": "Shuna, the Excellent Tailor Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140020, 
+        "Text": "An item necessary in awakening Shuna, the Excellent Tailor."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140021, 
+        "Text": "Shion, the Ardent Attendant Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140021, 
+        "Text": "An item necessary in awakening Shion, the Ardent Attendant."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90140022, 
+        "Text": "Milim Nava, the Delighter in Everyday Life Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140022, 
+        "Text": "An item necessary in awakening Milim Nava, the Delighter in Everyday Life."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150001, 
+        "Text": "Benimaru, the Samurai General of Hellfire Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150001, 
+        "Text": "An item necessary in awakening Benimaru, the Samurai General of Hellfire."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150002, 
+        "Text": "Shion, the Steel Annihilator Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150002, 
+        "Text": "An item necessary in awakening Shion, the Steel Annihilator."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150003, 
+        "Text": "Rimuru, the Harmonizer of Monsters and Humans Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150003, 
+        "Text": "An item necessary in awakening Rimuru, the Harmonizer of Monsters and Humans."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150004, 
+        "Text": "Souei, the Spy in the Shadows Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150004, 
+        "Text": "An item necessary in awakening Souei, the Spy in the Shadows."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150005, 
+        "Text": "Gazel Dwargo, the King of an Armed Nation Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150005, 
+        "Text": "An item necessary in awakening Gazel Dwargo, the King of an Armed Nation."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150006, 
+        "Text": "Ranga, the Tempest Star Wolf Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150006, 
+        "Text": "An item necessary in awakening Ranga, the Tempest Star Wolf."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150007, 
+        "Text": "Shizue Izawa, the Conqueror of Flames Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150007, 
+        "Text": "An item necessary in awakening Shizue Izawa, the Conqueror of Flames."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150008, 
+        "Text": "Shuna, the Holy Princess Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150008, 
+        "Text": "An item necessary in awakening Shuna, the Holy Princess."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150009, 
+        "Text": "Treyni, the Budding of Deep Green Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150009, 
+        "Text": "An item necessary in awakening Treyni, the Budding of Deep Green."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150010, 
+        "Text": "Milim Nava, the Dragonoid Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150010, 
+        "Text": "An item necessary in awakening Milim Nava, the Dragonoid."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150011, 
+        "Text": "Hakurou, the Instructor of the Flashing Sword Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150011, 
+        "Text": "An item necessary in awakening Hakurou, the Instructor of the Flashing Sword."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150012, 
+        "Text": "Beretta, the Arch Golem Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150012, 
+        "Text": "An item necessary in awakening Beretta, the Arch Golem."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150013, 
+        "Text": "Shuna, the Pink Ogre of Heavenly Light Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150013, 
+        "Text": "An item necessary in awakening Shuna, the Pink Ogre of Heavenly Light."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150014, 
+        "Text": "Milim Nava, One of the Oldest Demon Lords Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150014, 
+        "Text": "An item necessary in awakening Milim Nava, One of the Oldest Demon Lords."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150015, 
+        "Text": "Rimuru Tempest, the Chancellor of Tempest Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150015, 
+        "Text": "An item necessary in awakening Rimuru Tempest, the Chancellor of Tempest."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230001, 
+        "Text": "Butterflies of the Night Owner, the Bewitching Shopkeeper Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230001, 
+        "Text": "An item necessary in awakening Butterflies of the Night Owner, the Bewitching Shopkeeper."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230002, 
+        "Text": "Psychic Elf, the Fortuneteller Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230002, 
+        "Text": "An item necessary in awakening Psychic Elf, the Fortuneteller."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230003, 
+        "Text": "Garm, the Armor Artisan Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230003, 
+        "Text": "An item necessary in awakening Garm, the Armor Artisan."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230004, 
+        "Text": "Dord, the Skilled Artisan Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230004, 
+        "Text": "An item necessary in awakening Dord, the Skilled Artisan."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230005, 
+        "Text": "Myrd, the Construction Artisan Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230005, 
+        "Text": "An item necessary in awakening Myrd, the Construction Artisan."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230006, 
+        "Text": "Haruna, the Affectionate Hobgoblin Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230006, 
+        "Text": "An item necessary in awakening Haruna, the Affectionate Hobgoblin."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90230007, 
+        "Text": "Gobuichi, the Hobgoblin Chef Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90230007, 
+        "Text": "An item necessary in awakening Gobuichi, the Hobgoblin Chef."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240001, 
+        "Text": "Kaijin, the Forge Artisan Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240001, 
+        "Text": "An item necessary in awakening Kaijin, the Forge Artisan."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240002, 
+        "Text": "Sky Dragon, the Soaring Dragon Calamity Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240002, 
+        "Text": "An item necessary in awakening Sky Dragon, the Soaring Dragon Calamity."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240003, 
+        "Text": "Salamander, the Flame Master Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240003, 
+        "Text": "An item necessary in awakening Salamander, the Flame Master."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240004, 
+        "Text": "Vesta, the Seeker Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240004, 
+        "Text": "An item necessary in awakening Vesta, the Seeker."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240005, 
+        "Text": "Veldora Tempest, the Proud Kin of Dragons Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240005, 
+        "Text": "An item necessary in awakening Veldora Tempest, the Proud Kin of Dragons."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240006, 
+        "Text": "Gard Mjolmire, the Competent Merchant Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240006, 
+        "Text": "An item necessary in awakening Gard Mjolmire, the Competent Merchant."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240007, 
+        "Text": "Fuze, the Guildmaster Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240007, 
+        "Text": "An item necessary in awakening Fuze, the Guildmaster."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90240008, 
+        "Text": "Light Spirit, the Heroic Conductor Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90240008, 
+        "Text": "An item necessary in awakening Light Spirit, the Heroic Conductor."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250001, 
+        "Text": "Orc Disaster, the Starved Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250001, 
+        "Text": "An item necessary in awakening Orc Disaster, the Starved."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250002, 
+        "Text": "Veldora Tempest, the Storm Dragon Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250002, 
+        "Text": "An item necessary in awakening Veldora Tempest, the Storm Dragon."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250003, 
+        "Text": "Ifrit, the Burning Spirit Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250003, 
+        "Text": "An item necessary in awakening Ifrit, the Burning Spirit."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250004, 
+        "Text": "Charybdis, the Swimming Calamity Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250004, 
+        "Text": "An item necessary in awakening Charybdis, the Swimming Calamity."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250005, 
+        "Text": "Ramiris, the Fairy of the Labyrinth Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250005, 
+        "Text": "An item necessary in awakening Ramiris, the Fairy of the Labyrinth."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250006, 
+        "Text": "Elemental Colossus, the Golem Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250006, 
+        "Text": "An item necessary in awakening Elemental Colossus, the Golem."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250007, 
+        "Text": "Milim Nava, the Bellicose Dragoneye Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250007, 
+        "Text": "An item necessary in awakening Milim Nava, the Bellicose Dragoneye."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90000001, 
+        "Text": "3\u2605 Memory Stone Shard"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90000001, 
+        "Text": "An item necessary in awakening a 3\u2605 battle character."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90000002, 
+        "Text": "4\u2605 Memory Stone Shard"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90000002, 
+        "Text": "An item necessary in awakening a 4\u2605 battle character."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90000003, 
+        "Text": "5\u2605 Memory Stone Shard"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90000003, 
+        "Text": "An item necessary in awakening a 5\u2605 battle character."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90000004, 
+        "Text": "3\u2605 Contract Stone Shard"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90000004, 
+        "Text": "An item necessary in awakening a 3\u2605 protection character."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90000005, 
+        "Text": "4\u2605 Contract Stone Shard"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90000005, 
+        "Text": "An item necessary in awakening a 4\u2605 protection character."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90000006, 
+        "Text": "5\u2605 Contract Stone Shard"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90000006, 
+        "Text": "An item necessary in awakening a 5\u2605 protection character."
+    }
+]
