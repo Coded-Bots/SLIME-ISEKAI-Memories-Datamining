@@ -1198,5 +1198,105 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 406140640, 
         "Text": "Increases Max Population: x<color=#2be41d>70</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140701, 
+        "Text": "Increases Max Population: x<color=#2be41d>30</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140702, 
+        "Text": "Increases Max Population: x<color=#2be41d>30</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140703, 
+        "Text": "Increases Max Population: x<color=#2be41d>30</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140704, 
+        "Text": "Increases Max Population: x<color=#2be41d>30</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140705, 
+        "Text": "Increases Max Population: x<color=#2be41d>30</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140706, 
+        "Text": "Increases Max Population: x<color=#2be41d>60</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140707, 
+        "Text": "Increases Max Population: x<color=#2be41d>60</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140708, 
+        "Text": "Increases Max Population: x<color=#2be41d>60</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140709, 
+        "Text": "Increases Max Population: x<color=#2be41d>60</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140710, 
+        "Text": "Increases Max Population: x<color=#2be41d>60</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140711, 
+        "Text": "Increases Max Population: x<color=#2be41d>80</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140712, 
+        "Text": "Increases Max Population: x<color=#2be41d>80</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140713, 
+        "Text": "Increases Max Population: x<color=#2be41d>80</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140714, 
+        "Text": "Increases Max Population: x<color=#2be41d>80</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140715, 
+        "Text": "Increases Max Population: x<color=#2be41d>80</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140716, 
+        "Text": "Increases Max Population: x<color=#2be41d>100</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140717, 
+        "Text": "Increases Max Population: x<color=#2be41d>100</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140718, 
+        "Text": "Increases Max Population: x<color=#2be41d>100</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140719, 
+        "Text": "Increases Max Population: x<color=#2be41d>100</color>"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 406140720, 
+        "Text": "Increases Max Population: x<color=#2be41d>100</color>"
     }
 ]

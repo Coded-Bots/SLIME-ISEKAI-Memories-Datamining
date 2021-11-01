@@ -22,5 +22,17 @@
         "Name": 687194767532, 
         "Rarity": 1, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Descriptionoffset": "", 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/GalleryItem/2500001/gallery_item_2500001_Item{0}", 
+        "ImagePathoffset": "Image/Gallery/2500003/gallery_2500003", 
+        "Locationoffset": "", 
+        "MasterGalleryItemId": 2500003, 
+        "MaxLimit": 99999, 
+        "Name": 790273982660, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }
 ]

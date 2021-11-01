@@ -5875,5 +5875,59 @@
         "TargetCount": 11200, 
         "TargetId": 0, 
         "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 6, 
+        "MasterFacilityLevelConditionId": 410407011, 
+        "MasterFacilityLevelIdGroups": 406140701, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "TargetCount": 0, 
+        "TargetId": 1200006, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410407021, 
+        "MasterFacilityLevelIdGroups": 406140702, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 100
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410407041, 
+        "MasterFacilityLevelIdGroups": 406140704, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 200
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410407061, 
+        "MasterFacilityLevelIdGroups": 406140706, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 250
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410407111, 
+        "MasterFacilityLevelIdGroups": 406140711, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 600
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410407161, 
+        "MasterFacilityLevelIdGroups": 406140716, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 900
     }
 ]

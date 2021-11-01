@@ -1,0 +1,30 @@
+[
+    {
+        "MasterCharacterAffectionUpTalkRewardGroupId": 8007000001, 
+        "MasterCharacterAffectionUpTalkRewardId": 3008000001, 
+        "MasterRewardGroupId": 802440000002, 
+        "ReleaseLabeloffset": "", 
+        "RewardRatio": 3000
+    }, 
+    {
+        "MasterCharacterAffectionUpTalkRewardGroupId": 8007000001, 
+        "MasterCharacterAffectionUpTalkRewardId": 3008000002, 
+        "MasterRewardGroupId": 802440000003, 
+        "ReleaseLabeloffset": "", 
+        "RewardRatio": 3000
+    }, 
+    {
+        "MasterCharacterAffectionUpTalkRewardGroupId": 8007000001, 
+        "MasterCharacterAffectionUpTalkRewardId": 3008000003, 
+        "MasterRewardGroupId": 802440000004, 
+        "ReleaseLabeloffset": "", 
+        "RewardRatio": 2500
+    }, 
+    {
+        "MasterCharacterAffectionUpTalkRewardGroupId": 8007000001, 
+        "MasterCharacterAffectionUpTalkRewardId": 3008000004, 
+        "MasterRewardGroupId": 802420000002, 
+        "ReleaseLabeloffset": "", 
+        "RewardRatio": 1500
+    }
+]

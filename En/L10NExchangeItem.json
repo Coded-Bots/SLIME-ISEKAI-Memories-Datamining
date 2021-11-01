@@ -41,13 +41,23 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 2400007, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400007, 
+        "Text": "Item that can be exchanged in the event: Nation of Monsters Diabolic Secretary."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 2400008, 
-        "Text": "Octagram"
+        "Text": "Octagram Emblem"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 2400008, 
-        "Text": "Item that can be exchanged for Octagram Demon Lords."
+        "Text": "Item that can be exchanged for Octagram Emblem Demon Lords."
     }, 
     {
         "ColumnName": "name", 

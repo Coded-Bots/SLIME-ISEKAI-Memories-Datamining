@@ -4,5 +4,17 @@
         "MasterOgcLotteryShopId": 500000002, 
         "MasterPcId": 150001, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterLotterySkillId": 509000004, 
+        "MasterOgcLotteryShopId": 500000005, 
+        "MasterPcId": 150017, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "MasterLotterySkillId": 509000005, 
+        "MasterOgcLotteryShopId": 500000005, 
+        "MasterPcId": 250009, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
     }
 ]

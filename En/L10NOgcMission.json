@@ -106,163 +106,163 @@
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606440008, 
-        "Text": "Clear The Good Secretary Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "LocalizationTargetId": 606350002, 
+        "Text": "Clear The Good Secretary Part 2 (Beginner)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350003, 
+        "Text": "Clear The Good Secretary (Normal)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350004, 
+        "Text": "Clear The Good Secretary (Expert)"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440009, 
-        "Text": "Clear The Diabolic Secretary and the Loafer Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Diabolic Secretary and the Loafer Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440010, 
-        "Text": "Clear Reliable Father and Son Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Reliable Father and Son Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440011, 
-        "Text": "Clear Crafty Artisans Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Crafty Artisans Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440012, 
-        "Text": "Clear The Fearless Dragonewt Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Fearless Dragonewt Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440013, 
-        "Text": "Clear Magic Research Consultation Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Magic Research Consultation Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440014, 
-        "Text": "Clear The Serious Orc and the Forest Manager Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Serious Orc and the Forest Manager Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440015, 
-        "Text": "Clear Dedicated Aides Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Dedicated Aides Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440016, 
-        "Text": "Clear Faithful Fighters Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606440017, 
-        "Text": "Clear The Good Secretary (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Faithful Fighters Part 2 (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440018, 
-        "Text": "Clear The Diabolic Secretary and the Loafer (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Diabolic Secretary and the Loafer (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440019, 
-        "Text": "Clear Reliable Father and Son (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Reliable Father and Son (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440020, 
-        "Text": "Clear Crafty Artisans (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Crafty Artisans (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440021, 
-        "Text": "Clear The Fearless Dragonewt (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Fearless Dragonewt (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440022, 
-        "Text": "Clear Magic Research Consultation (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Magic Research Consultation (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440023, 
-        "Text": "Clear The Serious Orc and the Forest Manager (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Serious Orc and the Forest Manager (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440024, 
-        "Text": "Clear Dedicated Aides (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Dedicated Aides (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440025, 
-        "Text": "Clear Faithful Fighters (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606440026, 
-        "Text": "Clear The Good Secretary (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Faithful Fighters (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440027, 
-        "Text": "Clear The Diabolic Secretary and the Loafer (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Diabolic Secretary and the Loafer (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440028, 
-        "Text": "Clear Reliable Father and Son (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Reliable Father and Son (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440029, 
-        "Text": "Clear Crafty Artisans (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Crafty Artisans (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440030, 
-        "Text": "Clear The Fearless Dragonewt (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Fearless Dragonewt (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440031, 
-        "Text": "Clear Magic Research Consultation (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Magic Research Consultation (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440032, 
-        "Text": "Clear The Serious Orc and the Forest Manager (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear The Serious Orc and the Forest Manager (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440033, 
-        "Text": "Clear Dedicated Aides (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Dedicated Aides (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440034, 
-        "Text": "Clear Faithful Fighters (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Faithful Fighters (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440035, 
-        "Text": "Clear Charybdis Flash (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Charybdis Flash (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440036, 
-        "Text": "Clear Charybdis Flash (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Charybdis Flash (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440037, 
-        "Text": "Clear Charybdis Flash (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Charybdis Flash (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440038, 
-        "Text": "Clear Charybdis Flash (Expert 1) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Charybdis Flash (Expert 1) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440039, 
-        "Text": "Clear Charybdis Flash (Expert 2) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Charybdis Flash (Expert 2) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
@@ -323,6 +323,21 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 606460016, 
         "Text": "Clear Ravenous Chaos (Master) in 6 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470001, 
+        "Text": "Reach skill level 4 with Benimaru, the Crimson Ogre Warrior"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470002, 
+        "Text": "Reach skill level 7 with Benimaru, the Crimson Ogre Warrior"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470003, 
+        "Text": "Reach skill level 10 with Benimaru, the Crimson Ogre Warrior"
     }, 
     {
         "ColumnName": "description", 
@@ -477,37 +492,37 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606560008, 
-        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 8 pierce attacks"
+        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 3 pierce attacks"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606570008, 
-        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash 8 critical attacks"
+        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 3 critical attacks"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580001, 
-        "Text": "Clear Charybdis Flash (Beginner) with a Predator score of 13,000 or more: x1"
+        "Text": "Clear Charybdis Flash (Beginner) with a Predator Rating of S: x1"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580002, 
-        "Text": "Clear Charybdis Flash (Normal) with a Predator score of 13,000 or more: x1"
+        "Text": "Clear Charybdis Flash (Normal) with a Predator Rating of S: x1"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580003, 
-        "Text": "Clear Charybdis Flash (Expert) with a Predator score of 13,000 or more: x1"
+        "Text": "Clear Charybdis Flash (Expert) with a Predator Rating of S: x1"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580004, 
-        "Text": "Clear Charybdis Flash (Expert 1) with a Predator score of 13,000 or more: x1"
+        "Text": "Clear Charybdis Flash (Expert 1) with a Predator Rating of S: x1"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580005, 
-        "Text": "Clear Charybdis Flash (Expert 2) with a Predator score of 13,000 or more: x15"
+        "Text": "Clear Charybdis Flash (Expert 2) with a Predator Rating of S: x15"
     }, 
     {
         "ColumnName": "description", 
@@ -517,7 +532,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606590001, 
-        "Text": "Clear Faithful Fighters (Expert) in 1 turns after using a skill cost of 80"
+        "Text": "Clear Faithful Fighters (Expert) after using 80 skill points in the following amount of turns: 1"
     }, 
     {
         "ColumnName": "description", 
@@ -22742,7 +22757,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410061, 
-        "Text": "Clear Faithful Fighters (Beginner) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Faithful Fighters (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
@@ -22767,7 +22782,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410066, 
-        "Text": "Clear Nation of Monsters Diabolic Secretary: x30"
+        "Text": "Clear Nation of Monsters Diabolic Secretary: x50"
     }, 
     {
         "ColumnName": "description", 
@@ -22782,12 +22797,12 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410069, 
-        "Text": "Level up a piece of equipment: x1"
+        "Text": "Complete all Nation of Monsters Diabolic Secretary (Beginner) quests"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410071, 
-        "Text": "Clear Faithful Fighters (Normal) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Faithful Fighters (Normal) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
@@ -22812,7 +22827,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410076, 
-        "Text": "Clear Nation of Monsters Diabolic Secretary: x50"
+        "Text": "Clear Nation of Monsters Diabolic Secretary: x100"
     }, 
     {
         "ColumnName": "description", 
@@ -22832,7 +22847,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410081, 
-        "Text": "Clear Faithful Fighters (Expert) with Benimaru, the Crimson Ogre Warrior in your troop"
+        "Text": "Clear Faithful Fighters (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
@@ -22847,7 +22862,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410084, 
-        "Text": "Raise both of Benimaru, the Crimson Ogre Warrior's battle skills to level 10"
+        "Text": "Evolve a piece of equipment to 5\u2605"
     }, 
     {
         "ColumnName": "description", 
@@ -22857,7 +22872,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600410086, 
-        "Text": "Clear Nation of Monsters Diabolic Secretary: x100"
+        "Text": "Clear Nation of Monsters Diabolic Secretary: x150"
     }, 
     {
         "ColumnName": "description", 

@@ -148,5 +148,65 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 2300015, 
         "Text": "Skill that enhances magic-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300019, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300019, 
+        "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300020, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300020, 
+        "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300021, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300021, 
+        "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300022, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300022, 
+        "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300023, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300023, 
+        "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300024, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300024, 
+        "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
     }
 ]

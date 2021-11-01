@@ -1536,6 +1536,54 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "ActingVoicePathoffset": "sys/diablo/voice_sys_diablo_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterPartyEditVoiceId": 3012002801, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/diablo/voice_sys_diablo_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterPartyEditVoiceId": 3012002802, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/diablo/voice_sys_diablo_034_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterPartyEditVoiceId": 3012002803, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/diablo/voice_sys_diablo_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterPartyEditVoiceId": 3012002804, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/diablo/voice_sys_diablo_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterPartyEditVoiceId": 3012002805, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/diablo/voice_sys_diablo_032_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterPartyEditVoiceId": 3012002806, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
         "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_032_party", 
         "LimitedMasterPcId": 0, 
         "MasterCharacterId": 3001000501, 

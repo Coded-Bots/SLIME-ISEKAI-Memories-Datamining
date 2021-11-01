@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 803000001, 
+        "Text": "Attack Growth Type"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 803000002, 
+        "Text": "Defense Growth Type"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 803000003, 
+        "Text": "Heal"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 803000004, 
+        "Text": "Balance Growth Type"
+    }
+]

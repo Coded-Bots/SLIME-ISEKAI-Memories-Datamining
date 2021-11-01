@@ -561,6 +561,926 @@
     }, 
     {
         "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003001, 
+        "Text": "The Good Secretary Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003001, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003002, 
+        "Text": "The Good Secretary Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003002, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003002, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003002, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003003, 
+        "Text": "The Diabolic Secretary and the Loafer Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003003, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003003, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003004, 
+        "Text": "The Diabolic Secretary and the Loafer Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003004, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003004, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003004, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003005, 
+        "Text": "Reliable Father and Son Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003005, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003005, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003006, 
+        "Text": "Reliable Father and Son Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003006, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003006, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003006, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003007, 
+        "Text": "Crafty Artisans Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003007, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003007, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003008, 
+        "Text": "Crafty Artisans Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003008, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003008, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003008, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003009, 
+        "Text": "The Fearless Dragonewt Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003009, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003009, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003010, 
+        "Text": "The Fearless Dragonewt Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003010, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003010, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003010, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003011, 
+        "Text": "Magic Research Consultation Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003011, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003011, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003012, 
+        "Text": "Magic Research Consultation Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003012, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003012, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003012, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003013, 
+        "Text": "The Serious Orc and the Forest Manager Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003013, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003013, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003014, 
+        "Text": "The Serious Orc and the Forest Manager Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003014, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003014, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003014, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003015, 
+        "Text": "Dedicated Aides Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003015, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003015, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003016, 
+        "Text": "Dedicated Aides Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003016, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003016, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003016, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003017, 
+        "Text": "Faithful Fighters Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003017, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003017, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003018, 
+        "Text": "Faithful Fighters Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003018, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003018, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003018, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003019, 
+        "Text": "Surprise Party"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003019, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003019, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003101, 
+        "Text": "The Good Secretary"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003101, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003101, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003101, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003102, 
+        "Text": "The Diabolic Secretary and the Loafer"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003102, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003102, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003102, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003103, 
+        "Text": "Reliable Father and Son"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003103, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003103, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003103, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003104, 
+        "Text": "Crafty Artisans"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003104, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003104, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003104, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003105, 
+        "Text": "The Fearless Dragonewt"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003105, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003105, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003105, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003106, 
+        "Text": "Magic Research Consultation"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003106, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003106, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003106, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003107, 
+        "Text": "The Serious Orc and the Forest Manager"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003107, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003107, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003107, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003108, 
+        "Text": "Dedicated Aides"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003108, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003108, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003108, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003109, 
+        "Text": "Faithful Fighters"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003109, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003109, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003109, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003201, 
+        "Text": "The Good Secretary"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003201, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003201, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003201, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003202, 
+        "Text": "The Diabolic Secretary and the Loafer"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003202, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003202, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003202, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003203, 
+        "Text": "Reliable Father and Son"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003203, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003203, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003203, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003204, 
+        "Text": "Crafty Artisans"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003204, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003204, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003204, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003205, 
+        "Text": "The Fearless Dragonewt"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003205, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003205, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003205, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003206, 
+        "Text": "Magic Research Consultation"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003206, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003206, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003206, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003207, 
+        "Text": "The Serious Orc and the Forest Manager"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003207, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003207, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003207, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003208, 
+        "Text": "Dedicated Aides"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003208, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003208, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003208, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003209, 
+        "Text": "Faithful Fighters"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003209, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003209, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003209, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003301, 
+        "Text": "Resolution of a Demon Lord"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003301, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003301, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003301, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003302, 
+        "Text": "Charybdis Flash (Beginner)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003302, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003302, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003302, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003303, 
+        "Text": "Charybdis Flash (Normal)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003303, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003303, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003303, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003304, 
+        "Text": "Charybdis Flash (Expert)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003304, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003304, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003304, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003305, 
+        "Text": "Charybdis Flash (Expert 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003305, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003305, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003305, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014003306, 
+        "Text": "Charybdis Flash (Expert 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014003306, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014003306, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014003306, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014004001, 
+        "Text": "Interview with the Demon Butler Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014004001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014004001, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014004001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014004002, 
+        "Text": "Interview with the Demon Butler Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014004002, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014004002, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014004002, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014004003, 
+        "Text": "Interview with the Demon Butler Part 3"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014004003, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014004003, 
+        "Text": "error"
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014004003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
         "LocalizationTargetId": 4013001001, 
         "Text": "Gobta's Request 1"
     }, 

@@ -42,12 +42,12 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 2007000009, 
-        "Text": "As you have filled your <color=#EFBE15>Secret Skill Gauge</color>, <color=#F7E416>Secret Skill</color> activation is now available. Selecting this will use up the gauge and activate the Secret Skill, doing massive damage to the enemy."
+        "Text": "As you have filled your <color=#EFBE15>Secret Skill Gauge</color>, <color=#F7E416>Soul of Combos</color> activation is now available. Selecting this will use up the gauge and activate the Soul of Combos, doing massive damage to the enemy."
     }, 
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 2007000010, 
-        "Text": "You can use any card combination when activating a <color=#F7E416>Secret Skill</color>. We recommend selecting more cards before unleashing your attack."
+        "Text": "You can use any card combination when activating a <color=#F7E416>Soul of Combos</color>. We recommend selecting more cards before unleashing your attack."
     }, 
     {
         "ColumnName": "message", 

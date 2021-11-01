@@ -428,5 +428,15 @@
         "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
         "TriggerType": 5, 
         "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000060, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
     }
 ]

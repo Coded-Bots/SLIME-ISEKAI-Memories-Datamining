@@ -1,1 +1,54 @@
-[]
+[
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000104, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000001, 
+        "MovieFilePathoffset": "Movie/Lottery/lottery_c003_02.usm", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 4, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000103, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000001, 
+        "MovieFilePathoffset": "Movie/SpecialSkill/DiabloDefault_Battle_SpecialSkill/DiabloDefault_Battle_SpecialSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 3, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000102, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000001, 
+        "MovieFilePathoffset": "Movie/BlessSkill/ShionSecretary_Battle_BlessSkill/ShionSecretary_Battle_BlessSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 2, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000101, 
+        "ImageFilePathoffset": "Image/LotteryInfo/500000005/LotteryLoginNotice_500000005", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000001, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }
+]

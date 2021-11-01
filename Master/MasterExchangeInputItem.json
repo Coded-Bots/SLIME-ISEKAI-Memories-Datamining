@@ -144,6 +144,22 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "Description": 214748364876, 
+        "ExchangeItemId": 2400008, 
+        "ItemAmount": 50, 
+        "MasterExchangeInputItemGroupId": 9002030050, 
+        "MasterExchangeInputItemId": 9002030050, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
+        "Description": 429496729676, 
+        "ExchangeItemId": 2400008, 
+        "ItemAmount": 100, 
+        "MasterExchangeInputItemGroupId": 9002030100, 
+        "MasterExchangeInputItemId": 9002030100, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
         "Description": 4294967340, 
         "ExchangeItemId": 2400004, 
         "ItemAmount": 1, 
@@ -206,5 +222,117 @@
         "MasterExchangeInputItemGroupId": 9002040030, 
         "MasterExchangeInputItemId": 9002040030, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 429496729676, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 100, 
+        "MasterExchangeInputItemGroupId": 9002110010, 
+        "MasterExchangeInputItemId": 9002110010, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 858993459276, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 200, 
+        "MasterExchangeInputItemGroupId": 9002110020, 
+        "MasterExchangeInputItemId": 9002110020, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 1288490188876, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 300, 
+        "MasterExchangeInputItemGroupId": 9002110030, 
+        "MasterExchangeInputItemId": 9002110030, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 2147483648076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 500, 
+        "MasterExchangeInputItemGroupId": 9002110050, 
+        "MasterExchangeInputItemId": 9002110050, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 2576980377676, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 600, 
+        "MasterExchangeInputItemGroupId": 9002110060, 
+        "MasterExchangeInputItemId": 9002110060, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 3221225472076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 750, 
+        "MasterExchangeInputItemGroupId": 9002110075, 
+        "MasterExchangeInputItemId": 9002110075, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 4294967296076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 1000, 
+        "MasterExchangeInputItemGroupId": 9002110100, 
+        "MasterExchangeInputItemId": 9002110100, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 6442450944076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 1500, 
+        "MasterExchangeInputItemGroupId": 9002110150, 
+        "MasterExchangeInputItemId": 9002110150, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 8589934592076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 2000, 
+        "MasterExchangeInputItemGroupId": 9002110200, 
+        "MasterExchangeInputItemId": 9002110200, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 12884901888076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 3000, 
+        "MasterExchangeInputItemGroupId": 9002110300, 
+        "MasterExchangeInputItemId": 9002110300, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 21474836480076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 5000, 
+        "MasterExchangeInputItemGroupId": 9002110500, 
+        "MasterExchangeInputItemId": 9002110500, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 30064771072076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 7000, 
+        "MasterExchangeInputItemGroupId": 9002110700, 
+        "MasterExchangeInputItemId": 9002110700, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 42949672960076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 10000, 
+        "MasterExchangeInputItemGroupId": 9002111000, 
+        "MasterExchangeInputItemId": 9002111000, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 64424509440076, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 15000, 
+        "MasterExchangeInputItemGroupId": 9002111500, 
+        "MasterExchangeInputItemId": 9002111500, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
     }
 ]

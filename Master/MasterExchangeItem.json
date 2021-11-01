@@ -55,6 +55,17 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "Description": 4294967432, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400007/exchange_item_2400007_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400007, 
+        "MaxLimit": 999999, 
+        "Name": 584115552404, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
         "Description": 12884902000, 
         "Gold": 0, 
         "IconPathoffset": "Image/Item/Exchange/2400008/exchange_item_2400008_Item{0}", 

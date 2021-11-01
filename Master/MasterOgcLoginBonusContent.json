@@ -96,5 +96,103 @@
         "MasterLoginBonusId": 60000000002, 
         "MasterRewardGroupId": 802720000005, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Day": 1, 
+        "MasterLoginBonusContentId": 60120003001, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000008, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 2, 
+        "MasterLoginBonusContentId": 60120003002, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000009, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 3, 
+        "MasterLoginBonusContentId": 60120003003, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000013, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 4, 
+        "MasterLoginBonusContentId": 60120003004, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000012, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 5, 
+        "MasterLoginBonusContentId": 60120003005, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000014, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 6, 
+        "MasterLoginBonusContentId": 60120003006, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000013, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 7, 
+        "MasterLoginBonusContentId": 60120003007, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000010, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 8, 
+        "MasterLoginBonusContentId": 60120003008, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000015, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 9, 
+        "MasterLoginBonusContentId": 60120003009, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000012, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 10, 
+        "MasterLoginBonusContentId": 60120003010, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000013, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 11, 
+        "MasterLoginBonusContentId": 60120003011, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000014, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 12, 
+        "MasterLoginBonusContentId": 60120003012, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000011, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 13, 
+        "MasterLoginBonusContentId": 60120003013, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000015, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 14, 
+        "MasterLoginBonusContentId": 60120003014, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterRewardGroupId": 802720000013, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
     }
 ]

@@ -92,7 +92,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000001001, 
-        "Text": "Error"
+        "Text": "Error(400)"
     }, 
     {
         "ColumnName": "message", 
@@ -102,7 +102,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000001002, 
-        "Text": "Error"
+        "Text": "Error(403)"
     }, 
     {
         "ColumnName": "message", 
@@ -112,7 +112,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000001003, 
-        "Text": "Error"
+        "Text": "Error(404)"
     }, 
     {
         "ColumnName": "message", 
@@ -122,7 +122,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000001004, 
-        "Text": "Error"
+        "Text": "Error(500)"
     }, 
     {
         "ColumnName": "message", 
@@ -132,7 +132,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000001005, 
-        "Text": "Error"
+        "Text": "Error(502)"
     }, 
     {
         "ColumnName": "message", 
@@ -142,7 +142,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000001006, 
-        "Text": "Error"
+        "Text": "Error(504)"
     }, 
     {
         "ColumnName": "message", 
@@ -202,7 +202,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000002004, 
-        "Text": "Error"
+        "Text": "Error(7004)"
     }, 
     {
         "ColumnName": "message", 
@@ -212,7 +212,7 @@
     {
         "ColumnName": "title", 
         "LocalizationTargetId": 8000002005, 
-        "Text": "Error"
+        "Text": "Error(7005)"
     }, 
     {
         "ColumnName": "message", 

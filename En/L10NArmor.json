@@ -43,5 +43,10 @@
         "ColumnName": "name", 
         "LocalizationTargetId": 1120310010, 
         "Text": "Iron Plate"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310011, 
+        "Text": "The Crimson Ogre Warrior's Surcoat"
     }
 ]

@@ -177,7 +177,7 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 808000036, 
-        "Text": "Octagram Bazaar"
+        "Text": "Octagram Emblem Bazaar"
     }, 
     {
         "ColumnName": "message", 
@@ -502,7 +502,7 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 808000103, 
-        "Text": "AQCUIRED"
+        "Text": "ACQUIRED"
     }, 
     {
         "ColumnName": "message", 

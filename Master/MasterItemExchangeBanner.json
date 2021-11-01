@@ -32,6 +32,14 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_OctagramEmblem", 
+        "BannerPriority": 7, 
+        "ItemExchangeType": 4, 
+        "MasterItemExchangeBannerGroupId": 9000000005, 
+        "MasterItemExchangeBannerId": 9000000005, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
         "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_Coin", 
         "BannerPriority": 5, 
         "ItemExchangeType": 3, 
@@ -46,6 +54,14 @@
         "MasterItemExchangeBannerGroupId": 9000000007, 
         "MasterItemExchangeBannerId": 9000000007, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/StoryEvent/2001/Exchange_Banner", 
+        "BannerPriority": 100, 
+        "ItemExchangeType": 0, 
+        "MasterItemExchangeBannerGroupId": 9000000008, 
+        "MasterItemExchangeBannerId": 9000000008, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
     }, 
     {
         "BannerImagePathoffset": "Image/Exchange/banner/exchange_banner_GachaPoint", 

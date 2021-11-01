@@ -1,0 +1,1430 @@
+[
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001001, 
+        "MasterRewardGroupId": 802902400801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001002, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001003, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001004, 
+        "MasterRewardGroupId": 802901900301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001005, 
+        "MasterRewardGroupId": 802902100701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 1000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001006, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 1400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001007, 
+        "MasterRewardGroupId": 802902100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 1900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001008, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 2400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001009, 
+        "MasterRewardGroupId": 802901900301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 3000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001010, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 3600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001011, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 4200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001012, 
+        "MasterRewardGroupId": 802902100401, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 4700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001013, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 5300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001014, 
+        "MasterRewardGroupId": 802902101001, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 5900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001015, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 6500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001016, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 7100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001017, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 7700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001018, 
+        "MasterRewardGroupId": 802902101301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 8200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001019, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 8800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001020, 
+        "MasterRewardGroupId": 802902100701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 9600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001021, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 10300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001022, 
+        "MasterRewardGroupId": 802902100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 11100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001023, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 11900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001024, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 12600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001025, 
+        "MasterRewardGroupId": 802902100401, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 13400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001026, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 14100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001027, 
+        "MasterRewardGroupId": 802901900301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 14900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001028, 
+        "MasterRewardGroupId": 802902101001, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 15800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001029, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 16800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001030, 
+        "MasterRewardGroupId": 802902100701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 17700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001031, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 18600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001032, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 19600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001033, 
+        "MasterRewardGroupId": 802901900301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 20500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001034, 
+        "MasterRewardGroupId": 802902100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 21400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001035, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 22400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001036, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 23300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001037, 
+        "MasterRewardGroupId": 802902100401, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 24200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001038, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 25400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001039, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 26600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001040, 
+        "MasterRewardGroupId": 802902101001, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 27700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001041, 
+        "MasterRewardGroupId": 802901900301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 28900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001042, 
+        "MasterRewardGroupId": 802909012302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 30100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001043, 
+        "MasterRewardGroupId": 802902101301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 31200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001044, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 32400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001045, 
+        "MasterRewardGroupId": 802902100801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 33600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001046, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 34700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001047, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 35900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001048, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 37100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001049, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 38200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001050, 
+        "MasterRewardGroupId": 802902100201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 39400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001051, 
+        "MasterRewardGroupId": 802902400801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 40600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001052, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 41700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001053, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 42900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001054, 
+        "MasterRewardGroupId": 802909012302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 44300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001055, 
+        "MasterRewardGroupId": 802902100501, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 45700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001056, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 47100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001057, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 48500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001058, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 49900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001059, 
+        "MasterRewardGroupId": 802902101101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 51300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001060, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 52700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001061, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 54100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001062, 
+        "MasterRewardGroupId": 802902101401, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 55500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001063, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 56900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001064, 
+        "MasterRewardGroupId": 802909012302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 58300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001065, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 59700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001066, 
+        "MasterRewardGroupId": 802902400801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 61100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001067, 
+        "MasterRewardGroupId": 802902100801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 62500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001068, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 63900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001069, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 65500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001070, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 67200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001071, 
+        "MasterRewardGroupId": 802902100201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 68800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001072, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 70400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001073, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 72100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001074, 
+        "MasterRewardGroupId": 802902100501, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 73700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001075, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 75300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001076, 
+        "MasterRewardGroupId": 802909012302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 77000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001077, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 78700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001078, 
+        "MasterRewardGroupId": 802902101101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 80500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001079, 
+        "MasterRewardGroupId": 802902400801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 82200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001080, 
+        "MasterRewardGroupId": 802901900201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 84000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001081, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 85700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001082, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 87500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001083, 
+        "MasterRewardGroupId": 802902101401, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 89200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001084, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 91000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001085, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 92700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001086, 
+        "MasterRewardGroupId": 802902100901, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 94500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001087, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 96200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001088, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 98000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001089, 
+        "MasterRewardGroupId": 802902100301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 99700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001090, 
+        "MasterRewardGroupId": 802902400801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 101500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001091, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 103200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001092, 
+        "MasterRewardGroupId": 802909012302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 105000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001093, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 106700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001094, 
+        "MasterRewardGroupId": 802902100601, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 108500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001095, 
+        "MasterRewardGroupId": 802903100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 110200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001096, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 112000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001097, 
+        "MasterRewardGroupId": 802902101201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 113700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001098, 
+        "MasterRewardGroupId": 802901700101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 115500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001099, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 117200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001100, 
+        "MasterRewardGroupId": 802902400801, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 119000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001101, 
+        "MasterRewardGroupId": 802902100901, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 120700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001102, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 122500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001103, 
+        "MasterRewardGroupId": 802902100301, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 124200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001104, 
+        "MasterRewardGroupId": 802901100101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 126000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001105, 
+        "MasterRewardGroupId": 802902100601, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 127700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001106, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 129500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001107, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 131200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001108, 
+        "MasterRewardGroupId": 802902101201, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 133000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001109, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 134700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001110, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 136500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001111, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 138200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001112, 
+        "MasterRewardGroupId": 802902101501, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 140000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001113, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 141700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001114, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 143500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001115, 
+        "MasterRewardGroupId": 802902100702, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 145200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001116, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 147000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001117, 
+        "MasterRewardGroupId": 802903000101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 148700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001118, 
+        "MasterRewardGroupId": 802902100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 150500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001119, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 152200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001120, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 154000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001121, 
+        "MasterRewardGroupId": 802901900302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 155700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001122, 
+        "MasterRewardGroupId": 802902100402, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 157500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001123, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 159200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001124, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 161000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001125, 
+        "MasterRewardGroupId": 802902101002, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 162700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001126, 
+        "MasterRewardGroupId": 802901900302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 164500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001127, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 166200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001128, 
+        "MasterRewardGroupId": 802902101302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 168000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001129, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 169700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001130, 
+        "MasterRewardGroupId": 802903000101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 171500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001131, 
+        "MasterRewardGroupId": 802901401602, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 173200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001132, 
+        "MasterRewardGroupId": 802902100802, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 175000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001133, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 176700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001134, 
+        "MasterRewardGroupId": 802901900203, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 178500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001135, 
+        "MasterRewardGroupId": 802902100202, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 180200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001136, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 182000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001137, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 183700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001138, 
+        "MasterRewardGroupId": 802902100502, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 185500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001139, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 187200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001140, 
+        "MasterRewardGroupId": 802901900203, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 189000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001141, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 190700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001142, 
+        "MasterRewardGroupId": 802902101102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 192500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001143, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 194200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001144, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 196000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001145, 
+        "MasterRewardGroupId": 802902101402, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 197700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001146, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 199500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001147, 
+        "MasterRewardGroupId": 802901900203, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 201200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001148, 
+        "MasterRewardGroupId": 802902100902, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 202800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001149, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 204500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001150, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 206100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001151, 
+        "MasterRewardGroupId": 802902100302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 207700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001152, 
+        "MasterRewardGroupId": 802901401602, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 209400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001153, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 211000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001154, 
+        "MasterRewardGroupId": 802903000101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 212600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001155, 
+        "MasterRewardGroupId": 802902100602, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 214300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001156, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 215900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001157, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 217500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001158, 
+        "MasterRewardGroupId": 802902101202, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 219200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001159, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 220800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001160, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 222400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001161, 
+        "MasterRewardGroupId": 802902101501, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 224100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001162, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 225700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001163, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 227300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001164, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 229000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001165, 
+        "MasterRewardGroupId": 802902100702, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 230600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001166, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 232200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001167, 
+        "MasterRewardGroupId": 802901900302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 233900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001168, 
+        "MasterRewardGroupId": 802902100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 235500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001169, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 237100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001170, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 238800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001171, 
+        "MasterRewardGroupId": 802902100402, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 240400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001172, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 242000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001173, 
+        "MasterRewardGroupId": 802901401602, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 243700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001174, 
+        "MasterRewardGroupId": 802901900302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 245300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001175, 
+        "MasterRewardGroupId": 802902101002, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 246900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001176, 
+        "MasterRewardGroupId": 802903000101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 248600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001177, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 250200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001178, 
+        "MasterRewardGroupId": 802902101302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 251800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001179, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 253500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001180, 
+        "MasterRewardGroupId": 802901900302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 255100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001181, 
+        "MasterRewardGroupId": 802902100802, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 256700
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001182, 
+        "MasterRewardGroupId": 802901100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 258200
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001183, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 259800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001184, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 261300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001185, 
+        "MasterRewardGroupId": 802902100202, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 262800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001186, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 264300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001187, 
+        "MasterRewardGroupId": 802901900203, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 265800
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001188, 
+        "MasterRewardGroupId": 802902100502, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 267300
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001189, 
+        "MasterRewardGroupId": 802903000101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 268900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001190, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 270400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001191, 
+        "MasterRewardGroupId": 802902101102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 271900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001192, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 273400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001193, 
+        "MasterRewardGroupId": 802902101402, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 274900
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001194, 
+        "MasterRewardGroupId": 802901401602, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 276400
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001195, 
+        "MasterRewardGroupId": 802902100902, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 278000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001196, 
+        "MasterRewardGroupId": 802901900103, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 279500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001197, 
+        "MasterRewardGroupId": 802902100302, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 281000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001198, 
+        "MasterRewardGroupId": 802901700102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 282500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001199, 
+        "MasterRewardGroupId": 802902100602, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 284000
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001200, 
+        "MasterRewardGroupId": 802903000101, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 285500
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001201, 
+        "MasterRewardGroupId": 802902101202, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 287100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001202, 
+        "MasterRewardGroupId": 802903100102, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 288600
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001203, 
+        "MasterRewardGroupId": 802902101501, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 290100
+    }, 
+    {
+        "MasterEventId": 10000000000001, 
+        "MasterEventTotalCollectedItemRewardId": 10010000001204, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TotalItemNum": 300000
+    }
+]

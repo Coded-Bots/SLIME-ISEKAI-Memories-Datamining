@@ -221,6 +221,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 400001407, 
+        "Text": "Butler's House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001407, 
+        "Text": "Your population will increase. You can build one Butler's House for every Butler's House Blueprint in your possession."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 400001502, 
         "Text": "Rimuru Trophy"
     }, 

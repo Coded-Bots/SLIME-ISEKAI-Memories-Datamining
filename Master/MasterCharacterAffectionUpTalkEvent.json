@@ -1,0 +1,4592 @@
+[
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000301, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000302, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000303, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000304, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000305, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000306, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000307, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000308, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000309, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000310, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000311, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000312, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000313, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000314, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000315, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000316, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000317, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000318, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000319, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000320, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000321, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000322, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000323, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000324, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000325, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000326, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000327, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000328, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000329, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 3, 
+        "MasterCharacterAffectionEventId": 3007000330, 
+        "MasterCharacterId": 3001000003, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000401, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000402, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000403, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000404, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000405, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000406, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000407, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000408, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000409, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000410, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000411, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000412, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000413, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000414, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000415, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000416, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000417, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000418, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000419, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000420, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000421, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000422, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000423, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000424, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000425, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000426, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000427, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000428, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000429, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 4, 
+        "MasterCharacterAffectionEventId": 3007000430, 
+        "MasterCharacterId": 3001000004, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000501, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000502, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000503, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000504, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000505, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000506, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000507, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000508, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000509, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000510, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000511, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000512, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000513, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000514, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000515, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000516, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000517, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000518, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000519, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000520, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000521, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000522, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000523, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000524, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000525, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000526, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000527, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000528, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000529, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 5, 
+        "MasterCharacterAffectionEventId": 3007000530, 
+        "MasterCharacterId": 3001000005, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000601, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000602, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000603, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000604, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000605, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000606, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000607, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000608, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000609, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000610, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000611, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000612, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000613, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000614, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000615, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000616, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000617, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000618, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000619, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000620, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000621, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000622, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000623, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000624, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000625, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000626, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000627, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000628, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000629, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 6, 
+        "MasterCharacterAffectionEventId": 3007000630, 
+        "MasterCharacterId": 3001000006, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000701, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000702, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000703, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000704, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000705, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000706, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000707, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000708, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000709, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000710, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000711, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000712, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000713, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000714, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000715, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000716, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000717, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000718, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000719, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000720, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000721, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000722, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000723, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000724, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000725, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000726, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000727, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000728, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000729, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 7, 
+        "MasterCharacterAffectionEventId": 3007000730, 
+        "MasterCharacterId": 3001000007, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000801, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000802, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000803, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000804, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000805, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000806, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000807, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000808, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000809, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000810, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000811, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000812, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000813, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000814, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000815, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000816, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000817, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000818, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000819, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000820, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000821, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000822, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000823, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000824, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000825, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000826, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000827, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000828, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000829, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 8, 
+        "MasterCharacterAffectionEventId": 3007000830, 
+        "MasterCharacterId": 3001000008, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000901, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000902, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000903, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000904, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000905, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000906, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000907, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000908, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000909, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000910, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000911, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000912, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000913, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000914, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000915, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000916, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000917, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000918, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000919, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000920, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000921, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000922, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000923, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000924, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000925, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000926, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000927, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000928, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000929, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 9, 
+        "MasterCharacterAffectionEventId": 3007000930, 
+        "MasterCharacterId": 3001000009, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001001, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001002, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001003, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001004, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001005, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001006, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001007, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001008, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001009, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001010, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001011, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001012, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001013, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001014, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001015, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001016, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001017, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001018, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001019, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001020, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001021, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001022, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001023, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001024, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001025, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001026, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001027, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001028, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001029, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 10, 
+        "MasterCharacterAffectionEventId": 3007001030, 
+        "MasterCharacterId": 3001000010, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001101, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001102, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001103, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001104, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001105, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001106, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001107, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001108, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001109, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001110, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001111, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001112, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001113, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001114, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001115, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001116, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001117, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001118, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001119, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001120, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001121, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001122, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001123, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001124, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001125, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001126, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001127, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001128, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001129, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 11, 
+        "MasterCharacterAffectionEventId": 3007001130, 
+        "MasterCharacterId": 3001000011, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001201, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001202, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001203, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001204, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001205, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001206, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001207, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001208, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001209, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001210, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001211, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001212, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001213, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001214, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001215, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001216, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001217, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001218, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001219, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001220, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001221, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001222, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001223, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001224, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001225, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001226, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001227, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001228, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001229, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 12, 
+        "MasterCharacterAffectionEventId": 3007001230, 
+        "MasterCharacterId": 3001000012, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001501, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001502, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001503, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001504, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001505, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001506, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001507, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001508, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001509, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001510, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001511, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001512, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001513, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001514, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001515, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001516, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001517, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001518, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001519, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001520, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001521, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001522, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001523, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001524, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001525, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001526, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001527, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001528, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001529, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 15, 
+        "MasterCharacterAffectionEventId": 3007001530, 
+        "MasterCharacterId": 3001000015, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001601, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001602, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001603, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001604, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001605, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001606, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001607, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001608, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001609, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001610, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001611, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001612, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001613, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001614, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001615, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001616, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001617, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001618, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001619, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001620, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001621, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001622, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001623, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001624, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001625, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001626, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001627, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001628, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001629, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 16, 
+        "MasterCharacterAffectionEventId": 3007001630, 
+        "MasterCharacterId": 3001000016, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001701, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001702, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001703, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001704, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001705, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001706, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001707, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001708, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001709, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001710, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001711, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001712, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001713, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001714, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001715, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001716, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001717, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001718, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001719, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001720, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001721, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001722, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001723, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001724, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001725, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001726, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001727, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001728, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001729, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 17, 
+        "MasterCharacterAffectionEventId": 3007001730, 
+        "MasterCharacterId": 3001000017, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001801, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001802, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001803, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001804, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001805, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001806, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001807, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001808, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001809, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001810, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001811, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001812, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001813, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001814, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001815, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001816, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001817, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001818, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001819, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001820, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001821, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001822, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001823, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001824, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001825, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001826, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001827, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001828, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001829, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 18, 
+        "MasterCharacterAffectionEventId": 3007001830, 
+        "MasterCharacterId": 3001000018, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001901, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001902, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001903, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001904, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001905, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001906, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001907, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001908, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001909, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001910, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001911, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001912, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001913, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001914, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001915, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001916, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001917, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001918, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001919, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001920, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001921, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001922, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001923, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001924, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001925, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001926, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001927, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001928, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001929, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 19, 
+        "MasterCharacterAffectionEventId": 3007001930, 
+        "MasterCharacterId": 3001000019, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051001, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051002, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051003, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051004, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051005, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051006, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051007, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051008, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051009, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051010, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051011, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051012, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051013, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051014, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051015, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051016, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051017, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051018, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051019, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051020, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051021, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051022, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051023, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051024, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051025, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051026, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051027, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051028, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051029, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 510, 
+        "MasterCharacterAffectionEventId": 3007051030, 
+        "MasterCharacterId": 3001000510, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 1, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052001, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 2, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052002, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 3, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052003, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 4, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052004, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 3000
+    }, 
+    {
+        "AffectionLevel": 5, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052005, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 6, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052006, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 7, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052007, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 8, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052008, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 9, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052009, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 4000
+    }, 
+    {
+        "AffectionLevel": 10, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052010, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 11, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052011, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 12, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052012, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 13, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052013, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 14, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052014, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 15, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052015, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 5000
+    }, 
+    {
+        "AffectionLevel": 16, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052016, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 17, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052017, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 18, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052018, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 19, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052019, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 20, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052020, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 6000
+    }, 
+    {
+        "AffectionLevel": 21, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052021, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 22, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052022, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 23, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052023, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 24, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052024, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 25, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052025, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 26, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052026, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 27, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052027, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 28, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052028, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 29, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052029, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }, 
+    {
+        "AffectionLevel": 30, 
+        "MasterAffectionTalkGroupId": 520, 
+        "MasterCharacterAffectionEventId": 3007052030, 
+        "MasterCharacterId": 3001000520, 
+        "MasterRewardGroupId": 8007000001, 
+        "ReleaseLabeloffset": "", 
+        "RewardRate": 7000
+    }
+]

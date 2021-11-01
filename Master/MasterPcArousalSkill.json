@@ -688,6 +688,54 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "DiabloDefault_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915001701, 
+        "MasterPcId": 150017, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "DiabloDefault_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "DiabloDefault_passive_30", 
+        "MasterPcArousalSkillId": 3915001703, 
+        "MasterPcId": 150017, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ArousalCount": 6, 
+        "ConditionPassiveSkillLabeloffset": "BenimaruArmor_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3914002306, 
+        "MasterPcId": 140023, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "ArousalCount": 8, 
+        "ConditionPassiveSkillLabeloffset": "BenimaruArmor_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "BenimaruArmor_passive_30", 
+        "MasterPcArousalSkillId": 3914002308, 
+        "MasterPcId": 140023, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "MilimDemonLordCostume_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915003301, 
+        "MasterPcId": 150033, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "MilimDemonLordCostume_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "MilimDemonLordCostume_passive_30", 
+        "MasterPcArousalSkillId": 3915003303, 
+        "MasterPcId": 150033, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
         "ArousalCount": 11, 
         "ConditionPassiveSkillLabeloffset": "OwnerDefault_passive_15", 
         "InvalidPassiveSkillLabeloffset": "", 
@@ -1038,5 +1086,21 @@
         "MasterPcArousalSkillId": 3925000703, 
         "MasterPcId": 250007, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "ShionSecretary_passive_15", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3925000901, 
+        "MasterPcId": 250009, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "ShionSecretary_passive_16", 
+        "InvalidPassiveSkillLabeloffset": "ShionSecretary_passive_15", 
+        "MasterPcArousalSkillId": 3925000903, 
+        "MasterPcId": 250009, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
     }
 ]

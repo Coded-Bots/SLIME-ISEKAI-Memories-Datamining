@@ -71,6 +71,26 @@
     }, 
     {
         "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000014, 
+        "Text": "One 4\u2605+ Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
         "LocalizationTargetId": 501000015, 
         "Text": "Once Per Day!"
     }, 

@@ -8027,7 +8027,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000562, 
-        "Text": "_N/A"
+        "Text": "Question. Can you hear me? Yes/No"
     }, 
     {
         "ColumnName": "text", 
@@ -8037,7 +8037,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000692, 
-        "Text": "_N/A"
+        "Text": "I'm touched, Raphael! So, you've come to offer me aid in my time of need?"
     }, 
     {
         "ColumnName": "text", 
@@ -8047,7 +8047,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000742, 
-        "Text": "_N/A"
+        "Text": "Negative. I am simply here to verify if your Soul Corridor was successfully\u2014"
     }, 
     {
         "ColumnName": "text", 
@@ -8087,7 +8087,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001102, 
-        "Text": "_N/A"
+        "Text": "Now, how about a reward for my correct guess? Maybe the secret of controlling my aura?"
     }, 
     {
         "ColumnName": "text", 
@@ -8117,7 +8117,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001682, 
-        "Text": "_N/A"
+        "Text": "Yep. Looks like you finally got a hold on that aura of yours."
     }, 
     {
         "ColumnName": "text", 
@@ -8127,7 +8127,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001842, 
-        "Text": "_N/A"
+        "Text": "Heh... Gwahahaha! It's a simple matter for one as great as me!"
     }, 
     {
         "ColumnName": "text", 
@@ -8137,7 +8137,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002112, 
-        "Text": "_N/A"
+        "Text": "Hmph. As a special favor, I will open a Soul Corridor between the individuals Veldora and Ifrit."
     }, 
     {
         "ColumnName": "text", 
@@ -8147,7 +8147,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002152, 
-        "Text": "_N/A"
+        "Text": "You may now use Thought Communication to ask his advice, if need be."
     }, 
     {
         "ColumnName": "text", 
@@ -8157,7 +8157,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002202, 
-        "Text": "_N/A"
+        "Text": "You can do that? Thank you, Raphael! You truly live up to your name as an Ultimate Skill."
     }, 
     {
         "ColumnName": "text", 
@@ -8187,7 +8187,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002322, 
-        "Text": "_N/A"
+        "Text": "Hahaha! No need to be so modest."
     }, 
     {
         "ColumnName": "text", 
@@ -8197,7 +8197,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002362, 
-        "Text": "_N/A"
+        "Text": "You were worried about me, were you? I promise I won't let this goodwill go to waste."
     }, 
     {
         "ColumnName": "text", 
@@ -8207,7 +8207,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002412, 
-        "Text": "_N/A"
+        "Text": "Hello? Ifrit? Can you hear me?"
     }, 
     {
         "ColumnName": "text", 
@@ -8227,7 +8227,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002482, 
-        "Text": "_N/A"
+        "Text": "Fool! Of course not!"
     }, 
     {
         "ColumnName": "text", 
@@ -8237,7 +8237,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002522, 
-        "Text": "_N/A"
+        "Text": "It was Raphael who set up this connection. For your sake, no doubt."
     }, 
     {
         "ColumnName": "text", 
@@ -8257,7 +8257,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002602, 
-        "Text": "_N/A"
+        "Text": "(That's odd. He doesn't sound the least bit troubled.)"
     }, 
     {
         "ColumnName": "text", 
@@ -8277,7 +8277,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002682, 
-        "Text": "_N/A"
+        "Text": "Not really. Raphael is good enough to show me glimpses of the outside world, so I never get bored."
     }, 
     {
         "ColumnName": "text", 
@@ -8287,7 +8287,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002732, 
-        "Text": "_N/A"
+        "Text": "(What?! That's got to be against the rules!)"
     }, 
     {
         "ColumnName": "text", 
@@ -8297,7 +8297,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002772, 
-        "Text": "_N/A"
+        "Text": "(Not that I'm one to talk, considering I've spied on Rimuru myself in the past...)"
     }, 
     {
         "ColumnName": "text", 
@@ -8307,7 +8307,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002812, 
-        "Text": "_N/A"
+        "Text": "It is nice to hear from you, though. I'm relieved you haven't forgotten me now you're your own monster again."
     }, 
     {
         "ColumnName": "text", 
@@ -8347,7 +8347,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003122, 
-        "Text": "_N/A"
+        "Text": "Naturally! And in the meantime, you can work with Raphael to improve your skills."
     }, 
     {
         "ColumnName": "text", 
@@ -8367,7 +8367,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003192, 
-        "Text": "_N/A"
+        "Text": "Gwahaha! Hahahahaaa!"
     }, 
     {
         "ColumnName": "text", 
@@ -8387,7 +8387,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003272, 
-        "Text": "_N/A"
+        "Text": "(Don't worry, my friend. I always keep my word. I'm a lot like Rimuru that way.)"
     }, 
     {
         "ColumnName": "text", 
@@ -8417,7 +8417,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003382, 
-        "Text": "_N/A"
+        "Text": "Please do. I'm sure I wouldn't be able to focus on my training if I wasn't absolutely sure you were all right."
     }, 
     {
         "ColumnName": "text", 
@@ -8427,7 +8427,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003432, 
-        "Text": "_N/A"
+        "Text": "(When did you get so insolent? Oh well, it's a sign of progress, in a way.)"
     }, 
     {
         "ColumnName": "text", 
@@ -8437,7 +8437,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003862, 
-        "Text": "_N/A"
+        "Text": "Haha... Hahaha!"
     }, 
     {
         "ColumnName": "text", 
@@ -8467,17 +8467,17 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000211, 
-        "Text": "_N/A"
+        "Text": "Here I thought it would be an easy way to get some praise. What's wrong with me?"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000261, 
-        "Text": "_N/A"
+        "Text": "It's all because I have so many magicules... Humans and weaker creatures could perish just from being near me."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000301, 
-        "Text": "_N/A"
+        "Text": "Monsters have some resistance against my aura, but even they had their limits. Rimuru was right; I had to learn to control it."
     }, 
     {
         "ColumnName": "text", 
@@ -8487,7 +8487,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000391, 
-        "Text": "_N/A"
+        "Text": "If anything, I was stronger than ever. At this rate, I'd never be able to stop my aura from spilling out."
     }, 
     {
         "ColumnName": "text", 
@@ -8497,7 +8497,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000461, 
-        "Text": "_N/A"
+        "Text": "After three days, I was no better off than when I started. If only somebody could give me a hint..."
     }, 
     {
         "ColumnName": "text", 
@@ -8517,7 +8517,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000871, 
-        "Text": "_N/A"
+        "Text": "And this is Raphael we're talking about. She probably worked all this out with her Analytical Appraisal the moment I was revived."
     }, 
     {
         "ColumnName": "text", 
@@ -8527,17 +8527,17 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122000941, 
-        "Text": "_N/A"
+        "Text": "Why would she wait until now to appear, if not to help me?"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001191, 
-        "Text": "_N/A"
+        "Text": "Oh! Images from Raphael are being sent directly into my mind...!"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001231, 
-        "Text": "_N/A"
+        "Text": "These Soul Corridors certainly save a lot of time. And thanks to these images, I know what it is I must do."
     }, 
     {
         "ColumnName": "text", 
@@ -8547,7 +8547,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001301, 
-        "Text": "_N/A"
+        "Text": "And that meant it was time for my Veldora Killing Arts to take center stage."
     }, 
     {
         "ColumnName": "text", 
@@ -8557,32 +8557,32 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001381, 
-        "Text": "_N/A"
+        "Text": "Notice: Decrease in aura emission from the individual Veldora confirmed."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001421, 
-        "Text": "_N/A"
+        "Text": "Yes, this is it... This will allow me to keep my aura in check so it won't harm those weaker than me."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001461, 
-        "Text": "_N/A"
+        "Text": "It would take time for me to fully master it, but this was an important step forward nonetheless."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001501, 
-        "Text": "_N/A"
+        "Text": "If anything went awry, Rimuru would probably step in, anyway. For now, I considered the matter settled."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001741, 
-        "Text": "_N/A"
+        "Text": "He noticed. He appreciates me! Oh, what a wonderful feeling!"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001901, 
-        "Text": "_N/A"
+        "Text": "Raphael may have helped, but there's no need to go into that. I achieved what I set out to do, that's what matters."
     }, 
     {
         "ColumnName": "text", 
@@ -8592,37 +8592,37 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122001981, 
-        "Text": "_N/A"
+        "Text": "I'm a little excited. Will they pay me with the proper amount of respect and reverence?"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002021, 
-        "Text": "_N/A"
+        "Text": "I don't have Ifrit to help me plan my next move anymore... Who'd have thought being out on my own would leave me feeling so vulnerable?"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002911, 
-        "Text": "_N/A"
+        "Text": "How gauche of me... Now I think of it, I've left Ifrit all alone in Rimuru's stomach."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122002961, 
-        "Text": "_N/A"
+        "Text": "I was so excited about getting out, I never stopped to consider how he might feel."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003491, 
-        "Text": "_N/A"
+        "Text": "Speaking to Ifrit has calmed me somewhat. Rimuru's allies are waiting for me just outside the cave... I'm ready."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003541, 
-        "Text": "_N/A"
+        "Text": "I'll keep my cool and introduce myself, as Rimuru's friend."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003581, 
-        "Text": "_N/A"
+        "Text": "This will be the first day my own great adventure!"
     }, 
     {
         "ColumnName": "text", 
@@ -8632,17 +8632,17 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003651, 
-        "Text": "_N/A"
+        "Text": "I hereby conclude my Slime Observation Report, for time being, at least."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003701, 
-        "Text": "_N/A"
+        "Text": "I'll continue to observe Rimuru and his fascinating behavior, but I'll be taking a more active part in his life from now on."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30122003761, 
-        "Text": "_N/A"
+        "Text": "One day, I hope to be able to share my findings with you all. Not to mention some thrilling tales of my own achievements!"
     }, 
     {
         "ColumnName": "text", 
@@ -17302,7 +17302,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30002401592, 
-        "Text": "_N/A"
+        "Text": "You are banished from the palace. Never show yourself before me again. But, Vesta..."
     }, 
     {
         "ColumnName": "text", 
@@ -29782,7 +29782,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000500802, 
-        "Text": "These healing potions really work! I never thought throwing all those potions in my body at him would be so effective!)"
+        "Text": "These healing potions really work! I never thought throwing all those potions in my body at him would be so effective!"
     }, 
     {
         "ColumnName": "text", 
@@ -29792,7 +29792,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000500862, 
-        "Text": "(But now I know... Next! And next! Since I ate all those hipokute herbs, I've got plenty to spare!)"
+        "Text": "But now I know... Next! And next! Since I ate all those hipokute herbs, I've got plenty to spare!"
     }, 
     {
         "ColumnName": "text", 
@@ -50311,6 +50311,56 @@
     }, 
     {
         "ColumnName": "text", 
+        "LocalizationTargetId": 30122100271, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100272, 
+        "Text": "I'm very pleased to see you, Great Rimuru."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100311, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100312, 
+        "Text": "It is a great privilege to be given a dwelling such as this."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100361, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100362, 
+        "Text": "You always thank me way too much, you know... Oh well. I'm headed out, so could you come with me?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100411, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100412, 
+        "Text": "Yes, I'll always be by your side."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100071, 
+        "Text": "Confirmation\n"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122100072, 
+        "Text": "Do you want to go inside?"
+    }, 
+    {
+        "ColumnName": "text", 
         "LocalizationTargetId": 30102000201, 
         "Text": "Rigurd"
     }, 
@@ -57872,7 +57922,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700202, 
-        "Text": "_N/A"
+        "Text": "Ahaha! Good evening, ladies and gentlemen. I would introduce myself, but I am merely a nameless demon."
     }, 
     {
         "ColumnName": "text", 
@@ -57882,7 +57932,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700272, 
-        "Text": "_N/A"
+        "Text": "In the past, some have called me Noir, but that is not an appellation I'm very fond of."
     }, 
     {
         "ColumnName": "text", 
@@ -57892,7 +57942,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700312, 
-        "Text": "_N/A"
+        "Text": "I preferred to be called Kuro, but more recently, that has also changed."
     }, 
     {
         "ColumnName": "text", 
@@ -57902,7 +57952,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700382, 
-        "Text": "_N/A"
+        "Text": "Great Rimuru has given me a new name, a real name: Diablo."
     }, 
     {
         "ColumnName": "text", 
@@ -57912,7 +57962,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700432, 
-        "Text": "_N/A"
+        "Text": "It is a great honor and pleasure. I would like to share what I'm feeling with all of you."
     }, 
     {
         "ColumnName": "text", 
@@ -57922,7 +57972,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700482, 
-        "Text": "_N/A"
+        "Text": "As such, I've decided to set up this interview to tell you more about how Great Rimuru and I first met."
     }, 
     {
         "ColumnName": "text", 
@@ -57932,7 +57982,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700532, 
-        "Text": "_N/A"
+        "Text": "It's a fascinating story, really. I'm sure you'll find it both entertaining and deeply moving."
     }, 
     {
         "ColumnName": "text", 
@@ -57942,7 +57992,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700582, 
-        "Text": "_N/A"
+        "Text": "I trust there are no objections? Good."
     }, 
     {
         "ColumnName": "text", 
@@ -57952,7 +58002,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700632, 
-        "Text": "_N/A"
+        "Text": "Then I'll begin."
     }, 
     {
         "ColumnName": "text", 
@@ -57962,7 +58012,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700752, 
-        "Text": "_N/A"
+        "Text": "But where should I start...?"
     }, 
     {
         "ColumnName": "text", 
@@ -57972,7 +58022,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700782, 
-        "Text": "_N/A"
+        "Text": "Perhaps with my interest in observing humanity? I find humans absolutely remarkable creatures, you see."
     }, 
     {
         "ColumnName": "text", 
@@ -57982,7 +58032,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700822, 
-        "Text": "_N/A"
+        "Text": "Their so-called souls are so beautiful, shining like lights in the darkness."
     }, 
     {
         "ColumnName": "text", 
@@ -57992,7 +58042,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700852, 
-        "Text": "_N/A"
+        "Text": "That, combined with their propensity for strong emotions, make them a source of endless fascination for me."
     }, 
     {
         "ColumnName": "text", 
@@ -58002,7 +58052,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700912, 
-        "Text": "_N/A"
+        "Text": "Once, I was summoned by the minister of a certain kingdom."
     }, 
     {
         "ColumnName": "text", 
@@ -58012,7 +58062,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700942, 
-        "Text": "_N/A"
+        "Text": "I remained by his side until the day he died. His foolishness truly knew no bounds; it was highly entertaining."
     }, 
     {
         "ColumnName": "text", 
@@ -58022,7 +58072,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700982, 
-        "Text": "_N/A"
+        "Text": "On another occasion, I answered the call of a lonely noblewoman."
     }, 
     {
         "ColumnName": "text", 
@@ -58032,7 +58082,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701012, 
-        "Text": "_N/A"
+        "Text": "I helped her achieve her ambition to take revenge on those who had wronged her."
     }, 
     {
         "ColumnName": "text", 
@@ -58042,7 +58092,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701052, 
-        "Text": "_N/A"
+        "Text": "I also helped a young lad who had dreams of becoming a Champion."
     }, 
     {
         "ColumnName": "text", 
@@ -58052,7 +58102,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701082, 
-        "Text": "_N/A"
+        "Text": "Although in his case, it was my own curiosity that drew me to him."
     }, 
     {
         "ColumnName": "text", 
@@ -58062,7 +58112,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701122, 
-        "Text": "_N/A"
+        "Text": "He was just so weak, so reckless, yet always put the happiness of others ahead of his own."
     }, 
     {
         "ColumnName": "text", 
@@ -58072,7 +58122,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701162, 
-        "Text": "_N/A"
+        "Text": "He was quite a foolish human."
     }, 
     {
         "ColumnName": "text", 
@@ -58082,7 +58132,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701212, 
-        "Text": "_N/A"
+        "Text": "There were others, of course, and all of them were just as fascinating and strong-willed."
     }, 
     {
         "ColumnName": "text", 
@@ -58092,7 +58142,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701252, 
-        "Text": "_N/A"
+        "Text": "Willpower, ambition, call it what you will, that's what really refines and polishes a soul."
     }, 
     {
         "ColumnName": "text", 
@@ -58102,7 +58152,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701292, 
-        "Text": "_N/A"
+        "Text": "No matter how filthy a soul may seem at first sight, with the right ambition, it can become as bright and beautiful as any jewel."
     }, 
     {
         "ColumnName": "text", 
@@ -58112,7 +58162,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701332, 
-        "Text": "_N/A"
+        "Text": "It's that beauty that I admire most about humans. It's why I'm so drawn to those with strong wills."
     }, 
     {
         "ColumnName": "text", 
@@ -58122,7 +58172,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701452, 
-        "Text": "_N/A"
+        "Text": "That brings me to one day, when I was observing the living world as usual, when I felt it."
     }, 
     {
         "ColumnName": "text", 
@@ -58132,7 +58182,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701492, 
-        "Text": "_N/A"
+        "Text": "The whispering of a soul with an intense desire. You will pay... I swear you will pay for this!"
     }, 
     {
         "ColumnName": "text", 
@@ -58142,7 +58192,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701532, 
-        "Text": "_N/A"
+        "Text": "As you can imagine, that piqued my interest."
     }, 
     {
         "ColumnName": "text", 
@@ -58152,7 +58202,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701592, 
-        "Text": "_N/A"
+        "Text": "Alas, that human was already at death's door."
     }, 
     {
         "ColumnName": "text", 
@@ -58162,7 +58212,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701632, 
-        "Text": "_N/A"
+        "Text": "Not that that made any difference to me. I simply stated my terms."
     }, 
     {
         "ColumnName": "text", 
@@ -58172,7 +58222,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701692, 
-        "Text": "_N/A"
+        "Text": "Ahaha... Is it you who dares to summon me from such a lowly station?"
     }, 
     {
         "ColumnName": "text", 
@@ -58182,7 +58232,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701732, 
-        "Text": "_N/A"
+        "Text": "That's how I opened the conversation."
     }, 
     {
         "ColumnName": "text", 
@@ -58192,7 +58242,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701782, 
-        "Text": "_N/A"
+        "Text": "Most humans are struck dumb with fear just from seeing me appear before them."
     }, 
     {
         "ColumnName": "text", 
@@ -58202,7 +58252,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701812, 
-        "Text": "_N/A"
+        "Text": "But this one was different. She stubbornly held on to life long enough to make her plea."
     }, 
     {
         "ColumnName": "text", 
@@ -58212,7 +58262,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701962, 
-        "Text": "_N/A"
+        "Text": "Ahaha. It really was a beautiful sight."
     }, 
     {
         "ColumnName": "text", 
@@ -58222,7 +58272,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701992, 
-        "Text": "_N/A"
+        "Text": "Getting to witness such a pure and simple request straight from the heart was payment enough for me."
     }, 
     {
         "ColumnName": "text", 
@@ -58232,7 +58282,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702032, 
-        "Text": "_N/A"
+        "Text": "Her bright, shining soul had charmed me."
     }, 
     {
         "ColumnName": "text", 
@@ -58242,7 +58292,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702072, 
-        "Text": "_N/A"
+        "Text": "Very well. Granting your wish will give me something to do, at least."
     }, 
     {
         "ColumnName": "text", 
@@ -58252,7 +58302,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702102, 
-        "Text": "_N/A"
+        "Text": "We formed our contract, and I set about granting her last request."
     }, 
     {
         "ColumnName": "text", 
@@ -58262,7 +58312,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702152, 
-        "Text": "_N/A"
+        "Text": "However, this presented me with several problems. Chief among them was my lack of a physical body."
     }, 
     {
         "ColumnName": "text", 
@@ -58272,7 +58322,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702192, 
-        "Text": "_N/A"
+        "Text": "Naturally, I claimed my summoner's flesh for my own. Under normal circumstances, I'd have harnessed the power of her soul as well."
     }, 
     {
         "ColumnName": "text", 
@@ -58282,7 +58332,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702232, 
-        "Text": "_N/A"
+        "Text": "But that soul was just so enchanting that I allowed it to pass into the great beyond along with her husband's."
     }, 
     {
         "ColumnName": "text", 
@@ -58292,7 +58342,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702272, 
-        "Text": "_N/A"
+        "Text": "That's not something I'd do for just anyone."
     }, 
     {
         "ColumnName": "text", 
@@ -58302,7 +58352,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702322, 
-        "Text": "_N/A"
+        "Text": "I had to make up the difference by tracking down her attackers and exacting revenge on them."
     }, 
     {
         "ColumnName": "text", 
@@ -58312,7 +58362,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702362, 
-        "Text": "_N/A"
+        "Text": "For those of you who don't know, we demons have all kinds of limitations placed on us. Even just observing humanity is no easy feat."
     }, 
     {
         "ColumnName": "text", 
@@ -58322,7 +58372,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702402, 
-        "Text": "_N/A"
+        "Text": "We quite literally live in different worlds, after all. Ones that never truly intersect."
     }, 
     {
         "ColumnName": "text", 
@@ -58332,7 +58382,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702442, 
-        "Text": "_N/A"
+        "Text": "As such, even I was unable to keep this world under constant observation. I had to work within the limits of my Archdemon form."
     }, 
     {
         "ColumnName": "text", 
@@ -58342,7 +58392,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702482, 
-        "Text": "_N/A"
+        "Text": "I'd build up enough power to peek into the living world, and once that power was used up, repeat the process again."
     }, 
     {
         "ColumnName": "text", 
@@ -58352,7 +58402,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702522, 
-        "Text": "_N/A"
+        "Text": "Well, it was a little easier for me than it is for other demons, since I didn't have a fixed location that I used as a base."
     }, 
     {
         "ColumnName": "text", 
@@ -58362,7 +58412,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702582, 
-        "Text": "_N/A"
+        "Text": "I was free to travel as I saw fit. Likewise, amassing followers never appealed to me. Too much hassle."
     }, 
     {
         "ColumnName": "text", 
@@ -58372,7 +58422,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702622, 
-        "Text": "_N/A"
+        "Text": "It was only on very rare occasions that I found someone worthy of making my servant."
     }, 
     {
         "ColumnName": "text", 
@@ -58382,7 +58432,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702652, 
-        "Text": "_N/A"
+        "Text": "On the bright side, this meant I didn't have to divide my power amongst others too much."
     }, 
     {
         "ColumnName": "text", 
@@ -58392,7 +58442,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702692, 
-        "Text": "_N/A"
+        "Text": "I was able to act more freely than most of my fellow demons, and I must stress that I was an exception to the rule."
     }, 
     {
         "ColumnName": "text", 
@@ -58402,7 +58452,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702812, 
-        "Text": "_N/A"
+        "Text": "Once I had my body in order, I made my way to the kingdom's castle, a place filled to the brim with secrets and lies."
     }, 
     {
         "ColumnName": "text", 
@@ -58412,7 +58462,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702852, 
-        "Text": "_N/A"
+        "Text": "It was so amusing, I could barely keep a straight face. And I got there at just the right time."
     }, 
     {
         "ColumnName": "text", 
@@ -58422,7 +58472,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702912, 
-        "Text": "_N/A"
+        "Text": "To put it simply, the request was to defeat a demon that recently had been revived."
     }, 
     {
         "ColumnName": "text", 
@@ -58432,7 +58482,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702952, 
-        "Text": "_N/A"
+        "Text": "Even as she died, that desire for revenge had never faltered."
     }, 
     {
         "ColumnName": "text", 
@@ -58442,7 +58492,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121702982, 
-        "Text": "_N/A"
+        "Text": "Revenge on whom, you may ask. As it happens, there were several targets, all of them present in that place."
     }, 
     {
         "ColumnName": "text", 
@@ -58452,7 +58502,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703022, 
-        "Text": "_N/A"
+        "Text": "All of them were demons, too. It's not hard to imagine that they were responsible for killing my erstwhile summoner."
     }, 
     {
         "ColumnName": "text", 
@@ -58462,7 +58512,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703082, 
-        "Text": "_N/A"
+        "Text": "And the one behind it all occupied the very upper echelons of the kingdom's court."
     }, 
     {
         "ColumnName": "text", 
@@ -58472,7 +58522,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703112, 
-        "Text": "_N/A"
+        "Text": "The knights who made such a show of clamoring for this demon to be defeated were in fact demons themselves."
     }, 
     {
         "ColumnName": "text", 
@@ -58482,7 +58532,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703152, 
-        "Text": "_N/A"
+        "Text": "Can you believe the hypocrisy of it all? From there, granting my summoner's wish would be a simple matter."
     }, 
     {
         "ColumnName": "text", 
@@ -58492,7 +58542,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703192, 
-        "Text": "_N/A"
+        "Text": "I'd defeat each and every demon there until one of them agreed to take me to their leader."
     }, 
     {
         "ColumnName": "text", 
@@ -58502,7 +58552,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703252, 
-        "Text": "_N/A"
+        "Text": "There were some bona fide human knights among the crowd, but I wasn't about to waste time showing them mercy."
     }, 
     {
         "ColumnName": "text", 
@@ -58512,7 +58562,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703292, 
-        "Text": "_N/A"
+        "Text": "If they met their end at my hands, so be it."
     }, 
     {
         "ColumnName": "text", 
@@ -58522,7 +58572,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703322, 
-        "Text": "_N/A"
+        "Text": "If they'd really been paying attention, they'd have noticed there was something off about their superiors sooner."
     }, 
     {
         "ColumnName": "text", 
@@ -58532,7 +58582,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703362, 
-        "Text": "_N/A"
+        "Text": "So in a way, anything that happened to them would be their own fault."
     }, 
     {
         "ColumnName": "text", 
@@ -58542,7 +58592,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703402, 
-        "Text": "_N/A"
+        "Text": "That went not only for the knights, but also for the many adventurers who'd assembled there."
     }, 
     {
         "ColumnName": "text", 
@@ -58552,7 +58602,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703442, 
-        "Text": "_N/A"
+        "Text": "If anybody dared to get in my way, I'd deal with them accordingly."
     }, 
     {
         "ColumnName": "text", 
@@ -58562,7 +58612,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703482, 
-        "Text": "_N/A"
+        "Text": "But then..."
     }, 
     {
         "ColumnName": "text", 
@@ -58572,7 +58622,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703532, 
-        "Text": "_N/A"
+        "Text": "Do you intend to slaughter everyone here to find the demon?"
     }, 
     {
         "ColumnName": "text", 
@@ -58582,7 +58632,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703562, 
-        "Text": "_N/A"
+        "Text": "A lone adventurer stepped forward to confront me."
     }, 
     {
         "ColumnName": "text", 
@@ -58592,7 +58642,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703592, 
-        "Text": "_N/A"
+        "Text": "Her name was Shizue Izawa."
     }, 
     {
         "ColumnName": "text", 
@@ -58602,7 +58652,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703622, 
-        "Text": "_N/A"
+        "Text": "Shizu to her friends, I understand. Alas, I've had very few opportunities to refer to her by that name."
     }, 
     {
         "ColumnName": "text", 
@@ -58612,7 +58662,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703662, 
-        "Text": "_N/A"
+        "Text": "At the time, I assumed she was just another human with more bravado than sense."
     }, 
     {
         "ColumnName": "text", 
@@ -58622,7 +58672,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703722, 
-        "Text": "_N/A"
+        "Text": "So, true to original intention, I attempted to eliminate her."
     }, 
     {
         "ColumnName": "text", 
@@ -58632,7 +58682,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703752, 
-        "Text": "_N/A"
+        "Text": "However, my attitude was the very height of arrogance."
     }, 
     {
         "ColumnName": "text", 
@@ -58642,7 +58692,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703782, 
-        "Text": "_N/A"
+        "Text": "When she took my Fireball head on without even flinching, I realized how wrong I'd been about her."
     }, 
     {
         "ColumnName": "text", 
@@ -58652,7 +58702,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703842, 
-        "Text": "_N/A"
+        "Text": "Flames have no effect on me, she said."
     }, 
     {
         "ColumnName": "text", 
@@ -58662,7 +58712,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703872, 
-        "Text": "_N/A"
+        "Text": "It turned out she was an Elementalist."
     }, 
     {
         "ColumnName": "text", 
@@ -58672,7 +58722,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703902, 
-        "Text": "_N/A"
+        "Text": "Not only that, but she wielded the power of Ifrit, a superior spirit."
     }, 
     {
         "ColumnName": "text", 
@@ -58682,7 +58732,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703952, 
-        "Text": "_N/A"
+        "Text": "I can only blame my foolish pride for not recognizing such a remarkable power."
     }, 
     {
         "ColumnName": "text", 
@@ -58692,7 +58742,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121703992, 
-        "Text": "_N/A"
+        "Text": "If further proof of her be needed, though Shizu had completely united with this spirit, she remained human in appearance."
     }, 
     {
         "ColumnName": "text", 
@@ -58702,7 +58752,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704032, 
-        "Text": "_N/A"
+        "Text": "She'd be able to pass as human in a crowd, and no one would ever suspect. Not even me."
     }, 
     {
         "ColumnName": "text", 
@@ -58712,7 +58762,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704072, 
-        "Text": "_N/A"
+        "Text": "Now, superior spirits are said to be the natural enemy of we Archdemons."
     }, 
     {
         "ColumnName": "text", 
@@ -58722,7 +58772,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704112, 
-        "Text": "_N/A"
+        "Text": "Perhaps Shizu was feeling a little arrogant herself. If she'd been facing anyone else but me, she would have triumphed easily."
     }, 
     {
         "ColumnName": "text", 
@@ -58732,7 +58782,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704182, 
-        "Text": "_N/A"
+        "Text": "But I knew I'd have no trouble matching her in combat. The difference in our strengths was just too great."
     }, 
     {
         "ColumnName": "text", 
@@ -58742,7 +58792,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704242, 
-        "Text": "_N/A"
+        "Text": "I had to augment my body with a little magic to keep up, that was all."
     }, 
     {
         "ColumnName": "text", 
@@ -58752,7 +58802,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704292, 
-        "Text": "_N/A"
+        "Text": "That proved to be just the handicap I needed. Our battle was the most fun I'd had in a long time."
     }, 
     {
         "ColumnName": "text", 
@@ -58762,7 +58812,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704332, 
-        "Text": "_N/A"
+        "Text": "I knew it would be stimulating, to say the least, but this went beyond my expectations."
     }, 
     {
         "ColumnName": "text", 
@@ -58772,7 +58822,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704402, 
-        "Text": "_N/A"
+        "Text": "Shizu even honored me with one of her Inferno Flame attacks."
     }, 
     {
         "ColumnName": "text", 
@@ -58782,7 +58832,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704442, 
-        "Text": "_N/A"
+        "Text": "That's the kind of skill that would overwhelm a normal human body."
     }, 
     {
         "ColumnName": "text", 
@@ -58792,7 +58842,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704472, 
-        "Text": "_N/A"
+        "Text": "Shizu was able to wield a superior spirit's power so masterfully, all on her own."
     }, 
     {
         "ColumnName": "text", 
@@ -58802,7 +58852,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704532, 
-        "Text": "_N/A"
+        "Text": "She even inflicted real, culpable pain on me. I was full of admiration for her."
     }, 
     {
         "ColumnName": "text", 
@@ -58812,17 +58862,17 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121704572, 
-        "Text": "_N/A"
+        "Text": "But all too soon, it was time for the fun to end."
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701871, 
-        "Text": "_N/A"
+        "Text": "If you'll grant my wish, I don't care if you're a demon! I'll gladly give you anything, even my soul!"
     }, 
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701901, 
-        "Text": "_N/A"
+        "Text": "So, please... Make them... Make them pay..."
     }, 
     {
         "ColumnName": "text", 
@@ -63802,7 +63852,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800172, 
-        "Text": "_N/A"
+        "Text": "The longer the battle dragged on, the more power I'd consume, and I wasn't about to leave without doing what I'd come to do."
     }, 
     {
         "ColumnName": "text", 
@@ -63812,7 +63862,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800212, 
-        "Text": "_N/A"
+        "Text": "So I decided to get serious and bring the fight to an end."
     }, 
     {
         "ColumnName": "text", 
@@ -63822,7 +63872,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800252, 
-        "Text": "_N/A"
+        "Text": "One final strike to put my opponent out of her misery, that's what I had planned. But that's not what happened."
     }, 
     {
         "ColumnName": "text", 
@@ -63832,7 +63882,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800312, 
-        "Text": "_N/A"
+        "Text": "Imagine my surprise when Shizu's mask reflected my own power back at me."
     }, 
     {
         "ColumnName": "text", 
@@ -63842,7 +63892,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800352, 
-        "Text": "_N/A"
+        "Text": "It had been a while since I'd experienced pain, but several thousand years since I'd been truly shocked like that."
     }, 
     {
         "ColumnName": "text", 
@@ -63852,7 +63902,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800392, 
-        "Text": "_N/A"
+        "Text": "That mask felt...old. Older by far than even me."
     }, 
     {
         "ColumnName": "text", 
@@ -63862,7 +63912,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800422, 
-        "Text": "_N/A"
+        "Text": "Through countless eons it had remained the same, a universal constant."
     }, 
     {
         "ColumnName": "text", 
@@ -63872,7 +63922,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800452, 
-        "Text": "_N/A"
+        "Text": "As dramatic as this sounds, it was something that absolutely should not exist in this world."
     }, 
     {
         "ColumnName": "text", 
@@ -63882,7 +63932,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800512, 
-        "Text": "_N/A"
+        "Text": "The way I see it, time is an arrow, moving ever forward toward oblivion."
     }, 
     {
         "ColumnName": "text", 
@@ -63892,7 +63942,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800552, 
-        "Text": "_N/A"
+        "Text": "It can be slowed, even stopped, but never reversed."
     }, 
     {
         "ColumnName": "text", 
@@ -63902,7 +63952,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800582, 
-        "Text": "_N/A"
+        "Text": "The accumulated time any one object can possess cannot exceed the length of its own existence. That seems like common sense to me."
     }, 
     {
         "ColumnName": "text", 
@@ -63912,7 +63962,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800622, 
-        "Text": "_N/A"
+        "Text": "But this mask was different. Had my understanding of time been flawed?"
     }, 
     {
         "ColumnName": "text", 
@@ -63922,7 +63972,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800672, 
-        "Text": "_N/A"
+        "Text": "No, it was simply that the mask was an outlier, an irregularity."
     }, 
     {
         "ColumnName": "text", 
@@ -63932,7 +63982,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800712, 
-        "Text": "_N/A"
+        "Text": "How had she come by such an object? I was fascinated beyond words."
     }, 
     {
         "ColumnName": "text", 
@@ -63942,7 +63992,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800752, 
-        "Text": "_N/A"
+        "Text": "I allowed Shizu to live, and withdrew. But that was only the beginning."
     }, 
     {
         "ColumnName": "text", 
@@ -63952,7 +64002,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800872, 
-        "Text": "_N/A"
+        "Text": "That night, Shizu came dangerously close to being killed by an upstart named Orthos."
     }, 
     {
         "ColumnName": "text", 
@@ -63962,7 +64012,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800912, 
-        "Text": "_N/A"
+        "Text": "Humans are very weak... Shizu was an accomplished fighter, but she was nowhere near the level of a Saint."
     }, 
     {
         "ColumnName": "text", 
@@ -63972,7 +64022,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800952, 
-        "Text": "_N/A"
+        "Text": "I was quite surprised, knowing how well she used Ifrit's power."
     }, 
     {
         "ColumnName": "text", 
@@ -63982,7 +64032,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121800992, 
-        "Text": "_N/A"
+        "Text": "In the end, a human is just a human."
     }, 
     {
         "ColumnName": "text", 
@@ -63992,7 +64042,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801042, 
-        "Text": "_N/A"
+        "Text": "Tire them out and they'll be unable to fight at full capacity, making for an easy win."
     }, 
     {
         "ColumnName": "text", 
@@ -64002,7 +64052,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801082, 
-        "Text": "_N/A"
+        "Text": "Such fleeting, fragile creatures... However, it was no longer irrelevant to me."
     }, 
     {
         "ColumnName": "text", 
@@ -64012,7 +64062,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801122, 
-        "Text": "_N/A"
+        "Text": "My battle with Shizu had essentially ended in a draw. That meant the world at large would perceive us as being of equal strength."
     }, 
     {
         "ColumnName": "text", 
@@ -64022,7 +64072,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801162, 
-        "Text": "_N/A"
+        "Text": "So if Orthos killed Shizu, that would make it seem like he was stronger than me."
     }, 
     {
         "ColumnName": "text", 
@@ -64032,7 +64082,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801212, 
-        "Text": "_N/A"
+        "Text": "I couldn't allow such a rumor to get about."
     }, 
     {
         "ColumnName": "text", 
@@ -64042,7 +64092,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801242, 
-        "Text": "_N/A"
+        "Text": "Besides, dying by that weakling's hand would be far too ignoble an end for a warrior capable of inflicting pain."
     }, 
     {
         "ColumnName": "text", 
@@ -64052,7 +64102,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801282, 
-        "Text": "_N/A"
+        "Text": "So I kept my promise, granted my summoner's wish, and saved Shizu in the process."
     }, 
     {
         "ColumnName": "text", 
@@ -64062,7 +64112,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801392, 
-        "Text": "_N/A"
+        "Text": "We had our fair share of run-ins in the years that followed. Sometimes we'd be enemies, other times allies."
     }, 
     {
         "ColumnName": "text", 
@@ -64072,7 +64122,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801432, 
-        "Text": "_N/A"
+        "Text": "Perhaps our fates were entwined... Well, it was an entertaining way to kill time, at the very least."
     }, 
     {
         "ColumnName": "text", 
@@ -64082,7 +64132,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801462, 
-        "Text": "_N/A"
+        "Text": "Years passed, then decades, and then we entered the next chapter."
     }, 
     {
         "ColumnName": "text", 
@@ -64092,7 +64142,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801522, 
-        "Text": "_N/A"
+        "Text": "Shizu's journey finally came to an end, in the presence of a certain slime."
     }, 
     {
         "ColumnName": "text", 
@@ -64102,7 +64152,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801562, 
-        "Text": "_N/A"
+        "Text": "I knew right away that he was someone worthy of being my master."
     }, 
     {
         "ColumnName": "text", 
@@ -64112,7 +64162,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801612, 
-        "Text": "_N/A"
+        "Text": "When Shizu's mask actually cracked, it was clear to me that something truly remarkable was taking place."
     }, 
     {
         "ColumnName": "text", 
@@ -64122,7 +64172,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801672, 
-        "Text": "_N/A"
+        "Text": "And the fact that Great Rimuru was able to repair it only confirmed my suspicions."
     }, 
     {
         "ColumnName": "text", 
@@ -64132,7 +64182,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801702, 
-        "Text": "_N/A"
+        "Text": "The mask remained as it was, impossible accumulated time and all."
     }, 
     {
         "ColumnName": "text", 
@@ -64142,7 +64192,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801732, 
-        "Text": "_N/A"
+        "Text": "That point was its genesis and its destruction. Whatever endless loop had been set in motion, it all led back to this."
     }, 
     {
         "ColumnName": "text", 
@@ -64152,7 +64202,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801772, 
-        "Text": "_N/A"
+        "Text": "If I were to observe Great Rimuru, I might finally understand the truth that lies at the heart of all creation..."
     }, 
     {
         "ColumnName": "text", 
@@ -64162,7 +64212,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801812, 
-        "Text": "_N/A"
+        "Text": "That was what I believed."
     }, 
     {
         "ColumnName": "text", 
@@ -64172,7 +64222,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801852, 
-        "Text": "_N/A"
+        "Text": "A cause - and a master - truly worthy of dedicating my life to."
     }, 
     {
         "ColumnName": "text", 
@@ -64182,7 +64232,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801912, 
-        "Text": "_N/A"
+        "Text": "The more I observed him, the more obvious it became that Great Rimuru was no ordinary Slime."
     }, 
     {
         "ColumnName": "text", 
@@ -64192,7 +64242,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801952, 
-        "Text": "_N/A"
+        "Text": "His appearance alone was enough to soothe any heart or mind. That slick, streamlined form and soft, bouncy texture, they were simply divine."
     }, 
     {
         "ColumnName": "text", 
@@ -64202,7 +64252,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121801992, 
-        "Text": "_N/A"
+        "Text": "He had a certain dignity, a refinement that others of his species lack."
     }, 
     {
         "ColumnName": "text", 
@@ -64212,7 +64262,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802032, 
-        "Text": "_N/A"
+        "Text": "What? You think all slimes look alike?"
     }, 
     {
         "ColumnName": "text", 
@@ -64222,7 +64272,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802142, 
-        "Text": "_N/A"
+        "Text": "Ahaha. You are wrong. There must be something amiss with your vision."
     }, 
     {
         "ColumnName": "text", 
@@ -64232,7 +64282,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802192, 
-        "Text": "_N/A"
+        "Text": "Those eyes of yours are clearly not doing their job. Perhaps I should gouge them out for you?!"
     }, 
     {
         "ColumnName": "text", 
@@ -64242,7 +64292,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802232, 
-        "Text": "_N/A"
+        "Text": "Ahem. Excuse me. I got a little excited."
     }, 
     {
         "ColumnName": "text", 
@@ -64252,7 +64302,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802282, 
-        "Text": "_N/A"
+        "Text": "To return to the story, I was finally able to meet Great Rimuru, the master I was destined to serve."
     }, 
     {
         "ColumnName": "text", 
@@ -64262,7 +64312,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802322, 
-        "Text": "_N/A"
+        "Text": "Mere words fail to do justice-- Hm? You've had enough of me praising his good points?"
     }, 
     {
         "ColumnName": "text", 
@@ -64272,7 +64322,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802372, 
-        "Text": "_N/A"
+        "Text": "Oh, but I've only just begun! This is where it gets really interesting..."
     }, 
     {
         "ColumnName": "text", 
@@ -64282,7 +64332,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802422, 
-        "Text": "_N/A"
+        "Text": "You say we're running out of time?"
     }, 
     {
         "ColumnName": "text", 
@@ -64292,7 +64342,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802472, 
-        "Text": "_N/A"
+        "Text": "Tch, I had so many more details I wanted to stress, too..."
     }, 
     {
         "ColumnName": "text", 
@@ -64302,7 +64352,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802522, 
-        "Text": "_N/A"
+        "Text": "Very well. But I plan on revisiting this subject some other time."
     }, 
     {
         "ColumnName": "text", 
@@ -64312,7 +64362,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802572, 
-        "Text": "_N/A"
+        "Text": "For now, I'll get back to my story."
     }, 
     {
         "ColumnName": "text", 
@@ -64322,7 +64372,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802682, 
-        "Text": "_N/A"
+        "Text": "Shizu's last request, her last will and testament if you will, was to be taken into Great Rimuru's body."
     }, 
     {
         "ColumnName": "text", 
@@ -64332,7 +64382,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802742, 
-        "Text": "_N/A"
+        "Text": "As a result of that, he obtained a new, human form."
     }, 
     {
         "ColumnName": "text", 
@@ -64342,7 +64392,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802772, 
-        "Text": "_N/A"
+        "Text": "Alas, that was the point at which my time ran out."
     }, 
     {
         "ColumnName": "text", 
@@ -64352,7 +64402,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802812, 
-        "Text": "_N/A"
+        "Text": "I was crushed that I couldn't observe what happened next, but as I've said before, we demons have our limitations."
     }, 
     {
         "ColumnName": "text", 
@@ -64362,7 +64412,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802852, 
-        "Text": "_N/A"
+        "Text": "Connecting to the living world, even just to peek in at it, consumes power."
     }, 
     {
         "ColumnName": "text", 
@@ -64372,7 +64422,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802892, 
-        "Text": "_N/A"
+        "Text": "I didn't take my eyes off Shizu since she met Great Rimuru, so it was inevitable I'd run out of magic sooner or later."
     }, 
     {
         "ColumnName": "text", 
@@ -64382,7 +64432,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121802942, 
-        "Text": "_N/A"
+        "Text": "I swallowed down my disappointment and awaited my next opportunity. It turned out to be a rather long wait."
     }, 
     {
         "ColumnName": "text", 
@@ -64392,7 +64442,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803022, 
-        "Text": "_N/A"
+        "Text": "Watching the living world for so long had taken its toll on me."
     }, 
     {
         "ColumnName": "text", 
@@ -64402,7 +64452,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803062, 
-        "Text": "_N/A"
+        "Text": "Taking a physical form would have been the ideal solution, but it was not to be."
     }, 
     {
         "ColumnName": "text", 
@@ -64412,7 +64462,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803092, 
-        "Text": "_N/A"
+        "Text": "To do that, I'd need to be summoned first. And nobody saw fit to call on me."
     }, 
     {
         "ColumnName": "text", 
@@ -64422,7 +64472,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803132, 
-        "Text": "_N/A"
+        "Text": "Forcefully manifesting myself and asking to be made his follower directly was...an option, but not exactly good form."
     }, 
     {
         "ColumnName": "text", 
@@ -64432,7 +64482,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803172, 
-        "Text": "_N/A"
+        "Text": "And even for me, a move that bold would consume more of my power than I was willing to risk."
     }, 
     {
         "ColumnName": "text", 
@@ -64442,7 +64492,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803212, 
-        "Text": "_N/A"
+        "Text": "If anything went wrong, my connection to the living world could be severed for a long, long time."
     }, 
     {
         "ColumnName": "text", 
@@ -64452,7 +64502,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803252, 
-        "Text": "_N/A"
+        "Text": "The smart thing to do was wait to be summoned while building up my power."
     }, 
     {
         "ColumnName": "text", 
@@ -64462,7 +64512,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803312, 
-        "Text": "_N/A"
+        "Text": "Great Rimuru did perform a summoning some time later, but I missed my chance."
     }, 
     {
         "ColumnName": "text", 
@@ -64472,7 +64522,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803342, 
-        "Text": "_N/A"
+        "Text": "Perhaps that was my punishment for taking such a passive, off-hand attitude toward things."
     }, 
     {
         "ColumnName": "text", 
@@ -64482,7 +64532,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803382, 
-        "Text": "_N/A"
+        "Text": "One of my descendants answered that call instead. It took me a while to get over that."
     }, 
     {
         "ColumnName": "text", 
@@ -64492,7 +64542,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803422, 
-        "Text": "_N/A"
+        "Text": "Thinking about it now, if I had been summoned back then, I'd have become a mere follower of Ramiris."
     }, 
     {
         "ColumnName": "text", 
@@ -64502,7 +64552,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803462, 
-        "Text": "_N/A"
+        "Text": "So perhaps it's for the best that it turned out the way it did..."
     }, 
     {
         "ColumnName": "text", 
@@ -64512,7 +64562,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803572, 
-        "Text": "_N/A"
+        "Text": "From then on, I remained vigilant, and tried my best to be patient."
     }, 
     {
         "ColumnName": "text", 
@@ -64522,7 +64572,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803612, 
-        "Text": "_N/A"
+        "Text": "Finally, my chance came when Great Rimuru performed a summoning as part of his ascension to becoming a Demon Lord."
     }, 
     {
         "ColumnName": "text", 
@@ -64532,7 +64582,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803652, 
-        "Text": "_N/A"
+        "Text": "That is something that could be considered a rite of passage...or a trap to weed out the unworthy."
     }, 
     {
         "ColumnName": "text", 
@@ -64542,7 +64592,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803692, 
-        "Text": "_N/A"
+        "Text": "During their transformation, the formative Demon Lord falls into a deep slumber and is left defenseless."
     }, 
     {
         "ColumnName": "text", 
@@ -64552,7 +64602,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803752, 
-        "Text": "_N/A"
+        "Text": "In need of a protector, Great Rimuru sacrificed twenty thousand bodies to summon over a thousand Greater Demons."
     }, 
     {
         "ColumnName": "text", 
@@ -64562,7 +64612,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803792, 
-        "Text": "_N/A"
+        "Text": "How could I pass up such an opportunity?"
     }, 
     {
         "ColumnName": "text", 
@@ -64572,7 +64622,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803842, 
-        "Text": "_N/A"
+        "Text": "That was when I manifested under my own power and claimed my reward."
     }, 
     {
         "ColumnName": "text", 
@@ -64582,7 +64632,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803882, 
-        "Text": "_N/A"
+        "Text": "Of course, the rabble that had gathered there all welcomed me with open arms, never uttering a single complaint."
     }, 
     {
         "ColumnName": "text", 
@@ -64592,7 +64642,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121803932, 
-        "Text": "_N/A"
+        "Text": "After that, I gained a physical body and at last was able to start taking an active part in proceedings... But it wasn't all smooth sailing."
     }, 
     {
         "ColumnName": "text", 
@@ -64602,7 +64652,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804012, 
-        "Text": "_N/A"
+        "Text": "Great Rimuru was far more cruel than I'd given him credit for."
     }, 
     {
         "ColumnName": "text", 
@@ -64612,7 +64662,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804052, 
-        "Text": "_N/A"
+        "Text": "I hastened to join him and take up service, but he shrugged me off with a mere You can go home now."
     }, 
     {
         "ColumnName": "text", 
@@ -64622,7 +64672,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804112, 
-        "Text": "_N/A"
+        "Text": "That was the closest I've ever come to shedding tears."
     }, 
     {
         "ColumnName": "text", 
@@ -64632,7 +64682,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804162, 
-        "Text": "_N/A"
+        "Text": "Ranga was able to smooth things over, and I was welcomed into the fold after all."
     }, 
     {
         "ColumnName": "text", 
@@ -64642,7 +64692,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804202, 
-        "Text": "_N/A"
+        "Text": "I will always be grateful to Ranga for that. It is a kindness I will never forget."
     }, 
     {
         "ColumnName": "text", 
@@ -64652,7 +64702,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804342, 
-        "Text": "_N/A"
+        "Text": "And so, I was given a name and officially became Great Rimuru's faithful servant."
     }, 
     {
         "ColumnName": "text", 
@@ -64662,7 +64712,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804392, 
-        "Text": "_N/A"
+        "Text": "Ahahaha. Don't say a word. I can tell how jealous you are."
     }, 
     {
         "ColumnName": "text", 
@@ -64672,7 +64722,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804442, 
-        "Text": "_N/A"
+        "Text": "And here's something else to drive you wild with envy."
     }, 
     {
         "ColumnName": "text", 
@@ -64682,7 +64732,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804482, 
-        "Text": "_N/A"
+        "Text": "In my capacity as his personal attendant, I am able to converse with Great Rimuru on everyday matters."
     }, 
     {
         "ColumnName": "text", 
@@ -64692,7 +64742,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804532, 
-        "Text": "_N/A"
+        "Text": "I feel that we're becoming closer every single day."
     }, 
     {
         "ColumnName": "text", 
@@ -64702,7 +64752,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804572, 
-        "Text": "_N/A"
+        "Text": "What? You don't care? Please. There's no need to hide it."
     }, 
     {
         "ColumnName": "text", 
@@ -64712,7 +64762,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804622, 
-        "Text": "_N/A"
+        "Text": "Here, let me delight you with some of the things he and I have discussed-- Hm? There's no time for that?"
     }, 
     {
         "ColumnName": "text", 
@@ -64722,7 +64772,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804672, 
-        "Text": "_N/A"
+        "Text": "We clearly have very different ideas of what constitutes a valuable use of our time. How curious."
     }, 
     {
         "ColumnName": "text", 
@@ -64732,7 +64782,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804722, 
-        "Text": "_N/A"
+        "Text": "Are we really out of time already? Good grief..."
     }, 
     {
         "ColumnName": "text", 
@@ -64742,7 +64792,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804772, 
-        "Text": "_N/A"
+        "Text": "Oh, I see your plan. You're just feigning lack of interest to make me want to tell you even more, aren't you?"
     }, 
     {
         "ColumnName": "text", 
@@ -64752,7 +64802,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804822, 
-        "Text": "_N/A"
+        "Text": "Ahaha... A naive strategy, but I'll let it slide and give you what you want."
     }, 
     {
         "ColumnName": "text", 
@@ -64762,7 +64812,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804872, 
-        "Text": "_N/A"
+        "Text": "However, that will have to wait for another day. Farewell for now. I look forward to our next interview."
     }, 
     {
         "ColumnName": "text", 
@@ -67727,7 +67777,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121303432, 
-        "Text": "_N/A"
+        "Text": "You can still do whatever you can for the sake of the children who will come after us, without martyring yourself over it."
     }, 
     {
         "ColumnName": "text", 

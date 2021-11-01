@@ -145,5 +145,19 @@
         "MoviePathoffset": "sys/milim/voice_sys_milim_040_gacha", 
         "ReleaseLabeloffset": "Movie/BlessSkill/MilimOriginalCostumeWhiteDress_Battle_BlessSkill/MilimOriginalCostumeWhiteDress_Battle_BlessSkill.usm", 
         "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150017, 
+        "MasterPcLotteryMessageId": 510000023, 
+        "MoviePathoffset": "sys/diablo/voice_sys_diablo_041_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/DiabloDefault_Battle_SpecialSkill/DiabloDefault_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250009, 
+        "MasterPcLotteryMessageId": 510000024, 
+        "MoviePathoffset": "sys/ShionSecretary/voice_sys_shion_061_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/ShionSecretary_Battle_BlessSkill/ShionSecretary_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
     }
 ]

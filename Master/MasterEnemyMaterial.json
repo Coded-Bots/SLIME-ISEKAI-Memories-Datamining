@@ -862,5 +862,14 @@
         "MasterEnemyMaterialId": 20000300250, 
         "OffsetXForDetail": 2.0, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute", 
+        "DistanceForDetail": 21.0, 
+        "IconImagePathoffset": "Image/Character/Enemy/CharybdisHolyAttribute/CharybdisHolyAttribute_EnemyThumbM", 
+        "IsHitEffectRoot": true, 
+        "MasterEnemyMaterialId": 20000300234, 
+        "OffsetXForDetail": 6.5, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation"
     }
 ]

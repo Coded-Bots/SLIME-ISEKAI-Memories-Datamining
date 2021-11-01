@@ -625,5 +625,43 @@
         "ReleaseLabeloffset": "", 
         "SageQuestStillImagePathoffset": "", 
         "ThumbnailImagePathoffset": "Image/Event/BossRush/4001/Top"
+    }, 
+    {
+        "BannerImagePathoffset": "", 
+        "CampaignLabelTextoffset": "Quest.Event.Story.Predation.Opening", 
+        "ChapterType": 5, 
+        "ChapterUnlockCondition": 0, 
+        "ChapterUnlockConditionValue": 0, 
+        "ClearCountLimit": 0, 
+        "ClearCountLimitResetType": 0, 
+        "DifficultyUnlockBehavior": 1, 
+        "MasterChapterId": 4001002001, 
+        "MasterCharacterId": 0, 
+        "MasterReleaseId": 50000002008, 
+        "Name": 180, 
+        "Number": 3, 
+        "QuestsUnlockBehavior": 2, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SageQuestStillImagePathoffset": "", 
+        "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2001/Top_Banner_L"
+    }, 
+    {
+        "BannerImagePathoffset": "", 
+        "CampaignLabelTextoffset": "", 
+        "ChapterType": 5, 
+        "ChapterUnlockCondition": 0, 
+        "ChapterUnlockConditionValue": 0, 
+        "ClearCountLimit": 0, 
+        "ClearCountLimitResetType": 0, 
+        "DifficultyUnlockBehavior": 1, 
+        "MasterChapterId": 4001002002, 
+        "MasterCharacterId": 0, 
+        "MasterReleaseId": 50000002015, 
+        "Name": 160, 
+        "Number": 2, 
+        "QuestsUnlockBehavior": 1, 
+        "ReleaseLabeloffset": "202111_event_ministory_diablo", 
+        "SageQuestStillImagePathoffset": "", 
+        "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2002/Top_Banner_L"
     }
 ]

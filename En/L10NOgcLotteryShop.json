@@ -21,6 +21,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 500000005, 
+        "Text": "Troop Recruit: Nation of Monsters Diabolic Secretary Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000005, 
+        "Text": "<style=LotteryCopyHoly>Gain a</style> <style=LotteryCopyFire>special effect</style> <style=LotteryCopyHoly>in the event: </style>\n<style=LotteryCopyHoly>Nation of Monsters Diabolic Secretary!</style>"
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000005, 
+        "Text": "<style=LotteryCopyHoly>Gain a</style> <style=LotteryCopyFire>special effect</style> <style=LotteryCopyHoly>in the event: </style>\n<style=LotteryCopyHoly>Nation of Monsters Diabolic Secretary!</style>"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 500000011, 
         "Text": "Release Recruit"
     }, 

@@ -91,6 +91,16 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 9002030050, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002030100, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 9002040001, 
         "Text": "Seed of Growth"
     }, 
@@ -128,5 +138,75 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 9002040030, 
         "Text": "Seed of Growth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110010, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110020, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110030, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110050, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110060, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110075, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110100, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110150, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110200, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110300, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110500, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002110700, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002111000, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002111500, 
+        "Text": "Mysterious Lightstone"
     }
 ]

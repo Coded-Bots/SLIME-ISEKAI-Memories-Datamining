@@ -213,5 +213,10 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 302000059, 
         "Text": "Incoming stat abnormality attack anticipated"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000060, 
+        "Text": "Increase in enemy's durability anticipated\nQuick defeat through concentrated attack at start of battle recommended"
     }
 ]

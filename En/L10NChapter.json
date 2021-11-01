@@ -76,6 +76,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 4001002001, 
+        "Text": "Nation of Monsters\nDiabolic Secretary"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001002002, 
+        "Text": "Interview with the Demon Butler"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 4001003001, 
         "Text": "Gobta's Request"
     }, 

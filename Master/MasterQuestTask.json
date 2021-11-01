@@ -2869,5 +2869,38 @@
         "ReleaseLabeloffset": "", 
         "RequiredLabeloffset": "", 
         "RequiredValue": 0
+    }, 
+    {
+        "Description": 52, 
+        "MasterQuestTaskGroupId": 218, 
+        "MasterQuestTaskId": 4104002181, 
+        "MasterQuestTaskType": 0, 
+        "MasterRewardGroupId": 802923000103, 
+        "Order": 1, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "RequiredLabeloffset": "", 
+        "RequiredValue": 0
+    }, 
+    {
+        "Description": 48, 
+        "MasterQuestTaskGroupId": 218, 
+        "MasterQuestTaskId": 4104002182, 
+        "MasterQuestTaskType": 1, 
+        "MasterRewardGroupId": 802923000101, 
+        "Order": 2, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "RequiredLabeloffset": "", 
+        "RequiredValue": 0
+    }, 
+    {
+        "Description": 52, 
+        "MasterQuestTaskGroupId": 218, 
+        "MasterQuestTaskId": 4104002183, 
+        "MasterQuestTaskType": 0, 
+        "MasterRewardGroupId": 802923000101, 
+        "Order": 3, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "RequiredLabeloffset": "", 
+        "RequiredValue": 0
     }
 ]

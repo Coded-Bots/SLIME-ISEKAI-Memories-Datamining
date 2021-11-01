@@ -2301,6 +2301,91 @@
     }, 
     {
         "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002801, 
+        "Text": "You are giving me a reward?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002802, 
+        "Text": "You have my gratitude."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002803, 
+        "Text": "My fondness for you grows stronger day by day."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002804, 
+        "Text": "My loyalty to you is of the sort that shall never waver."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002805, 
+        "Text": "My, you seem quite busy."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002806, 
+        "Text": "Being able to greet you first thing in the morning makes it feel as though today will be a wonderful day."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002807, 
+        "Text": "Have you already decided on your plans for the afternoon?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002808, 
+        "Text": "You can always call on me if you need anything, no matter what time it may be."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002809, 
+        "Text": "Ahahaha, it is never a bad time to wait upon your orders, Great Rimuru..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002810, 
+        "Text": "If you happen to have anything for me to do, please grace me with your command."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002814, 
+        "Text": "Ahahaha, please allow me to undertake any trifling matters that might be troubling you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002815, 
+        "Text": "I've brought you some sweets, so why not have yourself a rest?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002816, 
+        "Text": "Is there some way I might be useful to you? I long to show you what fine results I can achieve!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002818, 
+        "Text": "It brings me supreme happiness that you have graced me with your presence like this!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002820, 
+        "Text": "Ohh, I thank you from the bottom of my heart for bestowing such marvelous things upon me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002821, 
+        "Text": "O-Oh my, there's no need to give me such compliments for something like this."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002822, 
+        "Text": "This is a rather...innovative ensemble, isn't it?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010050101, 
         "Text": "Oho, an offering for me?"
     }, 

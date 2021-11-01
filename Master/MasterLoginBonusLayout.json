@@ -10,5 +10,11 @@
         "MasterLoginBonusId": 60000000002, 
         "MasterLoginBonusLayoutId": 61100002001, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LayoutType": 1, 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterLoginBonusLayoutId": 61120003001, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
     }
 ]

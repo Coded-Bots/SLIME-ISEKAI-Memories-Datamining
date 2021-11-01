@@ -28,5 +28,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 1200005, 
         "Text": "Material needed to construct decorative facilities."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1200006, 
+        "Text": "Butler's House Blueprint"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1200006, 
+        "Text": "You can build one Butler's House for each one in your possession."
     }
 ]

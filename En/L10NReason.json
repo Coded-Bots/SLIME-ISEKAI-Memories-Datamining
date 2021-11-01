@@ -87,7 +87,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000118, 
-        "Text": "This is a Scout Bazaar Point reward."
+        "Text": "This is a Scout Bazaar Point reward"
     }, 
     {
         "ColumnName": "description", 
@@ -97,7 +97,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000120, 
-        "Text": "A Beginner Boost Login Bonus reward."
+        "Text": "A Beginner Boost Login Bonus reward"
     }, 
     {
         "ColumnName": "description", 
@@ -117,7 +117,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000124, 
-        "Text": "Item traded for at a shop."
+        "Text": "Item traded for at a shop"
     }, 
     {
         "ColumnName": "description", 
@@ -126,13 +126,53 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 803000000126, 
+        "Text": "A token of apology for bug occurrence"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000127, 
+        "Text": "A token of apology for the extension of maintenance"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000128, 
+        "Text": "en_reason_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000129, 
+        "Text": "en_reason_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000130, 
+        "Text": "en_reason_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000131, 
+        "Text": "en_reason_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000132, 
+        "Text": "en_reason_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000133, 
+        "Text": "en_reason_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 803000010000, 
-        "Text": "Equipment made at the forge."
+        "Text": "Equipment made at the forge"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000010001, 
-        "Text": "You have reached the limit for this item."
+        "Text": "You have reached the limit for this item"
     }, 
     {
         "ColumnName": "description", 

@@ -1384,5 +1384,19 @@
         "MasterOgcLotteryRewardGroupId": 5003, 
         "MasterOgcLotteryRewardId": 504500302, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "LotteryRewardId": 150017, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5004, 
+        "MasterOgcLotteryRewardId": 504500401, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "LotteryRewardId": 250009, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5005, 
+        "MasterOgcLotteryRewardId": 504500501, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
     }
 ]

@@ -253,5 +253,20 @@
         "Value1": 30, 
         "Value2": 0, 
         "Value3": 0
+    }, 
+    {
+        "Description": 164, 
+        "Gold": 190, 
+        "IconPathoffset": "Image/Item/BlacksmithMaterial/1100029/blacksmith_material_1100029_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterBlacksmithMaterialId": 1100029, 
+        "MasterEventId": 10000000000001, 
+        "MaxLimit": 99999, 
+        "Name": 34359738548, 
+        "Rarity": 2, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "Value1": 8, 
+        "Value2": 0, 
+        "Value3": 0
     }
 ]

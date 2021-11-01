@@ -390,6 +390,21 @@
         "VoiceActor": 206158430268
     }, 
     {
+        "AlphabetNameoffset": "Diablo", 
+        "DefaultMasterPcId": 150017, 
+        "FavoriteItemId": 0, 
+        "HomeAffectionCameraoffset": "", 
+        "MasterCharacterAffectionLevelGroupId": 1, 
+        "MasterCharacterAppearanceType": 0, 
+        "MasterCharacterId": 3001000028, 
+        "MasterQuestId": 0, 
+        "Name": 498216206476, 
+        "NameBasedSortoffset": "\u30c7\u30a3\u30a2\u30d6\u30ed", 
+        "Profile": 257698037832, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "VoiceActor": 309237645396
+    }, 
+    {
         "AlphabetNameoffset": "Veldora", 
         "DefaultMasterPcId": 250002, 
         "FavoriteItemId": 0, 

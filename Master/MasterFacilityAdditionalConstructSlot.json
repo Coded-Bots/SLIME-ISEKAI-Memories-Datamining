@@ -1,0 +1,14 @@
+[
+    {
+        "AdditionalSlotCount": 1, 
+        "Cost": 30, 
+        "EffectLastHours": 168.0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "AdditionalSlotCount": 2, 
+        "Cost": 50, 
+        "EffectLastHours": 168.0, 
+        "ReleaseLabeloffset": ""
+    }
+]

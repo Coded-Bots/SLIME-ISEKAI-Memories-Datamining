@@ -281,6 +281,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 90140023, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140023, 
+        "Text": "An item necessary in awakening Benimaru, the Crimson Ogre Warrior."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 90150001, 
         "Text": "Benimaru, the Samurai General of Hellfire Memory Stone"
     }, 
@@ -428,6 +438,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 90150015, 
         "Text": "An item necessary in awakening Rimuru Tempest, the Chancellor of Tempest."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150017, 
+        "Text": "Diablo, the Black Progenitor's Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150017, 
+        "Text": "An item necessary in awakening Diablo, the Black Progenitor."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150033, 
+        "Text": "Milim Nava, the Proud Dragon Demon Lord Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150033, 
+        "Text": "An item necessary in awakening Milim Nava, the Proud Dragon Demon Lord."
     }, 
     {
         "ColumnName": "name", 
@@ -648,6 +678,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 90250007, 
         "Text": "An item necessary in awakening Milim Nava, the Bellicose Dragoneye."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250009, 
+        "Text": "Shion, the Talented Secretary Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250009, 
+        "Text": "An item necessary in awakening Shion, the Talented Secretary."
     }, 
     {
         "ColumnName": "name", 

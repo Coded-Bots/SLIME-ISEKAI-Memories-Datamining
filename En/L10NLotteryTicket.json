@@ -58,5 +58,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 505000006, 
         "Text": "Ticket used in the 7 Days Only 5\u2605 Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000007, 
+        "Text": "Recruit Ticket: Nation of Monsters Diabolic Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000007, 
+        "Text": "Ticket used in the Ticket Recruit: Nation of Monsters Diabolic Secretary"
     }
 ]

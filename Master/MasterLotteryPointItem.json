@@ -7,5 +7,14 @@
         "MasterOgcLotteryShopId": 500000011, 
         "MaxLimit": 20000, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "ExchangeMasterRewardGroupId": 802102400004, 
+        "ExchangeRate": 1, 
+        "ExchangeReleaseLabeloffset": "202111_lottery_akuma1_exchange", 
+        "MasterLotteryPointItemId": 508000003, 
+        "MasterOgcLotteryShopId": 500000005, 
+        "MaxLimit": 20000, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
     }
 ]

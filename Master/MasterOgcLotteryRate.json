@@ -270,5 +270,117 @@
         "Rate": 100, 
         "ReleaseLabeloffset": "", 
         "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001401, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "Rate": 5400, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001402, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "Rate": 2700, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001403, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "Rate": 1000, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001404, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001405, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "Rate": 230, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001406, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "Rate": 30, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001407, 
+        "MasterOgcLotteryRewardGroupId": 5004, 
+        "Rate": 70, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 14, 
+        "MasterOgcLotteryRateId": 503001408, 
+        "MasterOgcLotteryRewardGroupId": 5005, 
+        "Rate": 70, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 15, 
+        "MasterOgcLotteryRateId": 503001501, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "Rate": 6400, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 15, 
+        "MasterOgcLotteryRateId": 503001502, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "Rate": 3200, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 15, 
+        "MasterOgcLotteryRateId": 503001503, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "Rate": 230, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 15, 
+        "MasterOgcLotteryRateId": 503001504, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "Rate": 30, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 15, 
+        "MasterOgcLotteryRateId": 503001505, 
+        "MasterOgcLotteryRewardGroupId": 5004, 
+        "Rate": 70, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 15, 
+        "MasterOgcLotteryRateId": 503001506, 
+        "MasterOgcLotteryRewardGroupId": 5005, 
+        "Rate": 70, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "ShowRarity": 5
     }
 ]

@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "MasterLoginNoticeGroupId": 62000000001, 
+        "Priority": 10, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }
+]

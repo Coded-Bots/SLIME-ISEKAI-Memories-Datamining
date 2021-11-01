@@ -206,5 +206,13 @@
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Phobio_Talk_Normal", 
         "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
+        "MasterCharacterId": 3001000028, 
+        "MasterWaveTalkCharacterConditionId": 4004000028, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "TalkConditionLabeloffset": "Diablo_Talk_Normal", 
+        "TargetType": 2
     }
 ]

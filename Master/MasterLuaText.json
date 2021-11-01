@@ -5460,6 +5460,66 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "Labeloffset": "field_400001407_1_27_1", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100271, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_27_2", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100272, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_31_1", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100311, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_31_2", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100312, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_36_1", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100361, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_36_2", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100362, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_41_1", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100411, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_41_2", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100412, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_7_1", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100071, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001407_1_7_2", 
+        "LuaScriptFileNameoffset": "field_400001407_1", 
+        "MasterLuaScriptTextId": 30122100072, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
         "Labeloffset": "Home_talk_Hakuro10_20_1", 
         "LuaScriptFileNameoffset": "Home_talk_Hakuro10", 
         "MasterLuaScriptTextId": 30057800201, 

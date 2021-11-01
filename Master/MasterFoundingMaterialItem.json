@@ -31,5 +31,16 @@
         "Name": 549755814028, 
         "Rarity": 1, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Description": 4294967448, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/FoundingMaterial/1200006/founding_material_1200006_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterFoundingMaterialItemId": 1200006, 
+        "MaxLimit": 3, 
+        "Name": 652835029156, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }
 ]

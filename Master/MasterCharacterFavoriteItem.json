@@ -729,6 +729,34 @@
     }, 
     {
         "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002801, 
+        "MasterCharacterId": 3001000028, 
+        "MasterItemId": 1400004, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002802, 
+        "MasterCharacterId": 3001000028, 
+        "MasterItemId": 1400005, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002803, 
+        "MasterCharacterId": 3001000028, 
+        "MasterItemId": 1400006, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002804, 
+        "MasterCharacterId": 3001000028, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "AddAffection": 10, 
         "MasterCharacterFavoriteItemId": 3009050101, 
         "MasterCharacterId": 3001000501, 
         "MasterItemId": 1400007, 

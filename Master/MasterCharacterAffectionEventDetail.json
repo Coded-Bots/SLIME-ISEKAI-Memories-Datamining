@@ -1,0 +1,716 @@
+[
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013004001, 
+        "MasterCharacterAffectionEventDetailGroupId": 301, 
+        "MasterCharacterAffectionEventDetailId": 3006000017, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400001, 
+        "MasterCharacterAffectionEventDetailGroupId": 302, 
+        "MasterCharacterAffectionEventDetailId": 3006000018, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 303, 
+        "MasterCharacterAffectionEventDetailId": 3006000019, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013004002, 
+        "MasterCharacterAffectionEventDetailGroupId": 304, 
+        "MasterCharacterAffectionEventDetailId": 3006000020, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 305, 
+        "MasterCharacterAffectionEventDetailId": 3006000021, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013004003, 
+        "MasterCharacterAffectionEventDetailGroupId": 306, 
+        "MasterCharacterAffectionEventDetailId": 3006000022, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013001001, 
+        "MasterCharacterAffectionEventDetailGroupId": 401, 
+        "MasterCharacterAffectionEventDetailId": 3006000023, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 402, 
+        "MasterCharacterAffectionEventDetailId": 3006000024, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 403, 
+        "MasterCharacterAffectionEventDetailId": 3006000025, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013001002, 
+        "MasterCharacterAffectionEventDetailGroupId": 404, 
+        "MasterCharacterAffectionEventDetailId": 3006000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013001003, 
+        "MasterCharacterAffectionEventDetailGroupId": 405, 
+        "MasterCharacterAffectionEventDetailId": 3006000027, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400001, 
+        "MasterCharacterAffectionEventDetailGroupId": 406, 
+        "MasterCharacterAffectionEventDetailId": 3006000028, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013005001, 
+        "MasterCharacterAffectionEventDetailGroupId": 501, 
+        "MasterCharacterAffectionEventDetailId": 3006000029, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900001, 
+        "MasterCharacterAffectionEventDetailGroupId": 502, 
+        "MasterCharacterAffectionEventDetailId": 3006000030, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013005002, 
+        "MasterCharacterAffectionEventDetailGroupId": 503, 
+        "MasterCharacterAffectionEventDetailId": 3006000031, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900002, 
+        "MasterCharacterAffectionEventDetailGroupId": 504, 
+        "MasterCharacterAffectionEventDetailId": 3006000032, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013005003, 
+        "MasterCharacterAffectionEventDetailGroupId": 505, 
+        "MasterCharacterAffectionEventDetailId": 3006000033, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013005004, 
+        "MasterCharacterAffectionEventDetailGroupId": 506, 
+        "MasterCharacterAffectionEventDetailId": 3006000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013002001, 
+        "MasterCharacterAffectionEventDetailGroupId": 601, 
+        "MasterCharacterAffectionEventDetailId": 3006000035, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013002002, 
+        "MasterCharacterAffectionEventDetailGroupId": 602, 
+        "MasterCharacterAffectionEventDetailId": 3006000036, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013002003, 
+        "MasterCharacterAffectionEventDetailGroupId": 603, 
+        "MasterCharacterAffectionEventDetailId": 3006000037, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013002004, 
+        "MasterCharacterAffectionEventDetailGroupId": 604, 
+        "MasterCharacterAffectionEventDetailId": 3006000038, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013002005, 
+        "MasterCharacterAffectionEventDetailGroupId": 605, 
+        "MasterCharacterAffectionEventDetailId": 3006000039, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013002006, 
+        "MasterCharacterAffectionEventDetailGroupId": 606, 
+        "MasterCharacterAffectionEventDetailId": 3006000040, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400004, 
+        "MasterCharacterAffectionEventDetailGroupId": 701, 
+        "MasterCharacterAffectionEventDetailId": 3006000041, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100019, 
+        "MasterCharacterAffectionEventDetailGroupId": 702, 
+        "MasterCharacterAffectionEventDetailId": 3006000042, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013007001, 
+        "MasterCharacterAffectionEventDetailGroupId": 703, 
+        "MasterCharacterAffectionEventDetailId": 3006000043, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100008, 
+        "MasterCharacterAffectionEventDetailGroupId": 704, 
+        "MasterCharacterAffectionEventDetailId": 3006000044, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013007002, 
+        "MasterCharacterAffectionEventDetailGroupId": 705, 
+        "MasterCharacterAffectionEventDetailId": 3006000045, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013007003, 
+        "MasterCharacterAffectionEventDetailGroupId": 706, 
+        "MasterCharacterAffectionEventDetailId": 3006000046, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 801, 
+        "MasterCharacterAffectionEventDetailId": 3006000047, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 802, 
+        "MasterCharacterAffectionEventDetailId": 3006000048, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1200001, 
+        "MasterCharacterAffectionEventDetailGroupId": 803, 
+        "MasterCharacterAffectionEventDetailId": 3006000049, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1200001, 
+        "MasterCharacterAffectionEventDetailGroupId": 804, 
+        "MasterCharacterAffectionEventDetailId": 3006000050, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013003001, 
+        "MasterCharacterAffectionEventDetailGroupId": 805, 
+        "MasterCharacterAffectionEventDetailId": 3006000051, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013003002, 
+        "MasterCharacterAffectionEventDetailGroupId": 806, 
+        "MasterCharacterAffectionEventDetailId": 3006000052, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400010, 
+        "MasterCharacterAffectionEventDetailGroupId": 901, 
+        "MasterCharacterAffectionEventDetailId": 3006000053, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013017001, 
+        "MasterCharacterAffectionEventDetailGroupId": 902, 
+        "MasterCharacterAffectionEventDetailId": 3006000054, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013017002, 
+        "MasterCharacterAffectionEventDetailGroupId": 903, 
+        "MasterCharacterAffectionEventDetailId": 3006000055, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013017003, 
+        "MasterCharacterAffectionEventDetailGroupId": 904, 
+        "MasterCharacterAffectionEventDetailId": 3006000056, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400011, 
+        "MasterCharacterAffectionEventDetailGroupId": 905, 
+        "MasterCharacterAffectionEventDetailId": 3006000057, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013017004, 
+        "MasterCharacterAffectionEventDetailGroupId": 906, 
+        "MasterCharacterAffectionEventDetailId": 3006000058, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100007, 
+        "MasterCharacterAffectionEventDetailGroupId": 1001, 
+        "MasterCharacterAffectionEventDetailId": 3006000059, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100007, 
+        "MasterCharacterAffectionEventDetailGroupId": 1002, 
+        "MasterCharacterAffectionEventDetailId": 3006000060, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400013, 
+        "MasterCharacterAffectionEventDetailGroupId": 1003, 
+        "MasterCharacterAffectionEventDetailId": 3006000061, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013006001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1004, 
+        "MasterCharacterAffectionEventDetailId": 3006000062, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013006002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1005, 
+        "MasterCharacterAffectionEventDetailId": 3006000063, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100008, 
+        "MasterCharacterAffectionEventDetailGroupId": 1006, 
+        "MasterCharacterAffectionEventDetailId": 3006000064, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400007, 
+        "MasterCharacterAffectionEventDetailGroupId": 1101, 
+        "MasterCharacterAffectionEventDetailId": 3006000065, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400005, 
+        "MasterCharacterAffectionEventDetailGroupId": 1102, 
+        "MasterCharacterAffectionEventDetailId": 3006000066, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013014001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1103, 
+        "MasterCharacterAffectionEventDetailId": 3006000067, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013014002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1104, 
+        "MasterCharacterAffectionEventDetailId": 3006000068, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400014, 
+        "MasterCharacterAffectionEventDetailGroupId": 1105, 
+        "MasterCharacterAffectionEventDetailId": 3006000069, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400011, 
+        "MasterCharacterAffectionEventDetailGroupId": 1106, 
+        "MasterCharacterAffectionEventDetailId": 3006000070, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013015001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1201, 
+        "MasterCharacterAffectionEventDetailId": 3006000071, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100019, 
+        "MasterCharacterAffectionEventDetailGroupId": 1202, 
+        "MasterCharacterAffectionEventDetailId": 3006000072, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400013, 
+        "MasterCharacterAffectionEventDetailGroupId": 1203, 
+        "MasterCharacterAffectionEventDetailId": 3006000073, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013015002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1204, 
+        "MasterCharacterAffectionEventDetailId": 3006000074, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400005, 
+        "MasterCharacterAffectionEventDetailGroupId": 1205, 
+        "MasterCharacterAffectionEventDetailId": 3006000075, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400014, 
+        "MasterCharacterAffectionEventDetailGroupId": 1206, 
+        "MasterCharacterAffectionEventDetailId": 3006000076, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013016001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1501, 
+        "MasterCharacterAffectionEventDetailId": 3006000077, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013016002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1502, 
+        "MasterCharacterAffectionEventDetailId": 3006000078, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013016003, 
+        "MasterCharacterAffectionEventDetailGroupId": 1503, 
+        "MasterCharacterAffectionEventDetailId": 3006000079, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013016004, 
+        "MasterCharacterAffectionEventDetailGroupId": 1504, 
+        "MasterCharacterAffectionEventDetailId": 3006000080, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013016005, 
+        "MasterCharacterAffectionEventDetailGroupId": 1505, 
+        "MasterCharacterAffectionEventDetailId": 3006000081, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013016006, 
+        "MasterCharacterAffectionEventDetailGroupId": 1506, 
+        "MasterCharacterAffectionEventDetailId": 3006000082, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400013, 
+        "MasterCharacterAffectionEventDetailGroupId": 1601, 
+        "MasterCharacterAffectionEventDetailId": 3006000083, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013011001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1602, 
+        "MasterCharacterAffectionEventDetailId": 3006000084, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013011002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1603, 
+        "MasterCharacterAffectionEventDetailId": 3006000085, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013011003, 
+        "MasterCharacterAffectionEventDetailGroupId": 1604, 
+        "MasterCharacterAffectionEventDetailId": 3006000086, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013011004, 
+        "MasterCharacterAffectionEventDetailGroupId": 1605, 
+        "MasterCharacterAffectionEventDetailId": 3006000087, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1606, 
+        "MasterCharacterAffectionEventDetailId": 3006000088, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1701, 
+        "MasterCharacterAffectionEventDetailId": 3006000089, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013012001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1702, 
+        "MasterCharacterAffectionEventDetailId": 3006000090, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400007, 
+        "MasterCharacterAffectionEventDetailGroupId": 1703, 
+        "MasterCharacterAffectionEventDetailId": 3006000091, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013012002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1704, 
+        "MasterCharacterAffectionEventDetailId": 3006000092, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1705, 
+        "MasterCharacterAffectionEventDetailId": 3006000093, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1706, 
+        "MasterCharacterAffectionEventDetailId": 3006000094, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013009001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1801, 
+        "MasterCharacterAffectionEventDetailId": 3006000095, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013009002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1802, 
+        "MasterCharacterAffectionEventDetailId": 3006000096, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013009003, 
+        "MasterCharacterAffectionEventDetailGroupId": 1803, 
+        "MasterCharacterAffectionEventDetailId": 3006000097, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013009004, 
+        "MasterCharacterAffectionEventDetailGroupId": 1804, 
+        "MasterCharacterAffectionEventDetailId": 3006000098, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013009005, 
+        "MasterCharacterAffectionEventDetailGroupId": 1805, 
+        "MasterCharacterAffectionEventDetailId": 3006000099, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013009006, 
+        "MasterCharacterAffectionEventDetailGroupId": 1806, 
+        "MasterCharacterAffectionEventDetailId": 3006000100, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1901, 
+        "MasterCharacterAffectionEventDetailId": 3006000101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1902, 
+        "MasterCharacterAffectionEventDetailId": 3006000102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013008001, 
+        "MasterCharacterAffectionEventDetailGroupId": 1903, 
+        "MasterCharacterAffectionEventDetailId": 3006000103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1904, 
+        "MasterCharacterAffectionEventDetailId": 3006000104, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100005, 
+        "MasterCharacterAffectionEventDetailGroupId": 1905, 
+        "MasterCharacterAffectionEventDetailId": 3006000105, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013008002, 
+        "MasterCharacterAffectionEventDetailGroupId": 1906, 
+        "MasterCharacterAffectionEventDetailId": 3006000106, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013013001, 
+        "MasterCharacterAffectionEventDetailGroupId": 51001, 
+        "MasterCharacterAffectionEventDetailId": 3006000107, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013013002, 
+        "MasterCharacterAffectionEventDetailGroupId": 51002, 
+        "MasterCharacterAffectionEventDetailId": 3006000108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100019, 
+        "MasterCharacterAffectionEventDetailGroupId": 51003, 
+        "MasterCharacterAffectionEventDetailId": 3006000109, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1400014, 
+        "MasterCharacterAffectionEventDetailGroupId": 51004, 
+        "MasterCharacterAffectionEventDetailId": 3006000110, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100005, 
+        "MasterCharacterAffectionEventDetailGroupId": 51005, 
+        "MasterCharacterAffectionEventDetailId": 3006000111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013013003, 
+        "MasterCharacterAffectionEventDetailGroupId": 51006, 
+        "MasterCharacterAffectionEventDetailId": 3006000112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 52001, 
+        "MasterCharacterAffectionEventDetailId": 3006000113, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 52002, 
+        "MasterCharacterAffectionEventDetailId": 3006000114, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1900001, 
+        "MasterCharacterAffectionEventDetailGroupId": 52003, 
+        "MasterCharacterAffectionEventDetailId": 3006000115, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013010001, 
+        "MasterCharacterAffectionEventDetailGroupId": 52004, 
+        "MasterCharacterAffectionEventDetailId": 3006000116, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 1, 
+        "DetailValue": 1100001, 
+        "MasterCharacterAffectionEventDetailGroupId": 52005, 
+        "MasterCharacterAffectionEventDetailId": 3006000117, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DetailAmount": 0, 
+        "DetailValue": 4013010002, 
+        "MasterCharacterAffectionEventDetailGroupId": 52006, 
+        "MasterCharacterAffectionEventDetailId": 3006000118, 
+        "ReleaseLabeloffset": ""
+    }
+]

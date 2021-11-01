@@ -1,0 +1,50 @@
+[
+    {
+        "MasterElementType": 1, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000001, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 2, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000002, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 3, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000003, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 4, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000004, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 5, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000005, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 6, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000006, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 7, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000007, 
+        "PcId": 0, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterElementType": 0, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000008, 
+        "PcId": 140023, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }
+]

@@ -18,5 +18,15 @@
         "MasterOgcLoginBonusTargetType": 0, 
         "ReleaseLabeloffset": "", 
         "TargetValue": 0
+    }, 
+    {
+        "BackgroundImagePathoffset": "Image/LoginBonus/60000020003/loginBonusBg_60000020003", 
+        "DisplayPriority": 1, 
+        "Laps": 1, 
+        "LogoPathoffset": "Image/LoginBonus/60000020003/loginBonusLogo_60000020003", 
+        "MasterLoginBonusId": 60000020003, 
+        "MasterOgcLoginBonusTargetType": 3, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TargetValue": 0
     }
 ]

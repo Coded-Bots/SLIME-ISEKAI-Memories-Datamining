@@ -152,6 +152,30 @@
         "ReleaseLabeloffset": "202110_lottery_freeday1"
     }, 
     {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001010, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001011, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001012, 
+        "OpenAtoffset": "2021/11/30 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_exchange"
+    }, 
+    {
         "CloseAtoffset": "2021/11/09 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001019, 
@@ -208,12 +232,84 @@
         "ReleaseLabeloffset": "story_event@2021_11_01_exchange"
     }, 
     {
+        "CloseAtoffset": "2021/11/22 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002005, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "story_event@2021_11_01_Predation"
+    }, 
+    {
         "CloseAtoffset": "2021/11/25 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000002006, 
         "OpenAtoffset": "2021/11/09 2:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "story_event@2021_11_01_Predation_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002008, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002009, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/03 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002010, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/03 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002011, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma1_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002012, 
+        "OpenAtoffset": "2021/11/16 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002013, 
+        "OpenAtoffset": "2021/11/16 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/03 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002014, 
+        "OpenAtoffset": "2021/11/16 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002015, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_diablo"
     }, 
     {
         "CloseAtoffset": "2021/05/31 8:59:59", 
@@ -294,6 +390,22 @@
         "OpenAtoffset": "2021/10/26 2:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_campaign_release_banner"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000011000, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/23 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000012001, 
+        "OpenAtoffset": "2021/10/25 19:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_shop_pack_release_anniversary"
     }, 
     {
         "CloseAtoffset": "2021/05/31 8:59:59", 

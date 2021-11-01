@@ -168,5 +168,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 1100028, 
         "Text": "An item necessary for forging and evolving 3\u2605 equipment with dark attributes."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1100029, 
+        "Text": "Ore of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1100029, 
+        "Text": "An item necessary for forging and evolving The Crimson Ogre Warrior's Sword and The Crimson Ogre Warrior's Surcoat."
     }
 ]

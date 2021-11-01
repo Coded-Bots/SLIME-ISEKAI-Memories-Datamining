@@ -1817,7 +1817,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20011400232024, 
-        "Text": "Decreases a single target's DEF by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 2)\nIncreases own critical rate by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 1)"
+        "Text": "Decreases a single target's DEF by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases own critical rate by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 1)"
     }, 
     {
         "ColumnName": "name", 
@@ -2937,7 +2937,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500272024, 
-        "Text": "Increases all allies' critical resistance by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)"
+        "Text": "Increases all allies' critical resistance by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases own critical rate by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 1)"
     }, 
     {
         "ColumnName": "name", 
@@ -10521,6 +10521,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20032500032017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20032500032017, 
+        "Text": "Increases own fire ATK by 15% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20032500032018, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20032500032018, 
+        "Text": "Increases own critical rate by 20% (Turns: 3)\nDecreases Soul of Divine Protection damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20032500033001, 
         "Text": ""
     }, 
@@ -16457,7 +16477,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002342005, 
-        "Text": ""
+        "Text": "Increases own DEF until the end of battle by 20%\nIncreases own pierce resistance until the end of battle by 80%"
     }, 
     {
         "ColumnName": "name", 
@@ -18347,7 +18367,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20022400092015, 
-        "Text": "When 1 or more enemies are affected by ATK UP, increases all allies' dark resistance by  at start of turn"
+        "Text": "When 1 or more enemies are affected by ATK UP, increases all allies' dark resistance by 7% at start of turn"
     }, 
     {
         "ColumnName": "name", 
@@ -18357,7 +18377,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20022400092016, 
-        "Text": "When 1 or more enemies are affected by ATK UP, increases all allies' dark resistance by  at start of turn"
+        "Text": "When 1 or more enemies are affected by ATK UP, increases all allies' dark resistance by 11% at start of turn"
     }, 
     {
         "ColumnName": "name", 
@@ -19027,7 +19047,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20022500098004, 
-        "Text": "Increases all allies' dark ATK at start of battle by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color>. Increases all allies' light ATK at start of battle by "
+        "Text": "Increases all allies' dark ATK at start of battle by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color>. Increases all allies' fire ATK at start of battle by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color>"
     }, 
     {
         "ColumnName": "name", 

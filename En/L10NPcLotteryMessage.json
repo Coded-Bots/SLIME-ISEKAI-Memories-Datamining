@@ -103,5 +103,15 @@
         "ColumnName": "lottery_message", 
         "LocalizationTargetId": 510000022, 
         "Text": "Who are you calling a runt? You\nwanna be murdered?"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000023, 
+        "Text": "I must complete my first job perfectly to impress Great Rimuru"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000024, 
+        "Text": "If we're talking loyalty to Great Rimuru, I'm as loyal as any of you!"
     }
 ]

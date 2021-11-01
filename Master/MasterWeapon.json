@@ -153,6 +153,23 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "BaseRarity": 2, 
+        "EquipmentImagePathoffset": "Image/Equip/Weapon/110010/Weapon_110010_Weapon{0}", 
+        "EquipmentPassiveSkillConditionId": 1590000008, 
+        "MasterEquipmentCraftBonusId": 1510000012, 
+        "MasterEquipmentEvolveGroupId": 1208, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentRefiningGroupId": 1000002, 
+        "MasterEquipmentSetGroupId": 0, 
+        "MasterEventId": 10000000000001, 
+        "MasterWeaponId": 1110110010, 
+        "MasterWeaponType": 1, 
+        "Name": 8589934796, 
+        "PassiveSkillLabel1offset": "equip_buff_39", 
+        "PassiveSkillLabel2offset": "", 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
         "BaseRarity": 3, 
         "EquipmentImagePathoffset": "Image/Equip/Weapon/120001/Weapon_120001_Weapon{0}", 
         "EquipmentPassiveSkillConditionId": 1590000003, 

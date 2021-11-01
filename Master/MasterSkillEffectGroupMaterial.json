@@ -2802,6 +2802,56 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012001, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012002, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012003, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012004, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012005, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20031500012010, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_10", 
@@ -2818,6 +2868,36 @@
         "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012012, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/003/03/{1}/IcSkill_003_03_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012013, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/042/02/{1}/IcSkill_042_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Benimaru/BenimaruDefault/S_BenimaruDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500017001, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_SpecialSkill/BenimaruDefault_Battle_SpecialSkill"
     }, 
     {
         "AfterEffectPathoffset": "Setting/Effect/Battle/Benimaru/BenimaruDefault/S_BenimaruDefault_Finish", 
@@ -3171,6 +3251,46 @@
     }, 
     {
         "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500042004, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/052/01/{1}/IcSkill_052_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Buff/SoeiDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500042005, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_buff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/023/02/{1}/IcSkill_023_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Buff/SoeiDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500042006, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_buff_06", 
+        "SkillIconImagePathoffset": "Image/Skill/023/02/{1}/IcSkill_023_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Buff/SoeiDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500042007, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_buff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/052/01/{1}/IcSkill_052_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Buff/SoeiDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20031500041002, 
         "ReleaseLabeloffset": "", 
@@ -3191,6 +3311,36 @@
     }, 
     {
         "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500043012, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_debuff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Debuff/SoeiDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500043013, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_debuff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/041/08/{1}/IcSkill_041_08_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Debuff/SoeiDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/SoeiDefault/5/SoeiDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500042008, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_buff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/052/01/{1}/IcSkill_052_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soei/SoeiDefault/SoeiDefault_Battle_ActiveSkill_Buff/SoeiDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20031500041001, 
         "ReleaseLabeloffset": "", 
@@ -3198,6 +3348,16 @@
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Soei/SoeiDefault/S_SoeiDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500047001, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "SkillEffectGroupLabeloffset": "SoeiDefault_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Soei/SoeiDefault/SoeiDefault_Battle_SpecialSkill/SoeiDefault_Battle_SpecialSkill"
     }, 
     {
         "AfterEffectPathoffset": "Setting/Effect/Battle/Soei/SoeiDefault/S_SoeiDefault_Finish", 
@@ -14972,6 +15132,46 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500171001, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "DiabloDefault_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Diablo/DiabloDefault/S_DiabloDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500177001, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "DiabloDefault_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Diablo/DiabloDefault/DiabloDefault_Battle_SpecialSkill/DiabloDefault_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/DiabloDefault/5/DiabloDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500172023, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "DiabloDefault_buff_23", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Diablo/DiabloDefault/DiabloDefault_Battle_ActiveSkill_Buff/DiabloDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/DiabloDefault/5/DiabloDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500172024, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "DiabloDefault_buff_24", 
+        "SkillIconImagePathoffset": "Image/Skill/042/22/{1}/IcSkill_042_22_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Diablo/DiabloDefault/DiabloDefault_Battle_ActiveSkill_Buff/DiabloDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033001821001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "GiantAntHolyAttribute_normal_01", 
@@ -15208,6 +15408,106 @@
         "SkillIconImagePathoffset": "Image/Skill/031/05/{1}/IcSkill_031_05_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/KnightSpider/KnightSpiderHolyAttribute/KnightSpiderHolyAttribute_Battle_ActiveSkill_Buff/KnightSpiderHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500098003, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "ShionSecretary_bless_03", 
+        "SkillIconImagePathoffset": "Image/Skill/042/27/{1}/IcSkill_042_27_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/BlessSkill/Shion/ShionSecretary/ShionSecretary_Battle_BlessSkill_1/ShionSecretary_Battle_BlessSkill_1"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500098004, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "ShionSecretary_bless_04", 
+        "SkillIconImagePathoffset": "Image/Skill/003/06/{1}/IcSkill_003_06_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400231001, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "BenimaruArmor_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Benimaru/BenimaruArmor/S_BenimaruArmor_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400237001, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "BenimaruArmor_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Benimaru/BenimaruArmor/BenimaruArmor_Battle_SpecialSkill/BenimaruArmor_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruArmor/4/BenimaruArmor_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011400233023, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "BenimaruArmor_debuff_23", 
+        "SkillIconImagePathoffset": "Image/Skill/032/05/{1}/IcSkill_032_05_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruArmor/BenimaruArmor_Battle_ActiveSkill_Buff/BenimaruArmor_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruArmor/4/BenimaruArmor_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011400232024, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "BenimaruArmor_buff_24", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruArmor/BenimaruArmor_Battle_ActiveSkill_Debuff/BenimaruArmor_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500331001, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start", 
+        "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Milim/MilimDemonLordCostume/S_MilimDemonLordCostume_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500337001, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start", 
+        "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Milim/MilimDemonLordCostume/MilimDemonLordCostume_Battle_SpecialSkill/MilimDemonLordCostume_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/MilimDemonLordCostume/5/MilimDemonLordCostume_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500332001, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start", 
+        "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Milim/MilimDemonLordCostume/MilimDemonLordCostume_Battle_ActiveSkill_Buff/MilimDemonLordCostume_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/MilimDemonLordCostume/5/MilimDemonLordCostume_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500332002, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start", 
+        "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Milim/MilimDemonLordCostume/MilimDemonLordCostume_Battle_ActiveSkill_Buff/MilimDemonLordCostume_Battle_ActiveSkill_Buff"
     }, 
     {
         "AfterEffectPathoffset": "", 
@@ -15882,6 +16182,36 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500182030, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "DiabloDefault_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/002/01/1/IcPassiveSkill_002_01_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400242030, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "BenimaruArmor_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/027/02/1/IcPassiveSkill_027_02_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500342030, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start", 
+        "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/13/1/IcPassiveSkill_041_13_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20011500032031, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "ShionDefault_passive_31", 
@@ -16306,6 +16636,36 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "RigurdDefault_passive_31", 
         "SkillIconImagePathoffset": "Image/PassiveSkill/023/01/2/IcPassiveSkill_023_01_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500182031, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "DiabloDefault_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/002/01/2/IcPassiveSkill_002_01_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400242031, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "BenimaruArmor_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/027/02/2/IcPassiveSkill_027_02_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500342031, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start", 
+        "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/13/2/IcPassiveSkill_041_13_2", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
     }, 
@@ -16748,6 +17108,206 @@
         "SkillIconImagePathoffset": "Image/PassiveSkill/050/01/2/IcPassiveSkill_050_01_2", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500102015, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "ShionSecretary_passive_15", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/012/01/1/IcPassiveSkill_012_01_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500102016, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "SkillEffectGroupLabeloffset": "ShionSecretary_passive_16", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/012/01/2/IcPassiveSkill_012_01_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002341001, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002341002, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_normal_02", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Common/C_Finish_Smoke_Default", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002347001, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_SpecialSkill/CharybdisHolyAttribute_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002343001, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_debuff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Debuff/CharybdisHolyAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002343002, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_debuff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Debuff/CharybdisHolyAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002343003, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_debuff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Debuff/CharybdisHolyAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342001, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342002, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342003, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342004, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342005, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342006, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_06", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342007, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342008, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342009, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_09", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342010, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_10", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342011, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002342012, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation", 
+        "SkillEffectGroupLabeloffset": "CharybdisHolyAttribute_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute_Battle_ActiveSkill_Buff/CharybdisHolyAttribute_Battle_ActiveSkill_Buff"
     }, 
     {
         "AfterEffectPathoffset": "", 

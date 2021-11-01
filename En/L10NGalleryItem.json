@@ -8,5 +8,10 @@
         "ColumnName": "name", 
         "LocalizationTargetId": 2500002, 
         "Text": "Shuna and Shion at the Beach"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2500003, 
+        "Text": "Rimuru showing Diablo around town"
     }
 ]

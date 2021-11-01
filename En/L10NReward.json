@@ -6171,6 +6171,16 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811800000091, 
+        "Text": "Butler's House Blueprint"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000092, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811800000093, 
         "Text": "Nation of Monsters Hot Pot"
     }, 
@@ -6278,6 +6288,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811800000114, 
         "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000115, 
+        "Text": "Milim Nava, the Proud Dragon Demon Lord"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000116, 
+        "Text": "Milim Nava, the Proud Dragon Demon Lord Memory Stone"
     }, 
     {
         "ColumnName": "description", 
@@ -7971,6 +7991,16 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811500000239, 
+        "Text": "Recruit Ticket: Nation of Monsters Diabolic Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000240, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811500000241, 
         "Text": "Healing Potion"
     }, 
@@ -8002,12 +8032,12 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811500000247, 
-        "Text": "Octagram"
+        "Text": "Octagram Emblem"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811500000248, 
-        "Text": "Octagram"
+        "Text": "Octagram Emblem"
     }, 
     {
         "ColumnName": "description", 
@@ -8281,6 +8311,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811500001058, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811500001059, 
         "Text": "Stamina Magirock"
     }, 
@@ -8321,6 +8356,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811500001067, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811500001068, 
         "Text": "Stamina Magiblock"
     }, 
@@ -8358,6 +8398,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811500001075, 
         "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001076, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
     }, 
     {
         "ColumnName": "description", 
@@ -11881,6 +11926,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811900140023, 
+        "Text": "Benimaru, the Crimson Ogre Warrior"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811900150001, 
         "Text": "Benimaru, the Samurai General of Hellfire"
     }, 
@@ -11953,6 +12003,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811900150015, 
         "Text": "Rimuru Tempest, the Chancellor of Tempest"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811900150017, 
+        "Text": "Diablo, the Black Progenitor"
     }, 
     {
         "ColumnName": "description", 
@@ -12066,6 +12121,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811900250009, 
+        "Text": "Shion, the Talented Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811902400002, 
         "Text": "Recruit Bazaar Points"
     }, 
@@ -12146,6 +12206,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811620000008, 
+        "Text": "Benimaru, the Crimson Ogre Warrior"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811620000009, 
         "Text": "Magicule"
     }, 
@@ -12163,6 +12228,21 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811620000012, 
         "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000013, 
+        "Text": "Recruit Ticket: Nation of Monsters Diabolic Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000014, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000015, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
     }, 
     {
         "ColumnName": "description", 
@@ -12331,6 +12411,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811702100302, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811702100401, 
         "Text": "Defense Magistone"
     }, 
@@ -12352,6 +12437,11 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811702100601, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811702100602, 
         "Text": "Defense Magiblock"
     }, 
     {
@@ -12381,6 +12471,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811702100902, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811702101001, 
         "Text": "Training Magistone"
     }, 
@@ -12402,6 +12497,11 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811702101201, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811702101202, 
         "Text": "Training Magiblock"
     }, 
     {
@@ -12431,8 +12531,18 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811702400701, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811702400801, 
-        "Text": "Octagram"
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811702500301, 
+        "Text": "Rimuru showing Diablo around town"
     }, 
     {
         "ColumnName": "description", 
@@ -12473,6 +12583,21 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811703100106, 
         "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811705050701, 
+        "Text": "Recruit Ticket: Nation of Monsters Diabolic Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811709012301, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811709012302, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
     }, 
     {
         "ColumnName": "description", 
@@ -12683,6 +12808,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811711102005, 
         "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811711102901, 
+        "Text": "Ore of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811711102902, 
+        "Text": "Ore of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811711102903, 
+        "Text": "Ore of Shadowy Twilight"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811711102904, 
+        "Text": "Ore of Shadowy Twilight"
     }, 
     {
         "ColumnName": "description", 
@@ -15746,6 +15891,241 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811712400701, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400702, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400703, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400704, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400705, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400706, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400707, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400708, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400709, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400710, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400711, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400712, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400713, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400714, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400715, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400716, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400717, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400718, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400719, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400720, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400721, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400722, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400723, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400724, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400725, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400726, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400727, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400728, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400729, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400730, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400731, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400732, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400733, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400734, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400735, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400736, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400737, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400738, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400739, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400740, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400741, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400742, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400743, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400744, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400745, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400746, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400747, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811721700101, 
         "Text": "Magicule"
     }, 
@@ -15773,6 +16153,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811722300301, 
         "Text": "Perfect Striking"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722400701, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722400702, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722400703, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722400704, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722400705, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722500301, 
+        "Text": "Rimuru showing Diablo around town"
     }, 
     {
         "ColumnName": "description", 
@@ -15848,6 +16258,96 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811732300303, 
         "Text": "Perfect Striking"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732301901, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732301902, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732301903, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302001, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302002, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302003, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302101, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302102, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302103, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302201, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302202, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302203, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302301, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302302, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302303, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302401, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302402, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302403, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Superempowerment"
     }, 
     {
         "ColumnName": "description", 
@@ -16331,6 +16831,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811000000097, 
+        "Text": "Rimuru showing Diablo around town"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811000000100, 
         "Text": "Recruit Ticket"
     }, 
@@ -16418,5 +16923,600 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000117, 
         "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000118, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000119, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000120, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000121, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000122, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000123, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000124, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000125, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000126, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000127, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000128, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000129, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000130, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000131, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000132, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000133, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000134, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000135, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000136, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000137, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000138, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000139, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000140, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000141, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000142, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000143, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000144, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000145, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000146, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000147, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000148, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000149, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000150, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000151, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000152, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000153, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000154, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000155, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000156, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000157, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000158, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000159, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000160, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000161, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000162, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000163, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000164, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000165, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000166, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000167, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000168, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000169, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000170, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000171, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000172, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000173, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000174, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000175, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000176, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000177, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000178, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000179, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000180, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000181, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000182, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000183, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000184, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000185, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000186, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000187, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000188, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000189, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000190, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000191, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000192, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000193, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000194, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000195, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000196, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000197, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000198, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000199, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000200, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000201, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000202, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000203, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000204, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000205, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000206, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000207, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000208, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000209, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000210, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000211, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000212, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000213, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000214, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000215, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000216, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000217, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000218, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000219, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000220, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000221, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000222, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000223, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000224, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000225, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000226, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000227, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000228, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000229, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000230, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000231, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000232, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000233, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000234, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000235, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000236, 
+        "Text": "Healing Potion"
     }
 ]

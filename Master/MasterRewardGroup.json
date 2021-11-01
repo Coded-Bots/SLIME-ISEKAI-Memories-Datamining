@@ -465,6 +465,11 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803100000000, 
+        "MasterRewardGroupId": 802000000134, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
         "MasterReasonId": 803000000122, 
         "MasterRewardGroupId": 802000000140, 
         "ReleaseLabeloffset": ""
@@ -487,6 +492,591 @@
     {
         "MasterReasonId": 803000000125, 
         "MasterRewardGroupId": 802000000146, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000147, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000148, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000149, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000150, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000151, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000152, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000153, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000154, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000155, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000156, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000157, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000158, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000159, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000160, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000161, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000162, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000163, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000164, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000165, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000166, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000167, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000168, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000169, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000170, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000171, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000172, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000173, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000174, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000175, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000176, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000177, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000178, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000179, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000180, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000181, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000182, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000183, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000184, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000185, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000186, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000187, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000188, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000189, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000190, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000191, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000192, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000193, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000194, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000195, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000196, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000197, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000198, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000199, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000126, 
+        "MasterRewardGroupId": 802000000200, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000203, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000204, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000205, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000206, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000207, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000208, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000209, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000210, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000211, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000212, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000213, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000214, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000215, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000216, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000217, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000218, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000219, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000220, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000221, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000222, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000223, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000224, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000225, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000226, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000227, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000228, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000229, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000230, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000231, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000232, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000233, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000234, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000235, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000236, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000237, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000238, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000239, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000240, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000241, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000242, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000243, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000244, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000245, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000246, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000247, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000248, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000249, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000250, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000251, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000252, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000253, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000127, 
+        "MasterRewardGroupId": 802000000254, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000128, 
+        "MasterRewardGroupId": 802000000255, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000129, 
+        "MasterRewardGroupId": 802000000256, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000129, 
+        "MasterRewardGroupId": 802000000257, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000130, 
+        "MasterRewardGroupId": 802000000258, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000131, 
+        "MasterRewardGroupId": 802000000259, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000132, 
+        "MasterRewardGroupId": 802000000260, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000132, 
+        "MasterRewardGroupId": 802000000261, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000133, 
+        "MasterRewardGroupId": 802000000262, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000133, 
+        "MasterRewardGroupId": 802000000263, 
         "ReleaseLabeloffset": ""
     }, 
     {
@@ -1106,6 +1696,16 @@
     }, 
     {
         "MasterReasonId": 803000000124, 
+        "MasterRewardGroupId": 802800000091, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000124, 
+        "MasterRewardGroupId": 802800000092, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000124, 
         "MasterRewardGroupId": 802800000093, 
         "ReleaseLabeloffset": ""
     }, 
@@ -1213,6 +1813,16 @@
         "MasterReasonId": 803000000124, 
         "MasterRewardGroupId": 802800000114, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000124, 
+        "MasterRewardGroupId": 802800000115, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
+    }, 
+    {
+        "MasterReasonId": 803000000124, 
+        "MasterRewardGroupId": 802800000116, 
+        "ReleaseLabeloffset": "202111_exchange_octagram_start"
     }, 
     {
         "MasterReasonId": 803000000124, 
@@ -2906,6 +3516,16 @@
     }, 
     {
         "MasterReasonId": 803000000107, 
+        "MasterRewardGroupId": 802600000239, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000107, 
+        "MasterRewardGroupId": 802600000240, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000107, 
         "MasterRewardGroupId": 802600000241, 
         "ReleaseLabeloffset": ""
     }, 
@@ -3215,6 +3835,11 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803000000115, 
+        "MasterRewardGroupId": 802600001058, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
         "MasterReasonId": 803000000114, 
         "MasterRewardGroupId": 802600001059, 
         "ReleaseLabeloffset": ""
@@ -3255,6 +3880,11 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803000000115, 
+        "MasterRewardGroupId": 802600001067, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
         "MasterReasonId": 803000000114, 
         "MasterRewardGroupId": 802600001068, 
         "ReleaseLabeloffset": ""
@@ -3293,6 +3923,11 @@
         "MasterReasonId": 803000000114, 
         "MasterRewardGroupId": 802600001075, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000115, 
+        "MasterRewardGroupId": 802600001076, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }, 
     {
         "MasterReasonId": 803000000107, 
@@ -6891,6 +7526,16 @@
     }, 
     {
         "MasterReasonId": 803000000118, 
+        "MasterRewardGroupId": 802100150017, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "MasterReasonId": 803000000118, 
+        "MasterRewardGroupId": 802100140023, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "MasterReasonId": 803000000118, 
         "MasterRewardGroupId": 802100250001, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7001,6 +7646,11 @@
     }, 
     {
         "MasterReasonId": 803000000118, 
+        "MasterRewardGroupId": 802100250009, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "MasterReasonId": 803000000118, 
         "MasterRewardGroupId": 802102400999, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7061,6 +7711,11 @@
     }, 
     {
         "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802902100302, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
         "MasterRewardGroupId": 802902100401, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7082,6 +7737,11 @@
     {
         "MasterReasonId": 803000000121, 
         "MasterRewardGroupId": 802902100601, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802902100602, 
         "ReleaseLabeloffset": ""
     }, 
     {
@@ -7111,6 +7771,11 @@
     }, 
     {
         "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802902100902, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
         "MasterRewardGroupId": 802902101001, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7132,6 +7797,11 @@
     {
         "MasterReasonId": 803000000121, 
         "MasterRewardGroupId": 802902101201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802902101202, 
         "ReleaseLabeloffset": ""
     }, 
     {
@@ -7275,9 +7945,29 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802902500301, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802909012301, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802909012302, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
         "MasterReasonId": 803000000121, 
         "MasterRewardGroupId": 802902400801, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802905050701, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
     }, 
     {
         "MasterReasonId": 803000000121, 
@@ -7308,6 +7998,11 @@
         "MasterReasonId": 803000000121, 
         "MasterRewardGroupId": 802903100106, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000121, 
+        "MasterRewardGroupId": 802902400701, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }, 
     {
         "MasterReasonId": 803000000103, 
@@ -7343,6 +8038,16 @@
         "MasterReasonId": 803000000103, 
         "MasterRewardGroupId": 802911102001, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912400701, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802911102901, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }, 
     {
         "MasterReasonId": 803000000103, 
@@ -7466,6 +8171,31 @@
     }, 
     {
         "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802922400701, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802922400702, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802922400703, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802922400704, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802922400705, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
         "MasterRewardGroupId": 802921700101, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7516,6 +8246,11 @@
     }, 
     {
         "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802922500301, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
         "MasterRewardGroupId": 802912300101, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7528,6 +8263,36 @@
         "MasterReasonId": 803000000103, 
         "MasterRewardGroupId": 802912300301, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912301901, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912302001, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912302101, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912302201, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912302301, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000103, 
+        "MasterRewardGroupId": 802912302401, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }, 
     {
         "MasterReasonId": 803000000113, 
@@ -7591,6 +8356,11 @@
     }, 
     {
         "MasterReasonId": 803000000123, 
+        "MasterRewardGroupId": 802720000008, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000123, 
         "MasterRewardGroupId": 802720000009, 
         "ReleaseLabeloffset": ""
     }, 
@@ -7608,6 +8378,21 @@
         "MasterReasonId": 803000000123, 
         "MasterRewardGroupId": 802720000012, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000123, 
+        "MasterRewardGroupId": 802720000013, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000123, 
+        "MasterRewardGroupId": 802720000014, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterReasonId": 803000000123, 
+        "MasterRewardGroupId": 802720000015, 
+        "ReleaseLabeloffset": "202111_event_akuma1_start"
     }, 
     {
         "MasterReasonId": 803000000120, 

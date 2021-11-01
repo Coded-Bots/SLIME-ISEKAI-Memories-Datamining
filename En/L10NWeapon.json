@@ -46,6 +46,11 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 1110110010, 
+        "Text": "The Crimson Ogre Warrior's Sword"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 1110120001, 
         "Text": "Chokken of Swift Wind"
     }, 

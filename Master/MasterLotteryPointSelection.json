@@ -145,5 +145,19 @@
         "MasterRewardGroupId": 802100250005, 
         "ReleaseLabeloffset": "202110_lottery_release_anniversary", 
         "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000049, 
+        "MasterOgcLotteryShopId": 500000005, 
+        "MasterRewardGroupId": 802100150017, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000050, 
+        "MasterOgcLotteryShopId": 500000005, 
+        "MasterRewardGroupId": 802100250009, 
+        "ReleaseLabeloffset": "202111_lottery_akuma1", 
+        "SelectionPoint": 300
     }
 ]

@@ -347,7 +347,7 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 102000035, 
-        "Text": "Activating each type of soul increases a different gauge.\n \nFill up the Secret Skill Gauge with the <color=#F7E416>Soul of Secrets</color>. Use the gauge to unleash your <color=#F7E416>Secret Skill</color>.\n<color=#F7E416>You can make combos with every type of soul and do massive damage to the enemy</color>, so don't hesitate to use them."
+        "Text": "Activating each type of soul increases a different gauge.\n\nFill up the Secret Skill Gauge until the <color=#F7E416>Soul of Combos</color> appears. Use the gauge to unleash your <color=#F7E416>Soul of Combos</color>.\n<color=#F7E416>You can make combos with every type of soul and do massive damage to the enemy</color>, so don't hesitate to use them."
     }, 
     {
         "ColumnName": "title", 

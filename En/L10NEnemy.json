@@ -11822,7 +11822,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 10002002001, 
-        "Text": "Shizue Izawa"
+        "Text": "Shizu"
     }, 
     {
         "ColumnName": "affiliation_name", 
@@ -11832,7 +11832,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 10002003001, 
-        "Text": "Gold Bat"
+        "Text": "Ifrit"
     }, 
     {
         "ColumnName": "affiliation_name", 

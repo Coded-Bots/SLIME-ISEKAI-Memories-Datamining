@@ -601,6 +601,36 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003001127, 
+        "Text": "Diablo, are you good?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001128, 
+        "Text": "All right, let's do it!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001129, 
+        "Text": "Let's try to keep our guard up."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001130, 
+        "Text": "Sorry, but that's not what I want."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001131, 
+        "Text": "Hey, don't get so worked up."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001132, 
+        "Text": "Don't say that!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003003001, 
         "Text": "Okay!"
     }, 
@@ -751,6 +781,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003003031, 
+        "Text": "I want to end this \nas soon as possible."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003003032, 
+        "Text": "Rout the enemy!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003003033, 
+        "Text": "Stay focused and take them out."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003003034, 
+        "Text": "Don't lose focus."
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003004001, 
         "Text": "Time to show off what I can do!"
     }, 
@@ -891,6 +941,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003004031, 
+        "Text": "Time to show off what I can do!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003004032, 
+        "Text": "I'll show you what I can do!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003004033, 
+        "Text": "Why would I, I'm fine!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003004034, 
+        "Text": "Yes, sir!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003005001, 
         "Text": "Okay!"
     }, 
@@ -1011,6 +1081,56 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003005025, 
+        "Text": "Yes, that's exactly right!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005026, 
+        "Text": "I'd like to see you try!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005027, 
+        "Text": "This is no fun."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005028, 
+        "Text": "Not so fast!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005029, 
+        "Text": "We should stay on alert."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005030, 
+        "Text": "This isn't done!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005031, 
+        "Text": "It's no problem! \nWe can just knock them all away."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005032, 
+        "Text": "Of course!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005033, 
+        "Text": "Yes, that's exactly right!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003005034, 
+        "Text": "Of course!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003006001, 
         "Text": "Gobta, are you ready?"
     }, 
@@ -1067,6 +1187,36 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 4003006012, 
+        "Text": "Understood!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006013, 
+        "Text": "Destroy them!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006014, 
+        "Text": "Understood!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006015, 
+        "Text": "The same goes for you."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006016, 
+        "Text": "No matter the opponent, I'll give it my all!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006017, 
+        "Text": "Can't let our guard down with this one."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006018, 
         "Text": "Understood!"
     }, 
     {
@@ -1176,6 +1326,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003007024, 
+        "Text": "I'll annihilate them."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003007025, 
+        "Text": "Understood."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003007026, 
+        "Text": "Same."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003007027, 
+        "Text": "I'll annihilate them."
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003008001, 
         "Text": "I'll fight to the death!"
     }, 
@@ -1258,6 +1428,26 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 4003008018, 
         "Text": "I can still keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003008019, 
+        "Text": "I will fight to the death!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003008020, 
+        "Text": "Understood!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003008021, 
+        "Text": "I wonder what kind of \nenemy's next?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003008022, 
+        "Text": "I'll fight to the death!"
     }, 
     {
         "ColumnName": "message", 
@@ -1348,6 +1538,26 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 4003009018, 
         "Text": "You truly have no weakness."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003009019, 
+        "Text": "Let's finish this \nas fast as we can."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003009020, 
+        "Text": "Let's finish this \nas fast as we can."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003009021, 
+        "Text": "Reinforcements? \nI'll beat them all to a pulp."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003009022, 
+        "Text": "Let's do it!"
     }, 
     {
         "ColumnName": "message", 
@@ -1471,6 +1681,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003010025, 
+        "Text": "Let's take them down!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003010026, 
+        "Text": "I've got it!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003010027, 
+        "Text": "Let's take them down!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003010028, 
+        "Text": "Leave the support to us!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003011007, 
         "Text": "Ready?"
     }, 
@@ -1528,6 +1758,31 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 4003011018, 
         "Text": "I'll keep going too."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003011019, 
+        "Text": "Let's take care of this."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003011020, 
+        "Text": "Leave it to me."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003011021, 
+        "Text": "Let's take care of this."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003011022, 
+        "Text": "I'll keep going too."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003012005, 
+        "Text": "I'm not very strong,\nbut I'll go with you."
     }, 
     {
         "ColumnName": "message", 
@@ -1621,6 +1876,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003013025, 
+        "Text": "Stay calm."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003013026, 
+        "Text": "Let's get to it."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003013027, 
+        "Text": "You ready?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003013028, 
+        "Text": "This is going well."
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003015001, 
         "Text": "Hahaha! Of course!"
     }, 
@@ -1703,6 +1978,26 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 4003015024, 
         "Text": "Okay, you got it!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003015025, 
+        "Text": "Yeah, time to smash 'em!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003015026, 
+        "Text": "Of course!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003015027, 
+        "Text": "I can't wait to see what kinds of \nenemies show up!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003015028, 
+        "Text": "Hahaha! I'll beat 'em to a pulp!"
     }, 
     {
         "ColumnName": "message", 
@@ -1791,6 +2086,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003016018, 
+        "Text": "Let's finish this right away!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003016019, 
+        "Text": "I know that!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003016020, 
+        "Text": "Heheheh, I'm ready for you now!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003016021, 
+        "Text": "I'll face them!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003017001, 
         "Text": "Is that all right, Gabiru?"
     }, 
@@ -1848,6 +2163,26 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 4003017012, 
         "Text": "Great Rimuru!\nLend me your strength!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003017013, 
+        "Text": "Let's finish this."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003017014, 
+        "Text": "Leave it to me!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003017015, 
+        "Text": "Let's slay them all!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003017016, 
+        "Text": "We must attack as one."
     }, 
     {
         "ColumnName": "message", 
@@ -2001,6 +2336,26 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003018031, 
+        "Text": "Hmph, mustn't be careless.."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003018032, 
+        "Text": "Let's give this our all."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003018033, 
+        "Text": "Hmph, mustn't be careless.."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003018034, 
+        "Text": "Let's finish them!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003019001, 
         "Text": "Even a swordsmith can fight!"
     }, 
@@ -2022,12 +2377,32 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 4003019005, 
-        "Text": "Roger!"
+        "Text": "No problem!"
     }, 
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 4003019006, 
         "Text": "I'm not done just yet!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003019007, 
+        "Text": "You can rely on me!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003019008, 
+        "Text": "I'll show you what I can do."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003019009, 
+        "Text": "I'm not done just yet!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003019010, 
+        "Text": "No problem!"
     }, 
     {
         "ColumnName": "message", 
@@ -2331,6 +2706,86 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003024001, 
+        "Text": "Understood!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024002, 
+        "Text": "You got it!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024003, 
+        "Text": "It's thanks to this form you gifted me with."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024004, 
+        "Text": "Everything's accounted for."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024005, 
+        "Text": "Great Rimuru, a powerful enemy is coming!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024006, 
+        "Text": "Yeah!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024007, 
+        "Text": "I am aware."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024008, 
+        "Text": "Leave it to me."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024009, 
+        "Text": "Incredible power..."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024010, 
+        "Text": "I'll kill you all."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024011, 
+        "Text": "Strong enemy confirmed!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024012, 
+        "Text": "I'll help."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024013, 
+        "Text": "I'll kill you all."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024014, 
+        "Text": "I'll help."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024015, 
+        "Text": "Yeah!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003024016, 
+        "Text": "Understood!"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003025001, 
         "Text": "I'm fine, Teacher!"
     }, 
@@ -2478,5 +2933,425 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 4003026012, 
         "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028001, 
+        "Text": "I'm fully prepared."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028002, 
+        "Text": "Understood."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028003, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028004, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028005, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028006, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028007, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028008, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028009, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028010, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028011, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028012, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028013, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028014, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028015, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028016, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028017, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028018, 
+        "Text": "Seem that it's not over yet."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028019, 
+        "Text": "Bow down to the authority of Great Rimuru."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028020, 
+        "Text": "Please allow me!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028021, 
+        "Text": "You mean we'll be working together?!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028022, 
+        "Text": "I have no mercy to spare for an enemy."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028023, 
+        "Text": "I can do this with you."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028024, 
+        "Text": "Honestly."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028025, 
+        "Text": "I can handle this on my own."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028026, 
+        "Text": "Yes, I feel the same way."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028027, 
+        "Text": "We cannot lose..."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028028, 
+        "Text": "Allow me to help."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028029, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028030, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028031, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028032, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028033, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028034, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028035, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028036, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028037, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028038, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028039, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028040, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028041, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028042, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028043, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028044, 
+        "Text": "This shouldn't take long."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028045, 
+        "Text": "Quite impressive, Ranga."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028046, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028047, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028048, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028049, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028050, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028051, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028052, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028053, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028054, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028055, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028056, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028057, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028058, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028059, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028060, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028061, 
+        "Text": "I hope this one has a little backbone."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028062, 
+        "Text": "It should be no problem for the likes of us."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028063, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028064, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028065, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028066, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028067, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028068, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028069, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028070, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028071, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028072, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028073, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028074, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028075, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028076, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028077, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028078, 
+        "Text": "Let's keep going!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028079, 
+        "Text": "Please don't hold me back."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028080, 
+        "Text": "I suppose I could use some help."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028081, 
+        "Text": "What a letdown."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028082, 
+        "Text": "Hmph, there's more..."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028083, 
+        "Text": "All enemies shall fall."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003028084, 
+        "Text": "Hmph. Very well."
     }
 ]

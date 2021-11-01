@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "MasterSpecialBonusPcDetailGroupId": 1, 
+        "MasterSpecialBonusPcDetailId": 100100000001, 
+        "MasterSpecialBonusType": 1, 
+        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TargetMasterRewardGroupId": 802912400701
+    }
+]

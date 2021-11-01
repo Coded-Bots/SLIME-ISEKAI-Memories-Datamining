@@ -391,6 +391,21 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 3001000028, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000028, 
+        "Text": "Takahiro Sakurai"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000028, 
+        "Text": "An Arch Demon, the highest form of demon. In actuality, he is one of only seven Primal Demons in the world, the Black Progenitor."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 3001000501, 
         "Text": "Veldora Tempest"
     }, 
