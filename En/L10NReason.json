@@ -137,31 +137,51 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000128, 
-        "Text": "en_reason_N/A"
+        "Text": "An item rewarded for 500,000 downloads"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000129, 
-        "Text": "en_reason_N/A"
+        "Text": "An item rewarded for 1,000,000 downloads"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000130, 
-        "Text": "en_reason_N/A"
+        "Text": "An item rewarded for 1,500,000 downloads"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000131, 
-        "Text": "en_reason_N/A"
+        "Text": "An item rewarded for 2,000,000 downloads"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000132, 
-        "Text": "en_reason_N/A"
+        "Text": "An item for ranking No. 1 in store sales"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 803000000133, 
+        "Text": "An item rewarded for ranking No. 1 in store game sales"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000134, 
+        "Text": "This is a Hero's Jubilee total item reward"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000135, 
+        "Text": "Item received from a Japanese retweet campaign"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000136, 
+        "Text": "Item received from a Japanese Twitter submission campaign"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 803000000137, 
         "Text": "en_reason_N/A"
     }, 
     {

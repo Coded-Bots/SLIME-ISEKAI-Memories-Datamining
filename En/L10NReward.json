@@ -17518,5 +17518,35 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000236, 
         "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000237, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000238, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000239, 
+        "Text": "Jura Lumber"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000240, 
+        "Text": "Mined Stones"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000241, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000242, 
+        "Text": "Recruit Ticket"
     }
 ]
