@@ -6,7 +6,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150001, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shion/ShionDefault/ShionDefault", 
@@ -15,7 +15,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150002, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/DemonLordGeld/DemonLordGeldDefault/DemonLordGeldDefault", 
@@ -24,7 +24,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000250001, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gobta/GobtaDefault/GobtaDefault", 
@@ -33,7 +33,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140001, 
         "OffsetXForDetail": 1.2000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Soei/SoeiDefault/SoeiDefault", 
@@ -42,7 +42,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150004, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Rigurd/RigurdDefault/RigurdDefault", 
@@ -51,7 +51,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000130001, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault", 
@@ -60,7 +60,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150005, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ranga/RangaDefault/RangaDefault", 
@@ -69,7 +69,7 @@
         "IsHitEffectRoot": true, 
         "MasterEnemyMaterialId": 20000150006, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ifrit/IfritDefault/IfritDefault", 
@@ -78,7 +78,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000250003, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/RimuruSlime/RimuruSlimeDefault/RimuruSlimeDefault", 
@@ -87,7 +87,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140002, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shizu/ShizuDefault/ShizuDefault", 
@@ -96,7 +96,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150007, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Charybdis/CharybdisDefault/CharybdisDefault", 
@@ -105,7 +105,7 @@
         "IsHitEffectRoot": true, 
         "MasterEnemyMaterialId": 20000250004, 
         "OffsetXForDetail": 6.5, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/OrcSoldier/OrcSoldierDefault/OrcSoldierDefault", 
@@ -114,7 +114,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300015, 
         "OffsetXForDetail": 1.2000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntDefault/GiantAntDefault", 
@@ -123,7 +123,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300016, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gabiru/GabiruDefault/GabiruDefault", 
@@ -132,7 +132,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140003, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Yuuki/YuukiDefault/YuukiDefault", 
@@ -141,7 +141,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140004, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shuna/ShunaDefault/ShunaDefault", 
@@ -150,7 +150,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150008, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/OrcSoldier/OrcSoldierDefault/OrcSoldierDefault", 
@@ -159,7 +159,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140005, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/OrcGeneral/OrcGeneralDefault/OrcGeneralDefault", 
@@ -168,7 +168,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300023, 
         "OffsetXForDetail": 1.600000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/HooliganA/HooliganADefault/HooliganADefault", 
@@ -177,7 +177,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300024, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/HooliganB/HooliganBDefault/HooliganBDefault", 
@@ -186,7 +186,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300025, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ranga/RangaDirewolves/RangaDirewolves", 
@@ -195,7 +195,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300026, 
         "OffsetXForDetail": 1.25, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ranga/RangaDirewolvesBoss/RangaDirewolvesBoss", 
@@ -204,7 +204,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300198, 
         "OffsetXForDetail": 1.25, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Milim/MilimDefault/MilimDefault", 
@@ -213,7 +213,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150010, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Alice/AliceDefault/AliceDefault", 
@@ -222,7 +222,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000130002, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Hakuro/HakuroDefault/HakuroDefault", 
@@ -231,7 +231,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150011, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderDefault/KnightSpiderDefault", 
@@ -240,7 +240,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300031, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gelmud/GelmudDefault/GelmudDefault", 
@@ -249,7 +249,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140007, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatGold/GiantBatGold", 
@@ -258,7 +258,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300033, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatSilver/GiantBatSilver", 
@@ -267,7 +267,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300034, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Kenya/KenyaDefault/KenyaDefault", 
@@ -276,7 +276,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000130003, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Chloe/ChloeDefault/ChloeDefault", 
@@ -285,7 +285,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140008, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Benimaru/BenimaruBefore/BenimaruBefore", 
@@ -294,7 +294,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140009, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Soei/SoeiBefore/SoeiBefore", 
@@ -303,7 +303,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140010, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Megalodon/MegalodonDefault/MegalodonDefault", 
@@ -312,7 +312,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300039, 
         "OffsetXForDetail": 2.0999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Geld/GeldDefault/GeldDefault", 
@@ -321,7 +321,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140011, 
         "OffsetXForDetail": 1.399999976158142, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatDefault/GiantBatDefault", 
@@ -330,7 +330,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300041, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/ElementalColossus/ElementalColossusDefault/ElementalColossusDefault", 
@@ -339,7 +339,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000250006, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ranga/RangaBefore/RangaBefore", 
@@ -348,7 +348,7 @@
         "IsHitEffectRoot": true, 
         "MasterEnemyMaterialId": 20000140012, 
         "OffsetXForDetail": 1.25, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ryota/RyotaDefault/RyotaDefault", 
@@ -357,7 +357,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000130004, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Cynthia/CynthiaDefault/CynthiaDefault", 
@@ -366,7 +366,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300077, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Cynthia/CynthiaPinkHair/CynthiaPinkHair", 
@@ -375,7 +375,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300164, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Hinata/HinataEnemy01/HinataEnemy01", 
@@ -384,7 +384,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300242, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Phobio/PhobioDefault/PhobioDefault", 
@@ -393,7 +393,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140013, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shion/ShionBefore/ShionBefore", 
@@ -402,7 +402,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140014, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Hakuro/HakuroBefore/HakuroBefore", 
@@ -411,7 +411,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140015, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gabiru/GabiruBefore/GabiruBefore", 
@@ -420,7 +420,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300054, 
         "OffsetXForDetail": 1.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/SkyDragon/SkyDragonDefault/SkyDragonDefault", 
@@ -429,7 +429,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000240002, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Salamander/SalamanderDefault/SalamanderDefault", 
@@ -438,7 +438,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000240003, 
         "OffsetXForDetail": 2.299999952316284, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Kurobei/KurobeiBefore/KurobeiBefore", 
@@ -447,7 +447,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000130005, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shuna/ShunaBefore/ShunaBefore", 
@@ -456,7 +456,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140016, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gail/GailDefault/GailDefault", 
@@ -465,7 +465,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000130006, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shion/ShionBeforeAnother/ShionBeforeAnother", 
@@ -474,7 +474,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300066, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Charybdis/CharybdisAnother/CharybdisAnother", 
@@ -483,7 +483,7 @@
         "IsHitEffectRoot": true, 
         "MasterEnemyMaterialId": 20000300067, 
         "OffsetXForDetail": 6.5, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Phobio/PhobioAnother/PhobioAnother", 
@@ -492,7 +492,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300068, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/DemonLordGeld/DemonLordGeldAnother/DemonLordGeldAnother", 
@@ -501,7 +501,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300069, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ifrit/IfritAnother/IfritAnother", 
@@ -510,7 +510,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300049, 
         "OffsetXForDetail": 1.899999976158142, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gobta/GobtaAnother/GobtaAnother", 
@@ -519,7 +519,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300047, 
         "OffsetXForDetail": 1.2000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Ranga/RangaBeforeAnother/RangaBeforeAnother", 
@@ -528,7 +528,7 @@
         "IsHitEffectRoot": true, 
         "MasterEnemyMaterialId": 20000300048, 
         "OffsetXForDetail": 1.25, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Gabiru/GabiruAnother/GabiruAnother", 
@@ -537,7 +537,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300050, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Armorsaurus/ArmorsaurusLargeSize/ArmorsaurusLargeSize", 
@@ -546,7 +546,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300244, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Soldier/SoldierDefault/SoldierDefault", 
@@ -555,7 +555,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300158, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Sorcerer/SorcererDefault/SorcererDefault", 
@@ -564,7 +564,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300176, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Armorsaurus/ArmorsaurusDefault/ArmorsaurusDefault", 
@@ -573,7 +573,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300202, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GhostMushroom/GhostMushroomDefault/GhostMushroomDefault", 
@@ -582,7 +582,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300203, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/BlackSerpent/BlackSerpentDefault/BlackSerpentDefault", 
@@ -591,7 +591,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300116, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/BlackSpider/BlackSpiderDefault/BlackSpiderDefault", 
@@ -600,7 +600,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300118, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/EvilCentipede/EvilCentipedeDefault/EvilCentipedeDefault", 
@@ -609,7 +609,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300117, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/EvilCentipede/EvilCentipedeLargeSize/EvilCentipedeLargeSize", 
@@ -618,7 +618,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300243, 
         "OffsetXForDetail": 3.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Rimuru/RimuruOriginalCostumeShortSleeve/RimuruOriginalCostumeShortSleeve", 
@@ -627,7 +627,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000140018, 
         "OffsetXForDetail": 1.100000023841858, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Rimuru/RimuruDefault/RimuruDefault", 
@@ -636,7 +636,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000150015, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntEarthAttribute/GiantAntEarthAttribute", 
@@ -645,7 +645,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300177, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntAirAttribute/GiantAntAirAttribute", 
@@ -654,7 +654,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300178, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntWindAttribute/GiantAntWindAttribute", 
@@ -663,7 +663,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300179, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntWaterAttribute/GiantAntWaterAttribute", 
@@ -672,7 +672,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300180, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntFireAttribute/GiantAntFireAttribute", 
@@ -681,7 +681,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300181, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntHolyAttribute/GiantAntHolyAttribute", 
@@ -690,7 +690,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300182, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantAnt/GiantAntDarkAttribute/GiantAntDarkAttribute", 
@@ -699,7 +699,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300183, 
         "OffsetXForDetail": 1.7000000476837158, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatEarthAttribute/GiantBatEarthAttribute", 
@@ -708,7 +708,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300184, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatAirAttribute/GiantBatAirAttribute", 
@@ -717,7 +717,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300185, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatWindAttribute/GiantBatWindAttribute", 
@@ -726,7 +726,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300186, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatWaterAttribute/GiantBatWaterAttribute", 
@@ -735,7 +735,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300187, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatFireAttribute/GiantBatFireAttribute", 
@@ -744,7 +744,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300188, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatHolyAttribute/GiantBatHolyAttribute", 
@@ -753,7 +753,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300189, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GiantBat/GiantBatDarkAttribute/GiantBatDarkAttribute", 
@@ -762,7 +762,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300190, 
         "OffsetXForDetail": 2.4000000953674316, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderEarthAttribute/KnightSpiderEarthAttribute", 
@@ -771,7 +771,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300191, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderAirAttribute/KnightSpiderAirAttribute", 
@@ -780,7 +780,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300192, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderWindAttribute/KnightSpiderWindAttribute", 
@@ -789,7 +789,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300193, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderWaterAttribute/KnightSpiderWaterAttribute", 
@@ -798,7 +798,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300194, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderFireAttribute/KnightSpiderFireAttribute", 
@@ -807,7 +807,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300195, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderHolyAttribute/KnightSpiderHolyAttribute", 
@@ -816,7 +816,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300196, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/KnightSpider/KnightSpiderDarkAttribute/KnightSpiderDarkAttribute", 
@@ -825,7 +825,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300197, 
         "OffsetXForDetail": 2.5999999046325684, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GhostMushroom/GhostMushroomEarthAttribute/GhostMushroomEarthAttribute", 
@@ -834,7 +834,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300246, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GhostMushroom/GhostMushroomWindAttribute/GhostMushroomWindAttribute", 
@@ -843,7 +843,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300248, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GhostMushroom/GhostMushroomWaterAttribute/GhostMushroomWaterAttribute", 
@@ -852,7 +852,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300249, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GhostMushroom/GhostMushroomFireAttribute/GhostMushroomFireAttribute", 
@@ -861,7 +861,7 @@
         "IsHitEffectRoot": false, 
         "MasterEnemyMaterialId": 20000300250, 
         "OffsetXForDetail": 2.0, 
-        "ReleaseLabeloffset": ""
+        "ReleaseLabeloffset": "initial"
     }, 
     {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Charybdis/CharybdisHolyAttribute/CharybdisHolyAttribute", 

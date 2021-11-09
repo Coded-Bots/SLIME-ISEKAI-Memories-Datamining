@@ -5460,61 +5460,61 @@
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_27_1", 
+        "Labeloffset": "field_400001407_1_31_1", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100271, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_27_2", 
+        "Labeloffset": "field_400001407_1_31_2", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100272, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_31_1", 
+        "Labeloffset": "field_400001407_1_35_1", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100311, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_31_2", 
+        "Labeloffset": "field_400001407_1_35_2", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100312, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_36_1", 
+        "Labeloffset": "field_400001407_1_40_1", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100361, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_36_2", 
+        "Labeloffset": "field_400001407_1_40_2", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100362, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_41_1", 
+        "Labeloffset": "field_400001407_1_45_1", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100411, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_41_2", 
+        "Labeloffset": "field_400001407_1_45_2", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100412, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_7_1", 
+        "Labeloffset": "field_400001407_1_8_1", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100071, 
         "ReleaseLabeloffset": ""
     }, 
     {
-        "Labeloffset": "field_400001407_1_7_2", 
+        "Labeloffset": "field_400001407_1_8_2", 
         "LuaScriptFileNameoffset": "field_400001407_1", 
         "MasterLuaScriptTextId": 30122100072, 
         "ReleaseLabeloffset": ""
@@ -44400,6 +44400,210 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "Labeloffset": "event_01_13_27_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200271, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_27_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200272, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_32_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200321, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_32_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200322, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_36_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200361, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_36_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200362, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_42_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200421, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_42_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200422, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_58_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200581, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_58_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200582, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_63_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200631, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_63_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200632, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_68_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200681, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_68_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200682, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_73_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200731, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_73_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200732, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_78_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200781, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_78_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200782, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_91_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200911, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_91_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200912, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_97_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200971, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_97_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122200972, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_111_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201111, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_111_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201112, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_115_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201151, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_115_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201152, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_120_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_120_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_125_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201251, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_125_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201252, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_130_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201301, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_130_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201302, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_139_1", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201391, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "event_01_13_139_2", 
+        "LuaScriptFileNameoffset": "event_01_13", 
+        "MasterLuaScriptTextId": 30122201392, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
         "Labeloffset": "Home_talk_GazelDwargo02_21_1", 
         "LuaScriptFileNameoffset": "Home_talk_GazelDwargo02", 
         "MasterLuaScriptTextId": 30052500211, 
@@ -79857,6 +80061,30 @@
         "Labeloffset": "chara_Milim_03_end_24_2", 
         "LuaScriptFileNameoffset": "chara_Milim_03_end", 
         "MasterLuaScriptTextId": 30031900242, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "sage_answer_event_ep_ranking_7_1", 
+        "LuaScriptFileNameoffset": "sage_answer_event_ep_ranking", 
+        "MasterLuaScriptTextId": 30122300071, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "sage_answer_event_ep_ranking_7_2", 
+        "LuaScriptFileNameoffset": "sage_answer_event_ep_ranking", 
+        "MasterLuaScriptTextId": 30122300072, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "sage_answer_event_ep_ranking_10_1", 
+        "LuaScriptFileNameoffset": "sage_answer_event_ep_ranking", 
+        "MasterLuaScriptTextId": 30122300101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "sage_answer_event_ep_ranking_10_2", 
+        "LuaScriptFileNameoffset": "sage_answer_event_ep_ranking", 
+        "MasterLuaScriptTextId": 30122300102, 
         "ReleaseLabeloffset": ""
     }, 
     {

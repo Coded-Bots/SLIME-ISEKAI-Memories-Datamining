@@ -16,5 +16,11 @@
         "MasterOgcLotteryShopId": 500000005, 
         "MasterPcId": 250009, 
         "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "MasterLotterySkillId": 509000007, 
+        "MasterOgcLotteryShopId": 500000020, 
+        "MasterPcId": 150024, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
     }
 ]

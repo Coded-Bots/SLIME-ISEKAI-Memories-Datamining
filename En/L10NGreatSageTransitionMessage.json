@@ -7,7 +7,7 @@
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000002, 
-        "Text": "Take on {0}?"
+        "Text": "Take on \"{0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 
@@ -17,12 +17,12 @@
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000004, 
-        "Text": "Awaken individual {1} {0}?"
+        "Text": "Awaken individual \"{1} {0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000005, 
-        "Text": "Level up individual {1} {0}?"
+        "Text": "Level up individual \"{1} {0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 
@@ -32,17 +32,17 @@
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000007, 
-        "Text": "Take on {0}?"
+        "Text": "Take on \"{0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000008, 
-        "Text": "Take on Predator quest {0}?"
+        "Text": "Take on Predator quest \"{0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000009, 
-        "Text": "Take on {0}?"
+        "Text": "Take on \"{0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 
@@ -52,7 +52,7 @@
     {
         "ColumnName": "transition_message", 
         "LocalizationTargetId": 307000011, 
-        "Text": "Take on {0}?"
+        "Text": "Take on \"{0}\"?"
     }, 
     {
         "ColumnName": "transition_message", 

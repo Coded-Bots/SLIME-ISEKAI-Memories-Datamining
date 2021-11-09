@@ -4992,6 +4992,19 @@
         "ValueType": 1
     }, 
     {
+        "AiCompareType": 0, 
+        "AiTermConditionEffectType": 0, 
+        "AiTermJudgeCharacterType": 0, 
+        "AiTermParameterType": 0, 
+        "AiTermType": 4, 
+        "CompareValue": 2, 
+        "MasterAiTermGroupId": 3309, 
+        "MasterAiTermId": 2006300337, 
+        "OccurrenceRate": 10000, 
+        "ReleaseLabeloffset": "", 
+        "ValueType": 1
+    }, 
+    {
         "AiCompareType": 2, 
         "AiTermConditionEffectType": 6, 
         "AiTermJudgeCharacterType": 0, 

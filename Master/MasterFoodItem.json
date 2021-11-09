@@ -8,35 +8,35 @@
         "MaxLimit": 99999, 
         "Name": 85899346052, 
         "Rarity": 1, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 20, 
         "Value2": 0, 
         "Value3": 0
     }, 
     {
-        "Description": 112, 
+        "Description": 120, 
         "Gold": 15, 
         "IconPathoffset": "Image/Item/FoodItem/1400002/food_item_1400002_Item{0}", 
         "Locationoffset": "101", 
         "MasterFoodItemId": 1400002, 
         "MaxLimit": 99999, 
-        "Name": 128849019008, 
+        "Name": 128849019016, 
         "Rarity": 2, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 30, 
         "Value2": 0, 
         "Value3": 0
     }, 
     {
-        "Description": 112, 
+        "Description": 120, 
         "Gold": 20, 
         "IconPathoffset": "Image/Item/FoodItem/1400003/food_item_1400003_Item{0}", 
         "Locationoffset": "101", 
         "MasterFoodItemId": 1400003, 
         "MaxLimit": 99999, 
-        "Name": 154618822784, 
+        "Name": 154618822792, 
         "Rarity": 3, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 36, 
         "Value2": 0, 
         "Value3": 0
@@ -50,7 +50,7 @@
         "MaxLimit": 99999, 
         "Name": 85899346052, 
         "Rarity": 1, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 20, 
         "Value2": 0, 
         "Value3": 0
@@ -64,7 +64,7 @@
         "MaxLimit": 99999, 
         "Name": 128849019012, 
         "Rarity": 2, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 30, 
         "Value2": 0, 
         "Value3": 0
@@ -78,7 +78,7 @@
         "MaxLimit": 99999, 
         "Name": 154618822788, 
         "Rarity": 3, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 36, 
         "Value2": 0, 
         "Value3": 0
@@ -92,7 +92,7 @@
         "MaxLimit": 99999, 
         "Name": 85899346052, 
         "Rarity": 1, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 20, 
         "Value2": 0, 
         "Value3": 0
@@ -106,7 +106,7 @@
         "MaxLimit": 99999, 
         "Name": 128849019012, 
         "Rarity": 2, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 30, 
         "Value2": 0, 
         "Value3": 0
@@ -120,7 +120,7 @@
         "MaxLimit": 99999, 
         "Name": 154618822788, 
         "Rarity": 3, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 36, 
         "Value2": 0, 
         "Value3": 0
@@ -134,7 +134,7 @@
         "MaxLimit": 99999, 
         "Name": 85899346052, 
         "Rarity": 1, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 20, 
         "Value2": 0, 
         "Value3": 0
@@ -148,7 +148,7 @@
         "MaxLimit": 99999, 
         "Name": 128849019012, 
         "Rarity": 2, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 30, 
         "Value2": 0, 
         "Value3": 0
@@ -162,7 +162,7 @@
         "MaxLimit": 99999, 
         "Name": 154618822788, 
         "Rarity": 3, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 36, 
         "Value2": 0, 
         "Value3": 0
@@ -176,7 +176,7 @@
         "MaxLimit": 99999, 
         "Name": 85899346052, 
         "Rarity": 1, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 20, 
         "Value2": 0, 
         "Value3": 0
@@ -190,7 +190,7 @@
         "MaxLimit": 99999, 
         "Name": 128849019012, 
         "Rarity": 2, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 30, 
         "Value2": 0, 
         "Value3": 0
@@ -204,7 +204,7 @@
         "MaxLimit": 99999, 
         "Name": 154618822788, 
         "Rarity": 3, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 36, 
         "Value2": 0, 
         "Value3": 0
@@ -218,7 +218,7 @@
         "MaxLimit": 99999, 
         "Name": 154618822788, 
         "Rarity": 3, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "Value1": 36, 
         "Value2": 0, 
         "Value3": 0

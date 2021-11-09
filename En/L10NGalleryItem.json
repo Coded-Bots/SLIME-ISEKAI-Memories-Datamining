@@ -13,5 +13,10 @@
         "ColumnName": "name", 
         "LocalizationTargetId": 2500003, 
         "Text": "Rimuru showing Diablo around town"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2500005, 
+        "Text": "Veldora receives advice from Ifrit"
     }
 ]

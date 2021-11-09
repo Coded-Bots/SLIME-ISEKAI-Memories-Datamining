@@ -663,5 +663,43 @@
         "ReleaseLabeloffset": "202111_event_ministory_diablo", 
         "SageQuestStillImagePathoffset": "", 
         "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2002/Top_Banner_L"
+    }, 
+    {
+        "BannerImagePathoffset": "", 
+        "CampaignLabelTextoffset": "", 
+        "ChapterType": 5, 
+        "ChapterUnlockCondition": 0, 
+        "ChapterUnlockConditionValue": 0, 
+        "ClearCountLimit": 0, 
+        "ClearCountLimitResetType": 0, 
+        "DifficultyUnlockBehavior": 1, 
+        "MasterChapterId": 4001002003, 
+        "MasterCharacterId": 0, 
+        "MasterReleaseId": 50000002016, 
+        "Name": 164, 
+        "Number": 1, 
+        "QuestsUnlockBehavior": 1, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora", 
+        "SageQuestStillImagePathoffset": "", 
+        "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2003/StoryEvent_2003_M_top"
+    }, 
+    {
+        "BannerImagePathoffset": "", 
+        "CampaignLabelTextoffset": "", 
+        "ChapterType": 5, 
+        "ChapterUnlockCondition": 0, 
+        "ChapterUnlockConditionValue": 0, 
+        "ClearCountLimit": 0, 
+        "ClearCountLimitResetType": 0, 
+        "DifficultyUnlockBehavior": 1, 
+        "MasterChapterId": 4001002005, 
+        "MasterCharacterId": 0, 
+        "MasterReleaseId": 50000002046, 
+        "Name": 152, 
+        "Number": 5, 
+        "QuestsUnlockBehavior": 1, 
+        "ReleaseLabeloffset": "202111_event_mini_kakusei", 
+        "SageQuestStillImagePathoffset": "", 
+        "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2005/Top_Banner_L"
     }
 ]

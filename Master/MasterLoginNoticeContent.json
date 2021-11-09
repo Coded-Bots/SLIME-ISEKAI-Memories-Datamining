@@ -50,5 +50,57 @@
         "NovelFilePathoffset": "", 
         "Priority": 1, 
         "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000203, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000002, 
+        "MovieFilePathoffset": "Movie/Lottery/lottery_c003_02.usm", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 3, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000202, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000002, 
+        "MovieFilePathoffset": "Movie/SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 2, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000201, 
+        "ImageFilePathoffset": "Image/LotteryInfo/500000020/LotteryLoginNotice_500000020", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000002, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000301, 
+        "ImageFilePathoffset": "Image/Campaign/100000024/CampaignLoginNotice_100000024", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000003, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_campaign_release_banner2"
     }
 ]

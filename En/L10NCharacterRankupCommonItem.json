@@ -451,6 +451,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 90150024, 
+        "Text": "Veldora Tempest, the Seal Releaser Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150024, 
+        "Text": "An item necessary in awakening Veldora Tempest, the Seal Releaser."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 90150033, 
         "Text": "Milim Nava, the Proud Dragon Demon Lord Memory Stone"
     }, 

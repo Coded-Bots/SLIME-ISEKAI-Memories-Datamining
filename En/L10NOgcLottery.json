@@ -108,5 +108,25 @@
         "ColumnName": "badge_text", 
         "LocalizationTargetId": 501000016, 
         "Text": "5\u2605 Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000021, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000021, 
+        "Text": "One 4\u2605+ Character Guaranteed"
     }
 ]

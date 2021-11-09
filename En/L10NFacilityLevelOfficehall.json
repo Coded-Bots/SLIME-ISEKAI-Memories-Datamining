@@ -2,7 +2,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110101, 
-        "Text": "Increases Max Population to: <color=#2be41d>80</color> Increases Collect All Amount to: <color=#2be41d>300</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>300</color> Increases Collect All Amount to: <color=#2be41d>80</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -12,7 +12,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110102, 
-        "Text": "Increases Max Population to: <color=#2be41d>200</color> Increases Collect All Amount to: <color=#2be41d>1900</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>1900</color> Increases Collect All Amount to: <color=#2be41d>200</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -32,7 +32,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110104, 
-        "Text": "Increases Max Population to: <color=#2be41d>300</color> Increases Collect All Amount to: <color=#2be41d>6100</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>6100</color> Increases Collect All Amount to: <color=#2be41d>300</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -42,7 +42,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110105, 
-        "Text": "Increases Max Population to: <color=#2be41d>350</color> Increases Collect All Amount to: <color=#2be41d>9900</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>9900</color> Increases Collect All Amount to: <color=#2be41d>350</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -52,7 +52,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110106, 
-        "Text": "Increases Max Population to: <color=#2be41d>400</color> Increases Collect All Amount to: <color=#2be41d>14100</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>14100</color> Increases Collect All Amount to: <color=#2be41d>400</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -62,7 +62,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110107, 
-        "Text": "Increases Max Population to: <color=#2be41d>500</color> Increases Collect All Amount to: <color=#2be41d>20100</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>20100</color> Increases Collect All Amount to: <color=#2be41d>500</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -72,7 +72,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110108, 
-        "Text": "Increases Max Population to: <color=#2be41d>600</color> Increases Collect All Amount to: <color=#2be41d>30100</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>30100</color> Increases Collect All Amount to: <color=#2be41d>600</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -82,7 +82,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110109, 
-        "Text": "Increases Max Population to: <color=#2be41d>700</color> Increases Collect All Amount to: <color=#2be41d>40100</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>40100</color> Increases Collect All Amount to: <color=#2be41d>700</color>"
     }, 
     {
         "ColumnName": "display_name", 
@@ -92,7 +92,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 403110110, 
-        "Text": "Increases Max Population to: <color=#2be41d>800</color> Increases Collect All Amount to: <color=#2be41d>999999999</color>"
+        "Text": "Increases Max Population to: <color=#2be41d>999999999</color> Increases Collect All Amount to: <color=#2be41d>800</color>"
     }, 
     {
         "ColumnName": "display_name", 

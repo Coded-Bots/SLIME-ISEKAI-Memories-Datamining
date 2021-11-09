@@ -113,5 +113,10 @@
         "ColumnName": "lottery_message", 
         "LocalizationTargetId": 510000024, 
         "Text": "If we're talking loyalty to Great Rimuru, I'm as loyal as any of you!"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000026, 
+        "Text": "GAHAHAHA! I, VELDA, THE STORM DRAGON, LIVE AGAIN!"
     }
 ]

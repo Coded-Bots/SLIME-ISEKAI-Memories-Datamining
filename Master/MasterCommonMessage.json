@@ -588,5 +588,10 @@
         "DefineNameoffset": "ItemExchange.Rigurd.Before.Welcome", 
         "MasterCommonMessageId": 808000120, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "", 
+        "MasterCommonMessageId": 0, 
+        "ReleaseLabeloffset": ""
     }
 ]

@@ -721,6 +721,22 @@
     }, 
     {
         "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "VeldoraHumanoid_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915002401, 
+        "MasterPcId": 150024, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "VeldoraHumanoid_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "VeldoraHumanoid_passive_30", 
+        "MasterPcArousalSkillId": 3915002403, 
+        "MasterPcId": 150024, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ArousalCount": 1, 
         "ConditionPassiveSkillLabeloffset": "MilimDemonLordCostume_passive_30", 
         "InvalidPassiveSkillLabeloffset": "", 
         "MasterPcArousalSkillId": 3915003301, 

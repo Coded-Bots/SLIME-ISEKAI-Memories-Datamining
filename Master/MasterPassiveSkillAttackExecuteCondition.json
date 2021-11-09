@@ -3,7 +3,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_ATTACK_START_BATTLE_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000019, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -12,7 +12,7 @@
         "Compare": 3, 
         "Labeloffset": "PASSIVE_ATTACK_START_BATTLE_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000020, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 1
@@ -21,7 +21,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_ATTACK_START_BATTLE_PARTYCOUNT_3_ORHIGHER_TURN_\uff13_ORLOWER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000022, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -30,7 +30,7 @@
         "Compare": 2, 
         "Labeloffset": "PASSIVE_ATTACK_START_BATTLE_PARTYCOUNT_3_ORHIGHER_TURN_\uff13_ORLOWER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000023, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 3
@@ -39,7 +39,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_ATTACK_TURNS_BY_4_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000025, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -48,7 +48,7 @@
         "Compare": 4, 
         "Labeloffset": "PASSIVE_ATTACK_TURNS_BY_4_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000026, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 4
@@ -57,7 +57,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_ATTACK_TURNS_BY_3_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000028, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -66,7 +66,7 @@
         "Compare": 4, 
         "Labeloffset": "PASSIVE_ATTACK_TURNS_BY_3_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillAttackExecuteConditionId": 20900000000029, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 3

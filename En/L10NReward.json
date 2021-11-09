@@ -6796,7 +6796,587 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811800000216, 
+        "Text": "Fierce Attack Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000217, 
+        "Text": "Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000218, 
+        "Text": "Soul Reincarnation Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000219, 
+        "Text": "Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000220, 
+        "Text": "Fierce Attack Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000221, 
+        "Text": "Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000222, 
+        "Text": "Soul Reincarnation Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000223, 
+        "Text": "Body and Spirit Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811200000001, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000002, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000003, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000004, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000005, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000006, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000007, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000008, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000009, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000010, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000011, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000012, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000013, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000014, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000015, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000016, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000017, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000018, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000019, 
+        "Text": "Intelligence Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000020, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000021, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000022, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000023, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000024, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000025, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000026, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000027, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000028, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000029, 
+        "Text": "Intelligence Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000030, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000031, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000032, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000033, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000034, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000035, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000036, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000037, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000038, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000039, 
+        "Text": "Intelligence Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000201, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000202, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000203, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000204, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000205, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000206, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000207, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000208, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000209, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000210, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000211, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000212, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000213, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000214, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000215, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000216, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000217, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000218, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000219, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000220, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000221, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000222, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000223, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000224, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000225, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000226, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000227, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000228, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000229, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000230, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000231, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000232, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000233, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000234, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000235, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000236, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000237, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000238, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000239, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000240, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000241, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000242, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000243, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000244, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000245, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000246, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000247, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000248, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000249, 
+        "Text": "Intelligence Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000250, 
+        "Text": "Intelligence Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000251, 
+        "Text": "Intelligence Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000252, 
+        "Text": "Intelligence Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000253, 
+        "Text": "Intelligence Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000254, 
+        "Text": "Intelligence Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000255, 
+        "Text": "Intelligence Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000256, 
+        "Text": "Intelligence Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000257, 
+        "Text": "Intelligence Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000258, 
+        "Text": "Intelligence Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000259, 
+        "Text": "Intelligence Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000260, 
+        "Text": "Intelligence Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000301, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000302, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000303, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000304, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000305, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000306, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000307, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000308, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000309, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000310, 
         "Text": "Magicrystal"
     }, 
     {
@@ -8043,6 +8623,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811500000249, 
         "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000250, 
+        "Text": "Veldora, the Seal Releaser Recruit Selection Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000251, 
+        "Text": "Veldora, the Seal Releaser Recruit Selection Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000252, 
+        "Text": "Stamina"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000253, 
+        "Text": "Perfect Workmanship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000254, 
+        "Text": "Perfect Technique"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000255, 
+        "Text": "Perfect Striking"
     }, 
     {
         "ColumnName": "description", 
@@ -12011,6 +12621,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811900150024, 
+        "Text": "Veldora Tempest, the Seal Releaser"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811900230001, 
         "Text": "Butterflies of the Night Owner, the Bewitching Shopkeeper"
     }, 
@@ -12242,7 +12857,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811620000015, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Enhancement"
     }, 
     {
         "ColumnName": "description", 
@@ -16126,6 +16741,101 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811712400748, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400749, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400750, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400751, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400752, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400753, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400754, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400755, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400756, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400757, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400758, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400759, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400760, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400761, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400762, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400763, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400764, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400765, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811712400766, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811721700101, 
         "Text": "Magicule"
     }, 
@@ -16153,6 +16863,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811722300301, 
         "Text": "Perfect Striking"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722301901, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722302001, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722302201, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811722302301, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
     }, 
     {
         "ColumnName": "description", 
@@ -16186,6 +16916,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811722500501, 
+        "Text": "Veldora receives advice from Ifrit"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811723000101, 
         "Text": "Magicrystal"
     }, 
@@ -16216,6 +16951,16 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811723000107, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811729012201, 
+        "Text": "Milim Nava, the Delighter in Everyday Life Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811732300101, 
         "Text": "Perfect Workmanship"
     }, 
@@ -16242,6 +16987,16 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732300203, 
+        "Text": "Perfect Technique"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732300204, 
+        "Text": "Perfect Technique"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732300205, 
         "Text": "Perfect Technique"
     }, 
     {
@@ -16291,6 +17046,16 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811732302004, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302005, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811732302101, 
         "Text": "Benimaru, the Crimson Ogre Warrior Strong Defense Superempowerment"
     }, 
@@ -16307,47 +17072,62 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302201, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Enhancement"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302202, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Enhancement"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302203, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Enhancement"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Enhancement"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302301, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Empowerment"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302302, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Empowerment"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302303, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Empowerment"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302304, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811732302305, 
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Empowerment"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302401, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Superempowerment"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Superempowerment"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302402, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Superempowerment"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Superempowerment"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811732302403, 
-        "Text": "Benimaru, the Crimson Ogre Warrior Fierce Attack Superempowerment"
+        "Text": "Benimaru, the Crimson Ogre Warrior Body and Spirit Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811735050901, 
+        "Text": "Veldora, the Seal Releaser Recruit Selection Ticket"
     }, 
     {
         "ColumnName": "description", 

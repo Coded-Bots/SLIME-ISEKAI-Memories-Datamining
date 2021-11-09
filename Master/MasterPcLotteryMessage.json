@@ -159,5 +159,12 @@
         "MoviePathoffset": "sys/ShionSecretary/voice_sys_shion_061_gacha", 
         "ReleaseLabeloffset": "Movie/BlessSkill/ShionSecretary_Battle_BlessSkill/ShionSecretary_Battle_BlessSkill.usm", 
         "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150024, 
+        "MasterPcLotteryMessageId": 510000026, 
+        "MoviePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_037_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
     }
 ]

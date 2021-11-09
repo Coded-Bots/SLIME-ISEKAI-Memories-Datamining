@@ -42,17 +42,17 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 809000009, 
-        "Text": "Unlock by clearing the Story Quest Chapter 1."
+        "Text": "Unlock by clearing the Story Quest \"Chapter 1\"."
     }, 
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 809000010, 
-        "Text": "Unlock by clearing quest difficulty Beginner."
+        "Text": "Unlock by clearing quest difficulty \"Beginner\"."
     }, 
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 809000011, 
-        "Text": "Unlock by clearing quest difficulty Normal."
+        "Text": "Unlock by clearing quest difficulty \"Normal\"."
     }, 
     {
         "ColumnName": "message", 

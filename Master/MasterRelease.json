@@ -176,9 +176,41 @@
         "ReleaseLabeloffset": "202111_lottery_akuma1_exchange"
     }, 
     {
-        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001016, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001017, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_ticket"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001018, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001019, 
+        "OpenAtoffset": "2021/11/30 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/09 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001021, 
         "OpenAtoffset": "", 
         "Region": 15, 
         "ReleaseLabeloffset": "202110_lottery_release_anniversary"
@@ -186,7 +218,7 @@
     {
         "CloseAtoffset": "", 
         "IsLocal": false, 
-        "MasterReleaseId": 50000001020, 
+        "MasterReleaseId": 50000001022, 
         "OpenAtoffset": "2021/11/09 6:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202110_lottery_release_anniversary_exchange"
@@ -194,7 +226,7 @@
     {
         "CloseAtoffset": "2021/11/09 5:59:59", 
         "IsLocal": false, 
-        "MasterReleaseId": 50000001021, 
+        "MasterReleaseId": 50000001023, 
         "OpenAtoffset": "", 
         "Region": 15, 
         "ReleaseLabeloffset": "202110_lottery_once_a_day"
@@ -312,6 +344,46 @@
         "ReleaseLabeloffset": "202111_event_ministory_diablo"
     }, 
     {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002016, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002017, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/03 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002018, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002019, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora_mission_short"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002025, 
+        "OpenAtoffset": "2021/11/12 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_mini_kakusei"
+    }, 
+    {
         "CloseAtoffset": "2021/05/31 8:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000003001, 
@@ -392,6 +464,14 @@
         "ReleaseLabeloffset": "202111_campaign_release_banner"
     }, 
     {
+        "CloseAtoffset": "2021/11/29 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000010003, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_campaign_release_banner2"
+    }, 
+    {
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000011000, 
@@ -446,5 +526,13 @@
         "OpenAtoffset": "2019/12/31 15:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "common@shop_test_2021"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000099014, 
+        "OpenAtoffset": "2021/09/30 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "initial"
     }
 ]

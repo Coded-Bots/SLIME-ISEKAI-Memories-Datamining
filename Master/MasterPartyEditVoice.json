@@ -1632,6 +1632,54 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "ActingVoicePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_032_party", 
+        "LimitedMasterPcId": 150024, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050107, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_033_party", 
+        "LimitedMasterPcId": 150024, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050108, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_034_party", 
+        "LimitedMasterPcId": 150024, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050109, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_035_party", 
+        "LimitedMasterPcId": 150024, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050110, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_036_party", 
+        "LimitedMasterPcId": 150024, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050111, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_033_party", 
+        "LimitedMasterPcId": 150024, 
+        "MasterCharacterId": 3001000501, 
+        "MasterPartyEditVoiceId": 3012050112, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
         "ActingVoicePathoffset": "sys/orcdisaster/voice_sys_orcdisaster_002_communicate", 
         "LimitedMasterPcId": 0, 
         "MasterCharacterId": 3001000502, 

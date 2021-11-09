@@ -861,66 +861,6 @@
     }, 
     {
         "ColumnName": "name", 
-        "LocalizationTargetId": 70000000088, 
-        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000088, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000089, 
-        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000089, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000090, 
-        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000090, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000091, 
-        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000091, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000092, 
-        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000092, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000093, 
-        "Text": "5\u2605 XX Battle Character Guaranteed Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000093, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
         "LocalizationTargetId": 70000000094, 
         "Text": "[Periodic] Monthly Potion Pack"
     }, 

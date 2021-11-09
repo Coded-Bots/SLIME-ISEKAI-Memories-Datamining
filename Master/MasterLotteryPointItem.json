@@ -16,5 +16,14 @@
         "MasterOgcLotteryShopId": 500000005, 
         "MaxLimit": 20000, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ExchangeMasterRewardGroupId": 802102400004, 
+        "ExchangeRate": 1, 
+        "ExchangeReleaseLabeloffset": "202111_lottery_veldora_pickup_exchange", 
+        "MasterLotteryPointItemId": 508000004, 
+        "MasterOgcLotteryShopId": 500000020, 
+        "MaxLimit": 20000, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
     }
 ]

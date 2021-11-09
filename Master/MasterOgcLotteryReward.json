@@ -1398,5 +1398,12 @@
         "MasterOgcLotteryRewardGroupId": 5005, 
         "MasterOgcLotteryRewardId": 504500501, 
         "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "LotteryRewardId": 150024, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5007, 
+        "MasterOgcLotteryRewardId": 504500701, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
     }
 ]

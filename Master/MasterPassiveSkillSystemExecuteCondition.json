@@ -3,7 +3,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_SYSTEM_START_BATTLE_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000022, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -12,7 +12,7 @@
         "Compare": 3, 
         "Labeloffset": "PASSIVE_SYSTEM_START_BATTLE_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000023, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 1
@@ -21,7 +21,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_SYSTEM_TURNS_BY_4_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000025, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -30,7 +30,7 @@
         "Compare": 4, 
         "Labeloffset": "PASSIVE_SYSTEM_TURNS_BY_4_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000026, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 4
@@ -39,7 +39,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_SYSTEM_TURNS_3_ORLOWER_EVERY_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000028, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -48,7 +48,7 @@
         "Compare": 2, 
         "Labeloffset": "PASSIVE_SYSTEM_TURNS_3_ORLOWER_EVERY_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000029, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 3
@@ -57,7 +57,7 @@
         "Compare": 1, 
         "Labeloffset": "PASSIVE_SYSTEM_TURNS_BY_3_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000031, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 1, 
         "Value": 3
@@ -66,7 +66,7 @@
         "Compare": 4, 
         "Labeloffset": "PASSIVE_SYSTEM_TURNS_BY_3_PARTYCOUNT_3_ORHIGHER", 
         "MasterPassiveSkillSystemExecuteConditionId": 21200000000032, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "initial", 
         "State": 1, 
         "Status": 2, 
         "Value": 3

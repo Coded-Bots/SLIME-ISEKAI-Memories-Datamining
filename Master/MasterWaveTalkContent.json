@@ -170,58 +170,58 @@
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Beretta_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001013, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
-        "VoicePathoffset": "", 
-        "WaitTime": 32
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001014, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Not_Talk", 
-        "VoicePathoffset": "", 
-        "WaitTime": 32
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001015, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
-        "VoicePathoffset": "", 
-        "WaitTime": 32
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Shuna_Talk_Normal", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001016, 
-        "NextTalkLabeloffset": "Rimuru_Shuna_Talk1", 
+        "NextTalkLabeloffset": "Rimuru_Beretta_Talk_01", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Beretta_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001014, 
+        "NextTalkLabeloffset": "Rimuru_Beretta_Talk_02", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Beretta_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001015, 
+        "NextTalkLabeloffset": "Rimuru_Beretta_Talk_03", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Beretta_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001016, 
+        "NextTalkLabeloffset": "Rimuru_Beretta_Talk_04", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -232,38 +232,38 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Beretta_Rimuru_Talk_01", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Beretta_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001018, 
+        "NextTalkLabeloffset": "Rimuru_Common_01", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
     }, 
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001018, 
+        "MasterWaveTalkContentId": 4003001019, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Beretta_Common_01", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Chloe_Talk_Normal", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001019, 
-        "NextTalkLabeloffset": "Rimuru_Chloe_Talk1", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
-        "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 68
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -275,9 +275,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Chloe_Rimuru_Talk2", 
+        "TalkLabeloffset": "Beretta_Common_02", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 68
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -289,9 +289,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -310,9 +310,37 @@
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Chloe_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001023, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Chloe_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001024, 
+        "NextTalkLabeloffset": "Rimuru_Chloe_Talk2", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Chloe_Rimuru_Talk2", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001025, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -326,35 +354,7 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "Chloe_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001024, 
-        "NextTalkLabeloffset": "Rimuru_Chloe_Talk2", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
-        "VoicePathoffset": "", 
-        "WaitTime": 32
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001031, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Gabiru_Rimuru_Talk3", 
-        "VoicePathoffset": "", 
-        "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001032, 
+        "MasterWaveTalkContentId": 4003001026, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -373,7 +373,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Gabiru_Rimuru_Talk1", 
+        "TalkLabeloffset": "Gabiru_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -387,9 +387,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -400,10 +400,10 @@
         "NextTalkLabeloffset": "Rimuru_Gabiru_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Gabiru_Rimuru_Talk1", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -414,8 +414,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Gabiru_Rimuru_Talk2", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -431,7 +431,7 @@
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -443,9 +443,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Gail_Rimuru_Talk2", 
+        "TalkLabeloffset": "Gabiru_Rimuru_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -470,10 +470,10 @@
         "NextTalkLabeloffset": "Rimuru_Gail_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Gail_Rimuru_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -484,8 +484,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Gail_Rimuru_Talk1", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -513,7 +513,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkLabeloffset": "Gail_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -541,7 +541,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Gazel_Rimuru_Talk1", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -554,8 +554,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Gazel_Rimuru_Talk1", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -569,7 +569,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Gazel_Rimuru_Talk2", 
+        "TalkLabeloffset": "Gazel_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -583,7 +583,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Gazel_Rimuru_Talk3", 
+        "TalkLabeloffset": "Gazel_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -597,7 +597,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Gazel_Rimuru_Talk3", 
+        "TalkLabeloffset": "Gazel_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -610,10 +610,10 @@
         "NextTalkLabeloffset": "Rimuru_Geld_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Gazel_Rimuru_Talk3", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -624,10 +624,10 @@
         "NextTalkLabeloffset": "Rimuru_Geld_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Gazel_Rimuru_Talk3", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -666,8 +666,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Geld_Rimuru_Talk1", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -683,7 +683,7 @@
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -694,10 +694,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Geld_Rimuru_Talk1", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -708,7 +708,7 @@
         "NextTalkLabeloffset": "Rimuru_Gobta_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -722,10 +722,10 @@
         "NextTalkLabeloffset": "Rimuru_Gobta_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 0, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -736,8 +736,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Gobta_Rimuru_Talk2", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -750,8 +750,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Gobta_Rimuru_Talk3", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -765,7 +765,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Hakuro_Rimuru_Talk1", 
+        "TalkLabeloffset": "Gobta_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -779,7 +779,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Hakuro_Rimuru_Talk4", 
+        "TalkLabeloffset": "Gobta_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -807,7 +807,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Hakuro_Rimuru_Talk2", 
+        "TalkLabeloffset": "Hakuro_Rimuru_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -821,7 +821,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Hakuro_Rimuru_Talk3", 
+        "TalkLabeloffset": "Hakuro_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -835,7 +835,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Hakuro_Rimuru_Talk5", 
+        "TalkLabeloffset": "Hakuro_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -848,8 +848,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Hakuro_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -863,9 +863,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Kenya_Rimuru_Talk2", 
+        "TalkLabeloffset": "Hakuro_Rimuru_Talk5", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -876,8 +876,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Kenya_Rimuru_Talk2", 
+        "TalkIndex": 0, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -891,9 +891,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Kenya_Rimuru_Talk1", 
+        "TalkLabeloffset": "Kenya_Rimuru_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -905,7 +905,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Kenya_Rimuru_Talk3", 
+        "TalkLabeloffset": "Kenya_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -919,7 +919,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Kenya_Rimuru_Talk4", 
+        "TalkLabeloffset": "Kenya_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -932,10 +932,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Kenya_Rimuru_Talk3", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -946,8 +946,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Kenya_Rimuru_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -963,7 +963,7 @@
         "TalkIndex": 0, 
         "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -974,8 +974,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Kurobei_Rimuru_Talk1", 
+        "TalkIndex": 0, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -988,10 +988,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
+        "TalkIndex": 0, 
         "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1003,9 +1003,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Kurobei_Rimuru_Talk2", 
+        "TalkLabeloffset": "Kurobei_Rimuru_Talk1", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1017,7 +1017,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -1030,8 +1030,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Kurobei_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1044,10 +1044,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Milim_Rimuru_Talk3", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1055,34 +1055,6 @@
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001082, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Milim_Rimuru_Talk2", 
-        "VoicePathoffset": "", 
-        "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001083, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Milim_Rimuru_Talk2", 
-        "VoicePathoffset": "", 
-        "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001084, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1094,14 +1066,42 @@
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rigurd_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "Milim_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001083, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Milim_Rimuru_Talk3", 
+        "VoicePathoffset": "", 
+        "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Milim_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001084, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Milim_Rimuru_Talk2", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Milim_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001085, 
         "NextTalkLabeloffset": "Rimuru_Rigurd_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Milim_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1114,10 +1114,10 @@
         "NextTalkLabeloffset": "Rimuru_Rigurd_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 0, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1128,7 +1128,21 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
+        "VoicePathoffset": "", 
+        "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001088, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -1138,8 +1152,22 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001088, 
+        "MasterWaveTalkContentId": 4003001089, 
         "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 0, 
+        "TalkLabeloffset": "Not_Talk", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rigurd_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001090, 
+        "NextTalkLabeloffset": "Rimuru_Rigurd_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
@@ -1152,40 +1180,12 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001089, 
+        "MasterWaveTalkContentId": 4003001091, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
         "TalkLabeloffset": "Rigurd_Rimuru_Talk1", 
-        "VoicePathoffset": "", 
-        "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001090, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Rigurd_Rimuru_Talk2", 
-        "VoicePathoffset": "", 
-        "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001091, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1199,9 +1199,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Ryota_Rimuru_Talk3", 
+        "TalkLabeloffset": "Rigurd_Rimuru_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1212,8 +1212,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Ryota_Rimuru_Talk1", 
+        "TalkIndex": 0, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1229,7 +1229,7 @@
         "TalkIndex": 2, 
         "TalkLabeloffset": "Ryota_Rimuru_Talk3", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1240,10 +1240,10 @@
         "NextTalkLabeloffset": "Rimuru_Ryota_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Ryota_Rimuru_Talk1", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1255,7 +1255,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Ryota_Rimuru_Talk2", 
+        "TalkLabeloffset": "Ryota_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1268,8 +1268,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Shion_Rimuru_Talk1", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1282,36 +1282,36 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Shion_Rimuru_Talk2", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Ryota_Rimuru_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Shion_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001099, 
-        "NextTalkLabeloffset": "", 
+        "NextTalkLabeloffset": "Rimuru_Shion_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkLabeloffset": "Shion_Rimuru_Talk1", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Shion_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001100, 
-        "NextTalkLabeloffset": "", 
+        "NextTalkLabeloffset": "Rimuru_Shion_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkLabeloffset": "Shion_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -1325,7 +1325,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 0, 
-        "TalkLabeloffset": "Shion_Rimuru_Talk3", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -1353,16 +1353,44 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Shuna_Rimuru_Talk3", 
+        "TalkLabeloffset": "Shion_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Shuna_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003001104, 
+        "NextTalkLabeloffset": "Rimuru_Shuna_Talk1", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Shuna_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001105, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Shuna_Rimuru_Talk3", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Shuna_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001106, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1376,7 +1404,7 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001105, 
+        "MasterWaveTalkContentId": 4003001107, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1384,34 +1412,6 @@
         "TalkLabeloffset": "Shuna_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001106, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 0, 
-        "TalkLabeloffset": "Not_Talk", 
-        "VoicePathoffset": "", 
-        "WaitTime": 36
-    }, 
-    {
-        "MasterCharacterId": 3001000001, 
-        "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
-        "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001107, 
-        "NextTalkLabeloffset": "", 
-        "Rate": 10, 
-        "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Shuna_Rimuru_Talk3", 
-        "VoicePathoffset": "", 
-        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1437,9 +1437,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Soei_Rimuru_Talk1", 
+        "TalkLabeloffset": "Shuna_Rimuru_Talk3", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1450,8 +1450,8 @@
         "NextTalkLabeloffset": "Rimuru_Soei_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Shuna_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1465,7 +1465,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Soei_Rimuru_Talk2", 
+        "TalkLabeloffset": "Soei_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -1478,8 +1478,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Soei_Rimuru_Talk3", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -1506,10 +1506,10 @@
         "NextTalkLabeloffset": "Rimuru_Soei_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Soei_Rimuru_Talk3", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1520,8 +1520,8 @@
         "NextTalkLabeloffset": "Rimuru_Treyni_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Soei_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -1534,10 +1534,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Treyni_Rimuru_Talk1", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1590,10 +1590,10 @@
         "NextTalkLabeloffset": "Rimuru_Treyni_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Treyni_Rimuru_Talk1", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000001, 
@@ -1618,8 +1618,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Yuuki_Rimuru_Talk1", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1632,8 +1632,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Yuuki_Rimuru_Talk2", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1647,7 +1647,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Yuuki_Rimuru_Talk2", 
+        "TalkLabeloffset": "Yuuki_Rimuru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1661,7 +1661,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Yuuki_Rimuru_Talk3", 
+        "TalkLabeloffset": "Yuuki_Rimuru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -1675,6 +1675,34 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
+        "TalkLabeloffset": "Yuuki_Rimuru_Talk2", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001127, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Yuuki_Rimuru_Talk3", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001128, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Yuuki_Rimuru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -1684,7 +1712,7 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "Diablo_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001127, 
+        "MasterWaveTalkContentId": 4003001129, 
         "NextTalkLabeloffset": "Rimuru_Diablo_Talk_01", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1698,7 +1726,7 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "Diablo_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001128, 
+        "MasterWaveTalkContentId": 4003001130, 
         "NextTalkLabeloffset": "Rimuru_Common_Diablo_01", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1712,21 +1740,21 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001129, 
+        "MasterWaveTalkContentId": 4003001131, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Diablo_Common_Rimuru_01", 
+        "TalkLabeloffset": "Diablo_Common_01", 
         "VoicePathoffset": "", 
-        "WaitTime": 56
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000001, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001130, 
+        "MasterWaveTalkContentId": 4003001132, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1740,7 +1768,7 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001131, 
+        "MasterWaveTalkContentId": 4003001133, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1754,7 +1782,7 @@
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
-        "MasterWaveTalkContentId": 4003001132, 
+        "MasterWaveTalkContentId": 4003001134, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
@@ -1762,6 +1790,90 @@
         "TalkLabeloffset": "Diablo_Rimuru_Talk_03", 
         "VoicePathoffset": "", 
         "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001135, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Rimuru_Talk_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001136, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Rimuru_Talk_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001137, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001138, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001139, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Rimuru_Talk_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001140, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
     }, 
     {
         "MasterCharacterId": 3001000003, 
@@ -1857,9 +1969,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000003, 
@@ -1870,10 +1982,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000003, 
@@ -1885,9 +1997,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000003, 
@@ -1954,7 +2066,7 @@
         "NextTalkLabeloffset": "Benimaru_Shuna_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -1968,7 +2080,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Benimaru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -1982,7 +2094,7 @@
         "NextTalkLabeloffset": "Benimaru_Shuna_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -1996,7 +2108,7 @@
         "NextTalkLabeloffset": "Benimaru_Shuna_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2010,7 +2122,7 @@
         "NextTalkLabeloffset": "Benimaru_Shuna_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2025,14 +2137,14 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000003, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Shion_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003003020, 
         "NextTalkLabeloffset": "", 
@@ -2080,7 +2192,7 @@
         "NextTalkLabeloffset": "Benimaru_Shion_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2094,7 +2206,7 @@
         "NextTalkLabeloffset": "Benimaru_Shion_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2150,7 +2262,7 @@
         "NextTalkLabeloffset": "Soei_Benimaru_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2164,7 +2276,7 @@
         "NextTalkLabeloffset": "Soei_Benimaru_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2178,10 +2290,66 @@
         "NextTalkLabeloffset": "Soei_Benimaru_Talk4", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000003, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003003031, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000003, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003003032, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000003, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003003033, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000003, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003003034, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2192,10 +2360,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2220,10 +2388,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2234,10 +2402,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2304,10 +2472,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2332,7 +2500,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Ranga_Gobta_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2346,7 +2514,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Ranga_Gobta_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2360,7 +2528,7 @@
         "NextTalkLabeloffset": "Gobta_Ranga_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2374,7 +2542,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Ranga_Gobta_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2402,7 +2570,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Ranga_Gobta_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2416,7 +2584,7 @@
         "NextTalkLabeloffset": "Gobta_Ranga_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2444,10 +2612,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2486,10 +2654,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2501,9 +2669,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2514,10 +2682,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2542,10 +2710,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2556,10 +2724,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000004, 
@@ -2574,6 +2742,62 @@
         "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000004, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003004031, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000004, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003004032, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000004, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003004033, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000004, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003004034, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000005, 
@@ -2599,9 +2823,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Benimaru_Shion_Talk1", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000005, 
@@ -2612,7 +2836,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Benimaru_Shion_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2640,7 +2864,7 @@
         "NextTalkLabeloffset": "Shion_Benimaru_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2654,7 +2878,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Ranga_Shion_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2682,7 +2906,7 @@
         "NextTalkLabeloffset": "Shion_Ranga_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2704,13 +2928,13 @@
     {
         "MasterCharacterId": 3001000005, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Ranga_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003005010, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shion_Ranga_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2724,7 +2948,7 @@
         "NextTalkLabeloffset": "Shion_Rimuru_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2738,7 +2962,7 @@
         "NextTalkLabeloffset": "Shion_Rimuru_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2752,7 +2976,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Rimuru_Shion_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2766,7 +2990,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Rimuru_Shion_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2780,7 +3004,7 @@
         "NextTalkLabeloffset": "Shion_Rimuru_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -2836,7 +3060,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Shion_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2844,30 +3068,30 @@
     {
         "MasterCharacterId": 3001000005, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Shuna_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003005020, 
-        "NextTalkLabeloffset": "Shion_Shuna_Talk1", 
+        "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000005, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Shuna_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003005021, 
-        "NextTalkLabeloffset": "Shion_Shuna_Talk2", 
+        "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000005, 
@@ -2878,7 +3102,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Shion_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2892,7 +3116,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Shion_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2906,7 +3130,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Shion_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -2996,6 +3220,62 @@
         "WaitTime": 60
     }, 
     {
+        "MasterCharacterId": 3001000005, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003005031, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000005, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003005032, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000005, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003005033, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000005, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003005034, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
         "MasterCharacterId": 3001000006, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "Gobta_Talk_Normal", 
@@ -3004,7 +3284,7 @@
         "NextTalkLabeloffset": "Ranga_Gobta_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -3018,7 +3298,7 @@
         "NextTalkLabeloffset": "Ranga_Gobta_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -3032,7 +3312,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Gobta_Ranga_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -3102,7 +3382,7 @@
         "NextTalkLabeloffset": "Ranga_Shion_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -3116,7 +3396,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shion_Ranga_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -3130,7 +3410,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shion_Ranga_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -3158,7 +3438,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shion_Ranga_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -3187,9 +3467,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Diablo_Common_Ranga_01", 
+        "TalkLabeloffset": "Diablo_Common_01", 
         "VoicePathoffset": "", 
-        "WaitTime": 56
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000006, 
@@ -3215,9 +3495,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Diablo_Common_Ranga_02", 
+        "TalkLabeloffset": "Diablo_Common_02", 
         "VoicePathoffset": "", 
-        "WaitTime": 56
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000006, 
@@ -3243,9 +3523,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Diablo_Common_Ranga_03", 
+        "TalkLabeloffset": "Diablo_Common_03", 
         "VoicePathoffset": "", 
-        "WaitTime": 56
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000007, 
@@ -3257,9 +3537,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000007, 
@@ -3271,9 +3551,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000007, 
@@ -3327,9 +3607,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000007, 
@@ -3466,7 +3746,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Soei_Benimaru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -3480,7 +3760,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Soei_Benimaru_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -3522,10 +3802,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000007, 
@@ -3536,10 +3816,66 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000007, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003007024, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000007, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003007025, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000007, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003007026, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000007, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003007027, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3572,14 +3908,14 @@
     {
         "MasterCharacterId": 3001000008, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003008003, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Rigurd_Rimuru_Talk1", 
+        "TalkLabeloffset": "Rimuru_Rigurd_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -3635,9 +3971,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3663,9 +3999,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3705,9 +4041,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3733,9 +4069,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3746,10 +4082,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3760,10 +4096,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000008, 
@@ -3774,10 +4110,66 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000008, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003008019, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000008, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003008020, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000008, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003008021, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000008, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003008022, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000009, 
@@ -3887,9 +4279,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000009, 
@@ -3943,9 +4335,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000009, 
@@ -4013,9 +4405,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000009, 
@@ -4032,6 +4424,62 @@
         "WaitTime": 36
     }, 
     {
+        "MasterCharacterId": 3001000009, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003009019, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000009, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003009020, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000009, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003009021, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000009, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003009022, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
         "MasterCharacterId": 3001000010, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
@@ -4040,7 +4488,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Benimaru_Shuna_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4054,7 +4502,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Benimaru_Shuna_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4110,7 +4558,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Benimaru_Shuna_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4166,8 +4614,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Shuna_Rimuru_Talk2", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Shuna_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -4194,7 +4642,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -4208,7 +4656,7 @@
         "NextTalkLabeloffset": "Shuna_Milim_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4222,7 +4670,7 @@
         "NextTalkLabeloffset": "Shuna_Milim_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4236,7 +4684,7 @@
         "NextTalkLabeloffset": "Shuna_Milim_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4250,7 +4698,7 @@
         "NextTalkLabeloffset": "Shuna_Milim_Talk4", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4264,7 +4712,7 @@
         "NextTalkLabeloffset": "Shuna_Milim_Talk5", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4307,7 +4755,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Shion_Shuna_Talk1", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -4320,8 +4768,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Shion_Shuna_Talk2", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -4334,7 +4782,7 @@
         "NextTalkLabeloffset": "Shuna_Shion_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4348,7 +4796,7 @@
         "NextTalkLabeloffset": "Shuna_Shion_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -4368,6 +4816,146 @@
         "WaitTime": 36
     }, 
     {
+        "MasterCharacterId": 3001000010, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003010025, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000010, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003010026, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000010, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003010027, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000010, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003010028, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011001, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011002, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011003, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Trya_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011004, 
+        "NextTalkLabeloffset": "Treyni_trya_Talk5", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011005, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011006, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
+        "VoicePathoffset": "", 
+        "WaitTime": 36
+    }, 
+    {
         "MasterCharacterId": 3001000011, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
@@ -4376,10 +4964,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000011, 
@@ -4390,10 +4978,10 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000011, 
@@ -4404,10 +4992,10 @@
         "NextTalkLabeloffset": "Treyni_Rimuru_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000011, 
@@ -4433,7 +5021,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -4447,7 +5035,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -4460,8 +5048,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
@@ -4488,24 +5076,24 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Rimuru_Treyni_Talk3", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000011, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003011016, 
-        "NextTalkLabeloffset": "Treyni_Rimuru_Talk1", 
+        "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000011, 
@@ -4517,9 +5105,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Rimuru_Treyni_Talk1", 
+        "TalkLabeloffset": "Diablo_Common_02", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000011, 
@@ -4531,14 +5119,42 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Rimuru_Treyni_Talk2", 
+        "TalkLabeloffset": "Diablo_Common_03", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003011019, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000012, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003012005, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Treyni_trya_Talk5", 
+        "VoicePathoffset": "", 
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000013, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Kenya_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003013001, 
         "NextTalkLabeloffset": "Shizu_Kenya_Talk1", 
@@ -4552,7 +5168,7 @@
     {
         "MasterCharacterId": 3001000013, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Kenya_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003013002, 
         "NextTalkLabeloffset": "Shizu_Kenya_Talk2", 
@@ -4566,24 +5182,24 @@
     {
         "MasterCharacterId": 3001000013, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Kenya_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003013003, 
-        "NextTalkLabeloffset": "", 
+        "NextTalkLabeloffset": "Shizu_Kenya_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000013, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Kenya_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003013004, 
-        "NextTalkLabeloffset": "", 
+        "NextTalkLabeloffset": "Shizu_Kenya_Talk4", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
@@ -4601,7 +5217,7 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkLabeloffset": "Kenya_Shizu_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -4614,8 +5230,8 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Kenya_Shizu_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -4629,9 +5245,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000013, 
@@ -4727,9 +5343,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000013, 
@@ -4755,9 +5371,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000013, 
@@ -4769,9 +5385,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000013, 
@@ -4783,9 +5399,65 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000013, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003013025, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000013, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003013026, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000013, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003013027, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000013, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003013028, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000015, 
@@ -4821,7 +5493,7 @@
         "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003015003, 
-        "NextTalkLabeloffset": "Milim_Rimuru_Talk3", 
+        "NextTalkLabeloffset": "Rimuru_Milim_Talk3", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
@@ -4835,7 +5507,7 @@
         "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003015004, 
-        "NextTalkLabeloffset": "Milim_Rimuru_Talk2", 
+        "NextTalkLabeloffset": "Rimuru_Milim_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
@@ -4849,7 +5521,7 @@
         "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003015005, 
-        "NextTalkLabeloffset": "Milim_Rimuru_Talk2", 
+        "NextTalkLabeloffset": "Rimuru_Milim_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
@@ -4860,28 +5532,28 @@
     {
         "MasterCharacterId": 3001000015, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003015006, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Milim_Rimuru_Talk3", 
+        "TalkLabeloffset": "Rimuru_Milim_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000015, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003015007, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 2, 
-        "TalkLabeloffset": "Milim_Rimuru_Talk2", 
+        "TalkIndex": 3, 
+        "TalkLabeloffset": "Rimuru_Milim_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -4895,9 +5567,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000015, 
@@ -4909,9 +5581,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000015, 
@@ -4923,9 +5595,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000015, 
@@ -4937,9 +5609,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000015, 
@@ -4950,7 +5622,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Milim_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -4964,7 +5636,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Milim_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -4978,7 +5650,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Milim_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -4992,7 +5664,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Milim_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -5006,7 +5678,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Milim_Talk5", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -5020,10 +5692,108 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shuna_Milim_Talk6", 
         "VoicePathoffset": "", 
         "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015025, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015026, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015027, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015028, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015029, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015030, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003015031, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
     }, 
     {
         "MasterCharacterId": 3001000016, 
@@ -5133,9 +5903,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000016, 
@@ -5161,9 +5931,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000016, 
@@ -5188,7 +5958,7 @@
         "NextTalkLabeloffset": "Gabiru_Geld_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -5202,7 +5972,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Geld_Gabiru_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -5216,7 +5986,7 @@
         "NextTalkLabeloffset": "Gabiru_Geld_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -5244,7 +6014,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Geld_Gabiru_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -5258,10 +6028,66 @@
         "NextTalkLabeloffset": "Gabiru_Geld_Talk4", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
+    }, 
+    {
+        "MasterCharacterId": 3001000016, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003016018, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000016, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003016019, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000016, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003016020, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
+        "MasterCharacterId": 3001000016, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003016021, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
     }, 
     {
         "MasterCharacterId": 3001000017, 
@@ -5272,7 +6098,7 @@
         "NextTalkLabeloffset": "Geld_Gabiru_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 36
@@ -5342,7 +6168,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Gabiru_Geld_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -5432,6 +6258,62 @@
         "WaitTime": 36
     }, 
     {
+        "MasterCharacterId": 3001000017, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003017013, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000017, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003017014, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000017, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003017015, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000017, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003017016, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
         "MasterCharacterId": 3001000018, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 
@@ -5469,9 +6351,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5511,9 +6393,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5525,9 +6407,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5553,9 +6435,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5567,9 +6449,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5581,21 +6463,21 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000018, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003018012, 
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Hakuro_Rimuru_Talk5", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
         "WaitTime": 32
     }, 
@@ -5693,9 +6575,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5777,9 +6659,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000018, 
@@ -5852,6 +6734,62 @@
         "WaitTime": 36
     }, 
     {
+        "MasterCharacterId": 3001000018, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003018031, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000018, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003018032, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000018, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003018033, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000018, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003018034, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 60
+    }, 
+    {
         "MasterCharacterId": 3001000019, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
@@ -5875,9 +6813,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 2, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000019, 
@@ -5917,9 +6855,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000019, 
@@ -5934,6 +6872,62 @@
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
         "WaitTime": 32
+    }, 
+    {
+        "MasterCharacterId": 3001000019, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003019007, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000019, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003019008, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000019, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003019009, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000019, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003019010, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Diablo_Common_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000020, 
@@ -6029,9 +7023,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000020, 
@@ -6085,9 +7079,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 3, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000020, 
@@ -6532,7 +7526,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shizu_Kenya_Talk1", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -6546,7 +7540,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shizu_Kenya_Talk2", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -6560,7 +7554,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shizu_Kenya_Talk3", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -6574,7 +7568,7 @@
         "NextTalkLabeloffset": "", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
+        "TalkIndex": 2, 
         "TalkLabeloffset": "Shizu_Kenya_Talk4", 
         "VoicePathoffset": "", 
         "WaitTime": 32
@@ -6582,30 +7576,30 @@
     {
         "MasterCharacterId": 3001000022, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Shizu_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003022023, 
-        "NextTalkLabeloffset": "", 
+        "NextTalkLabeloffset": "Kenya_Shizu_Talk1", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000022, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveCharacterConditionoffset": "Shizu_Talk_Normal", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003022024, 
-        "NextTalkLabeloffset": "", 
+        "NextTalkLabeloffset": "Kenya_Shizu_Talk2", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
-        "TalkIndex": 3, 
-        "TalkLabeloffset": "Not_Talk", 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 32
+        "WaitTime": 36
     }, 
     {
         "MasterCharacterId": 3001000023, 
@@ -7135,9 +8129,9 @@
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
-        "TalkLabeloffset": "Before_Normal", 
+        "TalkLabeloffset": "Not_Talk", 
         "VoicePathoffset": "", 
-        "WaitTime": 36
+        "WaitTime": 32
     }, 
     {
         "MasterCharacterId": 3001000026, 
@@ -7226,16 +8220,16 @@
     {
         "MasterCharacterId": 3001000028, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003028003, 
-        "NextTalkLabeloffset": "Diablo_Common_Rimuru_01", 
+        "NextTalkLabeloffset": "Diablo_Common_01", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 60
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000028, 
@@ -7380,16 +8374,16 @@
     {
         "MasterCharacterId": 3001000028, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Ranga_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003028014, 
-        "NextTalkLabeloffset": "Diablo_Common_Ranga_01", 
+        "NextTalkLabeloffset": "Diablo_Common_02", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 60
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000028, 
@@ -7408,16 +8402,16 @@
     {
         "MasterCharacterId": 3001000028, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Ranga_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003028016, 
-        "NextTalkLabeloffset": "Diablo_Common_Ranga_02", 
+        "NextTalkLabeloffset": "Diablo_Common_03", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 60
+        "WaitTime": 56
     }, 
     {
         "MasterCharacterId": 3001000028, 
@@ -7436,15 +8430,365 @@
     {
         "MasterCharacterId": 3001000028, 
         "MasterPcId": 0, 
-        "MasterWaveCharacterConditionoffset": "Ranga_Talk_Normal", 
+        "MasterWaveCharacterConditionoffset": "", 
         "MasterWaveQuestConditionoffset": "", 
         "MasterWaveTalkContentId": 4003028018, 
-        "NextTalkLabeloffset": "Diablo_Common_Ranga_03", 
+        "NextTalkLabeloffset": "Diablo_Common_04", 
         "Rate": 10, 
         "ReleaseLabeloffset": null, 
         "TalkIndex": 1, 
         "TalkLabeloffset": "Before_Normal", 
         "VoicePathoffset": "", 
-        "WaitTime": 60
+        "WaitTime": 56
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024001, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024002, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024003, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024004, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024005, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024006, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024007, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024008, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024009, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024010, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Beretta_Talk_04", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024011, 
+        "NextTalkLabeloffset": "Beretta_Rimuru_Talk_01", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024012, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024013, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024014, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Rimuru_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024015, 
+        "NextTalkLabeloffset": "Beretta_Common_01", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024016, 
+        "NextTalkLabeloffset": "Beretta_Common_02", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024017, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_01", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024018, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_02", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003024019, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 2, 
+        "TalkLabeloffset": "Veldora_Common_03", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003501001, 
+        "NextTalkLabeloffset": "Veldora_Rimuru_Talk_01", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003501002, 
+        "NextTalkLabeloffset": "Veldora_Rimuru_Talk_02", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003501003, 
+        "NextTalkLabeloffset": "Veldora_Common_01", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003501004, 
+        "NextTalkLabeloffset": "Veldora_Common_02", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
+    }, 
+    {
+        "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "Rimuru_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003501005, 
+        "NextTalkLabeloffset": "Veldora_Rimuru_Talk_03", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003501006, 
+        "NextTalkLabeloffset": "Veldora_Common_03", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 68
     }
 ]

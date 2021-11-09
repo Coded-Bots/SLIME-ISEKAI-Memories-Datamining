@@ -101,11 +101,6 @@
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606350001, 
-        "Text": "Clear Charybdis Flash (Expert 2)"
-    }, 
-    {
-        "ColumnName": "description", 
         "LocalizationTargetId": 606350002, 
         "Text": "Clear The Good Secretary Part 2 (Beginner)"
     }, 
@@ -241,6 +236,46 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 606460002, 
+        "Text": "Clear Faithful Fighters (Expert) in 5 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510008, 
+        "Text": "Clear Faithful Fighters (Expert) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606520008, 
+        "Text": "Clear Faithful Fighters (Expert) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530008, 
+        "Text": "Clear Faithful Fighters (Expert) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606560008, 
+        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 3 pierce attacks"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570008, 
+        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 3 critical attacks"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590001, 
+        "Text": "Clear Faithful Fighters (Expert) after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600004, 
+        "Text": "Clear Faithful Fighters (Expert) without recovering HP"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 606440035, 
         "Text": "Clear Charybdis Flash (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
@@ -252,17 +287,317 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606440037, 
-        "Text": "Clear Charybdis Flash (Expert) with Benimaru, the Crimson Ogre Warrior in a battle slot"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606440038, 
         "Text": "Clear Charybdis Flash (Expert 1) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606440039, 
+        "LocalizationTargetId": 606440038, 
         "Text": "Clear Charybdis Flash (Expert 2) with Benimaru, the Crimson Ogre Warrior in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606440039, 
+        "Text": "Clear Charybdis Flash (Expert 3) with Benimaru, the Crimson Ogre Warrior in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470001, 
+        "Text": "Raise all of Benimaru, the Crimson Ogre Warrior's battle skills to level 7"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470002, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510009, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510010, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510011, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580001, 
+        "Text": "Clear Charybdis Flash (Beginner) with a Predator Rating of S: x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580002, 
+        "Text": "Clear Charybdis Flash (Normal) with a Predator Rating of S: x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580003, 
+        "Text": "Clear Charybdis Flash (Expert 1) with a Predator Rating of S: x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580004, 
+        "Text": "Clear Charybdis Flash (Expert 2) with a Predator Rating of S: x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580005, 
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580006, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580007, 
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x15"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580008, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580009, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580010, 
+        "Text": "ogc_mission@eventN/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350011, 
+        "Text": "Clear Observation Journal (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350012, 
+        "Text": "Clear Observation Journal (Normal): x2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350013, 
+        "Text": "Clear Observation Journal (Normal): x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350014, 
+        "Text": "Clear Observation Journal (Normal): x4"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350015, 
+        "Text": "Clear Observation Journal (Normal): x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350016, 
+        "Text": "Clear Observation Journal (Normal): x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350017, 
+        "Text": "Clear Observation Journal (Normal): x7"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350018, 
+        "Text": "Clear Observation Journal (Normal): x8"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350019, 
+        "Text": "Clear Observation Journal (Normal): x9"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350020, 
+        "Text": "Clear Observation Journal (Normal): x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350021, 
+        "Text": "Clear Observation Journal (Normal): x11"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350022, 
+        "Text": "Clear Observation Journal (Normal): x12"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350023, 
+        "Text": "Clear Observation Journal (Normal): x13"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350024, 
+        "Text": "Clear Observation Journal (Normal): x14"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350025, 
+        "Text": "Clear Observation Journal (Normal): x15"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350030, 
+        "Text": "Clear Observation Journal (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350031, 
+        "Text": "Clear Observation Journal (Normal): x2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350032, 
+        "Text": "Clear Observation Journal (Normal): x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350033, 
+        "Text": "Clear Observation Journal (Normal): x4"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350034, 
+        "Text": "Clear Observation Journal (Normal): x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350035, 
+        "Text": "Clear Observation Journal (Normal): x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350036, 
+        "Text": "Clear Observation Journal (Normal): x7"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350037, 
+        "Text": "Clear Observation Journal (Normal): x8"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350038, 
+        "Text": "Clear Observation Journal (Normal): x9"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350039, 
+        "Text": "Clear Observation Journal (Normal): x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350040, 
+        "Text": "Clear Observation Journal (Normal): x11"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350041, 
+        "Text": "Clear Observation Journal (Normal): x12"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350042, 
+        "Text": "Clear Observation Journal (Normal): x13"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350043, 
+        "Text": "Clear Observation Journal (Normal): x14"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350044, 
+        "Text": "Clear Observation Journal (Normal): x15"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350045, 
+        "Text": "Clear Observation Journal (Normal): x16"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350046, 
+        "Text": "Clear Observation Journal (Normal): x17"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350047, 
+        "Text": "Clear Observation Journal (Normal): x18"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350048, 
+        "Text": "Clear Observation Journal (Normal): x19"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350049, 
+        "Text": "Clear Observation Journal (Normal): x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350050, 
+        "Text": "Clear Observation Journal (Normal): x21"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350051, 
+        "Text": "Clear Observation Journal (Normal): x22"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350101, 
+        "Text": "Clear Observation Journal (Normal): x16"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350102, 
+        "Text": "Clear Observation Journal (Normal): x17"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350103, 
+        "Text": "Clear Observation Journal (Normal): x18"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350104, 
+        "Text": "Clear Observation Journal (Normal): x19"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350105, 
+        "Text": "Clear Observation Journal (Normal): x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350106, 
+        "Text": "Clear Observation Journal (Normal): x21"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350107, 
+        "Text": "Clear Observation Journal (Normal): x22"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606280001, 
+        "Text": "Log in to the app (Release Celebration Campaign 1)"
     }, 
     {
         "ColumnName": "description", 
@@ -306,11 +641,6 @@
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606460002, 
-        "Text": "Clear Faithful Fighters (Expert) in 5 turns or less"
-    }, 
-    {
-        "ColumnName": "description", 
         "LocalizationTargetId": 606460006, 
         "Text": "Clear Ravenous Chaos (Expert) in 5 turns or less"
     }, 
@@ -323,21 +653,6 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 606460016, 
         "Text": "Clear Ravenous Chaos (Master) in 6 turns or less"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606470001, 
-        "Text": "Reach skill level 4 with Benimaru, the Crimson Ogre Warrior"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606470002, 
-        "Text": "Reach skill level 7 with Benimaru, the Crimson Ogre Warrior"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606470003, 
-        "Text": "Reach skill level 10 with Benimaru, the Crimson Ogre Warrior"
     }, 
     {
         "ColumnName": "description", 
@@ -376,11 +691,6 @@
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606510008, 
-        "Text": "Clear Faithful Fighters (Expert) after unleashing a 6 combo all with Soul of Divine Protection"
-    }, 
-    {
-        "ColumnName": "description", 
         "LocalizationTargetId": 606520001, 
         "Text": "Clear Unwavering Giant (Master) after unleashing a 6 combo all with Soul of Skills"
     }, 
@@ -413,11 +723,6 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 606520007, 
         "Text": "Clear Ruthless Paladin (Master) after unleashing a 6 combo all with Soul of Skills"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606520008, 
-        "Text": "Clear Faithful Fighters (Expert) after unleashing a 6 combo all with Soul of Skills"
     }, 
     {
         "ColumnName": "description", 
@@ -456,11 +761,6 @@
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606530008, 
-        "Text": "Clear Faithful Fighters (Expert) after unleashing a 6 combo all with Soul of Secrets"
-    }, 
-    {
-        "ColumnName": "description", 
         "LocalizationTargetId": 606540004, 
         "Text": "Clear Vortex of Ruin (Expert) with 5 surviving characters"
     }, 
@@ -491,51 +791,6 @@
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 606560008, 
-        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 3 pierce attacks"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606570008, 
-        "Text": "Clear Faithful Fighters (Expert) after your battle characters unleash at least 3 critical attacks"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606580001, 
-        "Text": "Clear Charybdis Flash (Beginner) with a Predator Rating of S: x1"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606580002, 
-        "Text": "Clear Charybdis Flash (Normal) with a Predator Rating of S: x1"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606580003, 
-        "Text": "Clear Charybdis Flash (Expert) with a Predator Rating of S: x1"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606580004, 
-        "Text": "Clear Charybdis Flash (Expert 1) with a Predator Rating of S: x1"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606580005, 
-        "Text": "Clear Charybdis Flash (Expert 2) with a Predator Rating of S: x15"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606581001, 
-        "Text": "Clear the Body and Spirit Enhancement Quest with a Predator score of 9000 or more: x2"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606590001, 
-        "Text": "Clear Faithful Fighters (Expert) after using 80 skill points in the following amount of turns: 1"
-    }, 
-    {
-        "ColumnName": "description", 
         "LocalizationTargetId": 606600002, 
         "Text": "Clear Flaming Domain (Expert) without recovering HP"
     }, 
@@ -543,11 +798,6 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 606600003, 
         "Text": "Clear The Destroyer (Expert) without recovering HP"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606600004, 
-        "Text": "Clear Faithful Fighters (Expert) without recovering HP"
     }, 
     {
         "ColumnName": "description", 
@@ -567,42 +817,42 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110102, 
-        "Text": "Reach Field Lv. 3"
+        "Text": "Reach Central Office Lv. 3"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110103, 
-        "Text": "Reach Field Lv. 4"
+        "Text": "Reach Central Office Lv. 4"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110104, 
-        "Text": "Reach Field Lv. 5"
+        "Text": "Reach Central Office Lv. 5"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110105, 
-        "Text": "Reach Field Lv. 6"
+        "Text": "Reach Central Office Lv. 6"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110106, 
-        "Text": "Reach Field Lv. 7"
+        "Text": "Reach Central Office Lv. 7"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110107, 
-        "Text": "Reach Field Lv. 8"
+        "Text": "Reach Central Office Lv. 8"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110108, 
-        "Text": "Reach Field Lv. 9"
+        "Text": "Reach Central Office Lv. 9"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 602110109, 
-        "Text": "Reach Field Lv. 10"
+        "Text": "Reach Central Office Lv. 10"
     }, 
     {
         "ColumnName": "description", 

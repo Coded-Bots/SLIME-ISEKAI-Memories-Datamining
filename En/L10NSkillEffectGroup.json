@@ -1,136 +1,6 @@
 [
     {
         "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002001, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002001, 
-        "Text": "Increases own ATK by 10\uff05 (Forever)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002002, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002002, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002003, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002003, 
-        "Text": "Increases own ATK by 30\uff05 (Forever)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002004, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002004, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002005, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002005, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002006, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002006, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002007, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002007, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002008, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002008, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002009, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002009, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002010, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002010, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002011, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002011, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002012, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002012, 
-        "Text": "TEST"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20010000002013, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20010000002013, 
-        "Text": "[debug]"
-    }, 
-    {
-        "ColumnName": "name", 
         "LocalizationTargetId": 20011300011022, 
         "Text": "Normal Attack"
     }, 
@@ -2871,12 +2741,12 @@
     }, 
     {
         "ColumnName": "name", 
-        "LocalizationTargetId": 20011500242024, 
-        "Text": "Tempestuous Drive"
+        "LocalizationTargetId": 20011500243024, 
+        "Text": "Faust"
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 20011500242024, 
+        "LocalizationTargetId": 20011500243024, 
         "Text": "Decreases a single target's critical damage by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 3)"
     }, 
     {
@@ -2908,126 +2778,6 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500252031, 
         "Text": "When you have 50% or higher HP, increases own counterattack rate by 9% at start of turn (available in support formation)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500271001, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500271001, 
-        "Text": "Unleashes a single-target dark magic attack."
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500272023, 
-        "Text": "Dragon Orb"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500272023, 
-        "Text": "Changes Soul of Secrets x<color=#2BE41D>2</color> into Soul of Divine Protection\nIncreases all Soul of Divine Protection gauges' increase by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Turns: 1)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500272024, 
-        "Text": "Dragon Thrash"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500272024, 
-        "Text": "Increases all allies' critical resistance by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases own critical rate by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 1)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500277001, 
-        "Text": "Drago-Nova"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500277001, 
-        "Text": "Unleashes a single-target dark magic attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500281001, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500281001, 
-        "Text": "Unleashes a single-target dark magic attack."
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500282023, 
-        "Text": "Unlock Expertise"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500282023, 
-        "Text": "Increases own critical rate by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases own critical damage by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 2)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500282024, 
-        "Text": "Raphael"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500282024, 
-        "Text": "Increases all allies' stun evasion rate by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases Soul of Divine Protection damage by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Turns: 1)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500282030, 
-        "Text": "Troop - Protection UP"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500282030, 
-        "Text": "When your troop contains 3 or more battle characters, increases protection gauge by 7 at the start of battle (available in support formation)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500282031, 
-        "Text": "Troop - Protection UP"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500282031, 
-        "Text": "When your troop contains 3 or more battle characters, increases protection gauge by 11 at the start of battle (available in support formation)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500287001, 
-        "Text": "Belzebuth"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500287001, 
-        "Text": "Unleashes an all-target dark magic attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500292030, 
-        "Text": "Troop - Secret Skill UP"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500292030, 
-        "Text": "When your troop contains 3 or more battle characters, increases own Secret Skill Gauge by 5% at the start of battle (Turns: 3) (available in support formation)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500292031, 
-        "Text": "Troop - Secret Skill UP"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500292031, 
-        "Text": "When your troop contains 3 or more battle characters, increases own Secret Skill Gauge by 8% at the start of battle (Turns: 3) (available in support formation)"
     }, 
     {
         "ColumnName": "name", 
@@ -3088,66 +2838,6 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500342031, 
         "Text": "When your troop contains 3 or more battle characters, increases own Secret Skill Gauge by 8% at the start of battle (Turns: 3) (available in support formation)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011900012001, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011900012001, 
-        "Text": "[Debug]\nIncreases your Soul of Secrets gauge increase by 50\uff05 (Turns: 3)\nIncreases Soul of Secrets damage by 50\uff05 (Turns: 3)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011900013001, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011900013001, 
-        "Text": "[Debug]\nDecreases your Soul of Secrets gauge increase by 50\uff05 (Turns: 3)\nDecreases Soul of Secrets damage by 50\uff05 (Turns: 3)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011900022002, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011900022002, 
-        "Text": "[Debug]\nIncreases your Soul of Secrets gauge increase by 30\uff05 (Turns: 5)\nIncreases Soul of Secrets damage by 30\uff05 (Turns: 5)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011900023002, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011900023002, 
-        "Text": "[Debug]\nDecreases your Soul of Secrets gauge increase by 30\uff05 (Turns: 5)\nDecreases Soul of Secrets damage by 30\uff05 (Turns: 5)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011900032003, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011900032003, 
-        "Text": "[Debug]\nIncreases your Soul of Divine Protection gauge increase by 50\uff05 (Turns: 3)\nIncreases Soul of Divine Protection damage by 50\uff05 (Turns: 3)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011900033003, 
-        "Text": "debug"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011900033003, 
-        "Text": "[Debug]\nDecreases your Soul of Divine Protection gauge increase by 30\uff05 (Turns: 5)\nDecreases Soul of Divine Protection damage by 30\uff05 (Turns: 5)"
     }, 
     {
         "ColumnName": "name", 
@@ -3412,7 +3102,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002022, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3422,7 +3112,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002023, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3432,7 +3122,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002024, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3442,7 +3132,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002025, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3452,7 +3142,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002026, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3462,7 +3152,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002027, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3472,7 +3162,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002028, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3482,7 +3172,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002029, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3492,7 +3182,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002030, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3502,7 +3192,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002031, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3512,7 +3202,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002032, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3522,7 +3212,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002033, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3532,7 +3222,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002034, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3542,7 +3232,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002035, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3552,7 +3242,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002036, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3562,7 +3252,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002037, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3572,7 +3262,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002038, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3582,7 +3272,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002039, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -3592,7 +3282,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20040000002040, 
-        "Text": "en_skill_effect_group@equipment_error"
+        "Text": "en_skill_effect_group@equipment_N/A"
     }, 
     {
         "ColumnName": "description", 
@@ -7221,6 +6911,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031500021009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500021009, 
+        "Text": "Unleashes a single-target light physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031500022001, 
         "Text": ""
     }, 
@@ -7341,6 +7041,36 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031500022015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500022015, 
+        "Text": "Increases own pierce rate by 30% (Turns: 3)\nIncreases own pierce resistance by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500022016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500022016, 
+        "Text": "Increases own pierce rate by 40% (Turns: 5)\nIncreases own pierce resistance by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500022017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500022017, 
+        "Text": "Increases own pierce rate until the end of battle by 30%\nIncreases own pierce resistance by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031500023007, 
         "Text": ""
     }, 
@@ -7358,6 +7088,56 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500023015, 
         "Text": "Chance to poison a single target: 75% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500023016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500023016, 
+        "Text": "Decreases your Soul of Skills gauge increase by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500023017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500023017, 
+        "Text": "Decreases your Soul of Skills gauge increase by 50% (Turns: 3)\nDecreases Soul of Skills damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500023018, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500023018, 
+        "Text": "Decreases your Soul of Skills gauge increase by 80% (Turns: 3)\nDecreases Soul of Skills damage by 80% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500023019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500023019, 
+        "Text": "Decreases all targets' pierce resistance by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500023020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500023020, 
+        "Text": "Increases own pierce rate until the end of battle by 30%\nDecreases all targets' pierce resistance by 50% (Turns: 3)\nIncreases own guard penetration by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -7388,6 +7168,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500027003, 
         "Text": "Unleashes an all-target earth physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500027004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500027004, 
+        "Text": "Unleashes an all-target light physical attack"
     }, 
     {
         "ColumnName": "name", 
@@ -7868,6 +7658,76 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500052026, 
         "Text": "Increases own guard penetration by 100% (Turns: 5)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052027, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052027, 
+        "Text": "Increases own pierce resistance by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052028, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052028, 
+        "Text": "Increases own P-ATK until the end of battle by 5%\nChance to stun a single target: 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052029, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052029, 
+        "Text": "Increases own P-ATK until the end of battle by 5%\nChance to stun all targets: 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052030, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052030, 
+        "Text": "Increases own P-ATK until the end of battle by 5%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052031, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052031, 
+        "Text": "Increases own P-ATK until the end of battle by 5%\nIncreases own counterattack rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052032, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052032, 
+        "Text": "Increases own Secret Skill Gauge by 100%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052033, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052033, 
+        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own P-ATK until the end of battle by 5%\nIncreases own light ATK by 20% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -11227,7 +11087,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20032500062024, 
-        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own critical rate by 70% (Turns: 2)\nIncreases own P-ATK until the end of battle by 10%"
+        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own critical rate by 70% (Turns: 2)\nIncreases own P-ATK until the end of battle by 10%\nDecreases all targets' earth resistance by 20% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -12107,7 +11967,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000242002, 
-        "Text": "Increases own ATK by 15% (Turns: 3)"
+        "Text": "Increases own ATK by 15% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -12117,7 +11977,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000242003, 
-        "Text": "Increases own ATK by 15% (Turns: 3)"
+        "Text": "Increases own ATK by 15% (Turns: 4)\nDecreases all targets' guard rate by 20% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -12167,7 +12027,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000243005, 
-        "Text": "Decreases a single target's ATK by 25% (Turns: 2)"
+        "Text": "Decreases all targets' DEF by 10% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -12257,7 +12117,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000252002, 
-        "Text": "Increases own pierce rate by 25% (Turns: 3)\nDecreases a single target's water resistance by 25% (Turns: 3)"
+        "Text": "Increases own DEF by 10% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -12267,7 +12127,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000252003, 
-        "Text": "Increases own pierce rate until the end of battle by 15%"
+        "Text": "Increases own DEF by 10% (Turns: 4)\nDecreases all targets' ATK by 15% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -12277,7 +12137,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000252004, 
-        "Text": "Increases own pierce rate by 50% (Turns: 3)"
+        "Text": "Increases own guard rate by 30% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -12311,6 +12171,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033000252008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000252008, 
+        "Text": "Increases own guard rate by 30% (Turns: 2)\nDecreases all targets' ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033000253002, 
         "Text": ""
     }, 
@@ -12327,7 +12197,17 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000253005, 
-        "Text": "Decreases a single target's pierce rate by 25% (Turns: 4)"
+        "Text": "Decreases Soul of Divine Protection damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000253006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000253006, 
+        "Text": "Decreases your Soul of Divine Protection gauge increase by 50% (Turns: 3)\nDecreases Soul of Divine Protection damage by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -14837,7 +14717,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000692005, 
-        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own critical rate by 50% (Turns: 2)\nDecreases all targets' physical attack resistance until the end of battle by 10%"
+        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own critical rate by 50% (Turns: 2)\nDecreases all targets' physical attack resistance until the end of battle by 10%\nDecreases all targets' earth resistance by 20% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -15341,6 +15221,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033001582003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001582003, 
+        "Text": "Increases own P-ATK by 15% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033001641001, 
         "Text": ""
     }, 
@@ -15698,6 +15588,76 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033001762004, 
         "Text": "Increases own M-ATK by 20% (Turns: 3)\nIncreases own critical rate by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762005, 
+        "Text": "Increases all allies' ATK until the end of battle by 5%\nDecreases Soul of Secrets damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762006, 
+        "Text": "Increases all allies' ATK until the end of battle by 5%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762007, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%\nIncreases own DEF by 30% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762008, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001763001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001763001, 
+        "Text": "Decreases Soul of Secrets damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001763003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001763003, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%\nIncreases own DEF by 30% (Turns: 2)\nDecreases Soul of Secrets damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001763004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001763004, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%\nChance to stun a single target: 100% (Turns: 2)\nDecreases Soul of Secrets damage by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -16557,7 +16517,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002343001, 
-        "Text": "Decreases your Soul of Secrets gauge increase by 50% (Turns: 2)"
+        "Text": "Decreases your Soul of Secrets gauge increase by 50% (Turns: 6)"
     }, 
     {
         "ColumnName": "name", 
@@ -16567,7 +16527,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002343002, 
-        "Text": "Decreases your Soul of Secrets gauge increase by 50% (Turns: 2)\nDecreases Soul of Secrets damage by 50% (Turns: 2)"
+        "Text": "Decreases your Soul of Secrets gauge increase by 50% (Turns: 6)\nDecreases Soul of Secrets damage by 50% (Turns: 6)"
     }, 
     {
         "ColumnName": "name", 
@@ -16577,7 +16537,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002343003, 
-        "Text": "Decreases your Soul of Secrets gauge increase by 80% (Turns: 2)\nDecreases Soul of Secrets damage by 80% (Turns: 2)"
+        "Text": "Decreases your Soul of Secrets gauge increase by 80% (Turns: 6)\nDecreases Soul of Secrets damage by 80% (Turns: 6)"
     }, 
     {
         "ColumnName": "name", 
@@ -16788,6 +16748,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002442003, 
         "Text": "Increases own guard rate by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002442004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002442004, 
+        "Text": "Increases own critical rate by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002442005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002442005, 
+        "Text": "Increases own DEF by 100% (Turns: 2)\nDecreases your Soul of Skills gauge increase by 50% (Turns: 3)\nDecreases Soul of Skills damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002443001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002443001, 
+        "Text": "Chance to poison all targets: 100% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -19068,2275 +19058,5 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20022500102016, 
         "Text": "When 3 vanguard have 75% or more HP, decreases all targets' DEF by 6% at start of turn"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011300021901, 
-        "Text": "Alice Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011300021901, 
-        "Text": "Unleashes a single-target space magic attack."
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011300022901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011300022901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011300022902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011300022902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011300022903, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011300022903, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500021901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500021901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500022901, 
-        "Text": "Shion Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500022901, 
-        "Text": "Shion Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500023901, 
-        "Text": "Shion Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500023901, 
-        "Text": "Shion Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500027901, 
-        "Text": "Shion Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500027901, 
-        "Text": "Shion Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500111901, 
-        "Text": "Evolved Hakurou Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500111901, 
-        "Text": "Evolved Hakurou Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500112901, 
-        "Text": "Evolved Hakurou Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500112901, 
-        "Text": "Evolved Hakurou Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500113901, 
-        "Text": "Evolved Hakurou Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500113901, 
-        "Text": "Evolved Hakurou Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20011500117901, 
-        "Text": "Evolved Hakurou Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20011500117901, 
-        "Text": "Evolved Hakurou Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20022500012901, 
-        "Text": "Orc D Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20022500012901, 
-        "Text": "Increases own ATK by 30% (Turns: 2)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20022500013902, 
-        "Text": "Orc D Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20022500013902, 
-        "Text": "Decreases all targets' ATK by 40% (Turns: 2)"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000501901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000501901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000501902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000501902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000502901, 
-        "Text": "Trishula Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000502901, 
-        "Text": "Trishula Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000503901, 
-        "Text": "Trishula Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000503901, 
-        "Text": "Trishula Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000507901, 
-        "Text": "Trishula Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000507901, 
-        "Text": "Trishula Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000661901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000661901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000661902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000661902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000662901, 
-        "Text": "Dodomeki Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000662901, 
-        "Text": "Dodomeki Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000663901, 
-        "Text": "Dodomeki Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000663901, 
-        "Text": "Dodomeki Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000667901, 
-        "Text": "Dodomeki Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000667901, 
-        "Text": "Dodomeki Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000671901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000671901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000671902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000671902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000672901, 
-        "Text": "Orcinus Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000672901, 
-        "Text": "Orcinus Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000673901, 
-        "Text": "Orcinus Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000673901, 
-        "Text": "Orcinus Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000677901, 
-        "Text": "Orcinus Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000677901, 
-        "Text": "Orcinus Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000681901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000681901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000681902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000681902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000682901, 
-        "Text": "Phobio Another Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000682901, 
-        "Text": "Phobio Another Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000683901, 
-        "Text": "Phobio Another Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000683901, 
-        "Text": "Phobio Another Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000687901, 
-        "Text": "Phobio Another Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000687901, 
-        "Text": "Phobio Another Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000691901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000691901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000691902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000691902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000692901, 
-        "Text": "Orc Disaster Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000692901, 
-        "Text": "Orc Disaster Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000693901, 
-        "Text": "Orc Disaster Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000693901, 
-        "Text": "Orc Disaster Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000697901, 
-        "Text": "Orc Disaster Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000697901, 
-        "Text": "Orc Disaster Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000771901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000771901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000771902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000771902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000772901, 
-        "Text": "Blue Haired Shinsha Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000772901, 
-        "Text": "Blue Haired Shinsha Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000773901, 
-        "Text": "Blue Haired Shinsha Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000773901, 
-        "Text": "Blue Haired Shinsha Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000777901, 
-        "Text": "Blue Haired Shinsha Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000777901, 
-        "Text": "Blue Haired Shinsha Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000931901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000931901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000931902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000931902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000932901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000932901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000933901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000933901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033000937901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033000937901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001051901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001051901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001051902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001051902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001052901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001052901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001053901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001053901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001057901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001057901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001091901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001091901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001091902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001091902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001092901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001092901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001093901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001093901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001097901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001097901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001161901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001161901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001161902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001161902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001162901, 
-        "Text": "Black Snake Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001162901, 
-        "Text": "Black Snake Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001163901, 
-        "Text": "Black Snake Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001163901, 
-        "Text": "Black Snake Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001167901, 
-        "Text": "Black Snake Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001167901, 
-        "Text": "Black Snake Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001171901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001171901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001171902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001171902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001172901, 
-        "Text": "Evil Centipede Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001172901, 
-        "Text": "Evil Centipede Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001173901, 
-        "Text": "Evil Centipede Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001173901, 
-        "Text": "Evil Centipede Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001181901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001181901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001181902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001181902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001182901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001182901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001183901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001183901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001187901, 
-        "Text": "Black Spider Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001187901, 
-        "Text": "Black Spider Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001581901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001581901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001581902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001581902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001582901, 
-        "Text": "Generic Soldier Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001582901, 
-        "Text": "Generic Soldier Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001583901, 
-        "Text": "Generic Soldier Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001583901, 
-        "Text": "Generic Soldier Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001641901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001641901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001641902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001641902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001642901, 
-        "Text": "Pink Haired Shinsha Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001642901, 
-        "Text": "Pink Haired Shinsha Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001643901, 
-        "Text": "Pink Haired Shinsha Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001643901, 
-        "Text": "Pink Haired Shinsha Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001647901, 
-        "Text": "Pink Haired Shinsha Secret Skill"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001647901, 
-        "Text": "Pink Haired Shinsha Secret Skill"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001761901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001761901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001761902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001761902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001762901, 
-        "Text": "Generic Mage Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001762901, 
-        "Text": "Generic Mage Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001763901, 
-        "Text": "Generic Mage Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001763901, 
-        "Text": "Generic Mage Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001771901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001771901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001771902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001771902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001772901, 
-        "Text": "Giant Ant Earth Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001772901, 
-        "Text": "Giant Ant Earth Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001773901, 
-        "Text": "Giant Ant Earth Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001773901, 
-        "Text": "Giant Ant Earth Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001781901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001781901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001781902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001781902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001782901, 
-        "Text": "Giant Ant Space Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001782901, 
-        "Text": "Giant Ant Space Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001783901, 
-        "Text": "Giant Ant Space Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001783901, 
-        "Text": "Giant Ant Space Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001791901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001791901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001791902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001791902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001792901, 
-        "Text": "Giant Ant Wind Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001792901, 
-        "Text": "Giant Ant Wind Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001793901, 
-        "Text": "Giant Ant Wind Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001793901, 
-        "Text": "Giant Ant Wind Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001801901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001801901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001801902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001801902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001802901, 
-        "Text": "Giant Ant Water Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001802901, 
-        "Text": "Giant Ant Water Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001803901, 
-        "Text": "Giant Ant Water Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001803901, 
-        "Text": "Giant Ant Water Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001811901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001811901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001811902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001811902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001812901, 
-        "Text": "Giant Ant Fire Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001812901, 
-        "Text": "Giant Ant Fire Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001813901, 
-        "Text": "Giant Ant Fire Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001813901, 
-        "Text": "Giant Ant Fire Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001821901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001821901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001821902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001821902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001822901, 
-        "Text": "Giant Ant Light Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001822901, 
-        "Text": "Giant Ant Light Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001823901, 
-        "Text": "Giant Ant Light Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001823901, 
-        "Text": "Giant Ant Light Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001831901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001831901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001831902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001831902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001832901, 
-        "Text": "Giant Ant Dark Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001832901, 
-        "Text": "Giant Ant Dark Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001833901, 
-        "Text": "Giant Ant Dark Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001833901, 
-        "Text": "Giant Ant Dark Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001841901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001841901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001841902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001841902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001842901, 
-        "Text": "Giant Bat Earth Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001842901, 
-        "Text": "Giant Bat Earth Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001843901, 
-        "Text": "Giant Bat Earth Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001843901, 
-        "Text": "Giant Bat Earth Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001851901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001851901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001851902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001851902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001852901, 
-        "Text": "Giant Bat Space Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001852901, 
-        "Text": "Giant Bat Space Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001853901, 
-        "Text": "Giant Bat Space Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001853901, 
-        "Text": "Giant Bat Space Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001861901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001861901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001861902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001861902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001862901, 
-        "Text": "Giant Bat Wind Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001862901, 
-        "Text": "Giant Bat Wind Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001863901, 
-        "Text": "Giant Bat Wind Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001863901, 
-        "Text": "Giant Bat Wind Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001871901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001871901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001871902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001871902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001872901, 
-        "Text": "Giant Bat Water Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001872901, 
-        "Text": "Giant Bat Water Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001873901, 
-        "Text": "Giant Bat Water Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001873901, 
-        "Text": "Giant Bat Water Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001881901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001881901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001881902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001881902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001882901, 
-        "Text": "Giant Bat Fire Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001882901, 
-        "Text": "Giant Bat Fire Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001883901, 
-        "Text": "Giant Bat Fire Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001883901, 
-        "Text": "Giant Bat Fire Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001891901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001891901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001891902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001891902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001892901, 
-        "Text": "Giant Bat Light Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001892901, 
-        "Text": "Giant Bat Light Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001893901, 
-        "Text": "Giant Bat Light Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001893901, 
-        "Text": "Giant Bat Light Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001901901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001901901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001901902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001901902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001902901, 
-        "Text": "Giant Bat Dark Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001902901, 
-        "Text": "Giant Bat Dark Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001903901, 
-        "Text": "Giant Bat Dark Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001903901, 
-        "Text": "Giant Bat Dark Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001911901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001911901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001911902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001911902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001912901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001912901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001913901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001913901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001921901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001921901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001921902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001921902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001922901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001922901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001923901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001923901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001931901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001931901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001931902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001931902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001932901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001932901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001933901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001933901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001941901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001941901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001941902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001941902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001942901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001942901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001943901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001943901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001951901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001951901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001951902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001951902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001952901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001952901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001953901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001953901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001961901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001961901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001961902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001961902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001962901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001962901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001963901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001963901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001971901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001971901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001971902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001971902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001972901, 
-        "Text": "Black Spider Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001972901, 
-        "Text": "Night Spider Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033001973901, 
-        "Text": "Black Spider Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033001973901, 
-        "Text": "Night Spider Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002021901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002021901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002021902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002021902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002022901, 
-        "Text": "Armorsaurus Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002022901, 
-        "Text": "Armorsaurus Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002023901, 
-        "Text": "Armorsaurus Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002023901, 
-        "Text": "Armorsaurus Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002031901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002031901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002031902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002031902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002032901, 
-        "Text": "Phantaspore Buff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002032901, 
-        "Text": "Phantaspore Buff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002033901, 
-        "Text": "Phantaspore Debuff"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002033901, 
-        "Text": "Phantaspore Debuff"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002341901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002341901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002341902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002341902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002342901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002342901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002343901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002343901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002347901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002347901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002351901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002351901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002351902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002351902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002352901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002352901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002353901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002353901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002357901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002357901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002371901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002371901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002371902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002371902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002372901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002372901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002373901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002373901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002377901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002377901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002381901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002381901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002381902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002381902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002382901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002382901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002383901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002383901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002387901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002387901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002421901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002421901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002421902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002421902, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002422901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002422901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002423901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002423901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002427901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002427901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002431901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002431901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002431902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002431902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002432901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002432901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002433901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002433901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002441901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002441901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002441902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002441902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002442901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002442901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002443901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002443901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002461901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002461901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002461902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002461902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002462901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002462901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002463901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002463901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002481901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002481901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002481902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002481902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002482901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002482901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002483901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002483901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002491901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002491901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002491902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002491902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002492901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002492901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002493901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002493901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002501901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002501901, 
-        "Text": "Normal Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002501902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002501902, 
-        "Text": "All Target Attack"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002502901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002502901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 20033002503901, 
-        "Text": "en_skill_effect_group@test_N/A"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 20033002503901, 
-        "Text": "en_skill_effect_group@test_N/A"
     }
 ]

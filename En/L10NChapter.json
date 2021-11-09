@@ -86,6 +86,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 4001002003, 
+        "Text": "Veldora's Slime Observation Journal"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001002005, 
+        "Text": "Awakening Trials"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 4001003001, 
         "Text": "Gobta's Request"
     }, 

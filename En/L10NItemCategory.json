@@ -93,10 +93,5 @@
         "ColumnName": "name", 
         "LocalizationTargetId": 1000019, 
         "Text": "Gallery Items"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 1000020, 
-        "Text": "TEST"
     }
 ]

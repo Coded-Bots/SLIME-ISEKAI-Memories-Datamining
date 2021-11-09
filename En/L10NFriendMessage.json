@@ -163,5 +163,15 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 816000033, 
         "Text": "Sworn Friendship request failed."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000034, 
+        "Text": "You have reached your Sworn Friend limit."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 816000035, 
+        "Text": "This chancellor has reached their Sworn Friend limit."
     }
 ]

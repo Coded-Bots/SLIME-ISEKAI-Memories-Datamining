@@ -2471,6 +2471,91 @@
     }, 
     {
         "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050124, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050125, 
+        "Text": "Oho, an offering for me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050126, 
+        "Text": "Delicious! This is delicious!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050127, 
+        "Text": "I expected nothing less of you, my friend. Hehehe..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050129, 
+        "Text": "Hey, hey! Don't you care about me? Why are you ignoring me?!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050130, 
+        "Text": "Gwahahaha! What a fine morning!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050131, 
+        "Text": "Hmph, noon already? I hope you've got something tasty for me to eat."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050132, 
+        "Text": "The night is long! We can chat together to our hearts' content!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050133, 
+        "Text": "Being left behind is so lonely...I'm so lonesome, my friend..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050134, 
+        "Text": "You are my friend, and that is that! You should take great pride in it!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050135, 
+        "Text": "I'm quite pleased with this Tempest name I received from you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050137, 
+        "Text": "Still, don't you think you might be using my magicules a little too freely?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050139, 
+        "Text": "Are there more of these sacred writings? I can't help being curious!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050140, 
+        "Text": "I never imagined the Great Forest of Jura could flourish like this!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050144, 
+        "Text": "Imagine me, dressed like this!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050145, 
+        "Text": "Oh, does it suit me? I see, I see!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010050146, 
+        "Text": "Doesn't this seem somewhat undignified?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010050201, 
         "Text": "..."
     }, 

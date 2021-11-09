@@ -178,5 +178,10 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 814000036, 
         "Text": "Language now set as {0}.\nReturning to the title screen."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000037, 
+        "Text": "TBD"
     }
 ]

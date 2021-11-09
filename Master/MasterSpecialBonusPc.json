@@ -9,6 +9,15 @@
         "ReleaseLabeloffset": "202111_event_akuma1"
     }, 
     {
+        "MasterPcId": 150024, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 1, 
+        "MasterSpecialBonusPcDetailValueGroupId": 2, 
+        "MasterSpecialBonusPcGroupId": 4001002001, 
+        "MasterSpecialBonusPcId": 100000000002, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora"
+    }, 
+    {
         "MasterPcId": 150012, 
         "MasterPcType": 1, 
         "MasterSpecialBonusPcDetailGroupId": 1, 

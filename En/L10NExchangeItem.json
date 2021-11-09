@@ -57,7 +57,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 2400008, 
-        "Text": "Item that can be exchanged for Octagram Emblem Demon Lords."
+        "Text": "Item that can be exchanged for Octagram Demon Lords."
     }, 
     {
         "ColumnName": "name", 

@@ -159,5 +159,12 @@
         "MasterRewardGroupId": 802100250009, 
         "ReleaseLabeloffset": "202111_lottery_akuma1", 
         "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000051, 
+        "MasterOgcLotteryShopId": 500000020, 
+        "MasterRewardGroupId": 802100150024, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup", 
+        "SelectionPoint": 200
     }
 ]

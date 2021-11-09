@@ -1318,5 +1318,20 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 4104002183, 
         "Text": "Clear with 1 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002191, 
+        "Text": "Win a battle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002192, 
+        "Text": "Clear without using a continue"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104002193, 
+        "Text": "Clear with 1 surviving characters"
     }
 ]

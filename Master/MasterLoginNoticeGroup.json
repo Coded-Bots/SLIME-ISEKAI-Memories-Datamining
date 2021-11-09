@@ -3,5 +3,15 @@
         "MasterLoginNoticeGroupId": 62000000001, 
         "Priority": 10, 
         "ReleaseLabeloffset": "202111_lottery_akuma1"
+    }, 
+    {
+        "MasterLoginNoticeGroupId": 62000000002, 
+        "Priority": 11, 
+        "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "MasterLoginNoticeGroupId": 62000000003, 
+        "Priority": 9, 
+        "ReleaseLabeloffset": "202111_campaign_release_banner2"
     }
 ]

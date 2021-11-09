@@ -37,7 +37,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30010600222, 
-        "Text": "Well, that's it. You'd better call me Teacher from now on."
+        "Text": "Well, that's it. You'd better call me \"Teacher\" from now on."
     }, 
     {
         "ColumnName": "text", 
@@ -1997,7 +1997,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30027200132, 
-        "Text": "Argh, I can't believe it! I put a lot of work into my One Hundred Hakurou Bewilderment Ideas in a Row strategy, and not a single one of them had any effect... "
+        "Text": "Argh, I can't believe it! I put a lot of work into my \"One Hundred Hakurou Bewilderment Ideas in a Row\" strategy, and not a single one of them had any effect... "
     }, 
     {
         "ColumnName": "text", 
@@ -4232,7 +4232,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009100822, 
-        "Text": "So that was the Tempest Scales skill that gave Charybdis the name Tyrant. Never seen it before!"
+        "Text": "So that was the Tempest Scales skill that gave Charybdis the name \"Tyrant.\" Never seen it before!"
     }, 
     {
         "ColumnName": "text", 
@@ -4822,7 +4822,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30101800202, 
-        "Text": "@exp Ranga.Cool.Idle:We have a saying. All of us are as one. Our brethren offer you unwavering loyalty."
+        "Text": "@exp Ranga.Cool.Idle:We have a saying. \"All of us are as one.\" Our brethren offer you unwavering loyalty."
     }, 
     {
         "ColumnName": "text", 
@@ -5802,7 +5802,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30111200112, 
-        "Text": "Answer: Equipment of target {0} {1} for {2} individual can evolve."
+        "Text": "Answer: Equipment of target \"{0} {1}\" for \"{2}\" individual can evolve."
     }, 
     {
         "ColumnName": "text", 
@@ -6037,7 +6037,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30041700212, 
-        "Text": "I mean, I know I'm calling it a gift, but it's really just something to help you with your job. Sorry, I admit that much. "
+        "Text": "I mean, I know I'm calling it a \"gift,\" but it's really just something to help you with your job. Sorry, I admit that much. "
     }, 
     {
         "ColumnName": "text", 
@@ -6687,7 +6687,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009200252, 
-        "Text": "Answer: Judging from the speed at which it repairs its body tissue, there is no doubt that the individual Charybdis possesses the extra skill Ultraspeed Regeneration."
+        "Text": "Answer: Judging from the speed at which it repairs its body tissue, there is no doubt that the individual Charybdis possesses the extra skill \"Ultraspeed Regeneration.\""
     }, 
     {
         "ColumnName": "text", 
@@ -6817,7 +6817,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009200952, 
-        "Text": "Milim? You just said Milim, didn't you?"
+        "Text": "Milim? You just said \"Milim,\" didn't you?"
     }, 
     {
         "ColumnName": "text", 
@@ -7067,7 +7067,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009202182, 
-        "Text": "This is...what you call restraint! Drago Buster!"
+        "Text": "This is...what you call \"restraint\"! Drago Buster!"
     }, 
     {
         "ColumnName": "text", 
@@ -7387,7 +7387,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30111100112, 
-        "Text": "Answer: Remaining clear limit of {0} not yet reached for target quest. Acceptance of quest recommended."
+        "Text": "Answer: Remaining clear limit of \"{0}\" not yet reached for target quest. Acceptance of quest recommended."
     }, 
     {
         "ColumnName": "text", 
@@ -7612,7 +7612,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30001200852, 
-        "Text": "What did you mean by no belittling other races?"
+        "Text": "What did you mean by \"no belittling other races\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -9592,7 +9592,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30106300242, 
-        "Text": "I'm sure I could help them with their research..."
+        "Text": "I'm sure I could help them with their \"research\"..."
     }, 
     {
         "ColumnName": "text", 
@@ -10452,7 +10452,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30005503962, 
-        "Text": "Not anymore. My master granted me the name Souei, and I became a Kijin."
+        "Text": "Not anymore. My master granted me the name \"Souei,\" and I became a Kijin."
     }, 
     {
         "ColumnName": "text", 
@@ -11692,7 +11692,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009600212, 
-        "Text": "Haha... I told Papa, I'm gonna go think up an even more amazing skill, but the joke's on me for having such a tough time against ants like these."
+        "Text": "Haha... I told Papa, \"I'm gonna go think up an even more amazing skill,\" but the joke's on me for having such a tough time against ants like these."
     }, 
     {
         "ColumnName": "text", 
@@ -13872,7 +13872,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121904322, 
-        "Text": "Oooh! I feel something inside me changing, evolving! My Unique skill Inquirer has become Faust!"
+        "Text": "Oooh! I feel something inside me changing, evolving! My Unique skill \"Inquirer\" has become \"Faust!\""
     }, 
     {
         "ColumnName": "text", 
@@ -17487,7 +17487,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30012300732, 
-        "Text": "@exp Ramiris.Angry.Angry:What do you mean, believe it or not?!"
+        "Text": "@exp Ramiris.Angry.Angry:What do you mean, \"believe it or not\"?!"
     }, 
     {
         "ColumnName": "text", 
@@ -17547,7 +17547,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30012300992, 
-        "Text": "@exp Rimuru.Cool.Exclusive_2:All right, I grant you the name Beretta."
+        "Text": "@exp Rimuru.Cool.Exclusive_2:All right, I grant you the name \"Beretta.\""
     }, 
     {
         "ColumnName": "text", 
@@ -20517,7 +20517,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011502282, 
-        "Text": "Excuse me, miss! Did you just say the Dwelling of Spirits? Do you know where that is?"
+        "Text": "Excuse me, miss! Did you just say \"the Dwelling of Spirits\"? Do you know where that is?"
     }, 
     {
         "ColumnName": "text", 
@@ -20667,7 +20667,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30015300272, 
-        "Text": "@exp RimuruDefault.Smile.Angry: Sweetness captures the heart! So let's make a caf\u00e9 that caters to travelers!"
+        "Text": "@exp RimuruDefault.Smile.Angry: Sweetness captures the heart! So let's make a \"caf\u00e9\" that caters to travelers!"
     }, 
     {
         "ColumnName": "text", 
@@ -20727,7 +20727,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000100422, 
-        "Text": "Ever since then, I've learned about the Great Sage, Predator, and all sorts of other things. I'll spare you the details for now."
+        "Text": "Ever since then, I've learned about the \"Great Sage,\" \"Predator,\" and all sorts of other things. I'll spare you the details for now."
     }, 
     {
         "ColumnName": "text", 
@@ -20937,7 +20937,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000101742, 
-        "Text": "It's a little embarrassing talking about friends at my age..."
+        "Text": "It's a little embarrassing talking about \"friends\" at my age..."
     }, 
     {
         "ColumnName": "text", 
@@ -20997,7 +20997,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000102262, 
-        "Text": "A shared name... You mean like a family name. You're the Storm Dragon... Storm... Another word for storm?"
+        "Text": "A shared name... You mean like a family name. You're the Storm Dragon... Storm... Another word for \"storm\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -21007,7 +21007,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000102302, 
-        "Text": "What do you think of Tempest? Too cheesy?"
+        "Text": "What do you think of \"Tempest\"? Too cheesy?"
     }, 
     {
         "ColumnName": "text", 
@@ -21047,7 +21047,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000102482, 
-        "Text": "Rimuru! You will be Rimuru Tempest!"
+        "Text": "\"Rimuru!\" You will be Rimuru Tempest!"
     }, 
     {
         "ColumnName": "text", 
@@ -21142,7 +21142,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000101111, 
-        "Text": "Veldora had actually been sealed here for 300 years by a Hero who was what is known as a Summon, someone forced to come to this world. She used the skill Unlimited Imprisonment."
+        "Text": "Veldora had actually been sealed here for 300 years by a Hero who was what is known as a Summon, someone forced to come to this world. She used the skill \"\"Unlimited Imprisonment\"\"."
     }, 
     {
         "ColumnName": "text", 
@@ -21817,7 +21817,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008002212, 
-        "Text": "Temper tantrums now?! Fine, fine. But I have one condition. From now on, you'll call me Great Rimuru."
+        "Text": "Temper tantrums now?! Fine, fine. But I have one condition. From now on, you'll call me \"Great Rimuru.\""
     }, 
     {
         "ColumnName": "text", 
@@ -21827,7 +21827,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008002252, 
-        "Text": "Screw that! You should address me with respect! You will call me Great Milim!"
+        "Text": "Screw that! You should address me with respect! You will call me \"Great Milim\"!"
     }, 
     {
         "ColumnName": "text", 
@@ -21837,7 +21837,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008002292, 
-        "Text": "Okay, let's do this. I'll call you Milim, and you can call me Rimuru."
+        "Text": "Okay, let's do this. I'll call you \"Milim,\" and you can call me \"Rimuru.\""
     }, 
     {
         "ColumnName": "text", 
@@ -21847,7 +21847,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008002382, 
-        "Text": "Fine... But just you and no one else! And you should thank me for this honor! The only ones I allow to call me Milim are my fellow Demon Lords."
+        "Text": "Fine... But just you and no one else! And you should thank me for this honor! The only ones I allow to call me \"Milim\" are my fellow Demon Lords."
     }, 
     {
         "ColumnName": "text", 
@@ -22177,7 +22177,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008003812, 
-        "Text": "What do you mean, live here?"
+        "Text": "What do you mean, \"live here\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -22227,7 +22227,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008004002, 
-        "Text": "You're right. Calling us friends is a little weird."
+        "Text": "You're right. Calling us \"friends\" is a little weird."
     }, 
     {
         "ColumnName": "text", 
@@ -22477,7 +22477,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008005032, 
-        "Text": "Her strength was on a completely different level. There was never any question of us stopping her. If not for Great Rimuru, we wouldn't be alive right now."
+        "Text": "Her strength was on a completely different level. There was never any question of us \"stopping\" her. If not for Great Rimuru, we wouldn't be alive right now."
     }, 
     {
         "ColumnName": "text", 
@@ -22497,7 +22497,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008005122, 
-        "Text": "On that note... We shall entrust everything to Great Rimuru, the one she has deemed her bestie! No objections, I'm assuming?"
+        "Text": "On that note... We shall entrust everything to Great Rimuru, the one she has deemed her \"bestie\"! No objections, I'm assuming?"
     }, 
     {
         "ColumnName": "text", 
@@ -23032,7 +23032,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30002902462, 
-        "Text": "Mr. Slime, that line you said was from a game, wasn't it? I'm not a bad slime."
+        "Text": "Mr. Slime, that line you said was from a game, wasn't it? \"I'm not a bad slime.\""
     }, 
     {
         "ColumnName": "text", 
@@ -24857,7 +24857,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007302022, 
-        "Text": "All I've been thinking about is how can I be with my daddy? Even if I tried to figure out how I might kill Rimuru Tempest, there's no way I could have come up with a way to do it. But..."
+        "Text": "All I've been thinking about is \"how can I be with my daddy?\" Even if I tried to figure out how I might kill Rimuru Tempest, there's no way I could have come up with a way to do it. But..."
     }, 
     {
         "ColumnName": "text", 
@@ -25337,7 +25337,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007304302, 
-        "Text": "@exp Rimuru_C.None.Sad:So now rumors will start to spread that I have a secret child... My friends all believe me for now, but you know how that goes. More than anyone, I'll be the one who starts having doubts of my own."
+        "Text": "@exp Rimuru_C.None.Sad:So now rumors will start to spread that I have a \"secret child\"... My friends all believe me for now, but you know how that goes. More than anyone, I'll be the one who starts having doubts of my own."
     }, 
     {
         "ColumnName": "text", 
@@ -27677,7 +27677,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121501252, 
-        "Text": "H-How could you... And what do you mean, the town is still standing? What exactly did she make?"
+        "Text": "H-How could you... And what do you mean, \"the town is still standing\"? What exactly did she make?"
     }, 
     {
         "ColumnName": "text", 
@@ -28357,7 +28357,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007000302, 
-        "Text": "Notice: The unique skill Helix has added a piercing attribute to all attacks performed by the individual Gabiru."
+        "Text": "Notice: The unique skill \"Helix\" has added a piercing attribute to all attacks performed by the individual Gabiru."
     }, 
     {
         "ColumnName": "text", 
@@ -28797,7 +28797,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30110800112, 
-        "Text": "Answer: Target {0} {1} individual can awaken or evolve."
+        "Text": "Answer: Target \"{0} {1}\" individual can awaken or evolve."
     }, 
     {
         "ColumnName": "text", 
@@ -30072,7 +30072,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007200542, 
-        "Text": "@exp Soei.Puzzle.Exclusive_1:Well, it's a guest...but I don't think problematic exactly covers it..."
+        "Text": "@exp Soei.Puzzle.Exclusive_1:Well, it's a guest...but I don't think \"problematic\" exactly covers it..."
     }, 
     {
         "ColumnName": "text", 
@@ -30162,7 +30162,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007200962, 
-        "Text": "Ah... I see. You and the others have forgotten what happened on the other side, haven't you, Daddy?"
+        "Text": "Ah... I see. You and the others have forgotten what happened \"on the other side,\" haven't you, Daddy?"
     }, 
     {
         "ColumnName": "text", 
@@ -30282,7 +30282,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007201712, 
-        "Text": "@exp Rimuru_C.Angry.Angry:I didn't do anything! And what do you mean, finally?!"
+        "Text": "@exp Rimuru_C.Angry.Angry:I didn't do anything! And what do you mean, \"finally\"?!"
     }, 
     {
         "ColumnName": "text", 
@@ -31342,7 +31342,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121404402, 
-        "Text": "(There's no way anyone would understand how a prepared ingredient could be running around like that...)"
+        "Text": "(There's no way anyone would understand how a \"prepared ingredient\" could be running around like that...)"
     }, 
     {
         "ColumnName": "text", 
@@ -31432,7 +31432,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30012000202, 
-        "Text": "Anything. It can be, Help me! Or even, Let's play! If any spirits take interest and come to you, the summon was a success."
+        "Text": "Anything. It can be, \"Help me!\" Or even, \"Let's play!\" If any spirits take interest and come to you, the summon was a success."
     }, 
     {
         "ColumnName": "text", 
@@ -35202,7 +35202,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006602262, 
-        "Text": "There is one immutable rule shared among all monsters: Survival of the fittest. The moment they faced each other, they were both prepared for that."
+        "Text": "There is one immutable rule shared among all monsters: \"Survival of the fittest.\" The moment they faced each other, they were both prepared for that."
     }, 
     {
         "ColumnName": "text", 
@@ -36432,7 +36432,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007501512, 
-        "Text": "(Our nation's name? I didn't think of that! Um... If I take one word from the Forest of Jura, and one from Rimuru Tempest...)"
+        "Text": "(Our nation's name? I didn't think of that! Um... If I take one word from the \"Forest of Jura,\" and one from Rimuru Tempest...)"
     }, 
     {
         "ColumnName": "text", 
@@ -36557,7 +36557,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007502031, 
-        "Text": "On this day, the names the Jura Tempest Federation and Capital City Rimuru were engraved in history for the first time."
+        "Text": "On this day, the names \"the Jura Tempest Federation\" and \"Capital City Rimuru\" were engraved in history for the first time."
     }, 
     {
         "ColumnName": "text", 
@@ -37137,7 +37137,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003001072, 
-        "Text": "Shizu, what do you mean by last?"
+        "Text": "Shizu, what do you mean by \"last\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -39272,7 +39272,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011800222, 
-        "Text": "Hey, what the hell?! It's trying to kill me! How is this a test?!"
+        "Text": "Hey, what the hell?! It's trying to kill me! How is this a \"test\"?!"
     }, 
     {
         "ColumnName": "text", 
@@ -39462,7 +39462,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30110300132, 
-        "Text": "It was wonderful the way King Gazel brought you here as a gift."
+        "Text": "It was wonderful the way King Gazel brought you here as a \"gift.\""
     }, 
     {
         "ColumnName": "text", 
@@ -39492,7 +39492,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30110300252, 
-        "Text": "King Gazel said I could use you as I wish. Are you okay with that?"
+        "Text": "King Gazel said I could \"use you as I wish.\" Are you okay with that?"
     }, 
     {
         "ColumnName": "text", 
@@ -39812,7 +39812,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006700822, 
-        "Text": "@exp Rimuru_C.Cool.Exclusive_2:In hopes that you inherit the wishes of the Orc Disaster, Geld, I grant you the name Geld."
+        "Text": "@exp Rimuru_C.Cool.Exclusive_2:In hopes that you inherit the wishes of the Orc Disaster, Geld, I grant you the name \"Geld.\""
     }, 
     {
         "ColumnName": "text", 
@@ -40772,7 +40772,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009300172, 
-        "Text": "Where the hell is the restraint?"
+        "Text": "Where the hell is the \"restraint\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -40922,7 +40922,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003300612, 
-        "Text": "Answer: Due to Thermal Fluctuation Resistance, fire attacks are being automatically nullified."
+        "Text": "Answer: Due to \"Thermal Fluctuation Resistance,\" fire attacks are being automatically nullified."
     }, 
     {
         "ColumnName": "text", 
@@ -40992,7 +40992,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003301122, 
-        "Text": "Use unique skill Predator?"
+        "Text": "Use unique skill \"Predator\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -43162,7 +43162,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006901842, 
-        "Text": "That mirror world place... I had completely forgotten it until I came here again. I guess something must make you forget your memories of this world whenever you leave the mirror."
+        "Text": "That \"mirror world\" place... I had completely forgotten it until I came here again. I guess something must make you forget your memories of this world whenever you leave the mirror."
     }, 
     {
         "ColumnName": "text", 
@@ -43842,7 +43842,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011701092, 
-        "Text": "Hey, is our test to defeat this thing, maybe?"
+        "Text": "Hey, is our \"test\" to defeat this thing, maybe?"
     }, 
     {
         "ColumnName": "text", 
@@ -45047,7 +45047,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003700202, 
-        "Text": "Multilayer Barrier... Power achieved through the unification of multiple skills. This is the real Degenerate...a skill I received from Shizu!"
+        "Text": "\"Multilayer Barrier\"... Power achieved through the unification of multiple skills. This is the real \"Degenerate\"...a skill I received from Shizu!"
     }, 
     {
         "ColumnName": "text", 
@@ -45457,7 +45457,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30018800132, 
-        "Text": "Oh, of course. Let's hear it. What is your private request?"
+        "Text": "Oh, of course. Let's hear it. What is your \"private request\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -48607,7 +48607,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30108800202, 
-        "Text": "@exp Vesta.Normal.Exclusive_1:If I'm ever allowed to enter Dwargon again, I will have to make my apologies to the Butterflies of the Night, too."
+        "Text": "@exp Vesta.Normal.Exclusive_1:If I'm ever allowed to enter Dwargon again, I will have to make my apologies to the \"Butterflies of the Night,\" too."
     }, 
     {
         "ColumnName": "text", 
@@ -48617,7 +48617,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30108800242, 
-        "Text": "I'll go with you when you do. Not to enjoy the butterflies, mind you."
+        "Text": "I'll go with you when you do. Not to enjoy the \"butterflies,\" mind you."
     }, 
     {
         "ColumnName": "text", 
@@ -48957,7 +48957,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011101552, 
-        "Text": "Teacher, huh? I like the sound of that."
+        "Text": "\"Teacher,\" huh? I like the sound of that."
     }, 
     {
         "ColumnName": "text", 
@@ -50311,6 +50311,26 @@
     }, 
     {
         "ColumnName": "text", 
+        "LocalizationTargetId": 30122300071, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122300072, 
+        "Text": "Great Sage, is there more data on the chancellors?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122300101, 
+        "Text": "Great Sage"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122300102, 
+        "Text": "Understood. Presenting analysis results."
+    }, 
+    {
+        "ColumnName": "text", 
         "LocalizationTargetId": 30122100271, 
         "Text": "Diablo"
     }, 
@@ -50567,7 +50587,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30045600172, 
-        "Text": "@exp Trya.Smile.Exclusive_1:Teehee, what you can do is not the same as what anyone can do!  "
+        "Text": "@exp Trya.Smile.Exclusive_1:Teehee, what \"you\" can do is not the same as what \"anyone\" can do!  "
     }, 
     {
         "ColumnName": "text", 
@@ -50907,7 +50927,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011902022, 
-        "Text": "Milim showed up here for the first time in ages, bragging about how she'd found herself a bestie."
+        "Text": "Milim showed up here for the first time in ages, bragging about how she'd found herself a \"bestie.\""
     }, 
     {
         "ColumnName": "text", 
@@ -51047,7 +51067,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011902832, 
-        "Text": "Is fell from grace something you'd say about yourself?"
+        "Text": "Is \"fell from grace\" something you'd say about yourself?"
     }, 
     {
         "ColumnName": "text", 
@@ -51067,7 +51087,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30011902902, 
-        "Text": "He?"
+        "Text": "\"He\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -51562,7 +51582,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30019300212, 
-        "Text": "So that's why reporting, contacting, and consulting are so important! Back in Japan we used the word horenso, which means spinach, as a way to remember this concept. Ho is short for hokoku (report),  ren is short for renraku (contacting), and so is short for sodan (consulting). Ho-ren-so...spinach!"
+        "Text": "So that's why reporting, contacting, and consulting are so important! Back in Japan we used the word \"horenso,\" which means \"spinach,\" as a way to remember this concept. \"Ho\" is short for \"hokoku\" (report),  \"ren\" is short for \"renraku\" (contacting), and \"so\" is short for \"sodan\" (consulting). Ho-ren-so...spinach!"
     }, 
     {
         "ColumnName": "text", 
@@ -51572,7 +51592,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30019300252, 
-        "Text": "@exp Benimaru.Cool.Exclusive_1:I get it. So to make sure that we keep cooperating, it's important for everyone to apply the spinach concept of ho-ren-so. "
+        "Text": "@exp Benimaru.Cool.Exclusive_1:I get it. So to make sure that we keep cooperating, it's important for everyone to apply the \"spinach\" concept of \"ho-ren-so.\" "
     }, 
     {
         "ColumnName": "text", 
@@ -52082,7 +52102,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003601882, 
-        "Text": "Stay back...? You said please before!"
+        "Text": "Stay back...? You said \"please\" before!"
     }, 
     {
         "ColumnName": "text", 
@@ -52262,7 +52282,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003603052, 
-        "Text": "The Recapturer of Flames can do more than just unleash heat, it can also steal it. Taking the past experience of defeating a Salamander as sustenance, it froze the moisture in the air."
+        "Text": "The Recapturer of Flames can do more than just unleash heat, it can also \"steal\" it. Taking the past experience of defeating a Salamander as sustenance, it froze the moisture in the air."
     }, 
     {
         "ColumnName": "text", 
@@ -52292,7 +52312,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003603162, 
-        "Text": "@exp RimuruSlime.None.Angry:Hot and cold mean nothing to me. I've achieved Thermal Fluctuation Resistance, so ice doesn't work on me either!"
+        "Text": "@exp RimuruSlime.None.Angry:Hot and \"cold\" mean nothing to me. I've achieved \"Thermal Fluctuation Resistance,\" so ice doesn't work on me either!"
     }, 
     {
         "ColumnName": "text", 
@@ -52402,7 +52422,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30003603712, 
-        "Text": "He combined the skills?! Unification... Degenerate?!"
+        "Text": "He combined the skills?! Unification... \"Degenerate\"?!"
     }, 
     {
         "ColumnName": "text", 
@@ -52432,7 +52452,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30104500242, 
-        "Text": "I think I know what you mean, but I don't think I can see a tyrant like that as cute necessarily..."
+        "Text": "I think I know what you mean, but I don't think I can see a tyrant like that as \"cute\" necessarily..."
     }, 
     {
         "ColumnName": "text", 
@@ -54727,7 +54747,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006800761, 
-        "Text": "I also gave the name Abiru to the lizardmen's chieftain. After all, it's hard to call for someone when they don't have a name."
+        "Text": "I also gave the name \"Abiru\" to the lizardmen's chieftain. After all, it's hard to call for someone when they don't have a name."
     }, 
     {
         "ColumnName": "text", 
@@ -55447,7 +55467,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30010400132, 
-        "Text": "I'm not a bad slime."
+        "Text": "\"I'm not a bad slime.\""
     }, 
     {
         "ColumnName": "text", 
@@ -55587,7 +55607,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30010400892, 
-        "Text": "Are you serious?! What am I gonna be Uki Uki Watching every weekday afternoon now?!"
+        "Text": "Are you serious?! What am I gonna be \"Uki Uki Watching\" every weekday afternoon now?!"
     }, 
     {
         "ColumnName": "text", 
@@ -58032,7 +58052,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121700822, 
-        "Text": "Their so-called souls are so beautiful, shining like lights in the darkness."
+        "Text": "Their so-called \"souls\" are so beautiful, shining like lights in the darkness."
     }, 
     {
         "ColumnName": "text", 
@@ -58182,7 +58202,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121701492, 
-        "Text": "The whispering of a soul with an intense desire. You will pay... I swear you will pay for this!"
+        "Text": "The whispering of a soul with an intense desire. \"You will pay... I swear you will pay for this!\""
     }, 
     {
         "ColumnName": "text", 
@@ -60592,7 +60612,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30078700202, 
-        "Text": "@exp Geld.Smile.Exclusive_1: Everyone perks up when you stop on by, Great Rimuru. Of course, that includes me, too. Please come by again soon."
+        "Text": "@exp Geld.Smile.Exclusive_1: The children and I had a go at carving a little statuette of you, Great Rimuru. I promised them I'd give it to you when you came by, so here."
     }, 
     {
         "ColumnName": "text", 
@@ -60692,7 +60712,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30012700612, 
-        "Text": "@exp Cynthia.Shout.Proposal:Cause the first time I met you, Papa, I was filled with a feeling that said, That's your papa! You've been my papa since I was little!"
+        "Text": "@exp Cynthia.Shout.Proposal:Cause the first time I met you, Papa, I was filled with a feeling that said, \"That's your papa!\" You've been my papa since I was little!"
     }, 
     {
         "ColumnName": "text", 
@@ -63332,7 +63352,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30110700082, 
-        "Text": "Answer: Existence of target {0} individual confirmed. Conversation recommended for friendly relations."
+        "Text": "Answer: Existence of target \"{0}\" individual confirmed. Conversation recommended for friendly relations."
     }, 
     {
         "ColumnName": "text", 
@@ -64662,7 +64682,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30121804052, 
-        "Text": "I hastened to join him and take up service, but he shrugged me off with a mere You can go home now."
+        "Text": "I hastened to join him and take up service, but he shrugged me off with a mere \"You can go home now.\""
     }, 
     {
         "ColumnName": "text", 
@@ -66407,7 +66427,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30045100172, 
-        "Text": "Isn't it though! Of course, the chefs spared no efforts in the cooking, but even before that, we selected only the best ingredients for this Bounty of the Forest Special! "
+        "Text": "Isn't it though! Of course, the chefs spared no efforts in the cooking, but even before that, we selected only the best ingredients for this \"Bounty of the Forest Special\"! "
     }, 
     {
         "ColumnName": "text", 
@@ -67981,6 +68001,176 @@
     }, 
     {
         "ColumnName": "text", 
+        "LocalizationTargetId": 30122200271, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200272, 
+        "Text": "Great Rimuru, words cannot describe my gratitude to you for holding a banquet in my honor."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200321, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200322, 
+        "Text": "Yeah, you say that every day... Is it really that big a deal?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200361, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200362, 
+        "Text": "Oh, yes. I feel I must do something to repay you."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200421, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200422, 
+        "Text": "Don't sweat it. You do your part supporting and protecting this town, it's the least I could do."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200581, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200582, 
+        "Text": "Whoa! Look at the size of that monster! And it's heading straight for town..."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200631, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200632, 
+        "Text": "It did an impressive job of hiding its presence. Perhaps somebody unleashed it here to test your skills, Great Rimuru."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200681, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200682, 
+        "Text": "Seriously? That's a heck of a way to go about it."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200731, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200732, 
+        "Text": "No doubt some fool is responsible. But there's no need for you to show your hand here. Allow me."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200781, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200782, 
+        "Text": "Uh, right..."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200911, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200912, 
+        "Text": "(Milim would be able to handle this, no problem. She even defeated Carrion pretty easily.)"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200971, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122200972, 
+        "Text": "(For all we know, we could be dealing with something just as strong here...)"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201111, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201112, 
+        "Text": "Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201151, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201152, 
+        "Text": "Sorry Diablo, I've changed my mind. I'll take care of this. I wouldn't be much of a Demon Lord otherwise, right?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201201, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201202, 
+        "Text": "Ah... You wish to make a show of your power to demoralize whoever summoned this magical beast?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201251, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201252, 
+        "Text": "Something like that. Stick close and help me keep collateral damage to a minimum."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201301, 
+        "Text": "Diablo"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201302, 
+        "Text": "As you wish. You can rely on me to watch your back."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201391, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122201392, 
+        "Text": "Thanks. With you looking out for me, I'll have nothing to worry about. Now, let's do this!"
+    }, 
+    {
+        "ColumnName": "text", 
         "LocalizationTargetId": 30037900091, 
         "Text": "Rimuru"
     }, 
@@ -68807,7 +68997,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30111400112, 
-        "Text": "Answer: Equipment of target {0} {1} for {2} individual can level up."
+        "Text": "Answer: Equipment of target \"{0} {1}\" for \"{2}\" individual can level up."
     }, 
     {
         "ColumnName": "text", 
@@ -69712,7 +69902,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008200222, 
-        "Text": "You may call me lowly, but I'm stronger than you."
+        "Text": "You may call me \"lowly,\" but I'm stronger than you."
     }, 
     {
         "ColumnName": "text", 
@@ -70962,7 +71152,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008401732, 
-        "Text": "Allow me to call you Master Rimuru from now on. I am at your command."
+        "Text": "Allow me to call you \"Master Rimuru\" from now on. I am at your command."
     }, 
     {
         "ColumnName": "text", 
@@ -73602,7 +73792,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008100422, 
-        "Text": "In contrast, Dwarven techniques can only extract up to 98%. The potions we can make are hi-potions."
+        "Text": "In contrast, Dwarven techniques can only extract up to 98%. The potions we can make are \"hi-potions.\""
     }, 
     {
         "ColumnName": "text", 
@@ -74147,7 +74337,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30111300112, 
-        "Text": "Answer: Acquisition of {2} materials to evolve equipment of target {0} {1} individual recommended."
+        "Text": "Answer: Acquisition of \"{2}\" materials to evolve equipment of target \"{0} {1}\" individual recommended."
     }, 
     {
         "ColumnName": "text", 
@@ -75602,7 +75792,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30007700552, 
-        "Text": "Gabiru, don't act so jealous. You already have a perfectly good name, Gabiru."
+        "Text": "Gabiru, don't act so jealous. You already have a perfectly good name, \"Gabiru.\""
     }, 
     {
         "ColumnName": "text", 
@@ -75702,7 +75892,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30063400202, 
-        "Text": "@exp Ranga.Puzzle.Exclusive_1: Master, this trim you mentioned... What does it mean? I can't stop wondering..."
+        "Text": "@exp Ranga.Puzzle.Exclusive_1: Master, this \"trim\" you mentioned... What does it mean? I can't stop wondering..."
     }, 
     {
         "ColumnName": "text", 
@@ -75802,7 +75992,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30059400202, 
-        "Text": "@exp Kaijin.Smile.Exclusive_1: This place is hardly worthy of the term town as of yet, but don't worry. Now that we're here, you can count on us!"
+        "Text": "@exp Kaijin.Smile.Exclusive_1: This place is hardly worthy of the term \"town\" as of yet, but don't worry. Now that we're here, you can count on us!"
     }, 
     {
         "ColumnName": "text", 
@@ -76532,7 +76722,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30010201442, 
-        "Text": "I didn't have to think so hard about anything. I can create my own world just through my own feelings, like, I wish I had a papa, or I love Mother."
+        "Text": "I didn't have to think so hard about anything. I can create my own world just through my own feelings, like, \"I wish I had a papa,\" or \"I love Mother.\""
     }, 
     {
         "ColumnName": "text", 
@@ -77712,7 +77902,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30000200882, 
-        "Text": "@exp Rimuru.None.Joy:We are aliens. I did it! Success, Great Sage!"
+        "Text": "@exp Rimuru.None.Joy:\"We are aliens.\" I did it! Success, Great Sage!"
     }, 
     {
         "ColumnName": "text", 
@@ -79512,7 +79702,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30008600392, 
-        "Text": "By subdue, we mean that you take Charybdis into your body and unite with it as one being!"
+        "Text": "By \"subdue,\" we mean that you take Charybdis into your body and unite with it as one being!"
     }, 
     {
         "ColumnName": "text", 
@@ -80992,7 +81182,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009501822, 
-        "Text": "It's probably because you acquired Jinfrit's Degenerate. Its affinity with Great Sage is abundantly clear if you look at Rimuru's growth."
+        "Text": "It's probably because you acquired Jinfrit's \"Degenerate.\" Its affinity with Great Sage is abundantly clear if you look at Rimuru's growth."
     }, 
     {
         "ColumnName": "text", 
@@ -81072,7 +81262,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30009502282, 
-        "Text": "It's not Papa, it's Mama. They said, I'm not your papa! Oh, but... Then who's Mother? Do I have two mamas?"
+        "Text": "It's not Papa, it's Mama. They said, \"I'm not your papa\"! Oh, but... Then who's Mother? Do I have two mamas?"
     }, 
     {
         "ColumnName": "text", 
@@ -81382,7 +81572,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30014300172, 
-        "Text": "@exp RimuruDefault.None.Exclusive_1: In order to raise the standard of living in the town, I want to improve the quality of the food part of food, shelter, and clothing."
+        "Text": "@exp RimuruDefault.None.Exclusive_1: In order to raise the standard of living in the town, I want to improve the quality of the \"food\" part of food, shelter, and clothing."
     }, 
     {
         "ColumnName": "text", 
@@ -82312,7 +82502,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006201852, 
-        "Text": "Tsk... You really are an imbecile. You will become the Demon Lord Orc Disaster and rule over the entire Forest of Jura! That is what both he and I desire!"
+        "Text": "Tsk... You really are an imbecile. You will become the Demon Lord \"Orc Disaster\" and rule over the entire Forest of Jura! That is what both he and I desire!"
     }, 
     {
         "ColumnName": "text", 
@@ -82322,7 +82512,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006201932, 
-        "Text": "Who's he?"
+        "Text": "Who's \"he\"?"
     }, 
     {
         "ColumnName": "text", 
@@ -83207,7 +83397,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006300182, 
-        "Text": "You keep saying you're some bigshot superior majin, but you're nothing special."
+        "Text": "You keep saying you're some bigshot \"superior majin,\" but you're nothing special."
     }, 
     {
         "ColumnName": "text", 
@@ -83237,7 +83427,7 @@
     {
         "ColumnName": "text", 
         "LocalizationTargetId": 30006300392, 
-        "Text": "Why don't you tell me just who he is? Tell me who's pulling the strings."
+        "Text": "Why don't you tell me just who \"he\" is? Tell me who's pulling the strings."
     }, 
     {
         "ColumnName": "text", 

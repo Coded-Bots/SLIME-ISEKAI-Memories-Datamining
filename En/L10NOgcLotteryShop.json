@@ -158,5 +158,25 @@
         "ColumnName": "ad_text2", 
         "LocalizationTargetId": 500000016, 
         "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000020, 
+        "Text": "Veldora, the Seal Releaser Recruit Selection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000020, 
+        "Text": ""
     }
 ]

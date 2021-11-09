@@ -228,35 +228,5 @@
         "ColumnName": "affiliation_name", 
         "LocalizationTargetId": 250009, 
         "Text": "The Talented Secretary"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 290001, 
-        "Text": "Orc Disaster(debug)"
-    }, 
-    {
-        "ColumnName": "affiliation_name", 
-        "LocalizationTargetId": 290001, 
-        "Text": "DEBUG_1"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 290002, 
-        "Text": "Veldora Tempest(debug)"
-    }, 
-    {
-        "ColumnName": "affiliation_name", 
-        "LocalizationTargetId": 290002, 
-        "Text": "DEBUG_2"
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 290003, 
-        "Text": "Ifrit(debug)"
-    }, 
-    {
-        "ColumnName": "affiliation_name", 
-        "LocalizationTargetId": 290003, 
-        "Text": "DEBUG_3"
     }
 ]

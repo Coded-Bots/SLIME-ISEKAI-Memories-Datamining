@@ -1207,97 +1207,97 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130902, 
-        "Text": "Has a 98.8% chance to generate Stamina Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 98.8% chance to generate Stamina Magistone x<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130903, 
-        "Text": "Has a 80.8% chance to generate Stamina Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Stamina Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130904, 
-        "Text": "Has a 80.8% chance to generate Stamina Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Stamina Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130905, 
-        "Text": "Has a 76.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 76.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 22% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130906, 
-        "Text": "Has a 71.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130907, 
-        "Text": "Has a 71.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130908, 
-        "Text": "Has a 66.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 66.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 32% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130909, 
-        "Text": "Has a 61.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130910, 
-        "Text": "Has a 61.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130911, 
-        "Text": "Has a 56.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 56.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 42% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130912, 
-        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>2</color>,\na 47% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130913, 
-        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Stamina Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130914, 
-        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130915, 
-        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130916, 
-        "Text": "Has a 51.2% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>,\na 41% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Stamina Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130917, 
-        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>\na 40% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Stamina Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130918, 
-        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>\na 35% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color> and \na 11% chance to generate Stamina Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130919, 
-        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>\na 30% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color> and \na 16% chance to generate Stamina Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404130920, 
-        "Text": "Has a 52% chance to generate \u4f53\u529b\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u4f53\u529b\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u4f53\u529b\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Stamina Magistone \u00d7<color=#2be41d>3</color>\na 25% chance to generate Stamina Magirock \u00d7<color=#2be41d>2</color> and \na 21% chance to generate Stamina Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
@@ -1307,97 +1307,97 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131002, 
-        "Text": "Has a 98.8% chance to generate Attack Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 98.8% chance to generate Attack Magistone x<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131003, 
-        "Text": "Has a 80.8% chance to generate Attack Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Attack Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131004, 
-        "Text": "Has a 80.8% chance to generate Attack Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Attack Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131005, 
-        "Text": "Has a 76.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 76.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 22% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131006, 
-        "Text": "Has a 71.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131007, 
-        "Text": "Has a 71.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131008, 
-        "Text": "Has a 66.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 66.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 32% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131009, 
-        "Text": "Has a 61.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131010, 
-        "Text": "Has a 61.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131011, 
-        "Text": "Has a 56.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 56.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 42% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131012, 
-        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Attack Magistone \u00d7<color=#2be41d>2</color>,\na 47% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131013, 
-        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Attack Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131014, 
-        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131015, 
-        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131016, 
-        "Text": "Has a 51.2% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>,\na 41% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Attack Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131017, 
-        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>\na 40% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Attack Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131018, 
-        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>\na 35% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color> and \na 11% chance to generate Attack Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131019, 
-        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>\na 30% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color> and \na 16% chance to generate Attack Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131020, 
-        "Text": "Has a 52% chance to generate \u653b\u6483\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u653b\u6483\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u653b\u6483\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Attack Magistone \u00d7<color=#2be41d>3</color>\na 25% chance to generate Attack Magirock \u00d7<color=#2be41d>2</color> and \na 21% chance to generate Attack Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
@@ -1407,97 +1407,97 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131102, 
-        "Text": "Has a 98.8% chance to generate Protection Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 98.8% chance to generate Protection Magistone x<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131103, 
-        "Text": "Has a 80.8% chance to generate Protection Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Protection Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131104, 
-        "Text": "Has a 80.8% chance to generate Protection Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Protection Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131105, 
-        "Text": "Has a 76.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 76.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 22% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131106, 
-        "Text": "Has a 71.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131107, 
-        "Text": "Has a 71.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131108, 
-        "Text": "Has a 66.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 66.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 32% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131109, 
-        "Text": "Has a 61.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131110, 
-        "Text": "Has a 61.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131111, 
-        "Text": "Has a 56.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 56.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 42% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131112, 
-        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Protection Magistone \u00d7<color=#2be41d>2</color>,\na 47% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131113, 
-        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Protection Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131114, 
-        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131115, 
-        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131116, 
-        "Text": "Has a 51.2% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>,\na 41% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Protection Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131117, 
-        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>\na 40% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Protection Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131118, 
-        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>\na 35% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color> and \na 11% chance to generate Protection Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131119, 
-        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>\na 30% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color> and \na 16% chance to generate Protection Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131120, 
-        "Text": "Has a 52% chance to generate \u52a0\u8b77\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u52a0\u8b77\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u52a0\u8b77\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Protection Magistone \u00d7<color=#2be41d>3</color>\na 25% chance to generate Protection Magirock \u00d7<color=#2be41d>2</color> and \na 21% chance to generate Protection Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
@@ -1507,97 +1507,97 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131202, 
-        "Text": "Has a 98.8% chance to generate Training Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 98.8% chance to generate Training Magistone x<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131203, 
-        "Text": "Has a 80.8% chance to generate Training Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Training Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131204, 
-        "Text": "Has a 80.8% chance to generate Training Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Training Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131205, 
-        "Text": "Has a 76.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 76.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 22% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131206, 
-        "Text": "Has a 71.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131207, 
-        "Text": "Has a 71.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131208, 
-        "Text": "Has a 66.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 66.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 32% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131209, 
-        "Text": "Has a 61.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131210, 
-        "Text": "Has a 61.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131211, 
-        "Text": "Has a 56.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 56.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 42% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131212, 
-        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Training Magistone \u00d7<color=#2be41d>2</color>,\na 47% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131213, 
-        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Training Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131214, 
-        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Training Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131215, 
-        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Training Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131216, 
-        "Text": "Has a 51.2% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>,\na 41% chance to generate Training Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Training Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131217, 
-        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>\na 40% chance to generate Training Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Training Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131218, 
-        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>\na 35% chance to generate Training Magirock \u00d7<color=#2be41d>2</color> and \na 11% chance to generate Training Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131219, 
-        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>\na 30% chance to generate Training Magirock \u00d7<color=#2be41d>2</color> and \na 16% chance to generate Training Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131220, 
-        "Text": "Has a 52% chance to generate \u4fee\u7df4\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u4fee\u7df4\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u4fee\u7df4\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Training Magistone \u00d7<color=#2be41d>3</color>\na 25% chance to generate Training Magirock \u00d7<color=#2be41d>2</color> and \na 21% chance to generate Training Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
@@ -1807,97 +1807,97 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131502, 
-        "Text": "Has a 98.8% chance to generate Defense Magistonex<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 98.8% chance to generate Defense Magistone x<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131503, 
-        "Text": "Has a 80.8% chance to generate Defense Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Defense Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131504, 
-        "Text": "Has a 80.8% chance to generate Defense Magistone\u00d7<color=#2be41d>2</color>,\na 18% chance to generate Defense Magirock\u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
+        "Text": "Has a 80.8% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 18% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>,\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131505, 
-        "Text": "Has a 76.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 22% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 76.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 22% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131506, 
-        "Text": "Has a 71.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131507, 
-        "Text": "Has a 71.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 27% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 71.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 27% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131508, 
-        "Text": "Has a 66.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 32% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 66.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 32% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131509, 
-        "Text": "Has a 61.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131510, 
-        "Text": "Has a 61.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 37% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 61.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 37% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131511, 
-        "Text": "Has a 56.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 42% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 56.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 42% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131512, 
-        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>2</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Defense Magistone \u00d7<color=#2be41d>2</color>,\na 47% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131513, 
-        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Defense Magirock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131514, 
-        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131515, 
-        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 47% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>,\na 47% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131516, 
-        "Text": "Has a 51.2% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>,\na 41% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \n\na 6% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates \u624d\u899a\u306e\u9b54\u77f3 and \u624d\u899a\u306e\u9b54\u5ca9."
+        "Text": "Has a 51.2% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>,\na 41% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Defense Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone and Intelligence Magirock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131517, 
-        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 40% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 6% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>\na 40% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color> and \na 6% chance to generate Defense Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131518, 
-        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 35% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 11% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>\na 35% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color> and \na 11% chance to generate Defense Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131519, 
-        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 30% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 16% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>\na 30% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color> and \na 16% chance to generate Defense Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 404131520, 
-        "Text": "Has a 52% chance to generate \u9632\u5fa1\u306e\u9b54\u77f3\u00d7<color=#2be41d>3</color>\na 25% chance to generate \u9632\u5fa1\u306e\u9b54\u5ca9\u00d7<color=#2be41d>2</color> and \na 21% chance to generate \u9632\u5fa1\u306e\u9b54\u584a\u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
+        "Text": "Has a 52% chance to generate Defense Magistone \u00d7<color=#2be41d>3</color>\na 25% chance to generate Defense Magirock \u00d7<color=#2be41d>2</color> and \na 21% chance to generate Defense Magiblock \u00d7<color=#2be41d>1</color>\nafter a fixed amount of time.\n* Sometimes generates Intelligence Magistone, Intelligence Magirock and Intelligence Magiblock."
     }, 
     {
         "ColumnName": "description", 
