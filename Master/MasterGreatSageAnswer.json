@@ -9,7 +9,7 @@
         "Message": 64, 
         "NovelScriptoffset": "sage_answer_dailyquest", 
         "Priority": 100, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -18,10 +18,10 @@
         "MasterGreatSageSearchType": 3, 
         "MasterGreatSageSelectIconType": 2, 
         "MasterGreatSageTransitionMessageType": 8, 
-        "Message": 68, 
+        "Message": 60, 
         "NovelScriptoffset": "sage_answer_founding", 
         "Priority": 80, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": false, 
@@ -30,10 +30,10 @@
         "MasterGreatSageSearchType": 0, 
         "MasterGreatSageSelectIconType": 0, 
         "MasterGreatSageTransitionMessageType": 0, 
-        "Message": 64, 
+        "Message": 56, 
         "NovelScriptoffset": "sage_answer_basenone", 
         "Priority": 0, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -42,10 +42,10 @@
         "MasterGreatSageSearchType": 5, 
         "MasterGreatSageSelectIconType": 4, 
         "MasterGreatSageTransitionMessageType": 4, 
-        "Message": 64, 
+        "Message": 56, 
         "NovelScriptoffset": "sage_answer_awake", 
         "Priority": 100, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -54,10 +54,10 @@
         "MasterGreatSageSearchType": 6, 
         "MasterGreatSageSelectIconType": 6, 
         "MasterGreatSageTransitionMessageType": 5, 
-        "Message": 64, 
+        "Message": 56, 
         "NovelScriptoffset": "sage_answer_levelup", 
         "Priority": 95, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -69,7 +69,7 @@
         "Message": 64, 
         "NovelScriptoffset": "sage_answer_statusup", 
         "Priority": 90, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -81,7 +81,7 @@
         "Message": 64, 
         "NovelScriptoffset": "sage_answer_levelupitem", 
         "Priority": 75, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -90,10 +90,10 @@
         "MasterGreatSageSearchType": 9, 
         "MasterGreatSageSelectIconType": 1, 
         "MasterGreatSageTransitionMessageType": 9, 
-        "Message": 72, 
+        "Message": 64, 
         "NovelScriptoffset": "sage_answer_statusupitem", 
         "Priority": 70, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -105,7 +105,7 @@
         "Message": 64, 
         "NovelScriptoffset": "sage_answer_skillupitem", 
         "Priority": 35, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": false, 
@@ -117,7 +117,7 @@
         "Message": 60, 
         "NovelScriptoffset": "sage_answer_glownone", 
         "Priority": 0, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -126,10 +126,10 @@
         "MasterGreatSageSearchType": 4, 
         "MasterGreatSageSelectIconType": 0, 
         "MasterGreatSageTransitionMessageType": 2, 
-        "Message": 68, 
+        "Message": 60, 
         "NovelScriptoffset": "sage_answer_questinfo", 
         "Priority": 20, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": false, 
@@ -138,10 +138,10 @@
         "MasterGreatSageSearchType": 0, 
         "MasterGreatSageSelectIconType": 0, 
         "MasterGreatSageTransitionMessageType": 0, 
-        "Message": 64, 
+        "Message": 56, 
         "NovelScriptoffset": "sage_answer_questnone", 
         "Priority": 0, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -153,7 +153,7 @@
         "Message": 68, 
         "NovelScriptoffset": "sage_answer_dailymission", 
         "Priority": 90, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -165,7 +165,7 @@
         "Message": 68, 
         "NovelScriptoffset": "sage_answer_event_end_today", 
         "Priority": 70, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }, 
     {
         "IsShown": true, 
@@ -177,6 +177,6 @@
         "Message": 60, 
         "NovelScriptoffset": "sage_answer_skillup", 
         "Priority": 85, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }
 ]

@@ -186,6 +186,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 803000000138, 
+        "Text": "This is a campaign reward."
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 803000010000, 
         "Text": "Equipment made at the forge"
     }, 

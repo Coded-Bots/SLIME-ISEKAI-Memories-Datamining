@@ -312,6 +312,14 @@
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
     }, 
     {
+        "Description": 25769803776084, 
+        "ExchangeItemId": 2400007, 
+        "ItemAmount": 6000, 
+        "MasterExchangeInputItemGroupId": 9002110600, 
+        "MasterExchangeInputItemId": 9002110600, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation_mission"
+    }, 
+    {
         "Description": 30064771072076, 
         "ExchangeItemId": 2400007, 
         "ItemAmount": 7000, 

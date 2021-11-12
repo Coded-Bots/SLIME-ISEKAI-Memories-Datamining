@@ -7,8 +7,8 @@
         "Labeloffset": "blacksmith_material", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000001, 
-        "Name": 433791696932, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 433791696924, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -19,8 +19,8 @@
         "Labeloffset": "founding_material", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000002, 
-        "Name": 438086664232, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 438086664224, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 2
     }, 
     {
@@ -31,8 +31,8 @@
         "Labeloffset": "food_material", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000003, 
-        "Name": 442381631528, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 442381631520, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 6
     }, 
     {
@@ -44,7 +44,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000004, 
         "Name": 17179869220, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 5
     }, 
     {
@@ -55,8 +55,8 @@
         "Labeloffset": "stamina_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000005, 
-        "Name": 21474836516, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 21474836508, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -67,8 +67,8 @@
         "Labeloffset": "founding_shortening_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000006, 
-        "Name": 884763263016, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 884763263008, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 2
     }, 
     {
@@ -79,8 +79,8 @@
         "Labeloffset": "character_levelup_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000007, 
-        "Name": 871878361128, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 871878361120, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 11
     }, 
     {
@@ -92,7 +92,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000008, 
         "Name": 876173328420, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 11
     }, 
     {
@@ -103,8 +103,8 @@
         "Labeloffset": "equipment_levelup_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000009, 
-        "Name": 863288426532, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 863288426524, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -116,7 +116,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000010, 
         "Name": 867583393824, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -127,8 +127,8 @@
         "Labeloffset": "statusboard_release_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000011, 
-        "Name": 880468295720, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 880468295712, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 11
     }, 
     {
@@ -140,7 +140,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000012, 
         "Name": 889058230304, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -152,7 +152,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000013, 
         "Name": 25769803812, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 11
     }, 
     {
@@ -164,7 +164,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000014, 
         "Name": 4294967328, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -176,7 +176,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000015, 
         "Name": 8589934624, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -188,7 +188,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000016, 
         "Name": 893353197600, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -200,7 +200,7 @@
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000017, 
         "Name": 906238099492, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 12
     }, 
     {
@@ -211,8 +211,8 @@
         "Labeloffset": "lottery_point_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000018, 
-        "Name": 910533066788, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 910533066780, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }, 
     {
@@ -223,8 +223,8 @@
         "Labeloffset": "gallery_item", 
         "LocalizationKeyoffset": "", 
         "MasterItemCategoryId": 1000019, 
-        "Name": 901943132196, 
-        "ReleaseLabeloffset": "initial", 
+        "Name": 901943132188, 
+        "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
     }
 ]

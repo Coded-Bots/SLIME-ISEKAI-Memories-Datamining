@@ -588,5 +588,10 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 808000120, 
         "Text": "Can I help you with something?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808000121, 
+        "Text": "The exchange period has ended."
     }
 ]

@@ -72,7 +72,7 @@
         "MasterBannerId": 80000200001, 
         "Pathoffset": "Image/Shop/tier24.pack_1/ShopBanner_tier24.pack_1", 
         "Priority": 110288998, 
-        "ReleaseLabeloffset": "initial", 
+        "ReleaseLabeloffset": "", 
         "Urloffset": "", 
         "Value": 0
     }, 

@@ -841,6 +841,21 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003003035, 
+        "Text": "Don't lose focus."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003003036, 
+        "Text": "Time to warm up!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003003037, 
+        "Text": "You're dependable."
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003004001, 
         "Text": "Time to show off what I can do!"
     }, 
@@ -1257,6 +1272,21 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 4003006018, 
+        "Text": "Understood!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006019, 
+        "Text": "Destroy them!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006020, 
+        "Text": "No matter the opponent, I'll give it my all!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003006021, 
         "Text": "Understood!"
     }, 
     {

@@ -379,7 +379,7 @@
         "CloseAtoffset": "2021/11/30 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000002025, 
-        "OpenAtoffset": "2021/11/12 2:00:00", 
+        "OpenAtoffset": "2021/11/12 8:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_event_mini_kakusei"
     }, 
@@ -472,6 +472,14 @@
         "ReleaseLabeloffset": "202111_campaign_release_banner2"
     }, 
     {
+        "CloseAtoffset": "2021/11/22 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000010004, 
+        "OpenAtoffset": "2021/11/13 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_campaign_leadersupport"
+    }, 
+    {
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000011000, 
@@ -533,6 +541,6 @@
         "MasterReleaseId": 50000099014, 
         "OpenAtoffset": "2021/09/30 15:00:00", 
         "Region": 15, 
-        "ReleaseLabeloffset": "initial"
+        "ReleaseLabeloffset": ""
     }
 ]

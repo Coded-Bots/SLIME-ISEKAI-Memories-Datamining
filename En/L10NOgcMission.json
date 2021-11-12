@@ -36,6 +36,266 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 606460101, 
+        "Text": "Clear Ravenous Chaos (Beginner) in 3 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460102, 
+        "Text": "Clear Ravenous Chaos (Beginner) in 3 turns or less: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460109, 
+        "Text": "Clear Ravenous Chaos (Normal) in 5 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460110, 
+        "Text": "Clear Ravenous Chaos (Normal) in 5 turns or less: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460111, 
+        "Text": "Clear Ravenous Chaos (Normal) in 5 turns or less: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460127, 
+        "Text": "Clear Ruthless Paladin (Beginner) in 3 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460128, 
+        "Text": "Clear Ruthless Paladin (Beginner) in 3 turns or less: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510103, 
+        "Text": "Clear Ravenous Chaos (Beginner) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510104, 
+        "Text": "Clear Ravenous Chaos (Beginner) after unleashing a 6 combo all with Soul of Divine Protection: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510112, 
+        "Text": "Clear Ravenous Chaos (Normal) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510113, 
+        "Text": "Clear Ravenous Chaos (Normal) after unleashing a 6 combo all with Soul of Divine Protection: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510114, 
+        "Text": "Clear Ravenous Chaos (Normal) after unleashing a 6 combo all with Soul of Divine Protection: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510121, 
+        "Text": "Clear Ravenous Chaos (Expert) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510122, 
+        "Text": "Clear Ravenous Chaos (Expert) after unleashing a 6 combo all with Soul of Divine Protection: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510123, 
+        "Text": "Clear Ravenous Chaos (Expert) after unleashing a 6 combo all with Soul of Divine Protection: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530131, 
+        "Text": "Clear Ruthless Paladin (Beginner) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530132, 
+        "Text": "Clear Ruthless Paladin (Beginner) after unleashing a 6 combo all with Soul of Secrets: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530138, 
+        "Text": "Clear Ruthless Paladin (Normal) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530139, 
+        "Text": "Clear Ruthless Paladin (Normal) after unleashing a 6 combo all with Soul of Secrets: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530140, 
+        "Text": "Clear Ruthless Paladin (Normal) after unleashing a 6 combo all with Soul of Secrets: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530147, 
+        "Text": "Clear Ruthless Paladin (Expert) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530148, 
+        "Text": "Clear Ruthless Paladin (Expert) after unleashing a 6 combo all with Soul of Secrets: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530149, 
+        "Text": "Clear Ruthless Paladin (Expert) after unleashing a 6 combo all with Soul of Secrets: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570105, 
+        "Text": "Clear Ravenous Chaos (Beginner) after your allies unleash at least 3 critical attacks"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570106, 
+        "Text": "Clear Ravenous Chaos (Beginner) after your allies unleash at least 3 critical attacks: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570115, 
+        "Text": "Clear Ravenous Chaos (Normal) after your allies unleash at least 4 critical attacks"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570116, 
+        "Text": "Clear Ravenous Chaos (Normal) after your allies unleash at least 4 critical attacks: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570117, 
+        "Text": "Clear Ravenous Chaos (Normal) after your allies unleash at least 4 critical attacks: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570124, 
+        "Text": "Clear Ravenous Chaos (Expert) after your allies unleash at least 5 critical attacks"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570125, 
+        "Text": "Clear Ravenous Chaos (Expert) after your allies unleash at least 5 critical attacks: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570126, 
+        "Text": "Clear Ravenous Chaos (Expert) after your allies unleash at least 5 critical attacks: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590107, 
+        "Text": "Clear Ravenous Chaos (Beginner) after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590108, 
+        "Text": "Clear Ravenous Chaos (Beginner) 3 times after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590118, 
+        "Text": "Clear Ravenous Chaos (Expert) after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590119, 
+        "Text": "Clear Ravenous Chaos (Expert) 3 times after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590120, 
+        "Text": "Clear Ravenous Chaos (Expert) 5 times after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590133, 
+        "Text": "Clear Ruthless Paladin (Beginner) after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590134, 
+        "Text": "Clear Ruthless Paladin (Beginner) 3 times after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590141, 
+        "Text": "Clear Ruthless Paladin (Normal) after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590142, 
+        "Text": "Clear Ruthless Paladin (Normal) 3 times after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590143, 
+        "Text": "Clear Ruthless Paladin (Normal) 5 times after using 80 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590150, 
+        "Text": "Clear Ruthless Paladin (Expert) after using 100 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590151, 
+        "Text": "Clear Ruthless Paladin (Expert) 3 times after using 100 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606590152, 
+        "Text": "Clear Ruthless Paladin (Expert) 5 times after using 100 skill points in the following amount of turns: 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600129, 
+        "Text": "Clear Ruthless Paladin (Beginner) without recovering HP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600130, 
+        "Text": "Clear Ruthless Paladin (Beginner) without recovering HP: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600135, 
+        "Text": "Clear Ruthless Paladin (Normal) without recovering HP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600136, 
+        "Text": "Clear Ruthless Paladin (Normal) without recovering HP: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600137, 
+        "Text": "Clear Ruthless Paladin (Normal) without recovering HP: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600144, 
+        "Text": "Clear Ruthless Paladin (Expert) without recovering HP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600145, 
+        "Text": "Clear Ruthless Paladin (Expert) without recovering HP: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606600146, 
+        "Text": "Clear Ruthless Paladin (Expert) without recovering HP: x5"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 602140701, 
         "Text": "Construct a Butler's House."
     }, 
@@ -276,6 +536,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 606280002, 
+        "Text": "Log in to the app (Release Celebration Campaign 2)"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 606440035, 
         "Text": "Clear Charybdis Flash (Beginner) with Benimaru, the Crimson Ogre Warrior in a battle slot"
     }, 
@@ -307,72 +572,77 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606470002, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Raise all of Benimaru, the Crimson Ogre Warrior's battle skills to the max level"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606510009, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Get a Predator success in Charybdis Flash (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606510010, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Get a Predator success in Charybdis Flash (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x5"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606510011, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Get a Predator success in Charybdis Flash (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x10"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580001, 
-        "Text": "Clear Charybdis Flash (Beginner) with a Predator Rating of S: x1"
+        "Text": "Clear Charybdis Flash (Beginner) with a Predator Rating of S"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580002, 
-        "Text": "Clear Charybdis Flash (Normal) with a Predator Rating of S: x1"
+        "Text": "Clear Charybdis Flash (Normal) with a Predator Rating of S"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580003, 
-        "Text": "Clear Charybdis Flash (Expert 1) with a Predator Rating of S: x1"
+        "Text": "Clear Charybdis Flash (Expert 1) with a Predator Rating of S"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580004, 
-        "Text": "Clear Charybdis Flash (Expert 2) with a Predator Rating of S: x1"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 606580005, 
-        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x5"
+        "Text": "Clear Charybdis Flash (Expert 2) with a Predator Rating of S"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580006, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580007, 
-        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x15"
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x5"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580008, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x10"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580009, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x15"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 606580010, 
-        "Text": "ogc_mission@eventN/A"
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580011, 
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x25"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606580012, 
+        "Text": "Clear Charybdis Flash (Expert 3) with a Predator Rating of S: x30"
     }, 
     {
         "ColumnName": "description", 

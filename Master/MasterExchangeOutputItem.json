@@ -656,7 +656,7 @@
         "MasterExchangeOutputItemId": 9001080001, 
         "MasterItemExchangeBannerGroupId": 9000000008, 
         "MasterRewardGroupId": 802800000091, 
-        "Priority": 32, 
+        "Priority": 34, 
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
     }, 
     {
@@ -668,7 +668,7 @@
         "MasterExchangeOutputItemId": 9001080002, 
         "MasterItemExchangeBannerGroupId": 9000000008, 
         "MasterRewardGroupId": 802800000092, 
-        "Priority": 31, 
+        "Priority": 33, 
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
     }, 
     {
@@ -680,7 +680,7 @@
         "MasterExchangeOutputItemId": 9001080003, 
         "MasterItemExchangeBannerGroupId": 9000000008, 
         "MasterRewardGroupId": 802800000093, 
-        "Priority": 30, 
+        "Priority": 32, 
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
     }, 
     {
@@ -937,8 +937,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110050, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110200, 
+        "LimitCount": 5, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080025, 
         "MasterExchangeOutputItemId": 9001080025, 
@@ -949,8 +949,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110050, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110200, 
+        "LimitCount": 5, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080026, 
         "MasterExchangeOutputItemId": 9001080026, 
@@ -961,8 +961,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110050, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110200, 
+        "LimitCount": 5, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080027, 
         "MasterExchangeOutputItemId": 9001080027, 
@@ -973,8 +973,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110050, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110200, 
+        "LimitCount": 5, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080028, 
         "MasterExchangeOutputItemId": 9001080028, 
@@ -985,8 +985,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110100, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110600, 
+        "LimitCount": 3, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080029, 
         "MasterExchangeOutputItemId": 9001080029, 
@@ -997,8 +997,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110100, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110600, 
+        "LimitCount": 3, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080030, 
         "MasterExchangeOutputItemId": 9001080030, 
@@ -1009,8 +1009,8 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110100, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110600, 
+        "LimitCount": 3, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080031, 
         "MasterExchangeOutputItemId": 9001080031, 
@@ -1021,14 +1021,38 @@
     }, 
     {
         "ExchangeInputType": 0, 
-        "InputItemGroupId": 9002110100, 
-        "LimitCount": 8, 
+        "InputItemGroupId": 9002110600, 
+        "LimitCount": 3, 
         "LimitType": 0, 
         "MasterExchangeOutputItemGroupId": 9001080032, 
         "MasterExchangeOutputItemId": 9001080032, 
         "MasterItemExchangeBannerGroupId": 9000000008, 
         "MasterRewardGroupId": 802800000223, 
         "Priority": 22, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation_mission"
+    }, 
+    {
+        "ExchangeInputType": 0, 
+        "InputItemGroupId": 9002110050, 
+        "LimitCount": 5, 
+        "LimitType": 0, 
+        "MasterExchangeOutputItemGroupId": 9001080033, 
+        "MasterExchangeOutputItemId": 9001080033, 
+        "MasterItemExchangeBannerGroupId": 9000000008, 
+        "MasterRewardGroupId": 802800000224, 
+        "Priority": 31, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation_mission"
+    }, 
+    {
+        "ExchangeInputType": 0, 
+        "InputItemGroupId": 9002110050, 
+        "LimitCount": 5, 
+        "LimitType": 0, 
+        "MasterExchangeOutputItemGroupId": 9001080034, 
+        "MasterExchangeOutputItemId": 9001080034, 
+        "MasterItemExchangeBannerGroupId": 9000000008, 
+        "MasterRewardGroupId": 802800000225, 
+        "Priority": 30, 
         "ReleaseLabeloffset": "202111_event_akuma2_predation_mission"
     }, 
     {
