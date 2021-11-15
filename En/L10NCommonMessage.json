@@ -593,5 +593,75 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 808000121, 
         "Text": "The exchange period has ended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010001, 
+        "Text": "Confirm Move"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010002, 
+        "Text": "View {0}'s profile?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010003, 
+        "Text": "Ranking Details"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010004, 
+        "Text": "The ranking will be based on the total of the 10 highest EPs.\nEP does not include Protection and Equipment.\nRankings will be tallied once per day."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010100, 
+        "Text": "All Attributes"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010101, 
+        "Text": "Earth Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010102, 
+        "Text": "Space Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010103, 
+        "Text": "Wind Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010104, 
+        "Text": "Water Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010105, 
+        "Text": "Fire Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010106, 
+        "Text": "Light Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010107, 
+        "Text": "Dark Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010108, 
+        "Text": "Time Attribute"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010109, 
+        "Text": "Protection Character"
     }
 ]

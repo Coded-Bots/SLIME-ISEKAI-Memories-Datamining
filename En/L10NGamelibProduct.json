@@ -861,6 +861,66 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 70000000088, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000088, 
+        "Text": "One time only. You can obtain 5\u2605 Dark Battle Character Guaranteed Recruit Ticket x1 and Magicrystal x1200.\n* Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000089, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000089, 
+        "Text": "One time only. You can obtain 5\u2605 Dark Battle Character Guaranteed Recruit Ticket x1 and Magicrystal x1200.\n* Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000090, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000090, 
+        "Text": "One time only. You can obtain 5\u2605 Dark Battle Character Guaranteed Recruit Ticket x1 and Magicrystal x1200.\n* Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000091, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000091, 
+        "Text": "One time only. You can obtain 5\u2605 Dark Battle Character Guaranteed Recruit Ticket x1 and Magicrystal x1200.\n* Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000092, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000092, 
+        "Text": "One time only. You can obtain 5\u2605 Dark Battle Character Guaranteed Recruit Ticket x1 and Magicrystal x1200.\n* Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 70000000093, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket Pack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 70000000093, 
+        "Text": "One time only. You can obtain 5\u2605 Dark Battle Character Guaranteed Recruit Ticket x1 and Magicrystal x1200.\n* Recruit tickets have an expiration date."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 70000000094, 
         "Text": "[Periodic] Monthly Potion Pack"
     }, 

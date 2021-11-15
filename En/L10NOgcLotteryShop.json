@@ -161,6 +161,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 500000019, 
+        "Text": "Troop Recruit: Nation of Monsters Diabolic Secretary Part 2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000019, 
+        "Text": "<style=LotteryCopyHoly>Gain a</style> <style=LotteryCopyFire>special effect</style> <style=LotteryCopyHoly>in the event: </style>\n<style=LotteryCopyHoly>Nation of Monsters Diabolic Secretary!</style>"
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000019, 
+        "Text": "<style=LotteryCopyHoly>Gain a</style> <style=LotteryCopyFire>special effect</style> <style=LotteryCopyHoly>in the event: </style>\n<style=LotteryCopyHoly>Nation of Monsters Diabolic Secretary!</style>"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 500000020, 
         "Text": "Veldora, the Seal Releaser Recruit Selection"
     }, 
@@ -177,6 +197,26 @@
     {
         "ColumnName": "ad_text2", 
         "LocalizationTargetId": 500000020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000022, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000022, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000022, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000022, 
         "Text": ""
     }
 ]

@@ -73,5 +73,15 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 301000016, 
         "Text": "There is an individual whose battle skills can still be enhanced"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 301000018, 
+        "Text": "Moving to EP Ranking"
     }
 ]

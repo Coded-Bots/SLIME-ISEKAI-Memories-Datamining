@@ -15562,6 +15562,46 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500271001, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SkillEffectGroupLabeloffset": "MilimBattleArmor_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Milim/MilimBattleArmor/S_MilimBattleArmor_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500277001, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SkillEffectGroupLabeloffset": "MilimBattleArmor_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Milim/MilimBattleArmor/MilimBattleArmor_Battle_SpecialSkill/MilimBattleArmor_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/MilimBattleArmor/5/MilimBattleArmor_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500272023, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SkillEffectGroupLabeloffset": "MilimBattleArmor_buff_23", 
+        "SkillIconImagePathoffset": "Image/Skill/042/53/{1}/IcSkill_042_53_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Milim/MilimBattleArmor/MilimBattleArmor_Battle_ActiveSkill_Buff/MilimBattleArmor_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/MilimBattleArmor/5/MilimBattleArmor_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500272024, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SkillEffectGroupLabeloffset": "MilimBattleArmor_buff_24", 
+        "SkillIconImagePathoffset": "Image/Skill/050/01/{1}/IcSkill_050_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Milim/MilimBattleArmor/MilimBattleArmor_Battle_ActiveSkill_Debuff/MilimBattleArmor_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20011500331001, 
         "ReleaseLabeloffset": "202111_exchange_octagram_start", 
         "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_normal_01", 
@@ -16302,6 +16342,16 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500282030, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SkillEffectGroupLabeloffset": "MilimBattleArmor_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/14/1/IcPassiveSkill_041_14_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20011500342030, 
         "ReleaseLabeloffset": "202111_exchange_octagram_start", 
         "SkillEffectGroupLabeloffset": "MilimDemonLordCostume_passive_30", 
@@ -16766,6 +16816,16 @@
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start", 
         "SkillEffectGroupLabeloffset": "VeldoraHumanoid_passive_31", 
         "SkillIconImagePathoffset": "Image/PassiveSkill/027/01/2/IcPassiveSkill_027_01_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500282031, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SkillEffectGroupLabeloffset": "MilimBattleArmor_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/14/2/IcPassiveSkill_041_14_2", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
     }, 

@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "MasterEventId": 10000000, 
+        "MasterEventRankingHighScoreWeakPointDamageId": 10050000, 
+        "Rate": 1000, 
+        "ReleaseLabeloffset": "develop.common@2021"
+    }
+]

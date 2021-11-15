@@ -520,5 +520,35 @@
         "Id": 7000017006, 
         "ReleaseLabeloffset": "", 
         "Value": 1630422000
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.page.element.count", 
+        "Id": 7000018001, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking", 
+        "Value": 20
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.page.size", 
+        "Id": 7000018002, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking", 
+        "Value": 5
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.open.enabled", 
+        "Id": 7000018003, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking", 
+        "Value": 1
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.score.post.disabled", 
+        "Id": 7000018004, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking", 
+        "Value": 0
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.rank.in.limit", 
+        "Id": 7000018005, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking", 
+        "Value": 100000
     }
 ]

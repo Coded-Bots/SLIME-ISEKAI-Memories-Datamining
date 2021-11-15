@@ -176,6 +176,38 @@
         "TicketCost": 1
     }, 
     {
+        "ConsumeItemId": 505000008, 
+        "ConsumeType": 4, 
+        "GemCost": 30, 
+        "LimitDailyDrawCount": 0, 
+        "LimitDrawCount": 0, 
+        "MasterOgcLotteryId": 501000019, 
+        "MasterOgcLotteryRateGroupId": 16, 
+        "MasterOgcLotteryShopId": 500000019, 
+        "Point": 0, 
+        "ReleaseLabeloffset": "", 
+        "ReplaceMasterOgcLotteryRateGroupIdoffset": "0", 
+        "ReplaceRateGroupStepoffset": "", 
+        "RewardCount": 1, 
+        "TicketCost": 1
+    }, 
+    {
+        "ConsumeItemId": 0, 
+        "ConsumeType": 1, 
+        "GemCost": 300, 
+        "LimitDailyDrawCount": 0, 
+        "LimitDrawCount": 0, 
+        "MasterOgcLotteryId": 501000023, 
+        "MasterOgcLotteryRateGroupId": 16, 
+        "MasterOgcLotteryShopId": 500000019, 
+        "Point": 0, 
+        "ReleaseLabeloffset": "", 
+        "ReplaceMasterOgcLotteryRateGroupIdoffset": "19", 
+        "ReplaceRateGroupStepoffset": "10", 
+        "RewardCount": 10, 
+        "TicketCost": 0
+    }, 
+    {
         "ConsumeItemId": 505000009, 
         "ConsumeType": 4, 
         "GemCost": 30, 
@@ -206,5 +238,21 @@
         "ReplaceRateGroupStepoffset": "10", 
         "RewardCount": 10, 
         "TicketCost": 0
+    }, 
+    {
+        "ConsumeItemId": 505000010, 
+        "ConsumeType": 3, 
+        "GemCost": 0, 
+        "LimitDailyDrawCount": 0, 
+        "LimitDrawCount": 0, 
+        "MasterOgcLotteryId": 501000022, 
+        "MasterOgcLotteryRateGroupId": 25, 
+        "MasterOgcLotteryShopId": 500000022, 
+        "Point": 0, 
+        "ReleaseLabeloffset": "", 
+        "ReplaceMasterOgcLotteryRateGroupIdoffset": "0", 
+        "ReplaceRateGroupStepoffset": "", 
+        "RewardCount": 1, 
+        "TicketCost": 1
     }
 ]

@@ -33,6 +33,17 @@
         "Value": 500000020
     }, 
     {
+        "BannerType": 0, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
+        "MasterBannerId": 80000000004, 
+        "Pathoffset": "Image/LotteryInfo/500000019/LotteryBanner_500000019", 
+        "Priority": 111168996, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2", 
+        "Urloffset": "", 
+        "Value": 500000019
+    }, 
+    {
         "BannerType": 1, 
         "HasAdditionalCondition": false, 
         "LimitTime": 0, 
@@ -73,6 +84,17 @@
         "Pathoffset": "Image/Shop/tier24.pack_1/ShopBanner_tier24.pack_1", 
         "Priority": 110288998, 
         "ReleaseLabeloffset": "", 
+        "Urloffset": "", 
+        "Value": 0
+    }, 
+    {
+        "BannerType": 3, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
+        "MasterBannerId": 80000200002, 
+        "Pathoffset": "Image/Shop/tier56.pack_1/ShopBanner_tier56.pack_1", 
+        "Priority": 111167998, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2", 
         "Urloffset": "", 
         "Value": 0
     }, 

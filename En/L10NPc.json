@@ -491,6 +491,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 150027, 
+        "Text": "Milim Nava"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150027, 
+        "Text": "Manifestation of the Dragon"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 150033, 
         "Text": "Milim Nava"
     }, 

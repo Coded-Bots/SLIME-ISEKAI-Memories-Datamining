@@ -1781,6 +1781,32 @@
         "Value": 5000
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Magic_Hit_Dark", 
+        "Labeloffset": "Attack_MilimBattleArmor_01", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20215002710011, 
+        "MasterAttackType": 1, 
+        "MasterElementType": 7, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 10000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Magic_Hit_Dark", 
+        "Labeloffset": "Attack_MilimBattleArmor_02", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20215002710021, 
+        "MasterAttackType": 1, 
+        "MasterElementType": 7, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 41000
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
         "Labeloffset": "Attack_MilimDemonLordCostume_01", 
         "MasterAttackCulcType": 0, 

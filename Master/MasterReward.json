@@ -490,6 +490,16 @@
         "RewardType": 2
     }, 
     {
+        "Description": 4294967368, 
+        "MasterRewardGroupId": 802100150027, 
+        "MasterRewardId": 811900150027, 
+        "Quantity": 1, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2", 
+        "RewardItemId": 150027, 
+        "RewardType": 2
+    }, 
+    {
         "Description": 4294967344, 
         "MasterRewardGroupId": 802100250001, 
         "MasterRewardId": 811900250001, 
@@ -3358,6 +3368,16 @@
         "ReleaseLabeloffset": "", 
         "RewardItemId": 1100028, 
         "RewardType": 1
+    }, 
+    {
+        "Description": 42949673032, 
+        "MasterRewardGroupId": 802600000261, 
+        "MasterRewardId": 811500000261, 
+        "Quantity": 10, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "RewardItemId": 505000008, 
+        "RewardType": 7
     }, 
     {
         "Description": 429496729648, 
@@ -25037,6 +25057,16 @@
         "ReceiveType": 2, 
         "ReleaseLabeloffset": "", 
         "RewardItemId": 505000001, 
+        "RewardType": 7
+    }, 
+    {
+        "Description": 4294967384, 
+        "MasterRewardGroupId": 802000000267, 
+        "MasterRewardId": 811000000243, 
+        "Quantity": 1, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start", 
+        "RewardItemId": 505000010, 
         "RewardType": 7
     }, 
     {

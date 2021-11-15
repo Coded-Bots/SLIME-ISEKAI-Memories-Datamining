@@ -102,5 +102,57 @@
         "NovelFilePathoffset": "", 
         "Priority": 1, 
         "ReleaseLabeloffset": "202111_campaign_release_banner2"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000403, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000004, 
+        "MovieFilePathoffset": "Movie/Lottery/lottery_c003_02.usm", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 3, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000402, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000004, 
+        "MovieFilePathoffset": "Movie/SpecialSkill/MilimBattleArmor_Battle_SpecialSkill/MilimBattleArmor_Battle_SpecialSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 2, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000401, 
+        "ImageFilePathoffset": "Image/LotteryInfo/500000019/LotteryLoginNotice_500000019", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000004, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000501, 
+        "ImageFilePathoffset": "Image/Event/StoryEvent/2001/LoginNotice_01", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000005, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation"
     }
 ]

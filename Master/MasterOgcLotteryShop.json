@@ -98,6 +98,18 @@
     {
         "BannerPathoffset": null, 
         "DisplayTime": 1, 
+        "DisplayType": 996, 
+        "InfoPanelPathoffset": "Image/LotteryInfo/500000019/LotteryLogo_500000019", 
+        "IsTimeLimited": true, 
+        "LogoPathoffset": "Image/LotteryInfo/500000019/LotteryBanner_500000019", 
+        "MasterOgcLotteryShopId": 500000019, 
+        "MoviePathoffset": "Image/LotteryInfo/500000019/InfoPanel_500000019", 
+        "ReleaseLabeloffset": "", 
+        "Sort": 376
+    }, 
+    {
+        "BannerPathoffset": null, 
+        "DisplayTime": 1, 
         "DisplayType": 998, 
         "InfoPanelPathoffset": "Image/LotteryInfo/500000020/LotteryLogo_500000020", 
         "IsTimeLimited": true, 
@@ -105,6 +117,18 @@
         "MasterOgcLotteryShopId": 500000020, 
         "MoviePathoffset": "Image/LotteryInfo/500000020/InfoPanel_500000020", 
         "ReleaseLabeloffset": "", 
-        "Sort": 376
+        "Sort": 380
+    }, 
+    {
+        "BannerPathoffset": null, 
+        "DisplayTime": 1, 
+        "DisplayType": 997, 
+        "InfoPanelPathoffset": "Image/LotteryInfo/500000022/LotteryLogo_500000022", 
+        "IsTimeLimited": true, 
+        "LogoPathoffset": "Image/LotteryInfo/500000022/LotteryBanner_500000022", 
+        "MasterOgcLotteryShopId": 500000022, 
+        "MoviePathoffset": "Image/LotteryInfo/500000022/InfoPanel_500000022", 
+        "ReleaseLabeloffset": "", 
+        "Sort": 292
     }
 ]

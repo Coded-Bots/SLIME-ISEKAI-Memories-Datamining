@@ -28876,6 +28876,156 @@
     }, 
     {
         "ColumnName": "text", 
+        "LocalizationTargetId": 30122400381, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400382, 
+        "Text": "Hmph!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400481, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400482, 
+        "Text": "Hraah!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400731, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400732, 
+        "Text": "You all seem pretty fired up. Have the local magical beasts been acting up? Or maybe there was a scout from a neighboring country?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400861, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400862, 
+        "Text": "Oh, no, it's nothing like that."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400901, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122400902, 
+        "Text": "You've always protected us in battle when push came to shove, Great Rimuru."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401021, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401022, 
+        "Text": "Yeah...so we've been training so that we can protect the town properly, without relying on your strength."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401071, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401072, 
+        "Text": "Sometimes I go even harder than I do in a real fight, but...it's not like I've destroyed someone's house before! At least not yet, anyway."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401141, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401142, 
+        "Text": "'Not yet'? Shion... You know what, never mind. Care if I join?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401191, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401192, 
+        "Text": "You've been thinking about the village even more than I have... I feel like I'll be able to get even stronger if I'm with you."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401331, 
+        "Text": "Souei"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401332, 
+        "Text": "B-But...it's our goal to not depend on you, Great Rimuru."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401371, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401372, 
+        "Text": "Don't worry about it! I'd be pretty lame if I just let you protect me all the time, right?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401421, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401422, 
+        "Text": "I'm not doing this out of a sense of duty. I really want to reach the heights of my strength with you... It'll be fun, like a festival!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401541, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401542, 
+        "Text": "Getting stronger while having fun... Anything goes with you, doesn't it, Great Rimuru?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401581, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401582, 
+        "Text": "I want to get stronger and stronger with you, too, Great Rimuru!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401641, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30122401642, 
+        "Text": "Yeah! Well then, let's get started right away!"
+    }, 
+    {
+        "ColumnName": "text", 
         "LocalizationTargetId": 30002500121, 
         "Text": "Fuze"
     }, 

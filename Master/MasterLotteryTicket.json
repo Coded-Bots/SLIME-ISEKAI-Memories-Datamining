@@ -70,6 +70,16 @@
         "ReleaseLabeloffset": "202111_lottery_akuma1_start"
     }, 
     {
+        "Description": 4294967440, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000001/lottery_ticket_item_505000001_Item{0}", 
+        "MasterLotteryTicketId": 505000008, 
+        "MaxLimit": 99999, 
+        "Name": 618475290780, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start"
+    }, 
+    {
         "Description": 4294967448, 
         "Gold": 100, 
         "IconPathoffset": "Image/Item/LotteryTicket/505000001/lottery_ticket_item_505000001_Item{0}", 
@@ -78,5 +88,15 @@
         "Name": 652835029156, 
         "Rarity": 1, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start"
+    }, 
+    {
+        "Description": 4294967456, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000004/lottery_ticket_item_505000004_Item{0}", 
+        "MasterLotteryTicketId": 505000010, 
+        "MaxLimit": 99999, 
+        "Name": 687194767532, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
     }
 ]

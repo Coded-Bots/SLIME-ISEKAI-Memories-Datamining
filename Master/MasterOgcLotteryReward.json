@@ -1400,10 +1400,31 @@
         "ReleaseLabeloffset": "202111_lottery_akuma1"
     }, 
     {
+        "LotteryRewardId": 150027, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5006, 
+        "MasterOgcLotteryRewardId": 504500601, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
+    }, 
+    {
         "LotteryRewardId": 150024, 
         "LotteryRewardType": 2, 
         "MasterOgcLotteryRewardGroupId": 5007, 
         "MasterOgcLotteryRewardId": 504500701, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "LotteryRewardId": 150002, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5008, 
+        "MasterOgcLotteryRewardId": 504500801, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark"
+    }, 
+    {
+        "LotteryRewardId": 150012, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5008, 
+        "MasterOgcLotteryRewardId": 504500802, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark"
     }
 ]

@@ -13,5 +13,15 @@
         "MasterLoginNoticeGroupId": 62000000003, 
         "Priority": 9, 
         "ReleaseLabeloffset": "202111_campaign_release_banner2"
+    }, 
+    {
+        "MasterLoginNoticeGroupId": 62000000004, 
+        "Priority": 21, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
+    }, 
+    {
+        "MasterLoginNoticeGroupId": 62000000005, 
+        "Priority": 20, 
+        "ReleaseLabeloffset": "202111_event_akuma2_predation"
     }
 ]

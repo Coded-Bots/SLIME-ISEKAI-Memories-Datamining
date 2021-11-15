@@ -116,6 +116,11 @@
     }, 
     {
         "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000025, 
+        "Text": "It\u2019s been a while since my left hand was numb.\nI\u2019ll show you a special thank you."
+    }, 
+    {
+        "ColumnName": "lottery_message", 
         "LocalizationTargetId": 510000026, 
         "Text": "GAHAHAHA! I, VELDA, THE STORM DRAGON, LIVE AGAIN!"
     }

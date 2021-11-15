@@ -737,6 +737,22 @@
     }, 
     {
         "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "MilimBattleArmor_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915002701, 
+        "MasterPcId": 150027, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "MilimBattleArmor_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "MilimBattleArmor_passive_30", 
+        "MasterPcArousalSkillId": 3915002703, 
+        "MasterPcId": 150027, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start"
+    }, 
+    {
+        "ArousalCount": 1, 
         "ConditionPassiveSkillLabeloffset": "MilimDemonLordCostume_passive_30", 
         "InvalidPassiveSkillLabeloffset": "", 
         "MasterPcArousalSkillId": 3915003301, 

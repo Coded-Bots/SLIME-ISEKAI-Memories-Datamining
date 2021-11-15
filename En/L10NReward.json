@@ -8691,6 +8691,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811500000261, 
+        "Text": "Recruit Ticket: Nation of Monsters Diabolic Secretary Part 2"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811500001001, 
         "Text": "Stamina"
     }, 
@@ -12658,6 +12663,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811900150024, 
         "Text": "Veldora Tempest, the Seal Releaser"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811900150027, 
+        "Text": "Milim Nava, the Manifestation of the Dragon"
     }, 
     {
         "ColumnName": "description", 
@@ -18363,6 +18373,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000242, 
         "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000243, 
+        "Text": "5\u2605 Dark Battle Character Guaranteed Recruit Ticket"
     }, 
     {
         "ColumnName": "description", 

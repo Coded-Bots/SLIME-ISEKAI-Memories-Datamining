@@ -28,5 +28,15 @@
         "ColumnName": "title", 
         "LocalizationTargetId": 300000003, 
         "Text": "Suggested Quests"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 300000004, 
+        "Text": "Tell me about my fellow chancellors."
+    }, 
+    {
+        "ColumnName": "title", 
+        "LocalizationTargetId": 300000004, 
+        "Text": "Rankings"
     }
 ]

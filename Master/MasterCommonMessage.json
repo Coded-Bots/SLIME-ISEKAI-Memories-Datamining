@@ -593,5 +593,75 @@
         "DefineNameoffset": "ItemExchange.Banner.Expired", 
         "MasterCommonMessageId": 808000121, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.user.profile.transition.title", 
+        "MasterCommonMessageId": 808010001, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.user.profile.transition.message", 
+        "MasterCommonMessageId": 808010002, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.detail.modal.title", 
+        "MasterCommonMessageId": 808010003, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "ep.ranking.detail.modal.message", 
+        "MasterCommonMessageId": 808010004, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.all", 
+        "MasterCommonMessageId": 808010100, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.earth", 
+        "MasterCommonMessageId": 808010101, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.air", 
+        "MasterCommonMessageId": 808010102, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.wind", 
+        "MasterCommonMessageId": 808010103, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.water", 
+        "MasterCommonMessageId": 808010104, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.fire", 
+        "MasterCommonMessageId": 808010105, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.holy", 
+        "MasterCommonMessageId": 808010106, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.dark", 
+        "MasterCommonMessageId": 808010107, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.time", 
+        "MasterCommonMessageId": 808010108, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "rank.select.type.name.blesspc", 
+        "MasterCommonMessageId": 808010109, 
+        "ReleaseLabeloffset": ""
     }
 ]

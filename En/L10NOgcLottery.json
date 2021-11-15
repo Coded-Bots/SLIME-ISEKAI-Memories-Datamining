@@ -111,6 +111,16 @@
     }, 
     {
         "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "balloon_text", 
         "LocalizationTargetId": 501000020, 
         "Text": ""
     }, 
@@ -127,6 +137,26 @@
     {
         "ColumnName": "badge_text", 
         "LocalizationTargetId": 501000021, 
+        "Text": "One 4\u2605+ Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000022, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000022, 
+        "Text": "5\u2605 Character Guaranteed"
+    }, 
+    {
+        "ColumnName": "balloon_text", 
+        "LocalizationTargetId": 501000023, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "badge_text", 
+        "LocalizationTargetId": 501000023, 
         "Text": "One 4\u2605+ Character Guaranteed"
     }
 ]

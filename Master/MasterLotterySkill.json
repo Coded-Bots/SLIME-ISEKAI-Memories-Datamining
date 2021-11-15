@@ -18,9 +18,27 @@
         "ReleaseLabeloffset": "202111_lottery_akuma1"
     }, 
     {
+        "MasterLotterySkillId": 509000006, 
+        "MasterOgcLotteryShopId": 500000019, 
+        "MasterPcId": 150027, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
+    }, 
+    {
         "MasterLotterySkillId": 509000007, 
         "MasterOgcLotteryShopId": 500000020, 
         "MasterPcId": 150024, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "MasterLotterySkillId": 509000008, 
+        "MasterOgcLotteryShopId": 500000022, 
+        "MasterPcId": 150002, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark"
+    }, 
+    {
+        "MasterLotterySkillId": 509000009, 
+        "MasterOgcLotteryShopId": 500000022, 
+        "MasterPcId": 150012, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark"
     }
 ]

@@ -178,5 +178,29 @@
         "NovelScriptoffset": "sage_answer_skillup", 
         "Priority": 85, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "IsShown": false, 
+        "MasterGreatSageAnswerId": 301000017, 
+        "MasterGreatSageQuestionType": 4, 
+        "MasterGreatSageSearchType": 0, 
+        "MasterGreatSageSelectIconType": 0, 
+        "MasterGreatSageTransitionMessageType": 0, 
+        "Message": 84, 
+        "NovelScriptoffset": "sage_answer_event_ep_ranking", 
+        "Priority": 0, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking"
+    }, 
+    {
+        "IsShown": false, 
+        "MasterGreatSageAnswerId": 301000018, 
+        "MasterGreatSageQuestionType": 4, 
+        "MasterGreatSageSearchType": 13, 
+        "MasterGreatSageSelectIconType": 0, 
+        "MasterGreatSageTransitionMessageType": 0, 
+        "Message": 88, 
+        "NovelScriptoffset": "sage_answer_event_ep_ranking", 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "1.0.10_system_epranking"
     }
 ]

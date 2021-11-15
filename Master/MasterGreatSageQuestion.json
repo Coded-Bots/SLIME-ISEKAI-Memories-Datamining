@@ -16,5 +16,11 @@
         "MasterGreatSageQuestionType": 2, 
         "NovelScriptoffset": "", 
         "ReleaseLabeloffset": "sage_question_quest"
+    }, 
+    {
+        "MasterGreatSageQuestionId": 300000004, 
+        "MasterGreatSageQuestionType": 4, 
+        "NovelScriptoffset": "", 
+        "ReleaseLabeloffset": "sage_question_quest"
     }
 ]

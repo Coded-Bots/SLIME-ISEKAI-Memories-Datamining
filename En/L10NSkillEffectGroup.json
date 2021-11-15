@@ -2781,6 +2781,66 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20011500271001, 
+        "Text": "Normal Attack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500271001, 
+        "Text": "Unleashes a single-target dark magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500272023, 
+        "Text": "Dragon Orb"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500272023, 
+        "Text": "Changes Soul of Secrets x<color=#2BE41D>2</color> into Soul of Divine Protection\nIncreases all Soul of Divine Protection gauges' increase by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Turns: 1)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500272024, 
+        "Text": "Dragon Thrash"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500272024, 
+        "Text": "Increases all allies' critical resistance by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases own critical rate by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 1)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500277001, 
+        "Text": "Drago-Nova"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500277001, 
+        "Text": "Unleashes a single-target dark magic attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500282030, 
+        "Text": "Troop - Protection UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500282030, 
+        "Text": "When your troop contains 3 or more battle characters, increases protection gauge by 7 at the start of battle (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500282031, 
+        "Text": "Troop - Protection UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500282031, 
+        "Text": "When your troop contains 3 or more battle characters, increases protection gauge by 11 at the start of battle (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20011500331001, 
         "Text": "Normal Attack"
     }, 

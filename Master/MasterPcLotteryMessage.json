@@ -161,6 +161,13 @@
         "VoicePathoffset": ""
     }, 
     {
+        "MasterPcId": 150027, 
+        "MasterPcLotteryMessageId": 510000025, 
+        "MoviePathoffset": "sys/MilimBattleArmor/voice_sys_milim_061_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/MilimBattleArmor_Battle_SpecialSkill/MilimBattleArmor_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
         "MasterPcId": 150024, 
         "MasterPcLotteryMessageId": 510000026, 
         "MoviePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_037_gacha", 

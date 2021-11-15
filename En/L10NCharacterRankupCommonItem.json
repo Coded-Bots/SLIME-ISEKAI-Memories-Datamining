@@ -461,6 +461,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 90150027, 
+        "Text": "Milim Nava, the Manifestation of the Dragon Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150027, 
+        "Text": "An item necessary in awakening Milim Nava, the Manifestation of the Dragon."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 90150033, 
         "Text": "Milim Nava, the Proud Dragon Demon Lord Memory Stone"
     }, 

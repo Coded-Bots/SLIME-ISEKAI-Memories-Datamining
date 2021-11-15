@@ -644,6 +644,20 @@
         "Value3": 0
     }, 
     {
+        "Description": 180, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/CharaRankupUnique/MilimBattleArmor/character_rankup_unique_item_MilimBattleArmor_Item{0}", 
+        "Locationoffset": "", 
+        "MasterCharacterRankupCommonItemId": 90150027, 
+        "MaxLimit": 99999, 
+        "Name": 4294967492, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "Value1": 1, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
         "Description": 196, 
         "Gold": 0, 
         "IconPathoffset": "Image/Item/CharaRankupUnique/MilimDemonLordCostume/character_rankup_unique_item_MilimDemonLordCostume_Item{0}", 

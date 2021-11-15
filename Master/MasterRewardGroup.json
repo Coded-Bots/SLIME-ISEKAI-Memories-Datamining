@@ -1095,6 +1095,11 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803000000122, 
+        "MasterRewardGroupId": 802000000267, 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
+    }, 
+    {
         "MasterReasonId": 803000000138, 
         "MasterRewardGroupId": 802000000268, 
         "ReleaseLabeloffset": ""
@@ -4478,6 +4483,11 @@
         "MasterReasonId": 803000000107, 
         "MasterRewardGroupId": 802600000260, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000107, 
+        "MasterRewardGroupId": 802600000261, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start"
     }, 
     {
         "MasterReasonId": 803000000114, 
@@ -8448,6 +8458,11 @@
         "MasterReasonId": 803000000118, 
         "MasterRewardGroupId": 802100150024, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
+    }, 
+    {
+        "MasterReasonId": 803000000118, 
+        "MasterRewardGroupId": 802100150027, 
+        "ReleaseLabeloffset": "202111_lottery_akuma2"
     }, 
     {
         "MasterReasonId": 803000000118, 

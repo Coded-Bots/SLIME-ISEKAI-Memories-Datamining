@@ -15255,6 +15255,21 @@
         "ValueType": 1
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Resist_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "MilimBattleArmor_debuff_24_ProbGuard_Debuff_RivalSideOne_Value", 
+        "MasterBuffEffectId": 20303400000013, 
+        "ParameterType": 405, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SePathoffset": "battle/other/se_battle_other_208", 
+        "TargetType": 3, 
+        "Turn": 1, 
+        "Value": 4000, 
+        "ValueType": 1
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Impart", 
         "BuffType": 1, 
         "IsTemporary": true, 
@@ -25227,6 +25242,21 @@
         "TargetType": 4, 
         "Turn": 0, 
         "Value": 800, 
+        "ValueType": 1
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "MilimBattleArmor_debuff_24_ProbGuard_Debuff_RivalSideOne_Value", 
+        "MasterBuffEffectId": 20300400000143, 
+        "ParameterType": 100, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
+        "SePathoffset": "battle/other/se_battle_other_124", 
+        "TargetType": 5, 
+        "Turn": 1, 
+        "Value": 1500, 
         "ValueType": 1
     }, 
     {
