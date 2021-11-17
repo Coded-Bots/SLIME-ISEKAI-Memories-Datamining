@@ -21491,7 +21491,7 @@
         "SePathoffset": "battle/other/se_battle_other_058", 
         "TargetType": 5, 
         "Turn": 4, 
-        "Value": 1500, 
+        "Value": 2500, 
         "ValueType": 0
     }, 
     {
@@ -25320,21 +25320,6 @@
         "ValueType": 1
     }, 
     {
-        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Damage_Impart", 
-        "BuffType": 1, 
-        "IsTemporary": false, 
-        "Labeloffset": "GazelDwargoDefault_Ranking_1_buff_3", 
-        "MasterBuffEffectId": 20301300000047, 
-        "ParameterType": 300, 
-        "PassiveSkillExecuteConditionLabeloffset": "", 
-        "ReleaseLabeloffset": "", 
-        "SePathoffset": "battle/other/se_battle_other_058", 
-        "TargetType": 5, 
-        "Turn": 0, 
-        "Value": 500, 
-        "ValueType": 1
-    }, 
-    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Counter_Impart", 
         "BuffType": 1, 
         "IsTemporary": true, 
@@ -25354,7 +25339,7 @@
         "BuffType": 1, 
         "IsTemporary": false, 
         "Labeloffset": "GazelDwargoDefault_Ranking_1_buff_4", 
-        "MasterBuffEffectId": 20301300000048, 
+        "MasterBuffEffectId": 20301300000047, 
         "ParameterType": 300, 
         "PassiveSkillExecuteConditionLabeloffset": "", 
         "ReleaseLabeloffset": "", 

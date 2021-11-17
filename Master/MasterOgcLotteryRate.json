@@ -580,7 +580,7 @@
         "MasterOgcLotteryRateId": 503002501, 
         "MasterOgcLotteryRewardGroupId": 5008, 
         "Rate": 10000, 
-        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark", 
+        "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start", 
         "ShowRarity": 5
     }
 ]
