@@ -40,5 +40,11 @@
         "MasterOgcLotteryShopId": 500000022, 
         "MasterPcId": 150012, 
         "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
+    }, 
+    {
+        "MasterLotterySkillId": 509000010, 
+        "MasterOgcLotteryShopId": 500000023, 
+        "MasterPcId": 150028, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }
 ]

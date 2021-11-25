@@ -644,6 +644,20 @@
         "Value3": 0
     }, 
     {
+        "Description": 188, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/CharaRankupUnique/RimuruDemonLord/character_rankup_unique_item_RimuruDemonLord_Item{0}", 
+        "Locationoffset": "", 
+        "MasterCharacterRankupCommonItemId": 90150028, 
+        "MaxLimit": 99999, 
+        "Name": 4294967500, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "Value1": 1, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
         "Description": 180, 
         "Gold": 0, 
         "IconPathoffset": "Image/Item/CharaRankupUnique/MilimBattleArmor/character_rankup_unique_item_MilimBattleArmor_Item{0}", 

@@ -98,5 +98,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 505000010, 
         "Text": "Ticket used in the 5\u2605 Dark Battle Character Guaranteed Ticket Recruit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000011, 
+        "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000011, 
+        "Text": "Ticket used in the Rimuru, the Awakened Demon Lord Recruit Selection"
     }
 ]

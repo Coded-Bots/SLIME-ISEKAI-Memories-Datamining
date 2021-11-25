@@ -9452,6 +9452,16 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000341011, 
+        "ReleaseLabeloffset": "", 
+        "SkillEffectGroupLabeloffset": "GiantBatSilver_normal_11", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033000342001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "GiantBatSilver_buff_01", 
@@ -15502,6 +15512,46 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500281001, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SkillEffectGroupLabeloffset": "RimuruDemonLord_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Rimuru/RimuruDemonLord/S_RimuruDemonLord_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500287001, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SkillEffectGroupLabeloffset": "RimuruDemonLord_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Rimuru/RimuruDemonLord/RimuruDemonLord_Battle_SpecialSkill/RimuruDemonLord_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RimuruDemonLord/5/RimuruDemonLord_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500282023, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SkillEffectGroupLabeloffset": "RimuruDemonLord_buff_23", 
+        "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Rimuru/RimuruDemonLord/RimuruDemonLord_Battle_ActiveSkill_Buff/RimuruDemonLord_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RimuruDemonLord/5/RimuruDemonLord_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500282024, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SkillEffectGroupLabeloffset": "RimuruDemonLord_buff_24", 
+        "SkillIconImagePathoffset": "Image/Skill/032/05/{1}/IcSkill_032_05_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Rimuru/RimuruDemonLord/RimuruDemonLord_Battle_ActiveSkill_Buff/RimuruDemonLord_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20022500098003, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
         "SkillEffectGroupLabeloffset": "ShionSecretary_bless_03", 
@@ -15597,7 +15647,7 @@
         "SkillEffectGroupLabeloffset": "MilimBattleArmor_buff_24", 
         "SkillIconImagePathoffset": "Image/Skill/050/01/{1}/IcSkill_050_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
-        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Milim/MilimBattleArmor/MilimBattleArmor_Battle_ActiveSkill_Debuff/MilimBattleArmor_Battle_ActiveSkill_Debuff"
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Milim/MilimBattleArmor/MilimBattleArmor_Battle_ActiveSkill_Buff/MilimBattleArmor_Battle_ActiveSkill_Buff"
     }, 
     {
         "AfterEffectPathoffset": "", 
@@ -16342,6 +16392,16 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500292030, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SkillEffectGroupLabeloffset": "RimuruDemonLord_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/13/1/IcPassiveSkill_041_13_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20011500282030, 
         "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
         "SkillEffectGroupLabeloffset": "MilimBattleArmor_passive_30", 
@@ -16816,6 +16876,16 @@
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start", 
         "SkillEffectGroupLabeloffset": "VeldoraHumanoid_passive_31", 
         "SkillIconImagePathoffset": "Image/PassiveSkill/027/01/2/IcPassiveSkill_027_01_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500292031, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SkillEffectGroupLabeloffset": "RimuruDemonLord_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/13/2/IcPassiveSkill_041_13_2", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
     }, 

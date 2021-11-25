@@ -7391,6 +7391,106 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811200000311, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000312, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000313, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000314, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000315, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000316, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000317, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000318, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000319, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000320, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000321, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000322, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000323, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000324, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000325, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000326, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000327, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000328, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000329, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000330, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811500000000, 
         "Text": "Magicrystal"
     }, 
@@ -8693,6 +8793,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811500000261, 
         "Text": "Recruit Ticket: Nation of Monsters Diabolic Secretary Part 2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500000262, 
+        "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
     }, 
     {
         "ColumnName": "description", 
@@ -12671,6 +12776,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811900150028, 
+        "Text": "Rimuru Tempest, the Awakened Demon Lord"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811900230001, 
         "Text": "Butterflies of the Night Owner, the Bewitching Shopkeeper"
     }, 
@@ -12923,6 +13033,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811620000019, 
         "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000024, 
+        "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000025, 
+        "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
     }, 
     {
         "ColumnName": "description", 
@@ -18628,5 +18748,10 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000293, 
         "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000294, 
+        "Text": "en_reward@system_N/A"
     }
 ]

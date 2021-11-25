@@ -14027,7 +14027,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152103, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 67
+        "RequiredExp": 87
     }, 
     {
         "AddAttack": 11, 
@@ -14037,7 +14037,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152104, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 123
+        "RequiredExp": 170
     }, 
     {
         "AddAttack": 14, 
@@ -14047,7 +14047,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152105, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 199
+        "RequiredExp": 283
     }, 
     {
         "AddAttack": 18, 
@@ -14057,7 +14057,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152106, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 300
+        "RequiredExp": 435
     }, 
     {
         "AddAttack": 21, 
@@ -14067,7 +14067,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152107, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 433
+        "RequiredExp": 635
     }, 
     {
         "AddAttack": 25, 
@@ -14077,7 +14077,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152108, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 606
+        "RequiredExp": 895
     }, 
     {
         "AddAttack": 28, 
@@ -14087,7 +14087,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152109, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 828
+        "RequiredExp": 1227
     }, 
     {
         "AddAttack": 32, 
@@ -14097,7 +14097,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152110, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1107
+        "RequiredExp": 1646
     }, 
     {
         "AddAttack": 35, 
@@ -14107,7 +14107,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152111, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1582
+        "RequiredExp": 2359
     }, 
     {
         "AddAttack": 39, 
@@ -14117,7 +14117,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152112, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2095
+        "RequiredExp": 3130
     }, 
     {
         "AddAttack": 42, 
@@ -14127,7 +14127,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152113, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2647
+        "RequiredExp": 3958
     }, 
     {
         "AddAttack": 46, 
@@ -14137,7 +14137,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152114, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3238
+        "RequiredExp": 4844
     }, 
     {
         "AddAttack": 49, 
@@ -14147,7 +14147,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152115, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3867
+        "RequiredExp": 5788
     }, 
     {
         "AddAttack": 53, 
@@ -14157,7 +14157,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152116, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 4534
+        "RequiredExp": 6788
     }, 
     {
         "AddAttack": 56, 
@@ -14167,7 +14167,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152117, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5237
+        "RequiredExp": 7843
     }, 
     {
         "AddAttack": 60, 
@@ -14177,7 +14177,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152118, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5975
+        "RequiredExp": 8951
     }, 
     {
         "AddAttack": 63, 
@@ -14187,7 +14187,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152119, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 6747
+        "RequiredExp": 10109
     }, 
     {
         "AddAttack": 67, 
@@ -14197,7 +14197,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152120, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 7549
+        "RequiredExp": 11313
     }, 
     {
         "AddAttack": 70, 
@@ -14207,7 +14207,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152121, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 8512
+        "RequiredExp": 12758
     }, 
     {
         "AddAttack": 74, 
@@ -14217,7 +14217,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152122, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 9514
+        "RequiredExp": 14261
     }, 
     {
         "AddAttack": 77, 
@@ -14227,7 +14227,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152123, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 10555
+        "RequiredExp": 15823
     }, 
     {
         "AddAttack": 81, 
@@ -14237,7 +14237,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152124, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 11636
+        "RequiredExp": 17444
     }, 
     {
         "AddAttack": 84, 
@@ -14247,7 +14247,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152125, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 12757
+        "RequiredExp": 19125
     }, 
     {
         "AddAttack": 88, 
@@ -14257,7 +14257,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152126, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 13918
+        "RequiredExp": 20867
     }, 
     {
         "AddAttack": 91, 
@@ -14267,7 +14267,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152127, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 15120
+        "RequiredExp": 22670
     }, 
     {
         "AddAttack": 95, 
@@ -14277,7 +14277,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152128, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 16362
+        "RequiredExp": 24534
     }, 
     {
         "AddAttack": 98, 
@@ -14287,7 +14287,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152129, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 17645
+        "RequiredExp": 26459
     }, 
     {
         "AddAttack": 102, 
@@ -14297,7 +14297,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152130, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 18969
+        "RequiredExp": 28446
     }, 
     {
         "AddAttack": 105, 
@@ -14307,7 +14307,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152131, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 20334
+        "RequiredExp": 30495
     }, 
     {
         "AddAttack": 109, 
@@ -14317,7 +14317,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152132, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 21740
+        "RequiredExp": 32605
     }, 
     {
         "AddAttack": 112, 
@@ -14327,7 +14327,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152133, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 23187
+        "RequiredExp": 34776
     }, 
     {
         "AddAttack": 116, 
@@ -14337,7 +14337,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152134, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 24675
+        "RequiredExp": 37008
     }, 
     {
         "AddAttack": 119, 
@@ -14347,7 +14347,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152135, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 26203
+        "RequiredExp": 39300
     }, 
     {
         "AddAttack": 123, 
@@ -14357,7 +14357,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152136, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 27771
+        "RequiredExp": 41652
     }, 
     {
         "AddAttack": 126, 
@@ -14367,7 +14367,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152137, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 29378
+        "RequiredExp": 44063
     }, 
     {
         "AddAttack": 130, 
@@ -14377,7 +14377,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152138, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 31023
+        "RequiredExp": 46531
     }, 
     {
         "AddAttack": 133, 
@@ -14387,7 +14387,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152139, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 32706
+        "RequiredExp": 49056
     }, 
     {
         "AddAttack": 137, 
@@ -14397,7 +14397,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152140, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 34426
+        "RequiredExp": 51637
     }, 
     {
         "AddAttack": 140, 
@@ -14407,7 +14407,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152141, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 36662
+        "RequiredExp": 54993
     }, 
     {
         "AddAttack": 144, 
@@ -14417,7 +14417,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152142, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 38966
+        "RequiredExp": 58450
     }, 
     {
         "AddAttack": 147, 
@@ -14427,7 +14427,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152143, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 41336
+        "RequiredExp": 62007
     }, 
     {
         "AddAttack": 151, 
@@ -14437,7 +14437,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152144, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 43773
+        "RequiredExp": 65664
     }, 
     {
         "AddAttack": 154, 
@@ -14447,7 +14447,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152145, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 46276
+        "RequiredExp": 69420
     }, 
     {
         "AddAttack": 158, 
@@ -14457,7 +14457,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152146, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 48844
+        "RequiredExp": 73273
     }, 
     {
         "AddAttack": 161, 
@@ -14467,7 +14467,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152147, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 51476
+        "RequiredExp": 77223
     }, 
     {
         "AddAttack": 165, 
@@ -14477,7 +14477,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152148, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 54171
+        "RequiredExp": 81267
     }, 
     {
         "AddAttack": 168, 
@@ -14487,7 +14487,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152149, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 56928
+        "RequiredExp": 85404
     }, 
     {
         "AddAttack": 172, 
@@ -14497,7 +14497,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152150, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 59745
+        "RequiredExp": 89633
     }, 
     {
         "AddAttack": 175, 
@@ -14507,7 +14507,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152151, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 62622
+        "RequiredExp": 93950
     }, 
     {
         "AddAttack": 179, 
@@ -14517,7 +14517,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152152, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 65556
+        "RequiredExp": 98354
     }, 
     {
         "AddAttack": 182, 
@@ -14527,7 +14527,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152153, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 68546
+        "RequiredExp": 102841
     }, 
     {
         "AddAttack": 186, 
@@ -14537,7 +14537,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152154, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 71590
+        "RequiredExp": 107409
     }, 
     {
         "AddAttack": 189, 
@@ -14547,7 +14547,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152155, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 74685
+        "RequiredExp": 112055
     }, 
     {
         "AddAttack": 193, 
@@ -14557,7 +14557,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152156, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 77830
+        "RequiredExp": 116775
     }, 
     {
         "AddAttack": 196, 
@@ -14567,7 +14567,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152157, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 81022
+        "RequiredExp": 121566
     }, 
     {
         "AddAttack": 200, 
@@ -14577,7 +14577,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152158, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 84259
+        "RequiredExp": 126424
     }, 
     {
         "AddAttack": 203, 
@@ -14587,7 +14587,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152159, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 87538
+        "RequiredExp": 131345
     }, 
     {
         "AddAttack": 207, 
@@ -14597,7 +14597,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152160, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 90856
+        "RequiredExp": 136325
     }, 
     {
         "AddAttack": 210, 
@@ -14607,7 +14607,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152161, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 96829
+        "RequiredExp": 145289
     }, 
     {
         "AddAttack": 214, 
@@ -14617,7 +14617,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152162, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 102922
+        "RequiredExp": 154433
     }, 
     {
         "AddAttack": 217, 
@@ -14627,7 +14627,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152163, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 109131
+        "RequiredExp": 163751
     }, 
     {
         "AddAttack": 221, 
@@ -14637,7 +14637,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152164, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 115451
+        "RequiredExp": 173236
     }, 
     {
         "AddAttack": 224, 
@@ -14647,7 +14647,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152165, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 121879
+        "RequiredExp": 182882
     }, 
     {
         "AddAttack": 228, 
@@ -14657,7 +14657,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152166, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 128410
+        "RequiredExp": 192683
     }, 
     {
         "AddAttack": 231, 
@@ -14667,7 +14667,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152167, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 135039
+        "RequiredExp": 202631
     }, 
     {
         "AddAttack": 235, 
@@ -14677,7 +14677,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152168, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 141760
+        "RequiredExp": 212718
     }, 
     {
         "AddAttack": 238, 
@@ -14687,7 +14687,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152169, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 148569
+        "RequiredExp": 222936
     }, 
     {
         "AddAttack": 242, 
@@ -14697,7 +14697,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152170, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 155460
+        "RequiredExp": 233277
     }, 
     {
         "AddAttack": 245, 
@@ -14707,7 +14707,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152171, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 162426
+        "RequiredExp": 243732
     }, 
     {
         "AddAttack": 249, 
@@ -14717,7 +14717,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152172, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 169462
+        "RequiredExp": 254291
     }, 
     {
         "AddAttack": 252, 
@@ -14727,7 +14727,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152173, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 176561
+        "RequiredExp": 264945
     }, 
     {
         "AddAttack": 256, 
@@ -14737,7 +14737,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152174, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 183717
+        "RequiredExp": 275684
     }, 
     {
         "AddAttack": 259, 
@@ -14747,7 +14747,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152175, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 190923
+        "RequiredExp": 286498
     }, 
     {
         "AddAttack": 263, 
@@ -14757,7 +14757,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152176, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 198172
+        "RequiredExp": 297377
     }, 
     {
         "AddAttack": 266, 
@@ -14767,7 +14767,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152177, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 205458
+        "RequiredExp": 308311
     }, 
     {
         "AddAttack": 270, 
@@ -14777,7 +14777,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152178, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 212773
+        "RequiredExp": 319289
     }, 
     {
         "AddAttack": 273, 
@@ -14787,7 +14787,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152179, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 220110
+        "RequiredExp": 330299
     }, 
     {
         "AddAttack": 277, 
@@ -14797,7 +14797,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152180, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 227461
+        "RequiredExp": 341331
     }, 
     {
         "AddAttack": 308, 
@@ -14807,7 +14807,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152181, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 240693
+        "RequiredExp": 361189
     }, 
     {
         "AddAttack": 338, 
@@ -14817,7 +14817,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152182, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 254058
+        "RequiredExp": 391274
     }, 
     {
         "AddAttack": 369, 
@@ -14827,7 +14827,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152183, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 267677
+        "RequiredExp": 421931
     }, 
     {
         "AddAttack": 399, 
@@ -14837,7 +14837,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152184, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 281541
+        "RequiredExp": 453140
     }, 
     {
         "AddAttack": 430, 
@@ -14847,7 +14847,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152185, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 295641
+        "RequiredExp": 484879
     }, 
     {
         "AddAttack": 460, 
@@ -14857,7 +14857,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152186, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 309966
+        "RequiredExp": 517126
     }, 
     {
         "AddAttack": 491, 
@@ -14867,7 +14867,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152187, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 324506
+        "RequiredExp": 549857
     }, 
     {
         "AddAttack": 521, 
@@ -14877,7 +14877,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152188, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 339250
+        "RequiredExp": 583046
     }, 
     {
         "AddAttack": 552, 
@@ -14887,7 +14887,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152189, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 354185
+        "RequiredExp": 616667
     }, 
     {
         "AddAttack": 582, 
@@ -14897,7 +14897,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152190, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 369299
+        "RequiredExp": 650691
     }, 
     {
         "AddAttack": 613, 
@@ -14907,7 +14907,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152191, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 384580
+        "RequiredExp": 685089
     }, 
     {
         "AddAttack": 644, 
@@ -14917,7 +14917,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152192, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 400013
+        "RequiredExp": 719831
     }, 
     {
         "AddAttack": 674, 
@@ -14927,7 +14927,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152193, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 415585
+        "RequiredExp": 754886
     }, 
     {
         "AddAttack": 705, 
@@ -14937,7 +14937,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152194, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 431282
+        "RequiredExp": 790221
     }, 
     {
         "AddAttack": 735, 
@@ -14947,7 +14947,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152195, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 447089
+        "RequiredExp": 825804
     }, 
     {
         "AddAttack": 766, 
@@ -14957,7 +14957,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152196, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 462991
+        "RequiredExp": 861600
     }, 
     {
         "AddAttack": 796, 
@@ -14967,7 +14967,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152197, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 478972
+        "RequiredExp": 897575
     }, 
     {
         "AddAttack": 827, 
@@ -14977,7 +14977,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152198, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 495017
+        "RequiredExp": 933694
     }, 
     {
         "AddAttack": 857, 
@@ -14987,7 +14987,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152199, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 511110
+        "RequiredExp": 969921
     }, 
     {
         "AddAttack": 888, 
@@ -14997,7 +14997,7 @@
         "MasterPcLevelGroupId": 1521, 
         "MasterPcLevelId": 3600152200, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 527235
+        "RequiredExp": 1006221
     }, 
     {
         "AddAttack": 0, 
@@ -15027,7 +15027,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152203, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 67
+        "RequiredExp": 87
     }, 
     {
         "AddAttack": 12, 
@@ -15037,7 +15037,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152204, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 123
+        "RequiredExp": 170
     }, 
     {
         "AddAttack": 16, 
@@ -15047,7 +15047,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152205, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 199
+        "RequiredExp": 283
     }, 
     {
         "AddAttack": 20, 
@@ -15057,7 +15057,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152206, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 300
+        "RequiredExp": 435
     }, 
     {
         "AddAttack": 24, 
@@ -15067,7 +15067,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152207, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 433
+        "RequiredExp": 635
     }, 
     {
         "AddAttack": 28, 
@@ -15077,7 +15077,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152208, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 606
+        "RequiredExp": 895
     }, 
     {
         "AddAttack": 32, 
@@ -15087,7 +15087,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152209, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 828
+        "RequiredExp": 1227
     }, 
     {
         "AddAttack": 36, 
@@ -15097,7 +15097,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152210, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1107
+        "RequiredExp": 1646
     }, 
     {
         "AddAttack": 40, 
@@ -15107,7 +15107,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152211, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1582
+        "RequiredExp": 2359
     }, 
     {
         "AddAttack": 44, 
@@ -15117,7 +15117,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152212, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2095
+        "RequiredExp": 3130
     }, 
     {
         "AddAttack": 48, 
@@ -15127,7 +15127,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152213, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2647
+        "RequiredExp": 3958
     }, 
     {
         "AddAttack": 52, 
@@ -15137,7 +15137,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152214, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3238
+        "RequiredExp": 4844
     }, 
     {
         "AddAttack": 56, 
@@ -15147,7 +15147,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152215, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3867
+        "RequiredExp": 5788
     }, 
     {
         "AddAttack": 60, 
@@ -15157,7 +15157,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152216, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 4534
+        "RequiredExp": 6788
     }, 
     {
         "AddAttack": 64, 
@@ -15167,7 +15167,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152217, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5237
+        "RequiredExp": 7843
     }, 
     {
         "AddAttack": 68, 
@@ -15177,7 +15177,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152218, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5975
+        "RequiredExp": 8951
     }, 
     {
         "AddAttack": 72, 
@@ -15187,7 +15187,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152219, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 6747
+        "RequiredExp": 10109
     }, 
     {
         "AddAttack": 76, 
@@ -15197,7 +15197,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152220, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 7549
+        "RequiredExp": 11313
     }, 
     {
         "AddAttack": 80, 
@@ -15207,7 +15207,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152221, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 8512
+        "RequiredExp": 12758
     }, 
     {
         "AddAttack": 84, 
@@ -15217,7 +15217,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152222, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 9514
+        "RequiredExp": 14261
     }, 
     {
         "AddAttack": 88, 
@@ -15227,7 +15227,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152223, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 10555
+        "RequiredExp": 15823
     }, 
     {
         "AddAttack": 92, 
@@ -15237,7 +15237,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152224, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 11636
+        "RequiredExp": 17444
     }, 
     {
         "AddAttack": 96, 
@@ -15247,7 +15247,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152225, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 12757
+        "RequiredExp": 19125
     }, 
     {
         "AddAttack": 100, 
@@ -15257,7 +15257,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152226, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 13918
+        "RequiredExp": 20867
     }, 
     {
         "AddAttack": 104, 
@@ -15267,7 +15267,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152227, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 15120
+        "RequiredExp": 22670
     }, 
     {
         "AddAttack": 108, 
@@ -15277,7 +15277,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152228, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 16362
+        "RequiredExp": 24534
     }, 
     {
         "AddAttack": 112, 
@@ -15287,7 +15287,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152229, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 17645
+        "RequiredExp": 26459
     }, 
     {
         "AddAttack": 116, 
@@ -15297,7 +15297,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152230, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 18969
+        "RequiredExp": 28446
     }, 
     {
         "AddAttack": 120, 
@@ -15307,7 +15307,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152231, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 20334
+        "RequiredExp": 30495
     }, 
     {
         "AddAttack": 124, 
@@ -15317,7 +15317,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152232, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 21740
+        "RequiredExp": 32605
     }, 
     {
         "AddAttack": 128, 
@@ -15327,7 +15327,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152233, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 23187
+        "RequiredExp": 34776
     }, 
     {
         "AddAttack": 132, 
@@ -15337,7 +15337,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152234, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 24675
+        "RequiredExp": 37008
     }, 
     {
         "AddAttack": 136, 
@@ -15347,7 +15347,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152235, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 26203
+        "RequiredExp": 39300
     }, 
     {
         "AddAttack": 140, 
@@ -15357,7 +15357,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152236, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 27771
+        "RequiredExp": 41652
     }, 
     {
         "AddAttack": 144, 
@@ -15367,7 +15367,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152237, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 29378
+        "RequiredExp": 44063
     }, 
     {
         "AddAttack": 148, 
@@ -15377,7 +15377,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152238, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 31023
+        "RequiredExp": 46531
     }, 
     {
         "AddAttack": 152, 
@@ -15387,7 +15387,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152239, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 32706
+        "RequiredExp": 49056
     }, 
     {
         "AddAttack": 156, 
@@ -15397,7 +15397,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152240, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 34426
+        "RequiredExp": 51637
     }, 
     {
         "AddAttack": 160, 
@@ -15407,7 +15407,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152241, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 36662
+        "RequiredExp": 54993
     }, 
     {
         "AddAttack": 164, 
@@ -15417,7 +15417,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152242, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 38966
+        "RequiredExp": 58450
     }, 
     {
         "AddAttack": 168, 
@@ -15427,7 +15427,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152243, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 41336
+        "RequiredExp": 62007
     }, 
     {
         "AddAttack": 172, 
@@ -15437,7 +15437,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152244, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 43773
+        "RequiredExp": 65664
     }, 
     {
         "AddAttack": 176, 
@@ -15447,7 +15447,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152245, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 46276
+        "RequiredExp": 69420
     }, 
     {
         "AddAttack": 180, 
@@ -15457,7 +15457,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152246, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 48844
+        "RequiredExp": 73273
     }, 
     {
         "AddAttack": 184, 
@@ -15467,7 +15467,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152247, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 51476
+        "RequiredExp": 77223
     }, 
     {
         "AddAttack": 188, 
@@ -15477,7 +15477,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152248, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 54171
+        "RequiredExp": 81267
     }, 
     {
         "AddAttack": 192, 
@@ -15487,7 +15487,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152249, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 56928
+        "RequiredExp": 85404
     }, 
     {
         "AddAttack": 196, 
@@ -15497,7 +15497,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152250, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 59745
+        "RequiredExp": 89633
     }, 
     {
         "AddAttack": 200, 
@@ -15507,7 +15507,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152251, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 62622
+        "RequiredExp": 93950
     }, 
     {
         "AddAttack": 204, 
@@ -15517,7 +15517,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152252, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 65556
+        "RequiredExp": 98354
     }, 
     {
         "AddAttack": 208, 
@@ -15527,7 +15527,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152253, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 68546
+        "RequiredExp": 102841
     }, 
     {
         "AddAttack": 212, 
@@ -15537,7 +15537,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152254, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 71590
+        "RequiredExp": 107409
     }, 
     {
         "AddAttack": 216, 
@@ -15547,7 +15547,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152255, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 74685
+        "RequiredExp": 112055
     }, 
     {
         "AddAttack": 220, 
@@ -15557,7 +15557,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152256, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 77830
+        "RequiredExp": 116775
     }, 
     {
         "AddAttack": 224, 
@@ -15567,7 +15567,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152257, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 81022
+        "RequiredExp": 121566
     }, 
     {
         "AddAttack": 228, 
@@ -15577,7 +15577,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152258, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 84259
+        "RequiredExp": 126424
     }, 
     {
         "AddAttack": 232, 
@@ -15587,7 +15587,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152259, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 87538
+        "RequiredExp": 131345
     }, 
     {
         "AddAttack": 236, 
@@ -15597,7 +15597,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152260, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 90856
+        "RequiredExp": 136325
     }, 
     {
         "AddAttack": 240, 
@@ -15607,7 +15607,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152261, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 96829
+        "RequiredExp": 145289
     }, 
     {
         "AddAttack": 244, 
@@ -15617,7 +15617,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152262, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 102922
+        "RequiredExp": 154433
     }, 
     {
         "AddAttack": 248, 
@@ -15627,7 +15627,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152263, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 109131
+        "RequiredExp": 163751
     }, 
     {
         "AddAttack": 252, 
@@ -15637,7 +15637,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152264, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 115451
+        "RequiredExp": 173236
     }, 
     {
         "AddAttack": 256, 
@@ -15647,7 +15647,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152265, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 121879
+        "RequiredExp": 182882
     }, 
     {
         "AddAttack": 260, 
@@ -15657,7 +15657,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152266, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 128410
+        "RequiredExp": 192683
     }, 
     {
         "AddAttack": 264, 
@@ -15667,7 +15667,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152267, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 135039
+        "RequiredExp": 202631
     }, 
     {
         "AddAttack": 268, 
@@ -15677,7 +15677,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152268, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 141760
+        "RequiredExp": 212718
     }, 
     {
         "AddAttack": 272, 
@@ -15687,7 +15687,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152269, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 148569
+        "RequiredExp": 222936
     }, 
     {
         "AddAttack": 276, 
@@ -15697,7 +15697,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152270, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 155460
+        "RequiredExp": 233277
     }, 
     {
         "AddAttack": 280, 
@@ -15707,7 +15707,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152271, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 162426
+        "RequiredExp": 243732
     }, 
     {
         "AddAttack": 284, 
@@ -15717,7 +15717,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152272, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 169462
+        "RequiredExp": 254291
     }, 
     {
         "AddAttack": 288, 
@@ -15727,7 +15727,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152273, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 176561
+        "RequiredExp": 264945
     }, 
     {
         "AddAttack": 292, 
@@ -15737,7 +15737,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152274, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 183717
+        "RequiredExp": 275684
     }, 
     {
         "AddAttack": 296, 
@@ -15747,7 +15747,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152275, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 190923
+        "RequiredExp": 286498
     }, 
     {
         "AddAttack": 300, 
@@ -15757,7 +15757,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152276, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 198172
+        "RequiredExp": 297377
     }, 
     {
         "AddAttack": 304, 
@@ -15767,7 +15767,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152277, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 205458
+        "RequiredExp": 308311
     }, 
     {
         "AddAttack": 308, 
@@ -15777,7 +15777,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152278, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 212773
+        "RequiredExp": 319289
     }, 
     {
         "AddAttack": 312, 
@@ -15787,7 +15787,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152279, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 220110
+        "RequiredExp": 330299
     }, 
     {
         "AddAttack": 316, 
@@ -15797,7 +15797,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152280, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 227461
+        "RequiredExp": 341331
     }, 
     {
         "AddAttack": 350, 
@@ -15807,7 +15807,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152281, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 240693
+        "RequiredExp": 361189
     }, 
     {
         "AddAttack": 383, 
@@ -15817,7 +15817,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152282, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 254058
+        "RequiredExp": 391274
     }, 
     {
         "AddAttack": 417, 
@@ -15827,7 +15827,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152283, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 267677
+        "RequiredExp": 421931
     }, 
     {
         "AddAttack": 450, 
@@ -15837,7 +15837,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152284, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 281541
+        "RequiredExp": 453140
     }, 
     {
         "AddAttack": 483, 
@@ -15847,7 +15847,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152285, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 295641
+        "RequiredExp": 484879
     }, 
     {
         "AddAttack": 517, 
@@ -15857,7 +15857,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152286, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 309966
+        "RequiredExp": 517126
     }, 
     {
         "AddAttack": 550, 
@@ -15867,7 +15867,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152287, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 324506
+        "RequiredExp": 549857
     }, 
     {
         "AddAttack": 583, 
@@ -15877,7 +15877,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152288, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 339250
+        "RequiredExp": 583046
     }, 
     {
         "AddAttack": 617, 
@@ -15887,7 +15887,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152289, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 354185
+        "RequiredExp": 616667
     }, 
     {
         "AddAttack": 650, 
@@ -15897,7 +15897,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152290, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 369299
+        "RequiredExp": 650691
     }, 
     {
         "AddAttack": 684, 
@@ -15907,7 +15907,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152291, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 384580
+        "RequiredExp": 685089
     }, 
     {
         "AddAttack": 717, 
@@ -15917,7 +15917,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152292, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 400013
+        "RequiredExp": 719831
     }, 
     {
         "AddAttack": 750, 
@@ -15927,7 +15927,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152293, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 415585
+        "RequiredExp": 754886
     }, 
     {
         "AddAttack": 784, 
@@ -15937,7 +15937,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152294, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 431282
+        "RequiredExp": 790221
     }, 
     {
         "AddAttack": 817, 
@@ -15947,7 +15947,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152295, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 447089
+        "RequiredExp": 825804
     }, 
     {
         "AddAttack": 850, 
@@ -15957,7 +15957,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152296, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 462991
+        "RequiredExp": 861600
     }, 
     {
         "AddAttack": 884, 
@@ -15967,7 +15967,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152297, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 478972
+        "RequiredExp": 897575
     }, 
     {
         "AddAttack": 917, 
@@ -15977,7 +15977,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152298, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 495017
+        "RequiredExp": 933694
     }, 
     {
         "AddAttack": 951, 
@@ -15987,7 +15987,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152299, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 511110
+        "RequiredExp": 969921
     }, 
     {
         "AddAttack": 984, 
@@ -15997,7 +15997,7 @@
         "MasterPcLevelGroupId": 1522, 
         "MasterPcLevelId": 3600152300, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 527235
+        "RequiredExp": 1006221
     }, 
     {
         "AddAttack": 0, 
@@ -16027,7 +16027,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152303, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 67
+        "RequiredExp": 87
     }, 
     {
         "AddAttack": 9, 
@@ -16037,7 +16037,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152304, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 123
+        "RequiredExp": 170
     }, 
     {
         "AddAttack": 12, 
@@ -16047,7 +16047,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152305, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 199
+        "RequiredExp": 283
     }, 
     {
         "AddAttack": 15, 
@@ -16057,7 +16057,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152306, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 300
+        "RequiredExp": 435
     }, 
     {
         "AddAttack": 18, 
@@ -16067,7 +16067,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152307, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 433
+        "RequiredExp": 635
     }, 
     {
         "AddAttack": 21, 
@@ -16077,7 +16077,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152308, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 606
+        "RequiredExp": 895
     }, 
     {
         "AddAttack": 24, 
@@ -16087,7 +16087,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152309, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 828
+        "RequiredExp": 1227
     }, 
     {
         "AddAttack": 27, 
@@ -16097,7 +16097,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152310, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1107
+        "RequiredExp": 1646
     }, 
     {
         "AddAttack": 30, 
@@ -16107,7 +16107,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152311, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1582
+        "RequiredExp": 2359
     }, 
     {
         "AddAttack": 33, 
@@ -16117,7 +16117,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152312, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2095
+        "RequiredExp": 3130
     }, 
     {
         "AddAttack": 36, 
@@ -16127,7 +16127,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152313, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2647
+        "RequiredExp": 3958
     }, 
     {
         "AddAttack": 39, 
@@ -16137,7 +16137,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152314, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3238
+        "RequiredExp": 4844
     }, 
     {
         "AddAttack": 42, 
@@ -16147,7 +16147,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152315, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3867
+        "RequiredExp": 5788
     }, 
     {
         "AddAttack": 45, 
@@ -16157,7 +16157,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152316, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 4534
+        "RequiredExp": 6788
     }, 
     {
         "AddAttack": 48, 
@@ -16167,7 +16167,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152317, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5237
+        "RequiredExp": 7843
     }, 
     {
         "AddAttack": 51, 
@@ -16177,7 +16177,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152318, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5975
+        "RequiredExp": 8951
     }, 
     {
         "AddAttack": 54, 
@@ -16187,7 +16187,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152319, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 6747
+        "RequiredExp": 10109
     }, 
     {
         "AddAttack": 57, 
@@ -16197,7 +16197,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152320, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 7549
+        "RequiredExp": 11313
     }, 
     {
         "AddAttack": 60, 
@@ -16207,7 +16207,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152321, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 8512
+        "RequiredExp": 12758
     }, 
     {
         "AddAttack": 63, 
@@ -16217,7 +16217,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152322, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 9514
+        "RequiredExp": 14261
     }, 
     {
         "AddAttack": 66, 
@@ -16227,7 +16227,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152323, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 10555
+        "RequiredExp": 15823
     }, 
     {
         "AddAttack": 69, 
@@ -16237,7 +16237,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152324, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 11636
+        "RequiredExp": 17444
     }, 
     {
         "AddAttack": 72, 
@@ -16247,7 +16247,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152325, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 12757
+        "RequiredExp": 19125
     }, 
     {
         "AddAttack": 75, 
@@ -16257,7 +16257,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152326, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 13918
+        "RequiredExp": 20867
     }, 
     {
         "AddAttack": 78, 
@@ -16267,7 +16267,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152327, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 15120
+        "RequiredExp": 22670
     }, 
     {
         "AddAttack": 81, 
@@ -16277,7 +16277,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152328, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 16362
+        "RequiredExp": 24534
     }, 
     {
         "AddAttack": 84, 
@@ -16287,7 +16287,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152329, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 17645
+        "RequiredExp": 26459
     }, 
     {
         "AddAttack": 87, 
@@ -16297,7 +16297,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152330, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 18969
+        "RequiredExp": 28446
     }, 
     {
         "AddAttack": 90, 
@@ -16307,7 +16307,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152331, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 20334
+        "RequiredExp": 30495
     }, 
     {
         "AddAttack": 93, 
@@ -16317,7 +16317,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152332, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 21740
+        "RequiredExp": 32605
     }, 
     {
         "AddAttack": 96, 
@@ -16327,7 +16327,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152333, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 23187
+        "RequiredExp": 34776
     }, 
     {
         "AddAttack": 99, 
@@ -16337,7 +16337,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152334, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 24675
+        "RequiredExp": 37008
     }, 
     {
         "AddAttack": 102, 
@@ -16347,7 +16347,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152335, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 26203
+        "RequiredExp": 39300
     }, 
     {
         "AddAttack": 105, 
@@ -16357,7 +16357,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152336, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 27771
+        "RequiredExp": 41652
     }, 
     {
         "AddAttack": 108, 
@@ -16367,7 +16367,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152337, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 29378
+        "RequiredExp": 44063
     }, 
     {
         "AddAttack": 111, 
@@ -16377,7 +16377,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152338, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 31023
+        "RequiredExp": 46531
     }, 
     {
         "AddAttack": 114, 
@@ -16387,7 +16387,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152339, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 32706
+        "RequiredExp": 49056
     }, 
     {
         "AddAttack": 117, 
@@ -16397,7 +16397,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152340, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 34426
+        "RequiredExp": 51637
     }, 
     {
         "AddAttack": 120, 
@@ -16407,7 +16407,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152341, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 36662
+        "RequiredExp": 54993
     }, 
     {
         "AddAttack": 123, 
@@ -16417,7 +16417,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152342, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 38966
+        "RequiredExp": 58450
     }, 
     {
         "AddAttack": 126, 
@@ -16427,7 +16427,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152343, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 41336
+        "RequiredExp": 62007
     }, 
     {
         "AddAttack": 129, 
@@ -16437,7 +16437,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152344, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 43773
+        "RequiredExp": 65664
     }, 
     {
         "AddAttack": 132, 
@@ -16447,7 +16447,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152345, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 46276
+        "RequiredExp": 69420
     }, 
     {
         "AddAttack": 135, 
@@ -16457,7 +16457,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152346, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 48844
+        "RequiredExp": 73273
     }, 
     {
         "AddAttack": 138, 
@@ -16467,7 +16467,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152347, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 51476
+        "RequiredExp": 77223
     }, 
     {
         "AddAttack": 141, 
@@ -16477,7 +16477,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152348, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 54171
+        "RequiredExp": 81267
     }, 
     {
         "AddAttack": 144, 
@@ -16487,7 +16487,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152349, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 56928
+        "RequiredExp": 85404
     }, 
     {
         "AddAttack": 147, 
@@ -16497,7 +16497,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152350, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 59745
+        "RequiredExp": 89633
     }, 
     {
         "AddAttack": 150, 
@@ -16507,7 +16507,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152351, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 62622
+        "RequiredExp": 93950
     }, 
     {
         "AddAttack": 153, 
@@ -16517,7 +16517,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152352, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 65556
+        "RequiredExp": 98354
     }, 
     {
         "AddAttack": 156, 
@@ -16527,7 +16527,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152353, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 68546
+        "RequiredExp": 102841
     }, 
     {
         "AddAttack": 159, 
@@ -16537,7 +16537,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152354, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 71590
+        "RequiredExp": 107409
     }, 
     {
         "AddAttack": 162, 
@@ -16547,7 +16547,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152355, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 74685
+        "RequiredExp": 112055
     }, 
     {
         "AddAttack": 165, 
@@ -16557,7 +16557,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152356, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 77830
+        "RequiredExp": 116775
     }, 
     {
         "AddAttack": 168, 
@@ -16567,7 +16567,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152357, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 81022
+        "RequiredExp": 121566
     }, 
     {
         "AddAttack": 171, 
@@ -16577,7 +16577,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152358, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 84259
+        "RequiredExp": 126424
     }, 
     {
         "AddAttack": 174, 
@@ -16587,7 +16587,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152359, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 87538
+        "RequiredExp": 131345
     }, 
     {
         "AddAttack": 177, 
@@ -16597,7 +16597,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152360, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 90856
+        "RequiredExp": 136325
     }, 
     {
         "AddAttack": 180, 
@@ -16607,7 +16607,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152361, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 96829
+        "RequiredExp": 145289
     }, 
     {
         "AddAttack": 183, 
@@ -16617,7 +16617,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152362, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 102922
+        "RequiredExp": 154433
     }, 
     {
         "AddAttack": 186, 
@@ -16627,7 +16627,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152363, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 109131
+        "RequiredExp": 163751
     }, 
     {
         "AddAttack": 189, 
@@ -16637,7 +16637,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152364, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 115451
+        "RequiredExp": 173236
     }, 
     {
         "AddAttack": 192, 
@@ -16647,7 +16647,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152365, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 121879
+        "RequiredExp": 182882
     }, 
     {
         "AddAttack": 195, 
@@ -16657,7 +16657,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152366, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 128410
+        "RequiredExp": 192683
     }, 
     {
         "AddAttack": 198, 
@@ -16667,7 +16667,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152367, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 135039
+        "RequiredExp": 202631
     }, 
     {
         "AddAttack": 201, 
@@ -16677,7 +16677,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152368, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 141760
+        "RequiredExp": 212718
     }, 
     {
         "AddAttack": 204, 
@@ -16687,7 +16687,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152369, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 148569
+        "RequiredExp": 222936
     }, 
     {
         "AddAttack": 207, 
@@ -16697,7 +16697,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152370, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 155460
+        "RequiredExp": 233277
     }, 
     {
         "AddAttack": 210, 
@@ -16707,7 +16707,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152371, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 162426
+        "RequiredExp": 243732
     }, 
     {
         "AddAttack": 213, 
@@ -16717,7 +16717,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152372, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 169462
+        "RequiredExp": 254291
     }, 
     {
         "AddAttack": 216, 
@@ -16727,7 +16727,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152373, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 176561
+        "RequiredExp": 264945
     }, 
     {
         "AddAttack": 219, 
@@ -16737,7 +16737,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152374, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 183717
+        "RequiredExp": 275684
     }, 
     {
         "AddAttack": 222, 
@@ -16747,7 +16747,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152375, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 190923
+        "RequiredExp": 286498
     }, 
     {
         "AddAttack": 225, 
@@ -16757,7 +16757,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152376, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 198172
+        "RequiredExp": 297377
     }, 
     {
         "AddAttack": 228, 
@@ -16767,7 +16767,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152377, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 205458
+        "RequiredExp": 308311
     }, 
     {
         "AddAttack": 231, 
@@ -16777,7 +16777,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152378, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 212773
+        "RequiredExp": 319289
     }, 
     {
         "AddAttack": 234, 
@@ -16787,7 +16787,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152379, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 220110
+        "RequiredExp": 330299
     }, 
     {
         "AddAttack": 237, 
@@ -16797,7 +16797,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152380, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 227461
+        "RequiredExp": 341331
     }, 
     {
         "AddAttack": 262, 
@@ -16807,7 +16807,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152381, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 240693
+        "RequiredExp": 361189
     }, 
     {
         "AddAttack": 287, 
@@ -16817,7 +16817,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152382, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 254058
+        "RequiredExp": 391274
     }, 
     {
         "AddAttack": 312, 
@@ -16827,7 +16827,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152383, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 267677
+        "RequiredExp": 421931
     }, 
     {
         "AddAttack": 337, 
@@ -16837,7 +16837,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152384, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 281541
+        "RequiredExp": 453140
     }, 
     {
         "AddAttack": 362, 
@@ -16847,7 +16847,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152385, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 295641
+        "RequiredExp": 484879
     }, 
     {
         "AddAttack": 387, 
@@ -16857,7 +16857,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152386, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 309966
+        "RequiredExp": 517126
     }, 
     {
         "AddAttack": 412, 
@@ -16867,7 +16867,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152387, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 324506
+        "RequiredExp": 549857
     }, 
     {
         "AddAttack": 437, 
@@ -16877,7 +16877,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152388, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 339250
+        "RequiredExp": 583046
     }, 
     {
         "AddAttack": 462, 
@@ -16887,7 +16887,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152389, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 354185
+        "RequiredExp": 616667
     }, 
     {
         "AddAttack": 487, 
@@ -16897,7 +16897,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152390, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 369299
+        "RequiredExp": 650691
     }, 
     {
         "AddAttack": 512, 
@@ -16907,7 +16907,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152391, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 384580
+        "RequiredExp": 685089
     }, 
     {
         "AddAttack": 536, 
@@ -16917,7 +16917,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152392, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 400013
+        "RequiredExp": 719831
     }, 
     {
         "AddAttack": 561, 
@@ -16927,7 +16927,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152393, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 415585
+        "RequiredExp": 754886
     }, 
     {
         "AddAttack": 586, 
@@ -16937,7 +16937,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152394, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 431282
+        "RequiredExp": 790221
     }, 
     {
         "AddAttack": 611, 
@@ -16947,7 +16947,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152395, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 447089
+        "RequiredExp": 825804
     }, 
     {
         "AddAttack": 636, 
@@ -16957,7 +16957,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152396, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 462991
+        "RequiredExp": 861600
     }, 
     {
         "AddAttack": 661, 
@@ -16967,7 +16967,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152397, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 478972
+        "RequiredExp": 897575
     }, 
     {
         "AddAttack": 686, 
@@ -16977,7 +16977,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152398, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 495017
+        "RequiredExp": 933694
     }, 
     {
         "AddAttack": 711, 
@@ -16987,7 +16987,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152399, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 511110
+        "RequiredExp": 969921
     }, 
     {
         "AddAttack": 736, 
@@ -16997,7 +16997,7 @@
         "MasterPcLevelGroupId": 1523, 
         "MasterPcLevelId": 3600152400, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 527235
+        "RequiredExp": 1006221
     }, 
     {
         "AddAttack": 0, 
@@ -35027,7 +35027,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252103, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 67
+        "RequiredExp": 87
     }, 
     {
         "AddAttack": 9, 
@@ -35037,7 +35037,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252104, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 123
+        "RequiredExp": 170
     }, 
     {
         "AddAttack": 12, 
@@ -35047,7 +35047,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252105, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 199
+        "RequiredExp": 283
     }, 
     {
         "AddAttack": 14, 
@@ -35057,7 +35057,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252106, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 300
+        "RequiredExp": 435
     }, 
     {
         "AddAttack": 17, 
@@ -35067,7 +35067,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252107, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 433
+        "RequiredExp": 635
     }, 
     {
         "AddAttack": 20, 
@@ -35077,7 +35077,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252108, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 606
+        "RequiredExp": 895
     }, 
     {
         "AddAttack": 23, 
@@ -35087,7 +35087,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252109, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 828
+        "RequiredExp": 1227
     }, 
     {
         "AddAttack": 26, 
@@ -35097,7 +35097,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252110, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1107
+        "RequiredExp": 1646
     }, 
     {
         "AddAttack": 28, 
@@ -35107,7 +35107,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252111, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1582
+        "RequiredExp": 2359
     }, 
     {
         "AddAttack": 31, 
@@ -35117,7 +35117,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252112, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2095
+        "RequiredExp": 3130
     }, 
     {
         "AddAttack": 34, 
@@ -35127,7 +35127,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252113, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2647
+        "RequiredExp": 3958
     }, 
     {
         "AddAttack": 37, 
@@ -35137,7 +35137,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252114, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3238
+        "RequiredExp": 4844
     }, 
     {
         "AddAttack": 40, 
@@ -35147,7 +35147,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252115, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3867
+        "RequiredExp": 5788
     }, 
     {
         "AddAttack": 42, 
@@ -35157,7 +35157,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252116, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 4534
+        "RequiredExp": 6788
     }, 
     {
         "AddAttack": 45, 
@@ -35167,7 +35167,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252117, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5237
+        "RequiredExp": 7843
     }, 
     {
         "AddAttack": 48, 
@@ -35177,7 +35177,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252118, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5975
+        "RequiredExp": 8951
     }, 
     {
         "AddAttack": 51, 
@@ -35187,7 +35187,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252119, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 6747
+        "RequiredExp": 10109
     }, 
     {
         "AddAttack": 54, 
@@ -35197,7 +35197,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252120, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 7549
+        "RequiredExp": 11313
     }, 
     {
         "AddAttack": 56, 
@@ -35207,7 +35207,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252121, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 8512
+        "RequiredExp": 12758
     }, 
     {
         "AddAttack": 59, 
@@ -35217,7 +35217,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252122, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 9514
+        "RequiredExp": 14261
     }, 
     {
         "AddAttack": 62, 
@@ -35227,7 +35227,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252123, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 10555
+        "RequiredExp": 15823
     }, 
     {
         "AddAttack": 65, 
@@ -35237,7 +35237,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252124, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 11636
+        "RequiredExp": 17444
     }, 
     {
         "AddAttack": 68, 
@@ -35247,7 +35247,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252125, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 12757
+        "RequiredExp": 19125
     }, 
     {
         "AddAttack": 70, 
@@ -35257,7 +35257,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252126, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 13918
+        "RequiredExp": 20867
     }, 
     {
         "AddAttack": 73, 
@@ -35267,7 +35267,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252127, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 15120
+        "RequiredExp": 22670
     }, 
     {
         "AddAttack": 76, 
@@ -35277,7 +35277,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252128, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 16362
+        "RequiredExp": 24534
     }, 
     {
         "AddAttack": 79, 
@@ -35287,7 +35287,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252129, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 17645
+        "RequiredExp": 26459
     }, 
     {
         "AddAttack": 82, 
@@ -35297,7 +35297,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252130, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 18969
+        "RequiredExp": 28446
     }, 
     {
         "AddAttack": 84, 
@@ -35307,7 +35307,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252131, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 20334
+        "RequiredExp": 30495
     }, 
     {
         "AddAttack": 87, 
@@ -35317,7 +35317,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252132, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 21740
+        "RequiredExp": 32605
     }, 
     {
         "AddAttack": 90, 
@@ -35327,7 +35327,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252133, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 23187
+        "RequiredExp": 34776
     }, 
     {
         "AddAttack": 93, 
@@ -35337,7 +35337,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252134, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 24675
+        "RequiredExp": 37008
     }, 
     {
         "AddAttack": 96, 
@@ -35347,7 +35347,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252135, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 26203
+        "RequiredExp": 39300
     }, 
     {
         "AddAttack": 98, 
@@ -35357,7 +35357,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252136, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 27771
+        "RequiredExp": 41652
     }, 
     {
         "AddAttack": 101, 
@@ -35367,7 +35367,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252137, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 29378
+        "RequiredExp": 44063
     }, 
     {
         "AddAttack": 104, 
@@ -35377,7 +35377,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252138, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 31023
+        "RequiredExp": 46531
     }, 
     {
         "AddAttack": 107, 
@@ -35387,7 +35387,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252139, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 32706
+        "RequiredExp": 49056
     }, 
     {
         "AddAttack": 110, 
@@ -35397,7 +35397,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252140, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 34426
+        "RequiredExp": 51637
     }, 
     {
         "AddAttack": 112, 
@@ -35407,7 +35407,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252141, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 36662
+        "RequiredExp": 54993
     }, 
     {
         "AddAttack": 115, 
@@ -35417,7 +35417,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252142, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 38966
+        "RequiredExp": 58450
     }, 
     {
         "AddAttack": 118, 
@@ -35427,7 +35427,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252143, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 41336
+        "RequiredExp": 62007
     }, 
     {
         "AddAttack": 121, 
@@ -35437,7 +35437,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252144, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 43773
+        "RequiredExp": 65664
     }, 
     {
         "AddAttack": 124, 
@@ -35447,7 +35447,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252145, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 46276
+        "RequiredExp": 69420
     }, 
     {
         "AddAttack": 126, 
@@ -35457,7 +35457,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252146, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 48844
+        "RequiredExp": 73273
     }, 
     {
         "AddAttack": 129, 
@@ -35467,7 +35467,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252147, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 51476
+        "RequiredExp": 77223
     }, 
     {
         "AddAttack": 132, 
@@ -35477,7 +35477,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252148, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 54171
+        "RequiredExp": 81267
     }, 
     {
         "AddAttack": 135, 
@@ -35487,7 +35487,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252149, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 56928
+        "RequiredExp": 85404
     }, 
     {
         "AddAttack": 138, 
@@ -35497,7 +35497,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252150, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 59745
+        "RequiredExp": 89633
     }, 
     {
         "AddAttack": 140, 
@@ -35507,7 +35507,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252151, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 62622
+        "RequiredExp": 93950
     }, 
     {
         "AddAttack": 143, 
@@ -35517,7 +35517,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252152, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 65556
+        "RequiredExp": 98354
     }, 
     {
         "AddAttack": 146, 
@@ -35527,7 +35527,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252153, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 68546
+        "RequiredExp": 102841
     }, 
     {
         "AddAttack": 149, 
@@ -35537,7 +35537,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252154, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 71590
+        "RequiredExp": 107409
     }, 
     {
         "AddAttack": 152, 
@@ -35547,7 +35547,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252155, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 74685
+        "RequiredExp": 112055
     }, 
     {
         "AddAttack": 155, 
@@ -35557,7 +35557,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252156, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 77830
+        "RequiredExp": 116775
     }, 
     {
         "AddAttack": 157, 
@@ -35567,7 +35567,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252157, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 81022
+        "RequiredExp": 121566
     }, 
     {
         "AddAttack": 160, 
@@ -35577,7 +35577,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252158, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 84259
+        "RequiredExp": 126424
     }, 
     {
         "AddAttack": 163, 
@@ -35587,7 +35587,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252159, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 87538
+        "RequiredExp": 131345
     }, 
     {
         "AddAttack": 166, 
@@ -35597,7 +35597,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252160, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 90856
+        "RequiredExp": 136325
     }, 
     {
         "AddAttack": 169, 
@@ -35607,7 +35607,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252161, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 96829
+        "RequiredExp": 145289
     }, 
     {
         "AddAttack": 171, 
@@ -35617,7 +35617,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252162, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 102922
+        "RequiredExp": 154433
     }, 
     {
         "AddAttack": 174, 
@@ -35627,7 +35627,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252163, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 109131
+        "RequiredExp": 163751
     }, 
     {
         "AddAttack": 177, 
@@ -35637,7 +35637,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252164, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 115451
+        "RequiredExp": 173236
     }, 
     {
         "AddAttack": 180, 
@@ -35647,7 +35647,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252165, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 121879
+        "RequiredExp": 182882
     }, 
     {
         "AddAttack": 183, 
@@ -35657,7 +35657,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252166, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 128410
+        "RequiredExp": 192683
     }, 
     {
         "AddAttack": 185, 
@@ -35667,7 +35667,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252167, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 135039
+        "RequiredExp": 202631
     }, 
     {
         "AddAttack": 188, 
@@ -35677,7 +35677,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252168, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 141760
+        "RequiredExp": 212718
     }, 
     {
         "AddAttack": 191, 
@@ -35687,7 +35687,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252169, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 148569
+        "RequiredExp": 222936
     }, 
     {
         "AddAttack": 194, 
@@ -35697,7 +35697,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252170, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 155460
+        "RequiredExp": 233277
     }, 
     {
         "AddAttack": 197, 
@@ -35707,7 +35707,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252171, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 162426
+        "RequiredExp": 243732
     }, 
     {
         "AddAttack": 199, 
@@ -35717,7 +35717,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252172, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 169462
+        "RequiredExp": 254291
     }, 
     {
         "AddAttack": 202, 
@@ -35727,7 +35727,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252173, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 176561
+        "RequiredExp": 264945
     }, 
     {
         "AddAttack": 205, 
@@ -35737,7 +35737,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252174, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 183717
+        "RequiredExp": 275684
     }, 
     {
         "AddAttack": 208, 
@@ -35747,7 +35747,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252175, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 190923
+        "RequiredExp": 286498
     }, 
     {
         "AddAttack": 211, 
@@ -35757,7 +35757,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252176, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 198172
+        "RequiredExp": 297377
     }, 
     {
         "AddAttack": 213, 
@@ -35767,7 +35767,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252177, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 205458
+        "RequiredExp": 308311
     }, 
     {
         "AddAttack": 216, 
@@ -35777,7 +35777,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252178, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 212773
+        "RequiredExp": 319289
     }, 
     {
         "AddAttack": 219, 
@@ -35787,7 +35787,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252179, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 220110
+        "RequiredExp": 330299
     }, 
     {
         "AddAttack": 222, 
@@ -35797,7 +35797,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252180, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 227461
+        "RequiredExp": 341331
     }, 
     {
         "AddAttack": 231, 
@@ -35807,7 +35807,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252181, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 240693
+        "RequiredExp": 361189
     }, 
     {
         "AddAttack": 241, 
@@ -35817,7 +35817,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252182, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 254058
+        "RequiredExp": 391274
     }, 
     {
         "AddAttack": 251, 
@@ -35827,7 +35827,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252183, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 267677
+        "RequiredExp": 421931
     }, 
     {
         "AddAttack": 261, 
@@ -35837,7 +35837,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252184, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 281541
+        "RequiredExp": 453140
     }, 
     {
         "AddAttack": 271, 
@@ -35847,7 +35847,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252185, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 295641
+        "RequiredExp": 484879
     }, 
     {
         "AddAttack": 280, 
@@ -35857,7 +35857,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252186, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 309966
+        "RequiredExp": 517126
     }, 
     {
         "AddAttack": 290, 
@@ -35867,7 +35867,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252187, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 324506
+        "RequiredExp": 549857
     }, 
     {
         "AddAttack": 300, 
@@ -35877,7 +35877,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252188, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 339250
+        "RequiredExp": 583046
     }, 
     {
         "AddAttack": 310, 
@@ -35887,7 +35887,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252189, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 354185
+        "RequiredExp": 616667
     }, 
     {
         "AddAttack": 319, 
@@ -35897,7 +35897,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252190, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 369299
+        "RequiredExp": 650691
     }, 
     {
         "AddAttack": 329, 
@@ -35907,7 +35907,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252191, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 384580
+        "RequiredExp": 685089
     }, 
     {
         "AddAttack": 339, 
@@ -35917,7 +35917,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252192, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 400013
+        "RequiredExp": 719831
     }, 
     {
         "AddAttack": 349, 
@@ -35927,7 +35927,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252193, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 415585
+        "RequiredExp": 754886
     }, 
     {
         "AddAttack": 359, 
@@ -35937,7 +35937,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252194, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 431282
+        "RequiredExp": 790221
     }, 
     {
         "AddAttack": 368, 
@@ -35947,7 +35947,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252195, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 447089
+        "RequiredExp": 825804
     }, 
     {
         "AddAttack": 378, 
@@ -35957,7 +35957,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252196, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 462991
+        "RequiredExp": 861600
     }, 
     {
         "AddAttack": 388, 
@@ -35967,7 +35967,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252197, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 478972
+        "RequiredExp": 897575
     }, 
     {
         "AddAttack": 398, 
@@ -35977,7 +35977,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252198, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 495017
+        "RequiredExp": 933694
     }, 
     {
         "AddAttack": 407, 
@@ -35987,7 +35987,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252199, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 511110
+        "RequiredExp": 969921
     }, 
     {
         "AddAttack": 417, 
@@ -35997,7 +35997,7 @@
         "MasterPcLevelGroupId": 2521, 
         "MasterPcLevelId": 3600252200, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 527235
+        "RequiredExp": 1006221
     }, 
     {
         "AddAttack": 0, 
@@ -36027,7 +36027,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252203, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 67
+        "RequiredExp": 87
     }, 
     {
         "AddAttack": 10, 
@@ -36037,7 +36037,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252204, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 123
+        "RequiredExp": 170
     }, 
     {
         "AddAttack": 13, 
@@ -36047,7 +36047,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252205, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 199
+        "RequiredExp": 283
     }, 
     {
         "AddAttack": 16, 
@@ -36057,7 +36057,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252206, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 300
+        "RequiredExp": 435
     }, 
     {
         "AddAttack": 20, 
@@ -36067,7 +36067,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252207, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 433
+        "RequiredExp": 635
     }, 
     {
         "AddAttack": 23, 
@@ -36077,7 +36077,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252208, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 606
+        "RequiredExp": 895
     }, 
     {
         "AddAttack": 26, 
@@ -36087,7 +36087,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252209, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 828
+        "RequiredExp": 1227
     }, 
     {
         "AddAttack": 29, 
@@ -36097,7 +36097,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252210, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1107
+        "RequiredExp": 1646
     }, 
     {
         "AddAttack": 32, 
@@ -36107,7 +36107,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252211, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1582
+        "RequiredExp": 2359
     }, 
     {
         "AddAttack": 36, 
@@ -36117,7 +36117,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252212, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2095
+        "RequiredExp": 3130
     }, 
     {
         "AddAttack": 39, 
@@ -36127,7 +36127,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252213, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2647
+        "RequiredExp": 3958
     }, 
     {
         "AddAttack": 42, 
@@ -36137,7 +36137,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252214, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3238
+        "RequiredExp": 4844
     }, 
     {
         "AddAttack": 45, 
@@ -36147,7 +36147,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252215, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3867
+        "RequiredExp": 5788
     }, 
     {
         "AddAttack": 49, 
@@ -36157,7 +36157,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252216, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 4534
+        "RequiredExp": 6788
     }, 
     {
         "AddAttack": 52, 
@@ -36167,7 +36167,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252217, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5237
+        "RequiredExp": 7843
     }, 
     {
         "AddAttack": 55, 
@@ -36177,7 +36177,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252218, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5975
+        "RequiredExp": 8951
     }, 
     {
         "AddAttack": 58, 
@@ -36187,7 +36187,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252219, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 6747
+        "RequiredExp": 10109
     }, 
     {
         "AddAttack": 61, 
@@ -36197,7 +36197,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252220, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 7549
+        "RequiredExp": 11313
     }, 
     {
         "AddAttack": 65, 
@@ -36207,7 +36207,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252221, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 8512
+        "RequiredExp": 12758
     }, 
     {
         "AddAttack": 68, 
@@ -36217,7 +36217,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252222, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 9514
+        "RequiredExp": 14261
     }, 
     {
         "AddAttack": 71, 
@@ -36227,7 +36227,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252223, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 10555
+        "RequiredExp": 15823
     }, 
     {
         "AddAttack": 74, 
@@ -36237,7 +36237,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252224, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 11636
+        "RequiredExp": 17444
     }, 
     {
         "AddAttack": 77, 
@@ -36247,7 +36247,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252225, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 12757
+        "RequiredExp": 19125
     }, 
     {
         "AddAttack": 81, 
@@ -36257,7 +36257,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252226, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 13918
+        "RequiredExp": 20867
     }, 
     {
         "AddAttack": 84, 
@@ -36267,7 +36267,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252227, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 15120
+        "RequiredExp": 22670
     }, 
     {
         "AddAttack": 87, 
@@ -36277,7 +36277,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252228, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 16362
+        "RequiredExp": 24534
     }, 
     {
         "AddAttack": 90, 
@@ -36287,7 +36287,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252229, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 17645
+        "RequiredExp": 26459
     }, 
     {
         "AddAttack": 93, 
@@ -36297,7 +36297,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252230, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 18969
+        "RequiredExp": 28446
     }, 
     {
         "AddAttack": 97, 
@@ -36307,7 +36307,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252231, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 20334
+        "RequiredExp": 30495
     }, 
     {
         "AddAttack": 100, 
@@ -36317,7 +36317,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252232, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 21740
+        "RequiredExp": 32605
     }, 
     {
         "AddAttack": 103, 
@@ -36327,7 +36327,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252233, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 23187
+        "RequiredExp": 34776
     }, 
     {
         "AddAttack": 106, 
@@ -36337,7 +36337,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252234, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 24675
+        "RequiredExp": 37008
     }, 
     {
         "AddAttack": 109, 
@@ -36347,7 +36347,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252235, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 26203
+        "RequiredExp": 39300
     }, 
     {
         "AddAttack": 113, 
@@ -36357,7 +36357,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252236, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 27771
+        "RequiredExp": 41652
     }, 
     {
         "AddAttack": 116, 
@@ -36367,7 +36367,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252237, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 29378
+        "RequiredExp": 44063
     }, 
     {
         "AddAttack": 119, 
@@ -36377,7 +36377,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252238, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 31023
+        "RequiredExp": 46531
     }, 
     {
         "AddAttack": 122, 
@@ -36387,7 +36387,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252239, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 32706
+        "RequiredExp": 49056
     }, 
     {
         "AddAttack": 125, 
@@ -36397,7 +36397,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252240, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 34426
+        "RequiredExp": 51637
     }, 
     {
         "AddAttack": 129, 
@@ -36407,7 +36407,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252241, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 36662
+        "RequiredExp": 54993
     }, 
     {
         "AddAttack": 132, 
@@ -36417,7 +36417,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252242, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 38966
+        "RequiredExp": 58450
     }, 
     {
         "AddAttack": 135, 
@@ -36427,7 +36427,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252243, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 41336
+        "RequiredExp": 62007
     }, 
     {
         "AddAttack": 138, 
@@ -36437,7 +36437,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252244, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 43773
+        "RequiredExp": 65664
     }, 
     {
         "AddAttack": 141, 
@@ -36447,7 +36447,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252245, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 46276
+        "RequiredExp": 69420
     }, 
     {
         "AddAttack": 144, 
@@ -36457,7 +36457,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252246, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 48844
+        "RequiredExp": 73273
     }, 
     {
         "AddAttack": 148, 
@@ -36467,7 +36467,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252247, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 51476
+        "RequiredExp": 77223
     }, 
     {
         "AddAttack": 151, 
@@ -36477,7 +36477,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252248, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 54171
+        "RequiredExp": 81267
     }, 
     {
         "AddAttack": 154, 
@@ -36487,7 +36487,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252249, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 56928
+        "RequiredExp": 85404
     }, 
     {
         "AddAttack": 157, 
@@ -36497,7 +36497,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252250, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 59745
+        "RequiredExp": 89633
     }, 
     {
         "AddAttack": 160, 
@@ -36507,7 +36507,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252251, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 62622
+        "RequiredExp": 93950
     }, 
     {
         "AddAttack": 164, 
@@ -36517,7 +36517,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252252, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 65556
+        "RequiredExp": 98354
     }, 
     {
         "AddAttack": 167, 
@@ -36527,7 +36527,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252253, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 68546
+        "RequiredExp": 102841
     }, 
     {
         "AddAttack": 170, 
@@ -36537,7 +36537,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252254, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 71590
+        "RequiredExp": 107409
     }, 
     {
         "AddAttack": 173, 
@@ -36547,7 +36547,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252255, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 74685
+        "RequiredExp": 112055
     }, 
     {
         "AddAttack": 176, 
@@ -36557,7 +36557,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252256, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 77830
+        "RequiredExp": 116775
     }, 
     {
         "AddAttack": 180, 
@@ -36567,7 +36567,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252257, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 81022
+        "RequiredExp": 121566
     }, 
     {
         "AddAttack": 183, 
@@ -36577,7 +36577,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252258, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 84259
+        "RequiredExp": 126424
     }, 
     {
         "AddAttack": 186, 
@@ -36587,7 +36587,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252259, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 87538
+        "RequiredExp": 131345
     }, 
     {
         "AddAttack": 189, 
@@ -36597,7 +36597,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252260, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 90856
+        "RequiredExp": 136325
     }, 
     {
         "AddAttack": 192, 
@@ -36607,7 +36607,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252261, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 96829
+        "RequiredExp": 145289
     }, 
     {
         "AddAttack": 196, 
@@ -36617,7 +36617,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252262, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 102922
+        "RequiredExp": 154433
     }, 
     {
         "AddAttack": 199, 
@@ -36627,7 +36627,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252263, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 109131
+        "RequiredExp": 163751
     }, 
     {
         "AddAttack": 202, 
@@ -36637,7 +36637,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252264, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 115451
+        "RequiredExp": 173236
     }, 
     {
         "AddAttack": 205, 
@@ -36647,7 +36647,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252265, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 121879
+        "RequiredExp": 182882
     }, 
     {
         "AddAttack": 208, 
@@ -36657,7 +36657,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252266, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 128410
+        "RequiredExp": 192683
     }, 
     {
         "AddAttack": 212, 
@@ -36667,7 +36667,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252267, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 135039
+        "RequiredExp": 202631
     }, 
     {
         "AddAttack": 215, 
@@ -36677,7 +36677,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252268, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 141760
+        "RequiredExp": 212718
     }, 
     {
         "AddAttack": 218, 
@@ -36687,7 +36687,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252269, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 148569
+        "RequiredExp": 222936
     }, 
     {
         "AddAttack": 221, 
@@ -36697,7 +36697,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252270, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 155460
+        "RequiredExp": 233277
     }, 
     {
         "AddAttack": 224, 
@@ -36707,7 +36707,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252271, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 162426
+        "RequiredExp": 243732
     }, 
     {
         "AddAttack": 228, 
@@ -36717,7 +36717,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252272, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 169462
+        "RequiredExp": 254291
     }, 
     {
         "AddAttack": 231, 
@@ -36727,7 +36727,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252273, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 176561
+        "RequiredExp": 264945
     }, 
     {
         "AddAttack": 234, 
@@ -36737,7 +36737,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252274, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 183717
+        "RequiredExp": 275684
     }, 
     {
         "AddAttack": 237, 
@@ -36747,7 +36747,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252275, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 190923
+        "RequiredExp": 286498
     }, 
     {
         "AddAttack": 240, 
@@ -36757,7 +36757,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252276, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 198172
+        "RequiredExp": 297377
     }, 
     {
         "AddAttack": 244, 
@@ -36767,7 +36767,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252277, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 205458
+        "RequiredExp": 308311
     }, 
     {
         "AddAttack": 247, 
@@ -36777,7 +36777,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252278, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 212773
+        "RequiredExp": 319289
     }, 
     {
         "AddAttack": 250, 
@@ -36787,7 +36787,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252279, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 220110
+        "RequiredExp": 330299
     }, 
     {
         "AddAttack": 253, 
@@ -36797,7 +36797,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252280, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 227461
+        "RequiredExp": 341331
     }, 
     {
         "AddAttack": 264, 
@@ -36807,7 +36807,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252281, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 240693
+        "RequiredExp": 361189
     }, 
     {
         "AddAttack": 275, 
@@ -36817,7 +36817,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252282, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 254058
+        "RequiredExp": 391274
     }, 
     {
         "AddAttack": 285, 
@@ -36827,7 +36827,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252283, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 267677
+        "RequiredExp": 421931
     }, 
     {
         "AddAttack": 296, 
@@ -36837,7 +36837,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252284, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 281541
+        "RequiredExp": 453140
     }, 
     {
         "AddAttack": 307, 
@@ -36847,7 +36847,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252285, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 295641
+        "RequiredExp": 484879
     }, 
     {
         "AddAttack": 317, 
@@ -36857,7 +36857,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252286, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 309966
+        "RequiredExp": 517126
     }, 
     {
         "AddAttack": 328, 
@@ -36867,7 +36867,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252287, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 324506
+        "RequiredExp": 549857
     }, 
     {
         "AddAttack": 339, 
@@ -36877,7 +36877,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252288, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 339250
+        "RequiredExp": 583046
     }, 
     {
         "AddAttack": 349, 
@@ -36887,7 +36887,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252289, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 354185
+        "RequiredExp": 616667
     }, 
     {
         "AddAttack": 360, 
@@ -36897,7 +36897,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252290, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 369299
+        "RequiredExp": 650691
     }, 
     {
         "AddAttack": 371, 
@@ -36907,7 +36907,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252291, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 384580
+        "RequiredExp": 685089
     }, 
     {
         "AddAttack": 381, 
@@ -36917,7 +36917,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252292, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 400013
+        "RequiredExp": 719831
     }, 
     {
         "AddAttack": 392, 
@@ -36927,7 +36927,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252293, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 415585
+        "RequiredExp": 754886
     }, 
     {
         "AddAttack": 403, 
@@ -36937,7 +36937,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252294, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 431282
+        "RequiredExp": 790221
     }, 
     {
         "AddAttack": 413, 
@@ -36947,7 +36947,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252295, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 447089
+        "RequiredExp": 825804
     }, 
     {
         "AddAttack": 424, 
@@ -36957,7 +36957,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252296, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 462991
+        "RequiredExp": 861600
     }, 
     {
         "AddAttack": 435, 
@@ -36967,7 +36967,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252297, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 478972
+        "RequiredExp": 897575
     }, 
     {
         "AddAttack": 446, 
@@ -36977,7 +36977,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252298, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 495017
+        "RequiredExp": 933694
     }, 
     {
         "AddAttack": 456, 
@@ -36987,7 +36987,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252299, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 511110
+        "RequiredExp": 969921
     }, 
     {
         "AddAttack": 467, 
@@ -36997,7 +36997,7 @@
         "MasterPcLevelGroupId": 2522, 
         "MasterPcLevelId": 3600252300, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 527235
+        "RequiredExp": 1006221
     }, 
     {
         "AddAttack": 0, 
@@ -37027,7 +37027,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252303, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 67
+        "RequiredExp": 87
     }, 
     {
         "AddAttack": 8, 
@@ -37037,7 +37037,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252304, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 123
+        "RequiredExp": 170
     }, 
     {
         "AddAttack": 10, 
@@ -37047,7 +37047,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252305, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 199
+        "RequiredExp": 283
     }, 
     {
         "AddAttack": 12, 
@@ -37057,7 +37057,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252306, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 300
+        "RequiredExp": 435
     }, 
     {
         "AddAttack": 15, 
@@ -37067,7 +37067,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252307, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 433
+        "RequiredExp": 635
     }, 
     {
         "AddAttack": 17, 
@@ -37077,7 +37077,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252308, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 606
+        "RequiredExp": 895
     }, 
     {
         "AddAttack": 20, 
@@ -37087,7 +37087,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252309, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 828
+        "RequiredExp": 1227
     }, 
     {
         "AddAttack": 22, 
@@ -37097,7 +37097,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252310, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1107
+        "RequiredExp": 1646
     }, 
     {
         "AddAttack": 24, 
@@ -37107,7 +37107,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252311, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 1582
+        "RequiredExp": 2359
     }, 
     {
         "AddAttack": 27, 
@@ -37117,7 +37117,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252312, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2095
+        "RequiredExp": 3130
     }, 
     {
         "AddAttack": 29, 
@@ -37127,7 +37127,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252313, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 2647
+        "RequiredExp": 3958
     }, 
     {
         "AddAttack": 32, 
@@ -37137,7 +37137,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252314, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3238
+        "RequiredExp": 4844
     }, 
     {
         "AddAttack": 34, 
@@ -37147,7 +37147,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252315, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 3867
+        "RequiredExp": 5788
     }, 
     {
         "AddAttack": 36, 
@@ -37157,7 +37157,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252316, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 4534
+        "RequiredExp": 6788
     }, 
     {
         "AddAttack": 39, 
@@ -37167,7 +37167,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252317, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5237
+        "RequiredExp": 7843
     }, 
     {
         "AddAttack": 41, 
@@ -37177,7 +37177,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252318, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 5975
+        "RequiredExp": 8951
     }, 
     {
         "AddAttack": 44, 
@@ -37187,7 +37187,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252319, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 6747
+        "RequiredExp": 10109
     }, 
     {
         "AddAttack": 46, 
@@ -37197,7 +37197,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252320, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 7549
+        "RequiredExp": 11313
     }, 
     {
         "AddAttack": 48, 
@@ -37207,7 +37207,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252321, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 8512
+        "RequiredExp": 12758
     }, 
     {
         "AddAttack": 51, 
@@ -37217,7 +37217,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252322, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 9514
+        "RequiredExp": 14261
     }, 
     {
         "AddAttack": 53, 
@@ -37227,7 +37227,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252323, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 10555
+        "RequiredExp": 15823
     }, 
     {
         "AddAttack": 56, 
@@ -37237,7 +37237,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252324, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 11636
+        "RequiredExp": 17444
     }, 
     {
         "AddAttack": 58, 
@@ -37247,7 +37247,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252325, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 12757
+        "RequiredExp": 19125
     }, 
     {
         "AddAttack": 60, 
@@ -37257,7 +37257,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252326, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 13918
+        "RequiredExp": 20867
     }, 
     {
         "AddAttack": 63, 
@@ -37267,7 +37267,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252327, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 15120
+        "RequiredExp": 22670
     }, 
     {
         "AddAttack": 65, 
@@ -37277,7 +37277,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252328, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 16362
+        "RequiredExp": 24534
     }, 
     {
         "AddAttack": 68, 
@@ -37287,7 +37287,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252329, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 17645
+        "RequiredExp": 26459
     }, 
     {
         "AddAttack": 70, 
@@ -37297,7 +37297,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252330, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 18969
+        "RequiredExp": 28446
     }, 
     {
         "AddAttack": 72, 
@@ -37307,7 +37307,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252331, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 20334
+        "RequiredExp": 30495
     }, 
     {
         "AddAttack": 75, 
@@ -37317,7 +37317,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252332, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 21740
+        "RequiredExp": 32605
     }, 
     {
         "AddAttack": 77, 
@@ -37327,7 +37327,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252333, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 23187
+        "RequiredExp": 34776
     }, 
     {
         "AddAttack": 80, 
@@ -37337,7 +37337,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252334, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 24675
+        "RequiredExp": 37008
     }, 
     {
         "AddAttack": 82, 
@@ -37347,7 +37347,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252335, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 26203
+        "RequiredExp": 39300
     }, 
     {
         "AddAttack": 85, 
@@ -37357,7 +37357,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252336, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 27771
+        "RequiredExp": 41652
     }, 
     {
         "AddAttack": 87, 
@@ -37367,7 +37367,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252337, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 29378
+        "RequiredExp": 44063
     }, 
     {
         "AddAttack": 89, 
@@ -37377,7 +37377,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252338, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 31023
+        "RequiredExp": 46531
     }, 
     {
         "AddAttack": 92, 
@@ -37387,7 +37387,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252339, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 32706
+        "RequiredExp": 49056
     }, 
     {
         "AddAttack": 94, 
@@ -37397,7 +37397,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252340, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 34426
+        "RequiredExp": 51637
     }, 
     {
         "AddAttack": 97, 
@@ -37407,7 +37407,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252341, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 36662
+        "RequiredExp": 54993
     }, 
     {
         "AddAttack": 99, 
@@ -37417,7 +37417,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252342, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 38966
+        "RequiredExp": 58450
     }, 
     {
         "AddAttack": 101, 
@@ -37427,7 +37427,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252343, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 41336
+        "RequiredExp": 62007
     }, 
     {
         "AddAttack": 104, 
@@ -37437,7 +37437,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252344, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 43773
+        "RequiredExp": 65664
     }, 
     {
         "AddAttack": 106, 
@@ -37447,7 +37447,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252345, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 46276
+        "RequiredExp": 69420
     }, 
     {
         "AddAttack": 109, 
@@ -37457,7 +37457,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252346, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 48844
+        "RequiredExp": 73273
     }, 
     {
         "AddAttack": 111, 
@@ -37467,7 +37467,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252347, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 51476
+        "RequiredExp": 77223
     }, 
     {
         "AddAttack": 113, 
@@ -37477,7 +37477,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252348, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 54171
+        "RequiredExp": 81267
     }, 
     {
         "AddAttack": 116, 
@@ -37487,7 +37487,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252349, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 56928
+        "RequiredExp": 85404
     }, 
     {
         "AddAttack": 118, 
@@ -37497,7 +37497,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252350, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 59745
+        "RequiredExp": 89633
     }, 
     {
         "AddAttack": 121, 
@@ -37507,7 +37507,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252351, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 62622
+        "RequiredExp": 93950
     }, 
     {
         "AddAttack": 123, 
@@ -37517,7 +37517,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252352, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 65556
+        "RequiredExp": 98354
     }, 
     {
         "AddAttack": 125, 
@@ -37527,7 +37527,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252353, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 68546
+        "RequiredExp": 102841
     }, 
     {
         "AddAttack": 128, 
@@ -37537,7 +37537,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252354, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 71590
+        "RequiredExp": 107409
     }, 
     {
         "AddAttack": 130, 
@@ -37547,7 +37547,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252355, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 74685
+        "RequiredExp": 112055
     }, 
     {
         "AddAttack": 133, 
@@ -37557,7 +37557,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252356, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 77830
+        "RequiredExp": 116775
     }, 
     {
         "AddAttack": 135, 
@@ -37567,7 +37567,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252357, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 81022
+        "RequiredExp": 121566
     }, 
     {
         "AddAttack": 137, 
@@ -37577,7 +37577,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252358, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 84259
+        "RequiredExp": 126424
     }, 
     {
         "AddAttack": 140, 
@@ -37587,7 +37587,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252359, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 87538
+        "RequiredExp": 131345
     }, 
     {
         "AddAttack": 142, 
@@ -37597,7 +37597,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252360, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 90856
+        "RequiredExp": 136325
     }, 
     {
         "AddAttack": 145, 
@@ -37607,7 +37607,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252361, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 96829
+        "RequiredExp": 145289
     }, 
     {
         "AddAttack": 147, 
@@ -37617,7 +37617,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252362, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 102922
+        "RequiredExp": 154433
     }, 
     {
         "AddAttack": 149, 
@@ -37627,7 +37627,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252363, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 109131
+        "RequiredExp": 163751
     }, 
     {
         "AddAttack": 152, 
@@ -37637,7 +37637,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252364, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 115451
+        "RequiredExp": 173236
     }, 
     {
         "AddAttack": 154, 
@@ -37647,7 +37647,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252365, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 121879
+        "RequiredExp": 182882
     }, 
     {
         "AddAttack": 157, 
@@ -37657,7 +37657,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252366, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 128410
+        "RequiredExp": 192683
     }, 
     {
         "AddAttack": 159, 
@@ -37667,7 +37667,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252367, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 135039
+        "RequiredExp": 202631
     }, 
     {
         "AddAttack": 161, 
@@ -37677,7 +37677,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252368, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 141760
+        "RequiredExp": 212718
     }, 
     {
         "AddAttack": 164, 
@@ -37687,7 +37687,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252369, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 148569
+        "RequiredExp": 222936
     }, 
     {
         "AddAttack": 166, 
@@ -37697,7 +37697,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252370, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 155460
+        "RequiredExp": 233277
     }, 
     {
         "AddAttack": 169, 
@@ -37707,7 +37707,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252371, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 162426
+        "RequiredExp": 243732
     }, 
     {
         "AddAttack": 171, 
@@ -37717,7 +37717,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252372, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 169462
+        "RequiredExp": 254291
     }, 
     {
         "AddAttack": 173, 
@@ -37727,7 +37727,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252373, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 176561
+        "RequiredExp": 264945
     }, 
     {
         "AddAttack": 176, 
@@ -37737,7 +37737,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252374, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 183717
+        "RequiredExp": 275684
     }, 
     {
         "AddAttack": 178, 
@@ -37747,7 +37747,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252375, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 190923
+        "RequiredExp": 286498
     }, 
     {
         "AddAttack": 181, 
@@ -37757,7 +37757,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252376, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 198172
+        "RequiredExp": 297377
     }, 
     {
         "AddAttack": 183, 
@@ -37767,7 +37767,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252377, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 205458
+        "RequiredExp": 308311
     }, 
     {
         "AddAttack": 185, 
@@ -37777,7 +37777,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252378, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 212773
+        "RequiredExp": 319289
     }, 
     {
         "AddAttack": 188, 
@@ -37787,7 +37787,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252379, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 220110
+        "RequiredExp": 330299
     }, 
     {
         "AddAttack": 190, 
@@ -37797,7 +37797,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252380, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 227461
+        "RequiredExp": 341331
     }, 
     {
         "AddAttack": 198, 
@@ -37807,7 +37807,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252381, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 240693
+        "RequiredExp": 361189
     }, 
     {
         "AddAttack": 206, 
@@ -37817,7 +37817,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252382, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 254058
+        "RequiredExp": 391274
     }, 
     {
         "AddAttack": 214, 
@@ -37827,7 +37827,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252383, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 267677
+        "RequiredExp": 421931
     }, 
     {
         "AddAttack": 222, 
@@ -37837,7 +37837,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252384, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 281541
+        "RequiredExp": 453140
     }, 
     {
         "AddAttack": 230, 
@@ -37847,7 +37847,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252385, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 295641
+        "RequiredExp": 484879
     }, 
     {
         "AddAttack": 238, 
@@ -37857,7 +37857,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252386, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 309966
+        "RequiredExp": 517126
     }, 
     {
         "AddAttack": 246, 
@@ -37867,7 +37867,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252387, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 324506
+        "RequiredExp": 549857
     }, 
     {
         "AddAttack": 254, 
@@ -37877,7 +37877,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252388, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 339250
+        "RequiredExp": 583046
     }, 
     {
         "AddAttack": 262, 
@@ -37887,7 +37887,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252389, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 354185
+        "RequiredExp": 616667
     }, 
     {
         "AddAttack": 270, 
@@ -37897,7 +37897,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252390, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 369299
+        "RequiredExp": 650691
     }, 
     {
         "AddAttack": 278, 
@@ -37907,7 +37907,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252391, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 384580
+        "RequiredExp": 685089
     }, 
     {
         "AddAttack": 286, 
@@ -37917,7 +37917,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252392, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 400013
+        "RequiredExp": 719831
     }, 
     {
         "AddAttack": 294, 
@@ -37927,7 +37927,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252393, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 415585
+        "RequiredExp": 754886
     }, 
     {
         "AddAttack": 302, 
@@ -37937,7 +37937,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252394, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 431282
+        "RequiredExp": 790221
     }, 
     {
         "AddAttack": 310, 
@@ -37947,7 +37947,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252395, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 447089
+        "RequiredExp": 825804
     }, 
     {
         "AddAttack": 318, 
@@ -37957,7 +37957,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252396, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 462991
+        "RequiredExp": 861600
     }, 
     {
         "AddAttack": 326, 
@@ -37967,7 +37967,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252397, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 478972
+        "RequiredExp": 897575
     }, 
     {
         "AddAttack": 334, 
@@ -37977,7 +37977,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252398, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 495017
+        "RequiredExp": 933694
     }, 
     {
         "AddAttack": 342, 
@@ -37987,7 +37987,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252399, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 511110
+        "RequiredExp": 969921
     }, 
     {
         "AddAttack": 350, 
@@ -37997,7 +37997,7 @@
         "MasterPcLevelGroupId": 2523, 
         "MasterPcLevelId": 3600252400, 
         "ReleaseLabeloffset": "", 
-        "RequiredExp": 527235
+        "RequiredExp": 1006221
     }, 
     {
         "AddAttack": 0, 

@@ -15255,6 +15255,51 @@
         "ValueType": 1
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "RimuruDemonLord_buff_23_ProbCritical_Buff_Self_Value", 
+        "MasterBuffEffectId": 20300400000074, 
+        "ParameterType": 100, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SePathoffset": "battle/other/se_battle_other_124", 
+        "TargetType": 5, 
+        "Turn": 1, 
+        "Value": 8000, 
+        "ValueType": 1
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "RimuruDemonLord_buff_23_ProbCritical_Buff_Self_Value", 
+        "MasterBuffEffectId": 20301700000030, 
+        "ParameterType": 304, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SePathoffset": "battle/other/se_battle_other_124", 
+        "TargetType": 5, 
+        "Turn": 2, 
+        "Value": 1500, 
+        "ValueType": 1
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Abnormal_Stun_Resist_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "RimuruDemonLord_buff_24_ResistConditionNotActive_Buff_Self_Value", 
+        "MasterBuffEffectId": 20307900000013, 
+        "ParameterType": 700, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "SePathoffset": "battle/other/se_battle_other_102", 
+        "TargetType": 3, 
+        "Turn": 1, 
+        "Value": 9000, 
+        "ValueType": 1
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Resist_Impart", 
         "BuffType": 1, 
         "IsTemporary": true, 
@@ -21596,7 +21641,7 @@
         "SePathoffset": "battle/other/se_battle_other_125", 
         "TargetType": 5, 
         "Turn": 2, 
-        "Value": 3000, 
+        "Value": 2000, 
         "ValueType": 1
     }, 
     {
@@ -21611,7 +21656,7 @@
         "SePathoffset": "battle/other/se_battle_other_059", 
         "TargetType": 1, 
         "Turn": 2, 
-        "Value": -1500, 
+        "Value": -2000, 
         "ValueType": 0
     }, 
     {

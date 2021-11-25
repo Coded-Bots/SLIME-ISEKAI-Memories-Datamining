@@ -23,5 +23,10 @@
         "MasterLoginNoticeGroupId": 62000000005, 
         "Priority": 20, 
         "ReleaseLabeloffset": "202111_event_akuma2_predation"
+    }, 
+    {
+        "MasterLoginNoticeGroupId": 62000000006, 
+        "Priority": 25, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }
 ]

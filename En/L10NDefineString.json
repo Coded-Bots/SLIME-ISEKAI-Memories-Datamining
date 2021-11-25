@@ -123,5 +123,15 @@
         "ColumnName": "value", 
         "LocalizationTargetId": 8001000025, 
         "Text": "An unexpected error has occurred."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000026, 
+        "Text": "Unexpected Error.\nNow returning to title screen.\nIf this error message continues to appear even after returning to the title screen, please restart the app."
+    }, 
+    {
+        "ColumnName": "value", 
+        "LocalizationTargetId": 8001000027, 
+        "Text": "Error code:{0}\n\nUnexpected Error.\nNow returning to title screen.\nIf this error message continues to appear even after returning to the title screen, please restart the app."
     }
 ]

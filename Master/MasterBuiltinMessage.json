@@ -183,5 +183,10 @@
         "DefineNameoffset": "Maintenance.Period.Undecided", 
         "MasterBuiltinMessageId": 814000037, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "AssetDownload.UpdateCheck", 
+        "MasterBuiltinMessageId": 814000038, 
+        "ReleaseLabeloffset": ""
     }
 ]

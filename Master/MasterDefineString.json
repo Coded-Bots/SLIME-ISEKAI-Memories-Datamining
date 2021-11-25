@@ -123,5 +123,15 @@
         "DefineNameoffset": "error.fallback.message.gamelib", 
         "Id": 8001000025, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.fallback.message.please.reboot", 
+        "Id": 8001000026, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "error.fallback.errorcode.please.reboot", 
+        "Id": 8001000027, 
+        "ReleaseLabeloffset": ""
     }
 ]

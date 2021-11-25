@@ -1331,11 +1331,6 @@
     }, 
     {
         "ColumnName": "acting_voice_text", 
-        "LocalizationTargetId": 3010001619, 
-        "Text": "Does this suit me?"
-    }, 
-    {
-        "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010001620, 
         "Text": "This feels good on the skin, and is easy to move around in."
     }, 
@@ -2143,11 +2138,6 @@
         "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010002603, 
         "Text": "Amazing as always, Master!"
-    }, 
-    {
-        "ColumnName": "acting_voice_text", 
-        "LocalizationTargetId": 3010002604, 
-        "Text": "I was waiting for you!"
     }, 
     {
         "ColumnName": "acting_voice_text", 

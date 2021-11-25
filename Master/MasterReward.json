@@ -490,6 +490,16 @@
         "RewardType": 2
     }, 
     {
+        "Description": 4294967376, 
+        "MasterRewardGroupId": 802100150028, 
+        "MasterRewardId": 811900150028, 
+        "Quantity": 1, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup", 
+        "RewardItemId": 150028, 
+        "RewardType": 2
+    }, 
+    {
         "Description": 4294967368, 
         "MasterRewardGroupId": 802100150027, 
         "MasterRewardId": 811900150027, 
@@ -3377,6 +3387,16 @@
         "ReceiveType": 2, 
         "ReleaseLabeloffset": "202111_lottery_akuma2_start", 
         "RewardItemId": 505000008, 
+        "RewardType": 7
+    }, 
+    {
+        "Description": 42949673040, 
+        "MasterRewardGroupId": 802600000262, 
+        "MasterRewardId": 811500000262, 
+        "Quantity": 10, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "RewardItemId": 505000011, 
         "RewardType": 7
     }, 
     {
@@ -11914,6 +11934,206 @@
         "MasterRewardGroupId": 802300000310, 
         "MasterRewardId": 811200000310, 
         "Quantity": 100, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 472446402608, 
+        "MasterRewardGroupId": 802300000311, 
+        "MasterRewardId": 811200000311, 
+        "Quantity": 110, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 515396075568, 
+        "MasterRewardGroupId": 802300000312, 
+        "MasterRewardId": 811200000312, 
+        "Quantity": 120, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 558345748528, 
+        "MasterRewardGroupId": 802300000313, 
+        "MasterRewardId": 811200000313, 
+        "Quantity": 130, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 601295421488, 
+        "MasterRewardGroupId": 802300000314, 
+        "MasterRewardId": 811200000314, 
+        "Quantity": 140, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 644245094448, 
+        "MasterRewardGroupId": 802300000315, 
+        "MasterRewardId": 811200000315, 
+        "Quantity": 150, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 687194767408, 
+        "MasterRewardGroupId": 802300000316, 
+        "MasterRewardId": 811200000316, 
+        "Quantity": 160, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 730144440368, 
+        "MasterRewardGroupId": 802300000317, 
+        "MasterRewardId": 811200000317, 
+        "Quantity": 170, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 773094113328, 
+        "MasterRewardGroupId": 802300000318, 
+        "MasterRewardId": 811200000318, 
+        "Quantity": 180, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 816043786288, 
+        "MasterRewardGroupId": 802300000319, 
+        "MasterRewardId": 811200000319, 
+        "Quantity": 190, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 858993459248, 
+        "MasterRewardGroupId": 802300000320, 
+        "MasterRewardId": 811200000320, 
+        "Quantity": 200, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 901943132208, 
+        "MasterRewardGroupId": 802300000321, 
+        "MasterRewardId": 811200000321, 
+        "Quantity": 210, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 944892805168, 
+        "MasterRewardGroupId": 802300000322, 
+        "MasterRewardId": 811200000322, 
+        "Quantity": 220, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 987842478128, 
+        "MasterRewardGroupId": 802300000323, 
+        "MasterRewardId": 811200000323, 
+        "Quantity": 230, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1030792151088, 
+        "MasterRewardGroupId": 802300000324, 
+        "MasterRewardId": 811200000324, 
+        "Quantity": 240, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1073741824048, 
+        "MasterRewardGroupId": 802300000325, 
+        "MasterRewardId": 811200000325, 
+        "Quantity": 250, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1116691497008, 
+        "MasterRewardGroupId": 802300000326, 
+        "MasterRewardId": 811200000326, 
+        "Quantity": 260, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1159641169968, 
+        "MasterRewardGroupId": 802300000327, 
+        "MasterRewardId": 811200000327, 
+        "Quantity": 270, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1202590842928, 
+        "MasterRewardGroupId": 802300000328, 
+        "MasterRewardId": 811200000328, 
+        "Quantity": 280, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1245540515888, 
+        "MasterRewardGroupId": 802300000329, 
+        "MasterRewardId": 811200000329, 
+        "Quantity": 290, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1288490188848, 
+        "MasterRewardGroupId": 802300000330, 
+        "MasterRewardId": 811200000330, 
+        "Quantity": 300, 
         "ReceiveType": 2, 
         "ReleaseLabeloffset": "", 
         "RewardItemId": 3000001, 
@@ -25570,6 +25790,16 @@
         "RewardType": 5
     }, 
     {
+        "Description": 42949673040, 
+        "MasterRewardGroupId": 802000000318, 
+        "MasterRewardId": 811000000294, 
+        "Quantity": 10, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "RewardItemId": 505000011, 
+        "RewardType": 7
+    }, 
+    {
         "Description": 429496729648, 
         "MasterRewardGroupId": 802530010001, 
         "MasterRewardId": 811430010001, 
@@ -28758,6 +28988,26 @@
         "ReleaseLabeloffset": "", 
         "RewardItemId": 3000001, 
         "RewardType": 5
+    }, 
+    {
+        "Description": 4294967376, 
+        "MasterRewardGroupId": 802720000024, 
+        "MasterRewardId": 811620000024, 
+        "Quantity": 1, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "RewardItemId": 505000011, 
+        "RewardType": 7
+    }, 
+    {
+        "Description": 8589934672, 
+        "MasterRewardGroupId": 802720000025, 
+        "MasterRewardId": 811620000025, 
+        "Quantity": 2, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start", 
+        "RewardItemId": 505000011, 
+        "RewardType": 7
     }, 
     {
         "Description": 12884901936, 

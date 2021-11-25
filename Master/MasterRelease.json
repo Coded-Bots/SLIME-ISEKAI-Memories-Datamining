@@ -152,7 +152,7 @@
         "ReleaseLabeloffset": "202110_lottery_freeday1"
     }, 
     {
-        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "CloseAtoffset": "2021/12/08 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001010, 
         "OpenAtoffset": "2021/11/01 8:00:00", 
@@ -171,12 +171,12 @@
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001012, 
-        "OpenAtoffset": "2021/11/30 6:00:00", 
+        "OpenAtoffset": "2021/12/08 6:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_exchange"
     }, 
     {
-        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "CloseAtoffset": "2021/12/08 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001013, 
         "OpenAtoffset": "2021/11/16 2:00:00", 
@@ -200,7 +200,7 @@
         "ReleaseLabeloffset": "202111_lottery_dark_pickup"
     }, 
     {
-        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "CloseAtoffset": "2021/12/08 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001016, 
         "OpenAtoffset": "2021/11/09 2:00:00", 
@@ -208,7 +208,7 @@
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
     }, 
     {
-        "CloseAtoffset": "2021/11/30 5:59:59", 
+        "CloseAtoffset": "2021/12/08 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001017, 
         "OpenAtoffset": "2021/11/09 2:00:00", 
@@ -227,9 +227,17 @@
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001019, 
-        "OpenAtoffset": "2021/11/30 6:00:00", 
+        "OpenAtoffset": "2021/12/08 6:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001020, 
+        "OpenAtoffset": "2021/11/25 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }, 
     {
         "CloseAtoffset": "2021/11/09 5:59:59", 
@@ -270,6 +278,30 @@
         "OpenAtoffset": "2021/11/16 2:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001032, 
+        "OpenAtoffset": "2021/11/25 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_ticket"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001033, 
+        "OpenAtoffset": "2021/11/25 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001034, 
+        "OpenAtoffset": "2021/12/08 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_exchange"
     }, 
     {
         "CloseAtoffset": "2021/05/31 8:59:59", 
@@ -464,6 +496,14 @@
         "ReleaseLabeloffset": "login_bonus@cbt_2021"
     }, 
     {
+        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000007002, 
+        "OpenAtoffset": "2021/11/25 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
         "CloseAtoffset": "2021/05/31 8:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000008001, 
@@ -518,6 +558,14 @@
         "OpenAtoffset": "2021/11/13 2:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_campaign_leadersupport"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/29 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000010005, 
+        "OpenAtoffset": "2021/11/25 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_campaign_leadersupport_2"
     }, 
     {
         "CloseAtoffset": "", 

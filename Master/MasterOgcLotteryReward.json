@@ -1426,5 +1426,12 @@
         "MasterOgcLotteryRewardGroupId": 5008, 
         "MasterOgcLotteryRewardId": 504500802, 
         "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
+    }, 
+    {
+        "LotteryRewardId": 150028, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5009, 
+        "MasterOgcLotteryRewardId": 504500901, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }
 ]

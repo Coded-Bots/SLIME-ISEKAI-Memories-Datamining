@@ -87,7 +87,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 305000010, 
-        "Text": "Enables you to see the rankings of other chancellors (coming soon)"
+        "Text": "Enables you to see the rankings of other chancellors"
     }, 
     {
         "ColumnName": "name", 

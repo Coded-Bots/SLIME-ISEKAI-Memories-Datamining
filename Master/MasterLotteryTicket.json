@@ -98,5 +98,15 @@
         "Name": 687194767532, 
         "Rarity": 1, 
         "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
+    }, 
+    {
+        "Description": 4294967448, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000001/lottery_ticket_item_505000001_Item{0}", 
+        "MasterLotteryTicketId": 505000011, 
+        "MaxLimit": 99999, 
+        "Name": 652835029156, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
     }
 ]

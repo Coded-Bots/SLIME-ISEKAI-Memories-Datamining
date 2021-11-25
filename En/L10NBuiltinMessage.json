@@ -183,5 +183,10 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 814000037, 
         "Text": "TBD"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 814000038, 
+        "Text": "Confirming updated content...\nThis process may take several minutes to complete."
     }
 ]

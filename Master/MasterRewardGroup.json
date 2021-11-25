@@ -1350,6 +1350,11 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803000000138, 
+        "MasterRewardGroupId": 802000000318, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
+    }, 
+    {
         "MasterReasonId": 803000000101, 
         "MasterRewardGroupId": 802000000003, 
         "ReleaseLabeloffset": ""
@@ -3185,6 +3190,106 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000311, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000312, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000313, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000314, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000315, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000316, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000317, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000318, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000319, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000320, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000321, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000322, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000323, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000324, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000325, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000326, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000327, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000328, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000329, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000137, 
+        "MasterRewardGroupId": 802300000330, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
         "MasterReasonId": 803000000107, 
         "MasterRewardGroupId": 802600000001, 
         "ReleaseLabeloffset": ""
@@ -4488,6 +4593,11 @@
         "MasterReasonId": 803000000107, 
         "MasterRewardGroupId": 802600000261, 
         "ReleaseLabeloffset": "202111_lottery_akuma2_start"
+    }, 
+    {
+        "MasterReasonId": 803000000107, 
+        "MasterRewardGroupId": 802600000262, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
     }, 
     {
         "MasterReasonId": 803000000114, 
@@ -8461,6 +8571,11 @@
     }, 
     {
         "MasterReasonId": 803000000118, 
+        "MasterRewardGroupId": 802100150028, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "MasterReasonId": 803000000118, 
         "MasterRewardGroupId": 802100150027, 
         "ReleaseLabeloffset": "202111_lottery_akuma2"
     }, 
@@ -9383,6 +9498,16 @@
         "MasterReasonId": 803000000120, 
         "MasterRewardGroupId": 802720000019, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterReasonId": 803000000140, 
+        "MasterRewardGroupId": 802720000024, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
+    }, 
+    {
+        "MasterReasonId": 803000000140, 
+        "MasterRewardGroupId": 802720000025, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
     }, 
     {
         "MasterReasonId": 803000000110, 

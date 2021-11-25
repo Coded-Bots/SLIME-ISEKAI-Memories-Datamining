@@ -525,13 +525,13 @@
         "DefineNameoffset": "ep.ranking.page.element.count", 
         "Id": 7000018001, 
         "ReleaseLabeloffset": "1.0.10_system_epranking", 
-        "Value": 20
+        "Value": 50
     }, 
     {
         "DefineNameoffset": "ep.ranking.page.size", 
         "Id": 7000018002, 
         "ReleaseLabeloffset": "1.0.10_system_epranking", 
-        "Value": 5
+        "Value": 2
     }, 
     {
         "DefineNameoffset": "ep.ranking.open.enabled", 

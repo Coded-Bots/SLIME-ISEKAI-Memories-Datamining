@@ -471,6 +471,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 90150028, 
+        "Text": "Rimuru Tempest, the Awakened Demon Lord Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150028, 
+        "Text": "An item necessary in awakening Rimuru Awaken, the Awakened Demon Lord."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 90150033, 
         "Text": "Milim Nava, the Proud Dragon Demon Lord Memory Stone"
     }, 

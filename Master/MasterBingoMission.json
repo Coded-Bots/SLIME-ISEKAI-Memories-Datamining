@@ -565,5 +565,68 @@
         "MasterMissionId": 600410089, 
         "Position": 9, 
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "MasterBingoMissionId": 620410091, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410091, 
+        "Position": 1, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410092, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410092, 
+        "Position": 2, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410093, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410093, 
+        "Position": 3, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410094, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410094, 
+        "Position": 4, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410095, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410095, 
+        "Position": 5, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410096, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410096, 
+        "Position": 6, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410097, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410097, 
+        "Position": 7, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410098, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410098, 
+        "Position": 8, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterBingoMissionId": 620410099, 
+        "MasterBingoMissionSheetId": 610000010, 
+        "MasterMissionId": 600410099, 
+        "Position": 9, 
+        "ReleaseLabeloffset": ""
     }
 ]

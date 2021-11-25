@@ -173,5 +173,12 @@
         "MoviePathoffset": "sys/veldora_humanoid/voice_sys_veldora_humanoid_037_gacha", 
         "ReleaseLabeloffset": "Movie/SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill.usm", 
         "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150028, 
+        "MasterPcLotteryMessageId": 510000027, 
+        "MoviePathoffset": "sys/rimuru/voice_sys_rimuru_075_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/RimuruDemonLord_Battle_SpecialSkill/RimuruDemonLord_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
     }
 ]

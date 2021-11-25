@@ -106,5 +106,14 @@
         "MasterSpecialBonusPcGroupId": 4001002001, 
         "MasterSpecialBonusPcId": 100000000012, 
         "ReleaseLabeloffset": "202111_event_akuma2_predation"
+    }, 
+    {
+        "MasterPcId": 150028, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 1, 
+        "MasterSpecialBonusPcDetailValueGroupId": 2, 
+        "MasterSpecialBonusPcGroupId": 4001002001, 
+        "MasterSpecialBonusPcId": 100000000013, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }
 ]

@@ -163,5 +163,15 @@
         "DefineNameoffset": "Friend.Apply.Warning", 
         "MasterFriendMessageId": 816000033, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Self.Max.Error", 
+        "MasterFriendMessageId": 816000034, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "Friend.Opponent.Max.Error", 
+        "MasterFriendMessageId": 816000035, 
+        "ReleaseLabeloffset": ""
     }
 ]

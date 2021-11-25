@@ -123,5 +123,10 @@
         "ColumnName": "lottery_message", 
         "LocalizationTargetId": 510000026, 
         "Text": "GAHAHAHA! I, VELDA, THE STORM DRAGON, LIVE AGAIN!"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000027, 
+        "Text": "Devour all! Belzebuth!"
     }
 ]

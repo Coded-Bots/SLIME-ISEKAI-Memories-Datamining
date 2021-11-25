@@ -218,5 +218,25 @@
         "ColumnName": "ad_text2", 
         "LocalizationTargetId": 500000022, 
         "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000023, 
+        "Text": "Awakened Demon Lord Rimuru Recruit Selection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000023, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000023, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000023, 
+        "Text": ""
     }
 ]

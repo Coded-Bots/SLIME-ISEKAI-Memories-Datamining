@@ -1041,66 +1041,6 @@
     }, 
     {
         "ColumnName": "name", 
-        "LocalizationTargetId": 70000000106, 
-        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000106, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000107, 
-        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000107, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000108, 
-        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000108, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000109, 
-        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000109, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000110, 
-        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000110, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
-        "LocalizationTargetId": 70000000111, 
-        "Text": "Release Special: 5\u2605 Battle Character Selectable Ticket Pack"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 70000000111, 
-        "Text": ""
-    }, 
-    {
-        "ColumnName": "name", 
         "LocalizationTargetId": 70000090001, 
         "Text": "TEST"
     }, 

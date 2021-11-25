@@ -636,5 +636,16 @@
         "StatusSubtype1": 405, 
         "Value": 1, 
         "ValueType": 0
+    }, 
+    {
+        "Compare": 1, 
+        "Labeloffset": "PASSIVE_BUFF_TECHNIQUE_COMBO_6_ORHIGHER", 
+        "MasterPassiveSkillBuffExecuteConditionId": 21000000000218, 
+        "ReleaseLabeloffset": "", 
+        "State": 1, 
+        "Status": 10, 
+        "StatusSubtype1": 0, 
+        "Value": 6, 
+        "ValueType": 0
     }
 ]

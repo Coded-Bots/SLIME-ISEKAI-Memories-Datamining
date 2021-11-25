@@ -57,12 +57,12 @@
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 809000012, 
-        "Text": "Unlocked {0} (Normal)."
+        "Text": "Unlocked {0} (Normal)"
     }, 
     {
         "ColumnName": "message", 
         "LocalizationTargetId": 809000013, 
-        "Text": "Unlocked {0} (Expert)."
+        "Text": "Unlocked {0} (Expert)"
     }, 
     {
         "ColumnName": "message", 
@@ -138,5 +138,10 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 809000028, 
         "Text": "Quest Cannot Proceed"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000029, 
+        "Text": "This quest will consume {0} before moving out.\nContinue?"
     }
 ]

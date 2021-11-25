@@ -196,6 +196,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 9002110600, 
+        "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 9002110700, 
         "Text": "Mysterious Lightstone"
     }, 

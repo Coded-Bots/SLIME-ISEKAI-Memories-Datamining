@@ -152,347 +152,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160731, 
-        "Text": "Increases fire character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases fire character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160732, 
-        "Text": "Increases fire character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases fire character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160733, 
-        "Text": "Increases fire character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases fire character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160734, 
-        "Text": "Increases fire character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases fire character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160735, 
-        "Text": "Increases fire character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases fire character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160736, 
-        "Text": "Increases fire character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases fire character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160737, 
-        "Text": "Increases fire character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases fire character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160738, 
-        "Text": "Increases fire character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases fire character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160739, 
-        "Text": "Increases fire character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases fire character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160740, 
-        "Text": "Increases fire character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases fire character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160741, 
-        "Text": "Increases fire character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases fire character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160742, 
-        "Text": "Increases fire character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases fire character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160743, 
-        "Text": "Increases fire character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases fire character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160744, 
-        "Text": "Increases fire character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases fire character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160745, 
-        "Text": "Increases fire character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases fire character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160746, 
-        "Text": "Increases fire character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases fire character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160747, 
-        "Text": "Increases fire character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases fire character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160748, 
-        "Text": "Increases fire character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases fire character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160749, 
-        "Text": "Increases fire character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases fire character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160750, 
-        "Text": "Increases fire character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases fire character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160751, 
-        "Text": "Increases fire character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases fire character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160752, 
-        "Text": "Increases fire character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases fire character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160753, 
-        "Text": "Increases fire character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases fire character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160754, 
-        "Text": "Increases fire character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases fire character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160755, 
-        "Text": "Increases fire character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases fire character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160756, 
-        "Text": "Increases fire character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases fire character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160757, 
-        "Text": "Increases fire character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases fire character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160758, 
-        "Text": "Increases fire character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases fire character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160759, 
-        "Text": "Increases fire character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases fire character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160760, 
-        "Text": "Increases fire character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases fire character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160761, 
-        "Text": "Increases fire character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases fire character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160762, 
-        "Text": "Increases fire character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases fire character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160763, 
-        "Text": "Increases fire character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases fire character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160764, 
-        "Text": "Increases fire character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases fire character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160765, 
-        "Text": "Increases fire character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases fire character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160766, 
-        "Text": "Increases fire character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases fire character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160767, 
-        "Text": "Increases fire character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases fire character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160768, 
-        "Text": "Increases fire character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases fire character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160769, 
-        "Text": "Increases fire character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases fire character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160770, 
-        "Text": "Increases fire character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases fire character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160771, 
-        "Text": "Increases fire character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases fire character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160772, 
-        "Text": "Increases fire character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases fire character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160773, 
-        "Text": "Increases fire character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases fire character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160774, 
-        "Text": "Increases fire character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases fire character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160775, 
-        "Text": "Increases fire character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases fire character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160776, 
-        "Text": "Increases fire character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases fire character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160777, 
-        "Text": "Increases fire character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases fire character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160778, 
-        "Text": "Increases fire character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases fire character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160779, 
-        "Text": "Increases fire character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases fire character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160780, 
-        "Text": "Increases fire character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases fire character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160781, 
-        "Text": "Increases fire character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases fire character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160782, 
-        "Text": "Increases fire character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases fire character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160783, 
-        "Text": "Increases fire character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases fire character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160784, 
-        "Text": "Increases fire character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases fire character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160785, 
-        "Text": "Increases fire character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases fire character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160786, 
-        "Text": "Increases fire character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases fire character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160787, 
-        "Text": "Increases fire character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases fire character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160788, 
-        "Text": "Increases fire character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases fire character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160789, 
-        "Text": "Increases fire character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases fire character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160790, 
-        "Text": "Increases fire character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160791, 
-        "Text": "Increases fire character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160792, 
-        "Text": "Increases fire character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160793, 
-        "Text": "Increases fire character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160794, 
-        "Text": "Increases fire character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160795, 
-        "Text": "Increases fire character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160796, 
-        "Text": "Increases fire character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160797, 
-        "Text": "Increases fire character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160798, 
-        "Text": "Increases fire character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160799, 
-        "Text": "Increases fire character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases fire character HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -647,347 +602,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160831, 
-        "Text": "Increases water characters' HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases water characters' HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160832, 
-        "Text": "Increases water characters' HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases water characters' HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160833, 
-        "Text": "Increases water characters' HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases water characters' HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160834, 
-        "Text": "Increases water characters' HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases water characters' HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160835, 
-        "Text": "Increases water characters' HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases water characters' HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160836, 
-        "Text": "Increases water characters' HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases water characters' HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160837, 
-        "Text": "Increases water characters' HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases water characters' HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160838, 
-        "Text": "Increases water characters' HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases water characters' HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160839, 
-        "Text": "Increases water characters' HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases water characters' HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160840, 
-        "Text": "Increases water characters' HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases water characters' HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160841, 
-        "Text": "Increases water characters' HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases water characters' HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160842, 
-        "Text": "Increases water characters' HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases water characters' HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160843, 
-        "Text": "Increases water characters' HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases water characters' HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160844, 
-        "Text": "Increases water characters' HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases water characters' HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160845, 
-        "Text": "Increases water characters' HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases water characters' HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160846, 
-        "Text": "Increases water characters' HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases water characters' HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160847, 
-        "Text": "Increases water characters' HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases water characters' HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160848, 
-        "Text": "Increases water characters' HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases water characters' HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160849, 
-        "Text": "Increases water characters' HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases water characters' HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160850, 
-        "Text": "Increases water characters' HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases water characters' HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160851, 
-        "Text": "Increases water characters' HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases water characters' HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160852, 
-        "Text": "Increases water characters' HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases water characters' HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160853, 
-        "Text": "Increases water characters' HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases water characters' HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160854, 
-        "Text": "Increases water characters' HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases water characters' HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160855, 
-        "Text": "Increases water characters' HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases water characters' HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160856, 
-        "Text": "Increases water characters' HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases water characters' HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160857, 
-        "Text": "Increases water characters' HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases water characters' HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160858, 
-        "Text": "Increases water characters' HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases water characters' HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160859, 
-        "Text": "Increases water characters' HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases water characters' HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160860, 
-        "Text": "Increases water characters' HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases water characters' HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160861, 
-        "Text": "Increases water characters' HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases water characters' HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160862, 
-        "Text": "Increases water characters' HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases water characters' HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160863, 
-        "Text": "Increases water characters' HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases water characters' HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160864, 
-        "Text": "Increases water characters' HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases water characters' HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160865, 
-        "Text": "Increases water characters' HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases water characters' HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160866, 
-        "Text": "Increases water characters' HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases water characters' HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160867, 
-        "Text": "Increases water characters' HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases water characters' HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160868, 
-        "Text": "Increases water characters' HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases water characters' HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160869, 
-        "Text": "Increases water characters' HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases water characters' HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160870, 
-        "Text": "Increases water characters' HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases water characters' HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160871, 
-        "Text": "Increases water characters' HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases water characters' HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160872, 
-        "Text": "Increases water characters' HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases water characters' HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160873, 
-        "Text": "Increases water characters' HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases water characters' HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160874, 
-        "Text": "Increases water characters' HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases water characters' HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160875, 
-        "Text": "Increases water characters' HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases water characters' HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160876, 
-        "Text": "Increases water characters' HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases water characters' HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160877, 
-        "Text": "Increases water characters' HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases water characters' HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160878, 
-        "Text": "Increases water characters' HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases water characters' HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160879, 
-        "Text": "Increases water characters' HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases water characters' HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160880, 
-        "Text": "Increases water characters' HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases water characters' HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160881, 
-        "Text": "Increases water characters' HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases water characters' HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160882, 
-        "Text": "Increases water characters' HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases water characters' HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160883, 
-        "Text": "Increases water characters' HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases water characters' HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160884, 
-        "Text": "Increases water characters' HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases water characters' HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160885, 
-        "Text": "Increases water characters' HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases water characters' HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160886, 
-        "Text": "Increases water characters' HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases water characters' HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160887, 
-        "Text": "Increases water characters' HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases water characters' HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160888, 
-        "Text": "Increases water characters' HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases water characters' HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160889, 
-        "Text": "Increases water characters' HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases water characters' HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160890, 
-        "Text": "Increases water characters' HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160891, 
-        "Text": "Increases water characters' HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160892, 
-        "Text": "Increases water characters' HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160893, 
-        "Text": "Increases water characters' HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160894, 
-        "Text": "Increases water characters' HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160895, 
-        "Text": "Increases water characters' HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160896, 
-        "Text": "Increases water characters' HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160897, 
-        "Text": "Increases water characters' HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160898, 
-        "Text": "Increases water characters' HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160899, 
-        "Text": "Increases water characters' HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases water characters' HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -1142,347 +1052,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160931, 
-        "Text": "Increases earth character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases earth character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160932, 
-        "Text": "Increases earth character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases earth character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160933, 
-        "Text": "Increases earth character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases earth character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160934, 
-        "Text": "Increases earth character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases earth character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160935, 
-        "Text": "Increases earth character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases earth character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160936, 
-        "Text": "Increases earth character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases earth character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160937, 
-        "Text": "Increases earth character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases earth character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160938, 
-        "Text": "Increases earth character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases earth character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160939, 
-        "Text": "Increases earth character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases earth character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160940, 
-        "Text": "Increases earth character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases earth character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160941, 
-        "Text": "Increases earth character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases earth character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160942, 
-        "Text": "Increases earth character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases earth character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160943, 
-        "Text": "Increases earth character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases earth character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160944, 
-        "Text": "Increases earth character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases earth character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160945, 
-        "Text": "Increases earth character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases earth character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160946, 
-        "Text": "Increases earth character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases earth character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160947, 
-        "Text": "Increases earth character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases earth character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160948, 
-        "Text": "Increases earth character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases earth character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160949, 
-        "Text": "Increases earth character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases earth character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160950, 
-        "Text": "Increases earth character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases earth character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160951, 
-        "Text": "Increases earth character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases earth character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160952, 
-        "Text": "Increases earth character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases earth character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160953, 
-        "Text": "Increases earth character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases earth character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160954, 
-        "Text": "Increases earth character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases earth character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160955, 
-        "Text": "Increases earth character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases earth character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160956, 
-        "Text": "Increases earth character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases earth character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160957, 
-        "Text": "Increases earth character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases earth character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160958, 
-        "Text": "Increases earth character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases earth character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160959, 
-        "Text": "Increases earth character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases earth character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160960, 
-        "Text": "Increases earth character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases earth character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160961, 
-        "Text": "Increases earth character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases earth character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160962, 
-        "Text": "Increases earth character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases earth character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160963, 
-        "Text": "Increases earth character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases earth character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160964, 
-        "Text": "Increases earth character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases earth character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160965, 
-        "Text": "Increases earth character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases earth character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160966, 
-        "Text": "Increases earth character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases earth character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160967, 
-        "Text": "Increases earth character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases earth character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160968, 
-        "Text": "Increases earth character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases earth character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160969, 
-        "Text": "Increases earth character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases earth character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160970, 
-        "Text": "Increases earth character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases earth character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160971, 
-        "Text": "Increases earth character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases earth character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160972, 
-        "Text": "Increases earth character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases earth character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160973, 
-        "Text": "Increases earth character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases earth character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160974, 
-        "Text": "Increases earth character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases earth character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160975, 
-        "Text": "Increases earth character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases earth character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160976, 
-        "Text": "Increases earth character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases earth character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160977, 
-        "Text": "Increases earth character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases earth character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160978, 
-        "Text": "Increases earth character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases earth character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160979, 
-        "Text": "Increases earth character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases earth character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160980, 
-        "Text": "Increases earth character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases earth character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160981, 
-        "Text": "Increases earth character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases earth character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160982, 
-        "Text": "Increases earth character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases earth character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160983, 
-        "Text": "Increases earth character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases earth character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160984, 
-        "Text": "Increases earth character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases earth character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160985, 
-        "Text": "Increases earth character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases earth character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160986, 
-        "Text": "Increases earth character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases earth character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160987, 
-        "Text": "Increases earth character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases earth character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160988, 
-        "Text": "Increases earth character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases earth character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160989, 
-        "Text": "Increases earth character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases earth character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408160990, 
-        "Text": "Increases earth character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160991, 
-        "Text": "Increases earth character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160992, 
-        "Text": "Increases earth character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160993, 
-        "Text": "Increases earth character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160994, 
-        "Text": "Increases earth character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160995, 
-        "Text": "Increases earth character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160996, 
-        "Text": "Increases earth character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160997, 
-        "Text": "Increases earth character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160998, 
-        "Text": "Increases earth character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408160999, 
-        "Text": "Increases earth character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases earth character HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -1637,347 +1502,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161031, 
-        "Text": "Increases wind character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases wind character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161032, 
-        "Text": "Increases wind character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases wind character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161033, 
-        "Text": "Increases wind character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases wind character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161034, 
-        "Text": "Increases wind character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases wind character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161035, 
-        "Text": "Increases wind character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases wind character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161036, 
-        "Text": "Increases wind character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases wind character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161037, 
-        "Text": "Increases wind character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases wind character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161038, 
-        "Text": "Increases wind character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases wind character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161039, 
-        "Text": "Increases wind character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases wind character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161040, 
-        "Text": "Increases wind character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases wind character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161041, 
-        "Text": "Increases wind character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases wind character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161042, 
-        "Text": "Increases wind character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases wind character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161043, 
-        "Text": "Increases wind character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases wind character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161044, 
-        "Text": "Increases wind character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases wind character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161045, 
-        "Text": "Increases wind character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases wind character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161046, 
-        "Text": "Increases wind character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases wind character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161047, 
-        "Text": "Increases wind character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases wind character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161048, 
-        "Text": "Increases wind character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases wind character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161049, 
-        "Text": "Increases wind character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases wind character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161050, 
-        "Text": "Increases wind character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases wind character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161051, 
-        "Text": "Increases wind character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases wind character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161052, 
-        "Text": "Increases wind character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases wind character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161053, 
-        "Text": "Increases wind character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases wind character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161054, 
-        "Text": "Increases wind character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases wind character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161055, 
-        "Text": "Increases wind character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases wind character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161056, 
-        "Text": "Increases wind character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases wind character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161057, 
-        "Text": "Increases wind character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases wind character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161058, 
-        "Text": "Increases wind character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases wind character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161059, 
-        "Text": "Increases wind character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases wind character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161060, 
-        "Text": "Increases wind character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases wind character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161061, 
-        "Text": "Increases wind character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases wind character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161062, 
-        "Text": "Increases wind character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases wind character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161063, 
-        "Text": "Increases wind character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases wind character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161064, 
-        "Text": "Increases wind character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases wind character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161065, 
-        "Text": "Increases wind character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases wind character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161066, 
-        "Text": "Increases wind character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases wind character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161067, 
-        "Text": "Increases wind character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases wind character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161068, 
-        "Text": "Increases wind character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases wind character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161069, 
-        "Text": "Increases wind character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases wind character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161070, 
-        "Text": "Increases wind character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases wind character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161071, 
-        "Text": "Increases wind character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases wind character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161072, 
-        "Text": "Increases wind character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases wind character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161073, 
-        "Text": "Increases wind character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases wind character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161074, 
-        "Text": "Increases wind character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases wind character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161075, 
-        "Text": "Increases wind character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases wind character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161076, 
-        "Text": "Increases wind character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases wind character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161077, 
-        "Text": "Increases wind character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases wind character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161078, 
-        "Text": "Increases wind character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases wind character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161079, 
-        "Text": "Increases wind character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases wind character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161080, 
-        "Text": "Increases wind character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases wind character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161081, 
-        "Text": "Increases wind character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases wind character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161082, 
-        "Text": "Increases wind character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases wind character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161083, 
-        "Text": "Increases wind character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases wind character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161084, 
-        "Text": "Increases wind character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases wind character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161085, 
-        "Text": "Increases wind character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases wind character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161086, 
-        "Text": "Increases wind character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases wind character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161087, 
-        "Text": "Increases wind character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases wind character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161088, 
-        "Text": "Increases wind character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases wind character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161089, 
-        "Text": "Increases wind character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases wind character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161090, 
-        "Text": "Increases wind character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161091, 
-        "Text": "Increases wind character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161092, 
-        "Text": "Increases wind character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161093, 
-        "Text": "Increases wind character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161094, 
-        "Text": "Increases wind character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161095, 
-        "Text": "Increases wind character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161096, 
-        "Text": "Increases wind character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161097, 
-        "Text": "Increases wind character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161098, 
-        "Text": "Increases wind character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161099, 
-        "Text": "Increases wind character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases wind character HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -2132,347 +1952,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161131, 
-        "Text": "Increases space character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases space character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161132, 
-        "Text": "Increases space character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases space character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161133, 
-        "Text": "Increases space character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases space character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161134, 
-        "Text": "Increases space character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases space character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161135, 
-        "Text": "Increases space character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases space character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161136, 
-        "Text": "Increases space character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases space character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161137, 
-        "Text": "Increases space character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases space character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161138, 
-        "Text": "Increases space character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases space character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161139, 
-        "Text": "Increases space character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases space character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161140, 
-        "Text": "Increases space character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases space character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161141, 
-        "Text": "Increases space character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases space character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161142, 
-        "Text": "Increases space character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases space character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161143, 
-        "Text": "Increases space character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases space character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161144, 
-        "Text": "Increases space character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases space character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161145, 
-        "Text": "Increases space character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases space character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161146, 
-        "Text": "Increases space character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases space character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161147, 
-        "Text": "Increases space character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases space character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161148, 
-        "Text": "Increases space character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases space character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161149, 
-        "Text": "Increases space character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases space character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161150, 
-        "Text": "Increases space character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases space character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161151, 
-        "Text": "Increases space character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases space character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161152, 
-        "Text": "Increases space character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases space character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161153, 
-        "Text": "Increases space character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases space character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161154, 
-        "Text": "Increases space character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases space character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161155, 
-        "Text": "Increases space character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases space character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161156, 
-        "Text": "Increases space character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases space character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161157, 
-        "Text": "Increases space character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases space character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161158, 
-        "Text": "Increases space character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases space character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161159, 
-        "Text": "Increases space character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases space character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161160, 
-        "Text": "Increases space character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases space character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161161, 
-        "Text": "Increases space character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases space character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161162, 
-        "Text": "Increases space character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases space character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161163, 
-        "Text": "Increases space character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases space character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161164, 
-        "Text": "Increases space character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases space character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161165, 
-        "Text": "Increases space character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases space character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161166, 
-        "Text": "Increases space character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases space character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161167, 
-        "Text": "Increases space character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases space character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161168, 
-        "Text": "Increases space character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases space character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161169, 
-        "Text": "Increases space character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases space character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161170, 
-        "Text": "Increases space character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases space character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161171, 
-        "Text": "Increases space character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases space character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161172, 
-        "Text": "Increases space character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases space character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161173, 
-        "Text": "Increases space character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases space character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161174, 
-        "Text": "Increases space character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases space character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161175, 
-        "Text": "Increases space character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases space character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161176, 
-        "Text": "Increases space character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases space character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161177, 
-        "Text": "Increases space character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases space character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161178, 
-        "Text": "Increases space character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases space character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161179, 
-        "Text": "Increases space character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases space character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161180, 
-        "Text": "Increases space character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases space character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161181, 
-        "Text": "Increases space character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases space character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161182, 
-        "Text": "Increases space character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases space character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161183, 
-        "Text": "Increases space character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases space character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161184, 
-        "Text": "Increases space character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases space character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161185, 
-        "Text": "Increases space character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases space character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161186, 
-        "Text": "Increases space character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases space character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161187, 
-        "Text": "Increases space character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases space character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161188, 
-        "Text": "Increases space character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases space character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161189, 
-        "Text": "Increases space character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases space character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161190, 
-        "Text": "Increases space character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161191, 
-        "Text": "Increases space character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161192, 
-        "Text": "Increases space character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161193, 
-        "Text": "Increases space character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161194, 
-        "Text": "Increases space character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161195, 
-        "Text": "Increases space character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161196, 
-        "Text": "Increases space character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161197, 
-        "Text": "Increases space character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161198, 
-        "Text": "Increases space character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161199, 
-        "Text": "Increases space character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases space character HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -2627,347 +2402,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161231, 
-        "Text": "Increases light character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases light character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161232, 
-        "Text": "Increases light character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases light character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161233, 
-        "Text": "Increases light character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases light character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161234, 
-        "Text": "Increases light character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases light character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161235, 
-        "Text": "Increases light character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases light character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161236, 
-        "Text": "Increases light character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases light character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161237, 
-        "Text": "Increases light character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases light character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161238, 
-        "Text": "Increases light character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases light character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161239, 
-        "Text": "Increases light character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases light character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161240, 
-        "Text": "Increases light character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases light character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161241, 
-        "Text": "Increases light character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases light character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161242, 
-        "Text": "Increases light character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases light character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161243, 
-        "Text": "Increases light character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases light character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161244, 
-        "Text": "Increases light character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases light character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161245, 
-        "Text": "Increases light character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases light character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161246, 
-        "Text": "Increases light character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases light character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161247, 
-        "Text": "Increases light character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases light character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161248, 
-        "Text": "Increases light character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases light character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161249, 
-        "Text": "Increases light character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases light character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161250, 
-        "Text": "Increases light character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases light character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161251, 
-        "Text": "Increases light character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases light character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161252, 
-        "Text": "Increases light character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases light character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161253, 
-        "Text": "Increases light character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases light character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161254, 
-        "Text": "Increases light character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases light character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161255, 
-        "Text": "Increases light character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases light character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161256, 
-        "Text": "Increases light character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases light character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161257, 
-        "Text": "Increases light character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases light character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161258, 
-        "Text": "Increases light character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases light character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161259, 
-        "Text": "Increases light character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases light character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161260, 
-        "Text": "Increases light character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases light character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161261, 
-        "Text": "Increases light character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases light character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161262, 
-        "Text": "Increases light character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases light character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161263, 
-        "Text": "Increases light character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases light character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161264, 
-        "Text": "Increases light character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases light character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161265, 
-        "Text": "Increases light character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases light character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161266, 
-        "Text": "Increases light character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases light character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161267, 
-        "Text": "Increases light character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases light character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161268, 
-        "Text": "Increases light character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases light character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161269, 
-        "Text": "Increases light character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases light character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161270, 
-        "Text": "Increases light character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases light character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161271, 
-        "Text": "Increases light character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases light character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161272, 
-        "Text": "Increases light character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases light character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161273, 
-        "Text": "Increases light character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases light character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161274, 
-        "Text": "Increases light character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases light character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161275, 
-        "Text": "Increases light character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases light character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161276, 
-        "Text": "Increases light character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases light character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161277, 
-        "Text": "Increases light character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases light character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161278, 
-        "Text": "Increases light character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases light character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161279, 
-        "Text": "Increases light character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases light character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161280, 
-        "Text": "Increases light character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases light character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161281, 
-        "Text": "Increases light character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases light character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161282, 
-        "Text": "Increases light character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases light character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161283, 
-        "Text": "Increases light character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases light character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161284, 
-        "Text": "Increases light character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases light character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161285, 
-        "Text": "Increases light character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases light character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161286, 
-        "Text": "Increases light character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases light character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161287, 
-        "Text": "Increases light character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases light character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161288, 
-        "Text": "Increases light character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases light character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161289, 
-        "Text": "Increases light character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases light character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161290, 
-        "Text": "Increases light character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161291, 
-        "Text": "Increases light character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161292, 
-        "Text": "Increases light character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161293, 
-        "Text": "Increases light character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161294, 
-        "Text": "Increases light character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161295, 
-        "Text": "Increases light character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161296, 
-        "Text": "Increases light character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161297, 
-        "Text": "Increases light character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161298, 
-        "Text": "Increases light character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161299, 
-        "Text": "Increases light character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases light character HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -3122,347 +2852,302 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161331, 
-        "Text": "Increases dark character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases dark character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161332, 
-        "Text": "Increases dark character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases dark character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161333, 
-        "Text": "Increases dark character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases dark character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161334, 
-        "Text": "Increases dark character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases dark character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161335, 
-        "Text": "Increases dark character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases dark character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161336, 
-        "Text": "Increases dark character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases dark character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161337, 
-        "Text": "Increases dark character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases dark character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161338, 
-        "Text": "Increases dark character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases dark character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161339, 
-        "Text": "Increases dark character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases dark character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161340, 
-        "Text": "Increases dark character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases dark character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161341, 
-        "Text": "Increases dark character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases dark character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161342, 
-        "Text": "Increases dark character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases dark character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161343, 
-        "Text": "Increases dark character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases dark character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161344, 
-        "Text": "Increases dark character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases dark character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161345, 
-        "Text": "Increases dark character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases dark character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161346, 
-        "Text": "Increases dark character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases dark character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161347, 
-        "Text": "Increases dark character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases dark character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161348, 
-        "Text": "Increases dark character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases dark character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161349, 
-        "Text": "Increases dark character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases dark character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161350, 
-        "Text": "Increases dark character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases dark character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161351, 
-        "Text": "Increases dark character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases dark character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161352, 
-        "Text": "Increases dark character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases dark character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161353, 
-        "Text": "Increases dark character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases dark character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161354, 
-        "Text": "Increases dark character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases dark character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161355, 
-        "Text": "Increases dark character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases dark character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161356, 
-        "Text": "Increases dark character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases dark character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161357, 
-        "Text": "Increases dark character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases dark character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161358, 
-        "Text": "Increases dark character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases dark character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161359, 
-        "Text": "Increases dark character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases dark character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161360, 
-        "Text": "Increases dark character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases dark character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161361, 
-        "Text": "Increases dark character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases dark character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161362, 
-        "Text": "Increases dark character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases dark character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161363, 
-        "Text": "Increases dark character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases dark character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161364, 
-        "Text": "Increases dark character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases dark character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161365, 
-        "Text": "Increases dark character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases dark character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161366, 
-        "Text": "Increases dark character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases dark character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161367, 
-        "Text": "Increases dark character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases dark character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161368, 
-        "Text": "Increases dark character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases dark character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161369, 
-        "Text": "Increases dark character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases dark character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161370, 
-        "Text": "Increases dark character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases dark character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161371, 
-        "Text": "Increases dark character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases dark character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161372, 
-        "Text": "Increases dark character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases dark character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161373, 
-        "Text": "Increases dark character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases dark character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161374, 
-        "Text": "Increases dark character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases dark character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161375, 
-        "Text": "Increases dark character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases dark character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161376, 
-        "Text": "Increases dark character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases dark character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161377, 
-        "Text": "Increases dark character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases dark character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161378, 
-        "Text": "Increases dark character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases dark character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161379, 
-        "Text": "Increases dark character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases dark character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161380, 
-        "Text": "Increases dark character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases dark character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161381, 
-        "Text": "Increases dark character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases dark character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161382, 
-        "Text": "Increases dark character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases dark character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161383, 
-        "Text": "Increases dark character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases dark character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161384, 
-        "Text": "Increases dark character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases dark character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161385, 
-        "Text": "Increases dark character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases dark character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161386, 
-        "Text": "Increases dark character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases dark character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161387, 
-        "Text": "Increases dark character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases dark character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161388, 
-        "Text": "Increases dark character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases dark character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161389, 
-        "Text": "Increases dark character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases dark character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161390, 
-        "Text": "Increases dark character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161391, 
-        "Text": "Increases dark character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161392, 
-        "Text": "Increases dark character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161393, 
-        "Text": "Increases dark character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161394, 
-        "Text": "Increases dark character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161395, 
-        "Text": "Increases dark character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161396, 
-        "Text": "Increases dark character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161397, 
-        "Text": "Increases dark character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161398, 
-        "Text": "Increases dark character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161399, 
-        "Text": "Increases dark character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases dark character HP by 10%, Attack by 10%, and Defense by 10%."
     }, 
     {
         "ColumnName": "description", 
@@ -3617,346 +3302,301 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161431, 
-        "Text": "Increases protection character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
+        "Text": "Increases protection character HP by 8.1%, Attack by 8%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161432, 
-        "Text": "Increases protection character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
+        "Text": "Increases protection character HP by 8.1%, Attack by 8.1%, and Defense by 8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161433, 
-        "Text": "Increases protection character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
+        "Text": "Increases protection character HP by 8.1%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161434, 
-        "Text": "Increases protection character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
+        "Text": "Increases protection character HP by 8.2%, Attack by 8.1%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161435, 
-        "Text": "Increases protection character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
+        "Text": "Increases protection character HP by 8.2%, Attack by 8.2%, and Defense by 8.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161436, 
-        "Text": "Increases protection character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
+        "Text": "Increases protection character HP by 8.2%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161437, 
-        "Text": "Increases protection character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
+        "Text": "Increases protection character HP by 8.3%, Attack by 8.2%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161438, 
-        "Text": "Increases protection character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
+        "Text": "Increases protection character HP by 8.3%, Attack by 8.3%, and Defense by 8.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161439, 
-        "Text": "Increases protection character HP by 9%, Attack by 9%, and Defense by 9%."
+        "Text": "Increases protection character HP by 8.3%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161440, 
-        "Text": "Increases protection character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
+        "Text": "Increases protection character HP by 8.4%, Attack by 8.3%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161441, 
-        "Text": "Increases protection character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
+        "Text": "Increases protection character HP by 8.4%, Attack by 8.4%, and Defense by 8.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161442, 
-        "Text": "Increases protection character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
+        "Text": "Increases protection character HP by 8.4%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161443, 
-        "Text": "Increases protection character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
+        "Text": "Increases protection character HP by 8.5%, Attack by 8.4%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161444, 
-        "Text": "Increases protection character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
+        "Text": "Increases protection character HP by 8.5%, Attack by 8.5%, and Defense by 8.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161445, 
-        "Text": "Increases protection character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
+        "Text": "Increases protection character HP by 8.5%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161446, 
-        "Text": "Increases protection character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
+        "Text": "Increases protection character HP by 8.6%, Attack by 8.5%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161447, 
-        "Text": "Increases protection character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
+        "Text": "Increases protection character HP by 8.6%, Attack by 8.6%, and Defense by 8.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161448, 
-        "Text": "Increases protection character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
+        "Text": "Increases protection character HP by 8.6%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161449, 
-        "Text": "Increases protection character HP by 10%, Attack by 10%, and Defense by 10%."
+        "Text": "Increases protection character HP by 8.7%, Attack by 8.6%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161450, 
-        "Text": "Increases protection character HP by 10.1%, Attack by 10.1%, and Defense by 10.1%."
+        "Text": "Increases protection character HP by 8.7%, Attack by 8.7%, and Defense by 8.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161451, 
-        "Text": "Increases protection character HP by 10.2%, Attack by 10.2%, and Defense by 10.2%."
+        "Text": "Increases protection character HP by 8.7%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161452, 
-        "Text": "Increases protection character HP by 10.3%, Attack by 10.3%, and Defense by 10.3%."
+        "Text": "Increases protection character HP by 8.8%, Attack by 8.7%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161453, 
-        "Text": "Increases protection character HP by 10.4%, Attack by 10.4%, and Defense by 10.4%."
+        "Text": "Increases protection character HP by 8.8%, Attack by 8.8%, and Defense by 8.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161454, 
-        "Text": "Increases protection character HP by 10.5%, Attack by 10.5%, and Defense by 10.5%."
+        "Text": "Increases protection character HP by 8.8%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161455, 
-        "Text": "Increases protection character HP by 10.6%, Attack by 10.6%, and Defense by 10.6%."
+        "Text": "Increases protection character HP by 8.9%, Attack by 8.8%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161456, 
-        "Text": "Increases protection character HP by 10.7%, Attack by 10.7%, and Defense by 10.7%."
+        "Text": "Increases protection character HP by 8.9%, Attack by 8.9%, and Defense by 8.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161457, 
-        "Text": "Increases protection character HP by 10.8%, Attack by 10.8%, and Defense by 10.8%."
+        "Text": "Increases protection character HP by 8.9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161458, 
-        "Text": "Increases protection character HP by 10.9%, Attack by 10.9%, and Defense by 10.9%."
+        "Text": "Increases protection character HP by 9%, Attack by 8.9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161459, 
-        "Text": "Increases protection character HP by 11%, Attack by 11%, and Defense by 11%."
+        "Text": "Increases protection character HP by 9%, Attack by 9%, and Defense by 8.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161460, 
-        "Text": "Increases protection character HP by 11.1%, Attack by 11.1%, and Defense by 11.1%."
+        "Text": "Increases protection character HP by 9%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161461, 
-        "Text": "Increases protection character HP by 11.2%, Attack by 11.2%, and Defense by 11.2%."
+        "Text": "Increases protection character HP by 9.1%, Attack by 9%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161462, 
-        "Text": "Increases protection character HP by 11.3%, Attack by 11.3%, and Defense by 11.3%."
+        "Text": "Increases protection character HP by 9.1%, Attack by 9.1%, and Defense by 9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161463, 
-        "Text": "Increases protection character HP by 11.4%, Attack by 11.4%, and Defense by 11.4%."
+        "Text": "Increases protection character HP by 9.1%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161464, 
-        "Text": "Increases protection character HP by 11.5%, Attack by 11.5%, and Defense by 11.5%."
+        "Text": "Increases protection character HP by 9.2%, Attack by 9.1%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161465, 
-        "Text": "Increases protection character HP by 11.6%, Attack by 11.6%, and Defense by 11.6%."
+        "Text": "Increases protection character HP by 9.2%, Attack by 9.2%, and Defense by 9.1%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161466, 
-        "Text": "Increases protection character HP by 11.7%, Attack by 11.7%, and Defense by 11.7%."
+        "Text": "Increases protection character HP by 9.2%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161467, 
-        "Text": "Increases protection character HP by 11.8%, Attack by 11.8%, and Defense by 11.8%."
+        "Text": "Increases protection character HP by 9.3%, Attack by 9.2%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161468, 
-        "Text": "Increases protection character HP by 11.9%, Attack by 11.9%, and Defense by 11.9%."
+        "Text": "Increases protection character HP by 9.3%, Attack by 9.3%, and Defense by 9.2%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161469, 
-        "Text": "Increases protection character HP by 12%, Attack by 12%, and Defense by 12%."
+        "Text": "Increases protection character HP by 9.3%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161470, 
-        "Text": "Increases protection character HP by 12.1%, Attack by 12.1%, and Defense by 12.1%."
+        "Text": "Increases protection character HP by 9.4%, Attack by 9.3%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161471, 
-        "Text": "Increases protection character HP by 12.2%, Attack by 12.2%, and Defense by 12.2%."
+        "Text": "Increases protection character HP by 9.4%, Attack by 9.4%, and Defense by 9.3%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161472, 
-        "Text": "Increases protection character HP by 12.3%, Attack by 12.3%, and Defense by 12.3%."
+        "Text": "Increases protection character HP by 9.4%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161473, 
-        "Text": "Increases protection character HP by 12.4%, Attack by 12.4%, and Defense by 12.4%."
+        "Text": "Increases protection character HP by 9.5%, Attack by 9.4%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161474, 
-        "Text": "Increases protection character HP by 12.5%, Attack by 12.5%, and Defense by 12.5%."
+        "Text": "Increases protection character HP by 9.5%, Attack by 9.5%, and Defense by 9.4%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161475, 
-        "Text": "Increases protection character HP by 12.6%, Attack by 12.6%, and Defense by 12.6%."
+        "Text": "Increases protection character HP by 9.5%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161476, 
-        "Text": "Increases protection character HP by 12.7%, Attack by 12.7%, and Defense by 12.7%."
+        "Text": "Increases protection character HP by 9.6%, Attack by 9.5%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161477, 
-        "Text": "Increases protection character HP by 12.8%, Attack by 12.8%, and Defense by 12.8%."
+        "Text": "Increases protection character HP by 9.6%, Attack by 9.6%, and Defense by 9.5%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161478, 
-        "Text": "Increases protection character HP by 12.9%, Attack by 12.9%, and Defense by 12.9%."
+        "Text": "Increases protection character HP by 9.6%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161479, 
-        "Text": "Increases protection character HP by 13%, Attack by 13%, and Defense by 13%."
+        "Text": "Increases protection character HP by 9.7%, Attack by 9.6%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161480, 
-        "Text": "Increases protection character HP by 13.1%, Attack by 13.1%, and Defense by 13.1%."
+        "Text": "Increases protection character HP by 9.7%, Attack by 9.7%, and Defense by 9.6%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161481, 
-        "Text": "Increases protection character HP by 13.2%, Attack by 13.2%, and Defense by 13.2%."
+        "Text": "Increases protection character HP by 9.7%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161482, 
-        "Text": "Increases protection character HP by 13.3%, Attack by 13.3%, and Defense by 13.3%."
+        "Text": "Increases protection character HP by 9.8%, Attack by 9.7%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161483, 
-        "Text": "Increases protection character HP by 13.4%, Attack by 13.4%, and Defense by 13.4%."
+        "Text": "Increases protection character HP by 9.8%, Attack by 9.8%, and Defense by 9.7%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161484, 
-        "Text": "Increases protection character HP by 13.5%, Attack by 13.5%, and Defense by 13.5%."
+        "Text": "Increases protection character HP by 9.8%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161485, 
-        "Text": "Increases protection character HP by 13.6%, Attack by 13.6%, and Defense by 13.6%."
+        "Text": "Increases protection character HP by 9.9%, Attack by 9.8%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161486, 
-        "Text": "Increases protection character HP by 13.7%, Attack by 13.7%, and Defense by 13.7%."
+        "Text": "Increases protection character HP by 9.9%, Attack by 9.9%, and Defense by 9.8%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161487, 
-        "Text": "Increases protection character HP by 13.8%, Attack by 13.8%, and Defense by 13.8%."
+        "Text": "Increases protection character HP by 9.9%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161488, 
-        "Text": "Increases protection character HP by 13.9%, Attack by 13.9%, and Defense by 13.9%."
+        "Text": "Increases protection character HP by 10%, Attack by 9.9%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161489, 
-        "Text": "Increases protection character HP by 14%, Attack by 14%, and Defense by 14%."
+        "Text": "Increases protection character HP by 10%, Attack by 10%, and Defense by 9.9%."
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 408161490, 
-        "Text": "Increases protection character HP by 14.1%, Attack by 14.1%, and Defense by 14.1%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161491, 
-        "Text": "Increases protection character HP by 14.2%, Attack by 14.2%, and Defense by 14.2%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161492, 
-        "Text": "Increases protection character HP by 14.3%, Attack by 14.3%, and Defense by 14.3%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161493, 
-        "Text": "Increases protection character HP by 14.4%, Attack by 14.4%, and Defense by 14.4%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161494, 
-        "Text": "Increases protection character HP by 14.5%, Attack by 14.5%, and Defense by 14.5%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161495, 
-        "Text": "Increases protection character HP by 14.6%, Attack by 14.6%, and Defense by 14.6%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161496, 
-        "Text": "Increases protection character HP by 14.7%, Attack by 14.7%, and Defense by 14.7%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161497, 
-        "Text": "Increases protection character HP by 14.8%, Attack by 14.8%, and Defense by 14.8%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161498, 
-        "Text": "Increases protection character HP by 14.9%, Attack by 14.9%, and Defense by 14.9%."
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 408161499, 
-        "Text": "Increases protection character HP by 15%, Attack by 15%, and Defense by 15%."
+        "Text": "Increases protection character HP by 10%, Attack by 10%, and Defense by 10%."
     }
 ]

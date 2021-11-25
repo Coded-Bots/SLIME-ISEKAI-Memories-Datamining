@@ -191,6 +191,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 803000000140, 
+        "Text": "A reward from the ISEKAI Memories 1st Month Anniversary Stream Login Bonus"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 803000010000, 
         "Text": "Equipment made at the forge"
     }, 

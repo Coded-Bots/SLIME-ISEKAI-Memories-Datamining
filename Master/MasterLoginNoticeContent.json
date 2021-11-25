@@ -154,5 +154,44 @@
         "NovelFilePathoffset": "", 
         "Priority": 1, 
         "ReleaseLabeloffset": "202111_event_akuma2_predation"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000603, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000006, 
+        "MovieFilePathoffset": "Movie/Lottery/lottery_c003_02.usm", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 3, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000602, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000006, 
+        "MovieFilePathoffset": "Movie/SpecialSkill/RimuruDemonLord_Battle_SpecialSkill/RimuruDemonLord_Battle_SpecialSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 2, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000601, 
+        "ImageFilePathoffset": "Image/LotteryInfo/500000023/LotteryLoginNotice_500000023", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000006, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }
 ]

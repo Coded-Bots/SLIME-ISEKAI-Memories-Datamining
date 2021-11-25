@@ -1,7 +1,7 @@
 [
     {
         "BackgroundImagePathoffset": "Image/LoginBonus/Special/loginBonusSpecialABg", 
-        "DisplayPriority": 3, 
+        "DisplayPriority": 100, 
         "Laps": 1, 
         "LogoPathoffset": "Image/LoginBonus/Special/loginBonusSpecialLogo", 
         "MasterLoginBonusId": 60000010001, 
@@ -21,12 +21,22 @@
     }, 
     {
         "BackgroundImagePathoffset": "Image/LoginBonus/60000020003/loginBonusBg_60000020003", 
-        "DisplayPriority": 1, 
+        "DisplayPriority": 3, 
         "Laps": 1, 
         "LogoPathoffset": "Image/LoginBonus/60000020003/loginBonusLogo_60000020003", 
         "MasterLoginBonusId": 60000020003, 
         "MasterOgcLoginBonusTargetType": 3, 
         "ReleaseLabeloffset": "202111_event_akuma1", 
+        "TargetValue": 0
+    }, 
+    {
+        "BackgroundImagePathoffset": "Image/LoginBonus/60000020005/loginBonusBg_60000020005", 
+        "DisplayPriority": 2, 
+        "Laps": 1, 
+        "LogoPathoffset": "Image/LoginBonus/60000020005/loginBonusLogo_60000020005", 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterOgcLoginBonusTargetType": 3, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary", 
         "TargetValue": 0
     }
 ]

@@ -296,6 +296,326 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 606120209, 
+        "Text": "Clear a Conquest: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120210, 
+        "Text": "Clear a Conquest: x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120211, 
+        "Text": "Clear a Conquest: x15"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120212, 
+        "Text": "Clear a Conquest: x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120213, 
+        "Text": "Clear a Conquest: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120214, 
+        "Text": "Clear a Conquest: x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120215, 
+        "Text": "Clear a Conquest: x15"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606120216, 
+        "Text": "Clear a Conquest: x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350153, 
+        "Text": "Clear Flaming Domain (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350155, 
+        "Text": "Clear Flaming Domain (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350158, 
+        "Text": "Clear Flaming Domain (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350161, 
+        "Text": "Clear Vortex of Ruin (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350163, 
+        "Text": "Clear Vortex of Ruin (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350166, 
+        "Text": "Clear Vortex of Ruin (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350169, 
+        "Text": "Clear Soaring Winds (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350171, 
+        "Text": "Clear Soaring Winds (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350174, 
+        "Text": "Clear Soaring Winds (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350177, 
+        "Text": "Clear Unwavering Giant (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350179, 
+        "Text": "Clear Unwavering Giant (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350182, 
+        "Text": "Clear Unwavering Giant (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350185, 
+        "Text": "Clear Ruthless Paladin (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350187, 
+        "Text": "Clear Ruthless Paladin (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350190, 
+        "Text": "Clear Ruthless Paladin (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350193, 
+        "Text": "Clear Ravenous Chaos (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350195, 
+        "Text": "Clear Ravenous Chaos (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350198, 
+        "Text": "Clear Ravenous Chaos (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350201, 
+        "Text": "Clear The Destroyer (Beginner): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350203, 
+        "Text": "Clear The Destroyer (Normal): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606350206, 
+        "Text": "Clear The Destroyer (Expert): x1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460157, 
+        "Text": "Clear Flaming Domain (Normal) in 8 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460159, 
+        "Text": "Clear Flaming Domain (Expert) in 8 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460165, 
+        "Text": "Clear Vortex of Ruin (Normal) in 10 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460167, 
+        "Text": "Clear Vortex of Ruin (Expert) in 10 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460173, 
+        "Text": "Clear Soaring Winds (Normal) in 11 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460175, 
+        "Text": "Clear Soaring Winds (Expert) in 11 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460181, 
+        "Text": "Clear Unwavering Giant (Normal) in 6 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460183, 
+        "Text": "Clear Unwavering Giant (Expert) in 6 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460189, 
+        "Text": "Clear Ruthless Paladin (Normal) in 8 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460191, 
+        "Text": "Clear Ruthless Paladin (Expert) in 8 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460197, 
+        "Text": "Clear Ravenous Chaos (Normal) in 5 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460199, 
+        "Text": "Clear Ravenous Chaos (Expert) in 5 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460205, 
+        "Text": "Clear The Destroyer (Normal) in 8 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460207, 
+        "Text": "Clear The Destroyer (Expert) in 8 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510168, 
+        "Text": "Clear Vortex of Ruin (Expert) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510200, 
+        "Text": "Clear Ravenous Chaos (Expert) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510208, 
+        "Text": "Clear The Destroyer (Expert) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606520160, 
+        "Text": "Clear Flaming Domain (Expert) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606520176, 
+        "Text": "Clear Soaring Winds (Expert) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530184, 
+        "Text": "Clear Unwavering Giant (Expert) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606530192, 
+        "Text": "Clear Ruthless Paladin (Expert) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540154, 
+        "Text": "Clear Flaming Domain (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540156, 
+        "Text": "Clear Flaming Domain (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540162, 
+        "Text": "Clear Vortex of Ruin (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540164, 
+        "Text": "Clear Vortex of Ruin (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540170, 
+        "Text": "Clear Soaring Winds (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540172, 
+        "Text": "Clear Soaring Winds (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540178, 
+        "Text": "Clear Unwavering Giant (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540180, 
+        "Text": "Clear Unwavering Giant (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540186, 
+        "Text": "Clear Ruthless Paladin (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540188, 
+        "Text": "Clear Ruthless Paladin (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540194, 
+        "Text": "Clear Ravenous Chaos (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540196, 
+        "Text": "Clear Ravenous Chaos (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540202, 
+        "Text": "Clear The Destroyer (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540204, 
+        "Text": "Clear The Destroyer (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 602140701, 
         "Text": "Construct a Butler's House."
     }, 
@@ -868,6 +1188,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 606280001, 
         "Text": "Log in to the app (Release Celebration Campaign 1)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606280003, 
+        "Text": "Log in to the app (Release Celebration Campaign 3)"
     }, 
     {
         "ColumnName": "description", 
@@ -23408,5 +23733,50 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 600410089, 
         "Text": "Complete all Nation of Monsters Diabolic Secretary (Expert) quests"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410091, 
+        "Text": "Clear Companion's Request: x100"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410092, 
+        "Text": "Reforge a piece of equipment: x500"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410093, 
+        "Text": "Evolve a piece of equipment to 6\u2605"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410094, 
+        "Text": "Receive a present from a companion: x300"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410095, 
+        "Text": "Reach a population of 45000"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410096, 
+        "Text": "Have 10 characters reach level: 25"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410097, 
+        "Text": "Reach 60 Sworn Friends"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410098, 
+        "Text": "Reach Troop EP: 280,000"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410099, 
+        "Text": "Log in for 60 days"
     }
 ]

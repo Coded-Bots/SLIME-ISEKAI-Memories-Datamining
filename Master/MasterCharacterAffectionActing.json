@@ -690,7 +690,7 @@
     }, 
     {
         "ActingFaceoffset": "Notice", 
-        "ActingMotionoffset": "Think", 
+        "ActingMotionoffset": "Proposal", 
         "ActingVoicePathoffset": "sys/shion/voice_sys_shion_008_communicate", 
         "ActingVoiceText": "", 
         "ClearQuestId": 0, 
@@ -715,7 +715,7 @@
         "ReleaseLabeloffset": ""
     }, 
     {
-        "ActingFaceoffset": "Smile", 
+        "ActingFaceoffset": "Grin", 
         "ActingMotionoffset": "Exclusive_2", 
         "ActingVoicePathoffset": "sys/shion/voice_sys_shion_010_communicate", 
         "ActingVoiceText": "", 
@@ -742,7 +742,7 @@
     }, 
     {
         "ActingFaceoffset": "Smile", 
-        "ActingMotionoffset": "Proposal", 
+        "ActingMotionoffset": "Relax", 
         "ActingVoicePathoffset": "sys/shion/voice_sys_shion_012_communicate", 
         "ActingVoiceText": "", 
         "ClearQuestId": 0, 
@@ -768,7 +768,7 @@
     }, 
     {
         "ActingFaceoffset": "Grin", 
-        "ActingMotionoffset": "Joy", 
+        "ActingMotionoffset": "Exclusive_2", 
         "ActingVoicePathoffset": "sys/shion/voice_sys_shion_014_communicate", 
         "ActingVoiceText": "", 
         "ClearQuestId": 0, 
@@ -807,7 +807,7 @@
     }, 
     {
         "ActingFaceoffset": "Smile", 
-        "ActingMotionoffset": "Joy", 
+        "ActingMotionoffset": "Angry", 
         "ActingVoicePathoffset": "sys/shion/voice_sys_shion_021_communicate", 
         "ActingVoiceText": "", 
         "ClearQuestId": 0, 
@@ -2847,19 +2847,6 @@
         "ReleaseLabeloffset": ""
     }, 
     {
-        "ActingFaceoffset": "Smile", 
-        "ActingMotionoffset": "Exclusive_2", 
-        "ActingVoicePathoffset": "sys/gabiru/voice_sys_gabiru_024_communicate", 
-        "ActingVoiceText": "", 
-        "ClearQuestId": 0, 
-        "KeepActingFace": false, 
-        "LimitedActingCharaId": 0, 
-        "MasterCharacterAffectionActingId": 3010001619, 
-        "MasterCharacterAffectionActingType": 8, 
-        "MasterCharacterId": 3001000016, 
-        "ReleaseLabeloffset": ""
-    }, 
-    {
         "ActingFaceoffset": "Normal", 
         "ActingMotionoffset": "Idle", 
         "ActingVoicePathoffset": "sys/geld/voice_sys_geld_004_communicate", 
@@ -4558,19 +4545,6 @@
         "KeepActingFace": false, 
         "LimitedActingCharaId": 0, 
         "MasterCharacterAffectionActingId": 3010002603, 
-        "MasterCharacterAffectionActingType": 7, 
-        "MasterCharacterId": 3001000026, 
-        "ReleaseLabeloffset": ""
-    }, 
-    {
-        "ActingFaceoffset": "Smile", 
-        "ActingMotionoffset": "Exclusive_1", 
-        "ActingVoicePathoffset": "sys/yuuki/voice_sys_yuuki_007_communicate", 
-        "ActingVoiceText": "", 
-        "ClearQuestId": 0, 
-        "KeepActingFace": false, 
-        "LimitedActingCharaId": 0, 
-        "MasterCharacterAffectionActingId": 3010002604, 
         "MasterCharacterAffectionActingType": 7, 
         "MasterCharacterId": 3001000026, 
         "ReleaseLabeloffset": ""

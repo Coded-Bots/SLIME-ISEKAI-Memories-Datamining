@@ -194,5 +194,54 @@
         "MasterLoginBonusId": 60000020003, 
         "MasterRewardGroupId": 802720000013, 
         "ReleaseLabeloffset": "202111_event_akuma1"
+    }, 
+    {
+        "Day": 1, 
+        "MasterLoginBonusContentId": 60120005001, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000024, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
+        "Day": 2, 
+        "MasterLoginBonusContentId": 60120005002, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000024, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
+        "Day": 3, 
+        "MasterLoginBonusContentId": 60120005003, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000025, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
+        "Day": 4, 
+        "MasterLoginBonusContentId": 60120005004, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000024, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
+        "Day": 5, 
+        "MasterLoginBonusContentId": 60120005005, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000025, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
+        "Day": 6, 
+        "MasterLoginBonusContentId": 60120005006, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000024, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
+    }, 
+    {
+        "Day": 7, 
+        "MasterLoginBonusContentId": 60120005007, 
+        "MasterLoginBonusId": 60000020005, 
+        "MasterRewardGroupId": 802720000025, 
+        "ReleaseLabeloffset": "202111_loginbonus_1month_anniversary"
     }
 ]

@@ -737,6 +737,22 @@
     }, 
     {
         "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "RimuruDemonLord_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915002801, 
+        "MasterPcId": 150028, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "RimuruDemonLord_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "RimuruDemonLord_passive_30", 
+        "MasterPcArousalSkillId": 3915002803, 
+        "MasterPcId": 150028, 
+        "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_start"
+    }, 
+    {
+        "ArousalCount": 1, 
         "ConditionPassiveSkillLabeloffset": "MilimBattleArmor_passive_30", 
         "InvalidPassiveSkillLabeloffset": "", 
         "MasterPcArousalSkillId": 3915002701, 

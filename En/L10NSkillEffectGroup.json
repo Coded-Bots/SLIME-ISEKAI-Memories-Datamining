@@ -2821,6 +2821,36 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20011500281001, 
+        "Text": "Normal Attack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500281001, 
+        "Text": "Unleashes a single-target dark magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500282023, 
+        "Text": "Unlock Expertise"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500282023, 
+        "Text": "Increases own critical rate by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases own critical damage by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500282024, 
+        "Text": "Chancellor's Prestige"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500282024, 
+        "Text": "Increases all allies' stun evasion rate by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases Soul of Divine Protection damage by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Turns: 1)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20011500282030, 
         "Text": "Troop - Protection UP"
     }, 
@@ -2838,6 +2868,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500282031, 
         "Text": "When your troop contains 3 or more battle characters, increases protection gauge by 11 at the start of battle (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500287001, 
+        "Text": "Belzebuth"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500287001, 
+        "Text": "Unleashes an all-target dark magic attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500292030, 
+        "Text": "Troop - Secret Skill UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500292030, 
+        "Text": "When your troop contains 3 or more battle characters, increases own Secret Skill Gauge by 5% at the start of battle (Turns: 3) (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500292031, 
+        "Text": "Troop - Secret Skill UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500292031, 
+        "Text": "When your troop contains 3 or more battle characters, increases own Secret Skill Gauge by 8% at the start of battle (Turns: 3) (available in support formation)"
     }, 
     {
         "ColumnName": "name", 
@@ -8537,7 +8597,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500101011, 
-        "Text": "Unleashes a single-target dark physical attack."
+        "Text": "Unleashes a single-target dark magic attack."
     }, 
     {
         "ColumnName": "name", 
@@ -8547,7 +8607,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500101012, 
-        "Text": "Unleashes an all-target dark physical attack."
+        "Text": "Unleashes an all-target dark magic attack"
     }, 
     {
         "ColumnName": "name", 
@@ -12868,6 +12928,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000341010, 
         "Text": "Unleashes an all-target earth physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000341011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000341011, 
+        "Text": "Unleashes an all-target fire physical attack."
     }, 
     {
         "ColumnName": "name", 
