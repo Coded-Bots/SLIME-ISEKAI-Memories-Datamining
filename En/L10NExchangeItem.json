@@ -68,5 +68,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 2400999, 
         "Text": "Item that can be exchanged for materials."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2410001, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2410001, 
+        "Text": "Item that can be exchanged in the event: Maid for the Holidays."
     }
 ]

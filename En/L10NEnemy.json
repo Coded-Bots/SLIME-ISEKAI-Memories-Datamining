@@ -10181,6 +10181,756 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 10002006001, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006004, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006007, 
+        "Text": "Kenya"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006010, 
+        "Text": "Ryota"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006013, 
+        "Text": "Gale"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006016, 
+        "Text": "Chloe"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006019, 
+        "Text": "Alice"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006022, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006022, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006023, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006023, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006024, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006024, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006031, 
+        "Text": "Night Spider"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006031, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006034, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006034, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006037, 
+        "Text": "Veldora"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006037, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006040, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006040, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006041, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006041, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006042, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006042, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006049, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006049, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006052, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006052, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006055, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006055, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006058, 
+        "Text": "Veldora"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006058, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006061, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006061, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006064, 
+        "Text": "Sky Dragon Falls"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006064, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006065, 
+        "Text": "Sky Dragon Falls"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006065, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006066, 
+        "Text": "Sky Dragon Falls"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006066, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006067, 
+        "Text": "Sky Dragon Falls"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006067, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006068, 
+        "Text": "Sky Dragon Falls"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006068, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006102, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006102, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006105, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006105, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006108, 
+        "Text": "Kenya"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006108, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006111, 
+        "Text": "Ryota"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006111, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006114, 
+        "Text": "Gale"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006114, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006117, 
+        "Text": "Chloe"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006117, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006120, 
+        "Text": "Alice"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006120, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006125, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006125, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006126, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006126, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006127, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006127, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006132, 
+        "Text": "Night Spider"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006132, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006135, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006135, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006138, 
+        "Text": "Veldora"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006138, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006143, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006143, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006144, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006144, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006145, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006145, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006150, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006150, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006153, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006153, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006156, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006156, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006159, 
+        "Text": "Veldora"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006159, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006162, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006162, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006203, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006203, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006206, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006206, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006209, 
+        "Text": "Kenya"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006209, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006212, 
+        "Text": "Ryota"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006212, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006215, 
+        "Text": "Gale"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006215, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006218, 
+        "Text": "Chloe"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006218, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006221, 
+        "Text": "Alice"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006221, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006228, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006228, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006229, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006229, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006230, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006230, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006233, 
+        "Text": "Night Spider"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006233, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006236, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006236, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006239, 
+        "Text": "Veldora"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006239, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006246, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006246, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006247, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006247, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006248, 
+        "Text": "Giant Ant"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006248, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006251, 
+        "Text": "Giant Bat"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006251, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006254, 
+        "Text": "Benimaru"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006254, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006257, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006257, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006260, 
+        "Text": "Veldora"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006260, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002006263, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002006263, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007001, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007002, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007003, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007004, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007005, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007006, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002007007, 
+        "Text": "Luminus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002007007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 10004001001, 
         "Text": "Ifrit"
     }, 

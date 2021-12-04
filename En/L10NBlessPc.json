@@ -228,5 +228,15 @@
         "ColumnName": "affiliation_name", 
         "LocalizationTargetId": 250009, 
         "Text": "The Talented Secretary"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 250014, 
+        "Text": "Shuna"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 250014, 
+        "Text": "The Faithful Housemaid"
     }
 ]

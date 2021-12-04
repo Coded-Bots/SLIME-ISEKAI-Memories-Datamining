@@ -405,6 +405,21 @@
         "VoiceActor": 309237645396
     }, 
     {
+        "AlphabetNameoffset": "Luminous", 
+        "DefaultMasterPcId": 150030, 
+        "FavoriteItemId": 0, 
+        "HomeAffectionCameraoffset": "", 
+        "MasterCharacterAffectionLevelGroupId": 1, 
+        "MasterCharacterAppearanceType": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterQuestId": 0, 
+        "Name": 498216206492, 
+        "NameBasedSortoffset": "\u30eb\u30df\u30ca\u30b9\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3", 
+        "Profile": 240518168644, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "VoiceActor": 292057776208
+    }, 
+    {
         "AlphabetNameoffset": "Veldora", 
         "DefaultMasterPcId": 250002, 
         "FavoriteItemId": 0, 

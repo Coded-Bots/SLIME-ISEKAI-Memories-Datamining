@@ -39,6 +39,18 @@
         "Descriptionoffset": "", 
         "Gold": 0, 
         "IconPathoffset": "Image/Item/GalleryItem/2500001/gallery_item_2500001_Item{0}", 
+        "ImagePathoffset": "Image/Gallery/2500004/gallery_2500004", 
+        "Locationoffset": "", 
+        "MasterGalleryItemId": 2500004, 
+        "MaxLimit": 99999, 
+        "Name": 790273982660, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
+        "Descriptionoffset": "", 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/GalleryItem/2500001/gallery_item_2500001_Item{0}", 
         "ImagePathoffset": "Image/Gallery/2500005/gallery_2500005", 
         "Locationoffset": "", 
         "MasterGalleryItemId": 2500005, 
@@ -46,5 +58,17 @@
         "Name": 858993459412, 
         "Rarity": 1, 
         "ReleaseLabeloffset": "202111_event_ministory_veldora_start"
+    }, 
+    {
+        "Descriptionoffset": "", 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/GalleryItem/2500001/gallery_item_2500001_Item{0}", 
+        "ImagePathoffset": "Image/Gallery/2500007/gallery_2500007", 
+        "Locationoffset": "", 
+        "MasterGalleryItemId": 2500007, 
+        "MaxLimit": 99999, 
+        "Name": 824633721036, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas_start"
     }
 ]

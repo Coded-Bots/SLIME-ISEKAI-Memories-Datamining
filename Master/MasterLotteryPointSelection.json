@@ -180,5 +180,19 @@
         "MasterRewardGroupId": 802100150028, 
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup", 
         "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000054, 
+        "MasterOgcLotteryShopId": 500000024, 
+        "MasterRewardGroupId": 802100150030, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1", 
+        "SelectionPoint": 200
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000055, 
+        "MasterOgcLotteryShopId": 500000024, 
+        "MasterRewardGroupId": 802100250014, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1", 
+        "SelectionPoint": 300
     }
 ]

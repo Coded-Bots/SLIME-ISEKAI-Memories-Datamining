@@ -142,5 +142,17 @@
         "MoviePathoffset": "Image/LotteryInfo/500000023/InfoPanel_500000023", 
         "ReleaseLabeloffset": "", 
         "Sort": 380
+    }, 
+    {
+        "BannerPathoffset": null, 
+        "DisplayTime": 1, 
+        "DisplayType": 994, 
+        "InfoPanelPathoffset": "Image/LotteryInfo/500000024/LotteryLogo_500000024", 
+        "IsTimeLimited": true, 
+        "LogoPathoffset": "Image/LotteryInfo/500000024/LotteryBanner_500000024", 
+        "MasterOgcLotteryShopId": 500000024, 
+        "MoviePathoffset": "Image/LotteryInfo/500000024/InfoPanel_500000024", 
+        "ReleaseLabeloffset": "", 
+        "Sort": 420
     }
 ]

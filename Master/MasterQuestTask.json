@@ -2310,6 +2310,39 @@
         "RequiredValue": 4
     }, 
     {
+        "Description": 64, 
+        "MasterQuestTaskGroupId": 14, 
+        "MasterQuestTaskId": 4104000141, 
+        "MasterQuestTaskType": 2, 
+        "MasterRewardGroupId": 802200000139, 
+        "Order": 1, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas_start", 
+        "RequiredLabeloffset": "", 
+        "RequiredValue": 1
+    }, 
+    {
+        "Description": 64, 
+        "MasterQuestTaskGroupId": 14, 
+        "MasterQuestTaskId": 4104000142, 
+        "MasterQuestTaskType": 2, 
+        "MasterRewardGroupId": 802200000137, 
+        "Order": 2, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas_start", 
+        "RequiredLabeloffset": "", 
+        "RequiredValue": 0
+    }, 
+    {
+        "Description": 68, 
+        "MasterQuestTaskGroupId": 14, 
+        "MasterQuestTaskId": 4104000143, 
+        "MasterQuestTaskType": 3, 
+        "MasterRewardGroupId": 802200000137, 
+        "Order": 3, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas_start", 
+        "RequiredLabeloffset": "", 
+        "RequiredValue": 14
+    }, 
+    {
         "Description": 32, 
         "MasterQuestTaskGroupId": 201, 
         "MasterQuestTaskId": 4104002011, 

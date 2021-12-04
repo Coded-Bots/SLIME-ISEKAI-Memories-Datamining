@@ -191,6 +191,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 803000000139, 
+        "Text": "This is an event total item reward"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 803000000140, 
         "Text": "A reward from the ISEKAI Memories 1st Month Anniversary Stream Login Bonus"
     }, 

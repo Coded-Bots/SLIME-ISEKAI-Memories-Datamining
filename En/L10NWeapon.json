@@ -191,6 +191,11 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 1110140018, 
+        "Text": "Holiday Battle Axe"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 1110150001, 
         "Text": "Battlehammer of Swift Wind"
     }, 

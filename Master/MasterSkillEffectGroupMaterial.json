@@ -330,6 +330,16 @@
         "TimelinePathoffset": ""
     }, 
     {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031300021008, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "AliceDefault_normal_08", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
         "AfterEffectPathoffset": "Setting/Effect/Battle/Common/C_Finish_Smoke_Default", 
         "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20031300027002, 
@@ -355,6 +365,16 @@
         "MasterSkillEffectGroupMaterialId": 20031300027004, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "AliceDefault_special_04", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Alice/AliceDefault/AliceDefault_Battle_SpecialSkill/AliceDefault_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Common/C_Finish_Smoke_Default", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031300027005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "AliceDefault_special_05", 
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 5, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Alice/AliceDefault/AliceDefault_Battle_SpecialSkill/AliceDefault_Battle_SpecialSkill"
@@ -396,6 +416,26 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "AliceDefault_debuff_06", 
         "SkillIconImagePathoffset": "Image/Skill/031/05/{1}/IcSkill_031_05_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Alice/AliceDefault/AliceDefault_Battle_ActiveSkill_Debuff/AliceDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/AliceDefault/3/AliceDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300023007, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "AliceDefault_debuff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/002/01/{1}/IcSkill_002_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Alice/AliceDefault/AliceDefault_Battle_ActiveSkill_Debuff/AliceDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/AliceDefault/3/AliceDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300023008, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "AliceDefault_debuff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/002/01/{1}/IcSkill_002_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Alice/AliceDefault/AliceDefault_Battle_ActiveSkill_Debuff/AliceDefault_Battle_ActiveSkill_Debuff"
     }, 
@@ -551,11 +591,51 @@
     }, 
     {
         "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031300031005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KenyaDefault_normal_05", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/KenyaDefault/3/KenyaDefault_3_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20031300033002, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "KenyaDefault_debuff_02", 
         "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Kenya/KenyaDefault/KenyaDefault_Battle_ActiveSkill_Debuff/KenyaDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/KenyaDefault/3/KenyaDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300033003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KenyaDefault_debuff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Kenya/KenyaDefault/KenyaDefault_Battle_ActiveSkill_Debuff/KenyaDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/KenyaDefault/3/KenyaDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300033004, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KenyaDefault_debuff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Kenya/KenyaDefault/KenyaDefault_Battle_ActiveSkill_Debuff/KenyaDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/KenyaDefault/3/KenyaDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300033005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KenyaDefault_debuff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Kenya/KenyaDefault/KenyaDefault_Battle_ActiveSkill_Debuff/KenyaDefault_Battle_ActiveSkill_Debuff"
     }, 
@@ -585,6 +665,16 @@
         "MasterSkillEffectGroupMaterialId": 20031300037003, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "KenyaDefault_special_03", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Kenya/KenyaDefault/KenyaDefault_Battle_SpecialSkill/KenyaDefault_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Kenya/KenyaDefault/S_KenyaDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031300037004, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KenyaDefault_special_04", 
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 5, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Kenya/KenyaDefault/KenyaDefault_Battle_SpecialSkill/KenyaDefault_Battle_SpecialSkill"
@@ -866,6 +956,36 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "RyotaDefault_buff_09", 
         "SkillIconImagePathoffset": "Image/Skill/025/02/{1}/IcSkill_025_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Ryota/RyotaDefault/RyotaDefault_Battle_ActiveSkill_Buff/RyotaDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RyotaDefault/3/RyotaDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300042010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "RyotaDefault_buff_10", 
+        "SkillIconImagePathoffset": "Image/Skill/003/02/{1}/IcSkill_003_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Ryota/RyotaDefault/RyotaDefault_Battle_ActiveSkill_Buff/RyotaDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RyotaDefault/3/RyotaDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300042011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "RyotaDefault_buff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/003/02/{1}/IcSkill_003_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Ryota/RyotaDefault/RyotaDefault_Battle_ActiveSkill_Buff/RyotaDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RyotaDefault/3/RyotaDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300042012, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "RyotaDefault_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/003/02/{1}/IcSkill_003_02_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Ryota/RyotaDefault/RyotaDefault_Battle_ActiveSkill_Buff/RyotaDefault_Battle_ActiveSkill_Buff"
     }, 
@@ -1180,6 +1300,16 @@
         "TimelinePathoffset": ""
     }, 
     {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031300061009, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GailDefault_normal_09", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
         "AfterEffectPathoffset": "Setting/Effect/Battle/Gail/GailDefault/S_GailDefault_Finish", 
         "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20031300067002, 
@@ -1205,6 +1335,16 @@
         "MasterSkillEffectGroupMaterialId": 20031300067004, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "GailDefault_special_04", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Gail/GailDefault/GailDefault_Battle_SpecialSkill/GailDefault_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Gail/GailDefault/S_GailDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031300067005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GailDefault_special_05", 
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 5, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Gail/GailDefault/GailDefault_Battle_SpecialSkill/GailDefault_Battle_SpecialSkill"
@@ -1296,6 +1436,36 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "GailDefault_buff_10", 
         "SkillIconImagePathoffset": "Image/Skill/013/01/{1}/IcSkill_013_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Gail/GailDefault/GailDefault_Battle_ActiveSkill_Buff/GailDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GailDefault/3/GailDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300062011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GailDefault_buff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/050/01/{1}/IcSkill_050_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Gail/GailDefault/GailDefault_Battle_ActiveSkill_Buff/GailDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GailDefault/3/GailDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300062012, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GailDefault_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/050/01/{1}/IcSkill_050_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Gail/GailDefault/GailDefault_Battle_ActiveSkill_Buff/GailDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GailDefault/3/GailDefault_3_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031300062013, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GailDefault_buff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/050/01/{1}/IcSkill_050_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Gail/GailDefault/GailDefault_Battle_ActiveSkill_Buff/GailDefault_Battle_ActiveSkill_Buff"
     }, 
@@ -2141,6 +2311,16 @@
     }, 
     {
         "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031400081006, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ChloeDefault_normal_06", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/ChloeDefault/4/ChloeDefault_4_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20031400082001, 
         "ReleaseLabeloffset": "", 
@@ -2192,6 +2372,36 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/ChloeDefault/4/ChloeDefault_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400082007, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ChloeDefault_buff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/035/05/{1}/IcSkill_035_05_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Chloe/ChloeDefault/ChloeDefault_Battle_ActiveSkill_Buff/ChloeDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ChloeDefault/4/ChloeDefault_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400082008, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ChloeDefault_buff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Chloe/ChloeDefault/ChloeDefault_Battle_ActiveSkill_Buff/ChloeDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ChloeDefault/4/ChloeDefault_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400082009, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ChloeDefault_buff_09", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Chloe/ChloeDefault/ChloeDefault_Battle_ActiveSkill_Buff/ChloeDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ChloeDefault/4/ChloeDefault_4_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20031400083001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "ChloeDefault_debuff_01", 
@@ -2225,6 +2435,16 @@
         "MasterSkillEffectGroupMaterialId": 20031400087003, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "ChloeDefault_special_03", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Chloe/ChloeDefault/ChloeDefault_Battle_SpecialSkill/ChloeDefault_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Chloe/ChloeDefault/S_ChloeDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031400087004, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ChloeDefault_special_04", 
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 5, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Chloe/ChloeDefault/ChloeDefault_Battle_SpecialSkill/ChloeDefault_Battle_SpecialSkill"
@@ -2890,6 +3110,106 @@
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
     }, 
     {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012014, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_14", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012015, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_15", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012016, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_16", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012017, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_17", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012018, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_18", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012019, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_19", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012020, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_20", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012021, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_21", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500012022, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_buff_22", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Buff/BenimaruDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500013001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_debuff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/041/25/{1}/IcSkill_041_25_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_ActiveSkill_Debuff/BenimaruDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
         "AfterEffectPathoffset": "Setting/Effect/Battle/Benimaru/BenimaruDefault/S_BenimaruDefault_Finish", 
         "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20031500017001, 
@@ -2905,6 +3225,16 @@
         "MasterSkillEffectGroupMaterialId": 20031500017002, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "BenimaruDefault_special_02", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_SpecialSkill/BenimaruDefault_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Benimaru/BenimaruDefault/S_BenimaruDefault_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500017003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_special_03", 
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 5, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Benimaru/BenimaruDefault/BenimaruDefault_Battle_SpecialSkill/BenimaruDefault_Battle_SpecialSkill"
@@ -2935,6 +3265,26 @@
         "MasterSkillEffectGroupMaterialId": 20031500011003, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "BenimaruDefault_normal_03", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500011004, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_normal_04", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500011005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "BenimaruDefault_normal_05", 
         "SkillIconImagePathoffset": "", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
@@ -11351,6 +11701,26 @@
     }, 
     {
         "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20040000002041, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "equip_buff_41", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20040000002042, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "equip_buff_42", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/BenimaruDefault/5/BenimaruDefault_5_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20041500012006, 
         "ReleaseLabeloffset": "", 
@@ -15232,6 +15602,66 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001801001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantAntWaterAttribute_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001801002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantAntWaterAttribute_normal_02", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001803001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantAntWaterAttribute_debuff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/026/01/{1}/IcSkill_026_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantAnt/GiantAntWaterAttribute/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001803002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantAntWaterAttribute_debuff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/026/01/{1}/IcSkill_026_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantAnt/GiantAntWaterAttribute/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001803003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantAntWaterAttribute_debuff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/026/01/{1}/IcSkill_026_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantAnt/GiantAntWaterAttribute/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001803004, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantAntWaterAttribute_debuff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantAnt/GiantAntWaterAttribute/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff/GiantAntWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033001821001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "GiantAntHolyAttribute_normal_01", 
@@ -15298,6 +15728,96 @@
         "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantAnt/GiantAntHolyAttribute/GiantAntHolyAttribute_Battle_ActiveSkill_Buff/GiantAntHolyAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001871001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantBatWaterAttribute_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001872001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantBatWaterAttribute_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/027/01/{1}/IcSkill_027_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantBat/GiantBatWaterAttribute/GiantBatWaterAttribute_Battle_ActiveSkill_Buff/GiantBatWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001872002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantBatWaterAttribute_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/003/02/{1}/IcSkill_003_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantBat/GiantBatWaterAttribute/GiantBatWaterAttribute_Battle_ActiveSkill_Buff/GiantBatWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001872003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantBatWaterAttribute_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/003/02/{1}/IcSkill_003_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantBat/GiantBatWaterAttribute/GiantBatWaterAttribute_Battle_ActiveSkill_Buff/GiantBatWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001872004, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "GiantBatWaterAttribute_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/003/02/{1}/IcSkill_003_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GiantBat/GiantBatWaterAttribute/GiantBatWaterAttribute_Battle_ActiveSkill_Buff/GiantBatWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001941001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KnightSpiderWaterAttribute_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001942001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KnightSpiderWaterAttribute_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/KnightSpider/KnightSpiderWaterAttribute/KnightSpiderWaterAttribute_Battle_ActiveSkill_Buff/KnightSpiderWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001942002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KnightSpiderWaterAttribute_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/KnightSpider/KnightSpiderWaterAttribute/KnightSpiderWaterAttribute_Battle_ActiveSkill_Buff/KnightSpiderWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001942003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "KnightSpiderWaterAttribute_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/KnightSpider/KnightSpiderWaterAttribute/KnightSpiderWaterAttribute_Battle_ActiveSkill_Buff/KnightSpiderWaterAttribute_Battle_ActiveSkill_Buff"
     }, 
     {
         "AfterEffectPathoffset": "", 
@@ -15480,6 +16000,26 @@
         "TimelinePathoffset": ""
     }, 
     {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500241010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_normal_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500241011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_normal_11", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
         "AfterEffectPathoffset": "Setting/Effect/Battle/Veldora/VeldoraHumanoid/S_VeldoraHumanoid_Finish", 
         "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20011500247001, 
@@ -15490,6 +16030,66 @@
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill"
     }, 
     {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Veldora/VeldoraHumanoid/S_VeldoraHumanoid_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500247010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_special_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_SpecialSkill/VeldoraHumanoid_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500242011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_buff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Buff/VeldoraHumanoid_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500242012, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Buff/VeldoraHumanoid_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500242013, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_buff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Buff/VeldoraHumanoid_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500242014, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_buff_14", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Buff/VeldoraHumanoid_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500242015, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_buff_15", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Buff/VeldoraHumanoid_Battle_ActiveSkill_Buff"
+    }, 
+    {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20011500242023, 
@@ -15498,6 +16098,26 @@
         "SkillIconImagePathoffset": "Image/Skill/009/01/{1}/IcSkill_009_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Buff/VeldoraHumanoid_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500243011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_debuff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/053/01/{1}/IcSkill_053_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Debuff/VeldoraHumanoid_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/VeldoraHumanoid/5/VeldoraHumanoid_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500243012, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "VeldoraHumanoid_debuff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/053/01/{1}/IcSkill_053_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Veldora/VeldoraHumanoid/VeldoraHumanoid_Battle_ActiveSkill_Debuff/VeldoraHumanoid_Battle_ActiveSkill_Debuff"
     }, 
     {
         "AfterEffectPathoffset": "", 
@@ -17848,5 +18468,695 @@
         "SkillIconImagePathoffset": "Image/Skill/002/01/{1}/IcSkill_002_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/EvilCentipede/EvilCentipedeLargeSize/EvilCentipedeLargeSize_Battle_ActiveSkill_Debuff/EvilCentipedeLargeSize_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002361001, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002361002, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_normal_02", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002367001, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_SpecialSkill/SkyDragonWaterAttribute_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362001, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362002, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362003, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362004, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362005, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362006, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_06", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362007, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362008, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362009, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_09", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362010, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_10", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362011, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362012, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002362013, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_buff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff/SkyDragonWaterAttribute_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363001, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/041/08/{1}/IcSkill_041_08_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363002, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/041/08/{1}/IcSkill_041_08_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363003, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363004, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363005, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363006, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_06", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363007, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363008, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/041/21/{1}/IcSkill_041_21_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363009, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_09", 
+        "SkillIconImagePathoffset": "Image/Skill/041/21/{1}/IcSkill_041_21_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002363010, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation", 
+        "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_10", 
+        "SkillIconImagePathoffset": "Image/Skill/041/21/{1}/IcSkill_041_21_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500301001, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Luminous/LuminousMaidCostume2021Christmas/S_LuminousMaidCostume2021Christmas_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500307001, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_SpecialSkill/LuminousMaidCostume2021Christmas_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500302901, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_901", 
+        "SkillIconImagePathoffset": "Image/Skill/035/03/{1}/IcSkill_035_03_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500302903, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_903", 
+        "SkillIconImagePathoffset": "Image/Skill/042/59/{1}/IcSkill_042_59_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500312030, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/15/1/IcPassiveSkill_041_15_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500312031, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/041/15/2/IcPassiveSkill_041_15_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500148001, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShunaMaidCostume2021Christmas_bless_01", 
+        "SkillIconImagePathoffset": "Image/Skill/003/04/{1}/IcSkill_003_04_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/BlessSkill/Shuna/ShunaMaidCostume2021Christmas/ShunaMaidCostume2021Christmas_Battle_BlessSkill_1/ShunaMaidCostume2021Christmas_Battle_BlessSkill_1"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500148002, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShunaMaidCostume2021Christmas_bless_02", 
+        "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/BlessSkill/Shuna/ShunaMaidCostume2021Christmas/ShunaMaidCostume2021Christmas_Battle_BlessSkill_1/ShunaMaidCostume2021Christmas_Battle_BlessSkill_1"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500152015, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShunaMaidCostume2021Christmas_passive_15", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/012/01/1/IcPassiveSkill_012_01_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20022500152016, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShunaMaidCostume2021Christmas_passive_16", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/012/01/2/IcPassiveSkill_012_01_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400271001, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_normal_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Shion/ShionMaidCostume2021Christmas/S_ShionMaidCostume2021Christmas_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400277001, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_special_01", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_SpecialSkill/ShionMaidCostume2021Christmas_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011400272901, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_901", 
+        "SkillIconImagePathoffset": "Image/Skill/035/03/{1}/IcSkill_035_03_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011400272903, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_903", 
+        "SkillIconImagePathoffset": "Image/Skill/052/01/{1}/IcSkill_052_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400282030, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/021/02/1/IcPassiveSkill_021_02_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011400282031, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/021/02/2/IcPassiveSkill_021_02_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031400271010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_normal_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031400271011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_normal_11", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_10", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272012, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272013, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272014, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_14", 
+        "SkillIconImagePathoffset": "Image/Skill/023/02/{1}/IcSkill_023_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272015, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_15", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400272016, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_buff_16", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400273010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_debuff_10", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Debuff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400273011, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_debuff_11", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Debuff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/ShionMaidCostume2021Christmas/4/ShionMaidCostume2021Christmas_4_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031400273012, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_debuff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/041/10/{1}/IcSkill_041_10_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Debuff/ShionMaidCostume2021Christmas_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Shion/ShionMaidCostume2021Christmas/S_ShionMaidCostume2021Christmas_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031400277010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_special_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_Battle_SpecialSkill/ShionMaidCostume2021Christmas_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500301010, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_normal_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500301011, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_normal_11", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302012, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_12", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302013, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_13", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302015, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_15", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302016, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_16", 
+        "SkillIconImagePathoffset": "Image/Skill/021/01/{1}/IcSkill_021_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Luminous/LuminousMaidCostume2021Christmas/S_LuminousMaidCostume2021Christmas_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20031500307014, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_special_14", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_SpecialSkill/LuminousMaidCostume2021Christmas_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302017, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_17", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302018, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_18", 
+        "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302019, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_19", 
+        "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302020, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_20", 
+        "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302021, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_21", 
+        "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302022, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_22", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/LuminousMaidCostume2021Christmas/5/LuminousMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500302023, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_23", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
     }
 ]

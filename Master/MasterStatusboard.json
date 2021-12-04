@@ -376,5 +376,32 @@
         "MasterStatusboardPanelGroupId4": 23134, 
         "MasterStatusboardPanelGroupId5": 23135, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "MasterStatusboardId": 1700001421, 
+        "MasterStatusboardPanelGroupId1": 14111, 
+        "MasterStatusboardPanelGroupId2": 14112, 
+        "MasterStatusboardPanelGroupId3": 14113, 
+        "MasterStatusboardPanelGroupId4": 14114, 
+        "MasterStatusboardPanelGroupId5": 14115, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
+        "MasterStatusboardId": 1700001422, 
+        "MasterStatusboardPanelGroupId1": 14121, 
+        "MasterStatusboardPanelGroupId2": 14122, 
+        "MasterStatusboardPanelGroupId3": 14123, 
+        "MasterStatusboardPanelGroupId4": 14124, 
+        "MasterStatusboardPanelGroupId5": 14125, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
+        "MasterStatusboardId": 1700001423, 
+        "MasterStatusboardPanelGroupId1": 14131, 
+        "MasterStatusboardPanelGroupId2": 14132, 
+        "MasterStatusboardPanelGroupId3": 14133, 
+        "MasterStatusboardPanelGroupId4": 14134, 
+        "MasterStatusboardPanelGroupId5": 14135, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
     }
 ]

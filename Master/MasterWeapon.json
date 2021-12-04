@@ -646,6 +646,23 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "BaseRarity": 2, 
+        "EquipmentImagePathoffset": "Image/Equip/Weapon/140018/Weapon_140018_Weapon{0}", 
+        "EquipmentPassiveSkillConditionId": 1590000009, 
+        "MasterEquipmentCraftBonusId": 1510000012, 
+        "MasterEquipmentEvolveGroupId": 1209, 
+        "MasterEquipmentLevelGroupId": 12, 
+        "MasterEquipmentRefiningGroupId": 1000002, 
+        "MasterEquipmentSetGroupId": 0, 
+        "MasterEventId": 10000000020060, 
+        "MasterWeaponId": 1110140018, 
+        "MasterWeaponType": 4, 
+        "Name": 8589934796, 
+        "PassiveSkillLabel1offset": "equip_buff_41", 
+        "PassiveSkillLabel2offset": "", 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
         "BaseRarity": 3, 
         "EquipmentImagePathoffset": "Image/Equip/Weapon/150001/Weapon_150001_Weapon{0}", 
         "EquipmentPassiveSkillConditionId": 1590000003, 

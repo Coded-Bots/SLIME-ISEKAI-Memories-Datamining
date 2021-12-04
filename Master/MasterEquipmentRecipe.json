@@ -555,6 +555,21 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "GoldCost": 1000, 
+        "ItemCost1": 2, 
+        "ItemCost2": 10, 
+        "ItemCost3": 0, 
+        "ItemIdCost1": 1100001, 
+        "ItemIdCost2": 1100030, 
+        "ItemIdCost3": 0, 
+        "LimitCount": 1, 
+        "MasterEquipmentId": 1110140018, 
+        "MasterEquipmentRecipeId": 1500140018, 
+        "MasterEquipmentType": 1, 
+        "MasterFacilityLevelMainId": 407161702, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
         "GoldCost": 3000, 
         "ItemCost1": 3, 
         "ItemCost2": 2, 
@@ -1108,6 +1123,21 @@
         "MasterEquipmentType": 2, 
         "MasterFacilityLevelMainId": 407161702, 
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "GoldCost": 1000, 
+        "ItemCost1": 2, 
+        "ItemCost2": 10, 
+        "ItemCost3": 0, 
+        "ItemIdCost1": 1100001, 
+        "ItemIdCost2": 1100030, 
+        "ItemIdCost3": 0, 
+        "LimitCount": 1, 
+        "MasterEquipmentId": 1120310012, 
+        "MasterEquipmentRecipeId": 1500210012, 
+        "MasterEquipmentType": 2, 
+        "MasterFacilityLevelMainId": 407161702, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
     }, 
     {
         "GoldCost": 3000, 

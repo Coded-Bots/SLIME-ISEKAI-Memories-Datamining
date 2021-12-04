@@ -70,5 +70,13 @@
         "MasterItemExchangeBannerGroupId": 9000000009, 
         "MasterItemExchangeBannerId": 9000000009, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BannerImagePathoffset": "Image/Event/StoryEvent/2006/Exchange_Banner", 
+        "BannerPriority": 100, 
+        "ItemExchangeType": 0, 
+        "MasterItemExchangeBannerGroupId": 9000000010, 
+        "MasterItemExchangeBannerId": 9000000010, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
     }
 ]

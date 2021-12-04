@@ -213,5 +213,65 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 9002111500, 
         "Text": "Mysterious Lightstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120010, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120020, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120030, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120040, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120050, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120060, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120100, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120200, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120300, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120400, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002120600, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 9002121500, 
+        "Text": "Jingle Bell"
     }
 ]

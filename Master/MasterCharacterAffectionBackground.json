@@ -178,5 +178,23 @@
         "MasterBackgroundGroupId": 13, 
         "MasterCharacterAffectionBackgroundId": 3011000120, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_forest_06/forest", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_forest_06/forest", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 1, 
+        "MasterBackgroundGroupId": 14, 
+        "MasterCharacterAffectionBackgroundId": 3011000121, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "BackgroundPathNightoffset": "Image/Bg/bg_xmassquare_01/xmassquare", 
+        "BackgroundPathNoonoffset": "Image/Bg/bg_xmassquare_01/xmassquare", 
+        "FacilityId": 400001101, 
+        "FacilityLevel": 5, 
+        "MasterBackgroundGroupId": 14, 
+        "MasterCharacterAffectionBackgroundId": 3011000122, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
     }
 ]

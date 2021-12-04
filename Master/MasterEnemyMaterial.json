@@ -540,6 +540,15 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute", 
+        "DistanceForDetail": 9.0, 
+        "IconImagePathoffset": "Image/Character/Enemy/SkyDragonWaterAttribute/SkyDragonWaterAttribute_EnemyThumbM", 
+        "IsHitEffectRoot": false, 
+        "MasterEnemyMaterialId": 20000300236, 
+        "OffsetXForDetail": 2.0, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation"
+    }, 
+    {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Armorsaurus/ArmorsaurusLargeSize/ArmorsaurusLargeSize", 
         "DistanceForDetail": 9.0, 
         "IconImagePathoffset": "Image/Character/Enemy/ArmorsaurusLargeSize/ArmorsaurusLargeSize_EnemyThumbM", 
@@ -871,5 +880,32 @@
         "MasterEnemyMaterialId": 20000300234, 
         "OffsetXForDetail": 6.5, 
         "ReleaseLabeloffset": "202111_event_akuma2_predation"
+    }, 
+    {
+        "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas", 
+        "DistanceForDetail": 4.199999809265137, 
+        "IconImagePathoffset": "Image/Character/Enemy/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_EnemyThumbM", 
+        "IsHitEffectRoot": false, 
+        "MasterEnemyMaterialId": 20000150030, 
+        "OffsetXForDetail": 1.100000023841858, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas"
+    }, 
+    {
+        "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas", 
+        "DistanceForDetail": 4.199999809265137, 
+        "IconImagePathoffset": "Image/Character/Enemy/ShionMaidCostume2021Christmas/ShionMaidCostume2021Christmas_EnemyThumbM", 
+        "IsHitEffectRoot": false, 
+        "MasterEnemyMaterialId": 20000140027, 
+        "OffsetXForDetail": 1.100000023841858, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Veldora/VeldoraHumanoid/VeldoraHumanoid", 
+        "DistanceForDetail": 4.199999809265137, 
+        "IconImagePathoffset": "Image/Character/Enemy/VeldoraHumanoid/VeldoraHumanoid_EnemyThumbM", 
+        "IsHitEffectRoot": false, 
+        "MasterEnemyMaterialId": 20000150024, 
+        "OffsetXForDetail": 1.100000023841858, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
     }
 ]

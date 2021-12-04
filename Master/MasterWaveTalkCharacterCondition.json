@@ -217,6 +217,14 @@
     }, 
     {
         "AliveType": 1, 
+        "MasterCharacterId": 3001000029, 
+        "MasterWaveTalkCharacterConditionId": 4004000029, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "TalkConditionLabeloffset": "Luminous_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
         "MasterCharacterId": 3001000501, 
         "MasterWaveTalkCharacterConditionId": 4004000501, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start", 

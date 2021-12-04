@@ -108,5 +108,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 505000011, 
         "Text": "Ticket used in the Rimuru, the Awakened Demon Lord Recruit Selection"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000012, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000012, 
+        "Text": "Ticket used in the Troop Recruit: Maid for the Holidays Part 1"
     }
 ]

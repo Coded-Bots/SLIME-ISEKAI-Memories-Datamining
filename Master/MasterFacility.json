@@ -368,6 +368,22 @@
         "ReleaseLabeloffset": "202111_event_akuma1_start"
     }, 
     {
+        "Description": 8589934692, 
+        "EventDisplayReleaseLabeloffset": "202112_event_xmas1", 
+        "EventFacilityItemId": 1200007, 
+        "GridSizeX": 3, 
+        "GridSizeY": 3, 
+        "InitialMaxFacilityCount": 1, 
+        "IsMovable": true, 
+        "IsStorable": true, 
+        "MasterFacilityIconType": 0, 
+        "MasterFacilityId": 400001408, 
+        "MasterFacilityType": 2, 
+        "MaxAssignableCharacterCount": 0, 
+        "Name": 429496729712, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
         "Description": 12884901940, 
         "EventDisplayReleaseLabeloffset": "", 
         "EventFacilityItemId": 0, 

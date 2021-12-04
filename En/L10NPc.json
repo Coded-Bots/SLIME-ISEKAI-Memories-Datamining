@@ -321,6 +321,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 140027, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 140027, 
+        "Text": "The Bold Servant"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 150001, 
         "Text": "Benimaru"
     }, 
@@ -508,6 +518,16 @@
         "ColumnName": "affiliation_name", 
         "LocalizationTargetId": 150028, 
         "Text": "Awakened Demon Lord"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 150030, 
+        "Text": "Luminus Valentine"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150030, 
+        "Text": "Queen of Yule"
     }, 
     {
         "ColumnName": "name", 

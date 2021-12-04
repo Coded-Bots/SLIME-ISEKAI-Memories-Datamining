@@ -6846,33 +6846,98 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811800000226, 
+        "Text": "Holiday House Blueprint"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000227, 
+        "Text": "Shion, the Bold Servant Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000228, 
+        "Text": "Highest-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000229, 
+        "Text": "Highest-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000230, 
+        "Text": "Wind Magicore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000231, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000232, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000233, 
+        "Text": "Supersized Bulldeer Meat Set"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000234, 
+        "Text": "Rice Ball Box Lunch"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000235, 
+        "Text": "Premium Fruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000236, 
+        "Text": "Potato Salad with Fruit"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000237, 
+        "Text": "Giant Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811800000238, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811200000001, 
-        "Text": "Stamina Magistone"
+        "Text": "Gold Coin"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000002, 
-        "Text": "Magicule"
+        "Text": "Stamina Magistone"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000003, 
-        "Text": "Attack Magistone"
+        "Text": "Magicule"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000004, 
-        "Text": "Giant Grindstone"
+        "Text": "Attack Magistone"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000005, 
-        "Text": "Defense Magistone"
+        "Text": "Magic Ore"
     }, 
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000006, 
-        "Text": "Gold Coin"
+        "Text": "Defense Magistone"
     }, 
     {
         "ColumnName": "description", 
@@ -6887,27 +6952,27 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000009, 
-        "Text": "Magic Ore"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000010, 
         "Text": "Stamina Magirock"
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 811200000011, 
-        "Text": "Magicule"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000012, 
+        "LocalizationTargetId": 811200000010, 
         "Text": "Attack Magirock"
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811200000011, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000012, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811200000013, 
-        "Text": "Giant Grindstone"
+        "Text": "Training Magirock"
     }, 
     {
         "ColumnName": "description", 
@@ -9158,6 +9223,101 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811500001076, 
         "Text": "Benimaru, the Crimson Ogre Warrior Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001077, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001078, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001079, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001080, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001081, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001082, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001083, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001084, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001085, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001086, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001087, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001088, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001089, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001090, 
+        "Text": "Nation of Monsters Hot Pot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001091, 
+        "Text": "Nation of Monsters Hot Pot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001092, 
+        "Text": "Shion, the Bold Servant Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001093, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001094, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811500001095, 
+        "Text": "Ore of the Holidays"
     }, 
     {
         "ColumnName": "description", 
@@ -12781,6 +12941,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811900150030, 
+        "Text": "Luminus Valentine, the Queen of Yule"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811900230001, 
         "Text": "Butterflies of the Night Owner, the Bewitching Shopkeeper"
     }, 
@@ -12893,6 +13058,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811900250009, 
         "Text": "Shion, the Talented Secretary"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811900250014, 
+        "Text": "Shuna, the Faithful Housemaid"
     }, 
     {
         "ColumnName": "description", 
@@ -13036,6 +13206,26 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811620000020, 
+        "Text": "Shion, the Bold Servant"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000021, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000022, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811620000023, 
+        "Text": "Holiday House Blueprint"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811620000024, 
         "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
     }, 
@@ -13043,6 +13233,21 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811620000025, 
         "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811629000001, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811629000002, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811629000003, 
+        "Text": "Perfect Workmanship"
     }, 
     {
         "ColumnName": "description", 
@@ -17296,6 +17501,1561 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811751010030, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010035, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010040, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010045, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010050, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010055, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010060, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010065, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010070, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010075, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010085, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010090, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010095, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010100, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010105, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010110, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010115, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010125, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010150, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010155, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010160, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010165, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010170, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010175, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010180, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010185, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010190, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010195, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010200, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010205, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010215, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010240, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010245, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010250, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010255, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010265, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010300, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010305, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010310, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010315, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010320, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010330, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010340, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010370, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010375, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010380, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010385, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010390, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010395, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010400, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010405, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010410, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010415, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010420, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010425, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010430, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010435, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010440, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010445, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010450, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010455, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010460, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010510, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010515, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010525, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010540, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010550, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010560, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010570, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010580, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010600, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010610, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010620, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010900, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010910, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811751010920, 
+        "Text": "Jingle Bell"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027001, 
+        "Text": "Rimuru buried in presents"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027002, 
+        "Text": "Shion, the Bold Servant Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027003, 
+        "Text": "Shion, the Bold Servant Body and Spirit Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027004, 
+        "Text": "Shion, the Bold Servant Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027005, 
+        "Text": "Shion, the Bold Servant Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027006, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027007, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027008, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027009, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027010, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027011, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027012, 
+        "Text": "Ore of the Holidays"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027013, 
+        "Text": "Shion, the Bold Servant Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762027014, 
+        "Text": "Shion, the Bold Servant Body and Spirit Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811762033001, 
+        "Text": "Miffed Maid Rimuru and the Merry Three"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101001, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101002, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101003, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101005, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101006, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101008, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101009, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771101014, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771104001, 
+        "Text": "High-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771104002, 
+        "Text": "High-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771104008, 
+        "Text": "High-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771104009, 
+        "Text": "High-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771105001, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771105002, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771105006, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771105008, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771105009, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771105014, 
+        "Text": "Higher-Quality Magic Fang"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771107001, 
+        "Text": "High-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771107002, 
+        "Text": "High-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771107008, 
+        "Text": "High-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771107009, 
+        "Text": "High-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771108001, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771108002, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771108006, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771108008, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771108009, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771108014, 
+        "Text": "Higher-Quality Magic Hide"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771119001, 
+        "Text": "Small Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771119002, 
+        "Text": "Small Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771119008, 
+        "Text": "Small Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771119009, 
+        "Text": "Small Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771120001, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771120002, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771120006, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771120008, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771120009, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771120014, 
+        "Text": "Large Magic Feather"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771701005, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771701010, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901001, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901002, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901003, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901005, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901007, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901008, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901010, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901015, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771901016, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902001, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902002, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902004, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902006, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902007, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902008, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902010, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771902016, 
+        "Text": "Large Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771903001, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771903002, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771903008, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771903010, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811771903016, 
+        "Text": "Giant Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101001, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101002, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101003, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101004, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101006, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101007, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101008, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101012, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101018, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101020, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101030, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772101035, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102001, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102002, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102004, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102006, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102015, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102016, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102018, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772102030, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772103001, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772103002, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772103008, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772103010, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772103016, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772103020, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104001, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104002, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104003, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104004, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104006, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104007, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104008, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104012, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104018, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104020, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104030, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104035, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104050, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772104100, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105001, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105002, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105004, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105006, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105015, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105016, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105018, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105030, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772105050, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772106001, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772106002, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772106008, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772106010, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772106016, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107001, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107002, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107003, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107004, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107006, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107007, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107008, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107012, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107018, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107020, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107030, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107035, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107050, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772107100, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108001, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108002, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108004, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108006, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108015, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108016, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108018, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108030, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772108050, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772109001, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772109002, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772109008, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772109010, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772109016, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772109020, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110001, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110002, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110003, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110004, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110006, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110007, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110008, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110012, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110018, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110020, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110030, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772110035, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111001, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111002, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111004, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111006, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111015, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111016, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111018, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772111030, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772112001, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772112002, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772112008, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772112010, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772112016, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772112020, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772301001, 
+        "Text": "Perfect Workmanship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772301002, 
+        "Text": "Perfect Workmanship"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772302001, 
+        "Text": "Perfect Technique"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772302002, 
+        "Text": "Perfect Technique"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772303001, 
+        "Text": "Perfect Striking"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811772408005, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811773001005, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811773001010, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811773001030, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811773001040, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811773101002, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811773101005, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811782027001, 
+        "Text": "Shion, the Bold Servant Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811782027002, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811791101003, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811791101005, 
+        "Text": "Magic Ore"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811791701005, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811791701010, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811791901003, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811791901005, 
+        "Text": "Small Grindstone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792101005, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792101010, 
+        "Text": "Attack Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792102003, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792102005, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792103001, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792103002, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792104005, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792104010, 
+        "Text": "Defense Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792105003, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792105005, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792106001, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792106002, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792107005, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792107010, 
+        "Text": "Stamina Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792108003, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792108005, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792109001, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792109002, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792110005, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792110010, 
+        "Text": "Training Magistone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792111003, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792111005, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792112001, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792112002, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811792408005, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811793001005, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811793001010, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811793101002, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811793101005, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811000000001, 
         "Text": "Magicrystal"
     }, 
@@ -17778,6 +19538,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000097, 
         "Text": "Rimuru showing Diablo around town"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000098, 
+        "Text": "Rimuru buried in presents"
     }, 
     {
         "ColumnName": "description", 
@@ -18752,6 +20517,6 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000294, 
-        "Text": "en_reward@system_N/A"
+        "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
     }
 ]

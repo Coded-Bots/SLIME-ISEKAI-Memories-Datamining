@@ -152,7 +152,7 @@
         "ReleaseLabeloffset": "202110_lottery_freeday1"
     }, 
     {
-        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001010, 
         "OpenAtoffset": "2021/11/01 8:00:00", 
@@ -171,12 +171,12 @@
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001012, 
-        "OpenAtoffset": "2021/12/08 6:00:00", 
+        "OpenAtoffset": "2021/12/15 6:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_exchange"
     }, 
     {
-        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001013, 
         "OpenAtoffset": "2021/11/16 2:00:00", 
@@ -200,7 +200,7 @@
         "ReleaseLabeloffset": "202111_lottery_dark_pickup"
     }, 
     {
-        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001016, 
         "OpenAtoffset": "2021/11/09 2:00:00", 
@@ -208,7 +208,7 @@
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup"
     }, 
     {
-        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001017, 
         "OpenAtoffset": "2021/11/09 2:00:00", 
@@ -227,12 +227,12 @@
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001019, 
-        "OpenAtoffset": "2021/12/08 6:00:00", 
+        "OpenAtoffset": "2021/12/15 6:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_exchange"
     }, 
     {
-        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001020, 
         "OpenAtoffset": "2021/11/25 2:00:00", 
@@ -280,7 +280,31 @@
         "ReleaseLabeloffset": "202111_lottery_battle_chara_dark_start"
     }, 
     {
-        "CloseAtoffset": "2021/12/08 5:59:59", 
+        "CloseAtoffset": "2022/01/04 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001026, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001027, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001028, 
+        "OpenAtoffset": "2022/01/04 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001032, 
         "OpenAtoffset": "2021/11/25 2:00:00", 
@@ -299,7 +323,7 @@
         "CloseAtoffset": "", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001034, 
-        "OpenAtoffset": "2021/12/08 6:00:00", 
+        "OpenAtoffset": "2021/12/15 6:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_exchange"
     }, 
@@ -454,6 +478,86 @@
         "OpenAtoffset": "2021/11/12 8:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_event_mini_kakusei"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/29 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002026, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002027, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
+        "CloseAtoffset": "2022/01/01 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002028, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/29 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002029, 
+        "OpenAtoffset": "2021/12/08 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002030, 
+        "OpenAtoffset": "2021/12/08 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation_start"
+    }, 
+    {
+        "CloseAtoffset": "2022/01/01 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002031, 
+        "OpenAtoffset": "2021/12/08 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/29 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002032, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002033, 
+        "OpenAtoffset": "2021/11/30 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 1:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002051, 
+        "OpenAtoffset": "2021/11/01 8:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_diablo_home_banner"
+    }, 
+    {
+        "CloseAtoffset": "2021/11/30 1:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002052, 
+        "OpenAtoffset": "2021/11/09 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_ministory_veldora_home_banner"
     }, 
     {
         "CloseAtoffset": "2021/05/31 8:59:59", 

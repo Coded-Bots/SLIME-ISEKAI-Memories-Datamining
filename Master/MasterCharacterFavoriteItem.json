@@ -757,6 +757,34 @@
     }, 
     {
         "AddAffection": 10, 
+        "MasterCharacterFavoriteItemId": 3009002901, 
+        "MasterCharacterId": 3001000029, 
+        "MasterItemId": 1400013, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "AddAffection": 15, 
+        "MasterCharacterFavoriteItemId": 3009002902, 
+        "MasterCharacterId": 3001000029, 
+        "MasterItemId": 1400014, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002903, 
+        "MasterCharacterId": 3001000029, 
+        "MasterItemId": 1400015, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "AddAffection": 18, 
+        "MasterCharacterFavoriteItemId": 3009002904, 
+        "MasterCharacterId": 3001000029, 
+        "MasterItemId": 1400016, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "AddAffection": 10, 
         "MasterCharacterFavoriteItemId": 3009050101, 
         "MasterCharacterId": 3001000501, 
         "MasterItemId": 1400007, 

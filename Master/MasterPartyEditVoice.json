@@ -1584,6 +1584,54 @@
         "ReleaseLabeloffset": "202111_lottery_akuma1_start"
     }, 
     {
+        "ActingVoicePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterPartyEditVoiceId": 3012002901, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_033_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterPartyEditVoiceId": 3012002902, 
+        "MasterPcPartyEditVoiceType": 0, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_035_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterPartyEditVoiceId": 3012002903, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_036_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterPartyEditVoiceId": 3012002904, 
+        "MasterPcPartyEditVoiceType": 1, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_037_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterPartyEditVoiceId": 3012002905, 
+        "MasterPcPartyEditVoiceType": 3, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ActingVoicePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_037_party", 
+        "LimitedMasterPcId": 0, 
+        "MasterCharacterId": 3001000029, 
+        "MasterPartyEditVoiceId": 3012002906, 
+        "MasterPcPartyEditVoiceType": 2, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
         "ActingVoicePathoffset": "sys/veldora/voice_sys_veldora_032_party", 
         "LimitedMasterPcId": 0, 
         "MasterCharacterId": 3001000501, 

@@ -201,5 +201,47 @@
         "MasterSpecialBonusPcDetailValueId": 100200000029, 
         "ReleaseLabeloffset": "202111_event_akuma1_start", 
         "SpecialBonusValue": 4000
+    }, 
+    {
+        "ArousalCount": 0, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcDetailValueId": 100200000030, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SpecialBonusValue": 100
+    }, 
+    {
+        "ArousalCount": 11, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcDetailValueId": 100200000031, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SpecialBonusValue": 200
+    }, 
+    {
+        "ArousalCount": 12, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcDetailValueId": 100200000032, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SpecialBonusValue": 300
+    }, 
+    {
+        "ArousalCount": 13, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcDetailValueId": 100200000033, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SpecialBonusValue": 400
+    }, 
+    {
+        "ArousalCount": 14, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcDetailValueId": 100200000034, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SpecialBonusValue": 500
+    }, 
+    {
+        "ArousalCount": 15, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcDetailValueId": 100200000035, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "SpecialBonusValue": 600
     }
 ]

@@ -417,7 +417,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20011400022023, 
-        "Text": "Heals all allies' HP by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color>"
+        "Text": "Heals all allies' by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> of their max HP"
     }, 
     {
         "ColumnName": "name", 
@@ -777,7 +777,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20011400082023, 
-        "Text": "Heals all allies' HP by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color>"
+        "Text": "Heals all allies' by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> of their max HP"
     }, 
     {
         "ColumnName": "name", 
@@ -1751,6 +1751,66 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20011400271001, 
+        "Text": "Normal Attack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011400271001, 
+        "Text": "Unleashes a single-target wind physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011400272901, 
+        "Text": "Dynamic Cooking"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011400272901, 
+        "Text": "Heals self by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> of own max HP\nIncreases Soul of Skills damage until the end of battle by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Max: <color=#2BE41D>100\uff05</color>)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011400272903, 
+        "Text": "Destructive Cleaning"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011400272903, 
+        "Text": "Increases all allies' pierce resistance by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011400277001, 
+        "Text": "Holy Circle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011400277001, 
+        "Text": "Unleashes an all-target wind physical attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011400282030, 
+        "Text": "HP - Pierce Power UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011400282030, 
+        "Text": "When you have 75% or more HP, increases own pierce power by 8% at start of turn (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011400282031, 
+        "Text": "HP - Pierce Power UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011400282031, 
+        "Text": "When you have 75% or more HP, increases own pierce power by 12% at start of turn (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20011500011022, 
         "Text": "Normal Attack"
     }, 
@@ -1867,7 +1927,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500032024, 
-        "Text": "Heals all allies' HP by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color>\nIncreases Soul of Divine Protection damage until the end of battle by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Max: <color=#2BE41D>100\uff05</color>)"
+        "Text": "Heals all allies' by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> of their max HP\nIncreases Soul of Divine Protection damage until the end of battle by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Max: <color=#2BE41D>100\uff05</color>)"
     }, 
     {
         "ColumnName": "name", 
@@ -2237,7 +2297,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500092023, 
-        "Text": "Heals all allies' HP by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color>"
+        "Text": "Heals all allies' by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> of their max HP"
     }, 
     {
         "ColumnName": "name", 
@@ -2872,7 +2932,7 @@
     {
         "ColumnName": "name", 
         "LocalizationTargetId": 20011500287001, 
-        "Text": "Belzebuth"
+        "Text": "Beelzebub"
     }, 
     {
         "ColumnName": "description", 
@@ -2898,6 +2958,66 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500292031, 
         "Text": "When your troop contains 3 or more battle characters, increases own Secret Skill Gauge by 8% at the start of battle (Turns: 3) (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500301001, 
+        "Text": "Normal Attack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500301001, 
+        "Text": "Unleashes a single-target wind physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500302901, 
+        "Text": "Nightmare Strike"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500302901, 
+        "Text": "Heals all allies' by <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> of their max HP\nIncreases Soul of Skills damage until the end of battle by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Max: <color=#2BE41D>100\uff05</color>)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500302903, 
+        "Text": "Dark Allure"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500302903, 
+        "Text": "Changes Soul of Protection and Soul of Secrets x<color=#2BE41D>1</color> each into Soul of Skills\nIncreases all Soul of Skills gauges' increase by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Turns: 1)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500307001, 
+        "Text": "Luminus Storm"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500307001, 
+        "Text": "Unleashes a single-target wind physical attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500312030, 
+        "Text": "Troop - Skill UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500312030, 
+        "Text": "When your troop contains 3 or more battle characters, increases skill points by 4 at the start of battle (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500312031, 
+        "Text": "Troop - Skill UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500312031, 
+        "Text": "When your troop contains 3 or more battle characters, increases skill points by 6 at the start of battle (available in support formation)"
     }, 
     {
         "ColumnName": "name", 
@@ -3411,6 +3531,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20040000002041, 
+        "Text": "en_skill_effect_group@equipment_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20040000002041, 
+        "Text": "When equipped by Shion, the Bold Servant, increases ATK by <color=#2BE41D>20</color>%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20040000002042, 
+        "Text": "en_skill_effect_group@equipment_N/A"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20040000002042, 
+        "Text": "When equipped by Shion, the Bold Servant, increases DEF by <color=#2BE41D>20</color>%"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20041400032010, 
         "Text": "Weapon Buff"
     }, 
@@ -3721,6 +3861,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031300021008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300021008, 
+        "Text": "Unleashes a single-target water magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031300022001, 
         "Text": ""
     }, 
@@ -3851,6 +4001,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031300023007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300023007, 
+        "Text": "Decreases all targets' ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300023008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300023008, 
+        "Text": "Decreases all targets' ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031300027001, 
         "Text": ""
     }, 
@@ -3891,6 +4061,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031300027005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300027005, 
+        "Text": "Unleashes a single-target water magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031300031001, 
         "Text": ""
     }, 
@@ -3928,6 +4108,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031300031004, 
         "Text": "Unleashes an all-target earth physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300031005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300031005, 
+        "Text": "Unleashes a single-target water physical attack."
     }, 
     {
         "ColumnName": "name", 
@@ -4061,6 +4251,36 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031300033003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300033003, 
+        "Text": "Decreases all targets' DEF by 10% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300033004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300033004, 
+        "Text": "Decreases all targets' DEF by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300033005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300033005, 
+        "Text": "Decreases all targets' DEF by 30% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031300037001, 
         "Text": ""
     }, 
@@ -4088,6 +4308,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031300037003, 
         "Text": "Unleashes a single-target earth physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300037004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300037004, 
+        "Text": "Unleashes a single-target water physical attack."
     }, 
     {
         "ColumnName": "name", 
@@ -4238,6 +4468,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031300042009, 
         "Text": "Increases all allies' critical damage by 30% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300042010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300042010, 
+        "Text": "Increases own water ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300042011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300042011, 
+        "Text": "Increases own water ATK by 15% (Turns: 2)\nIncreases own critical rate by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300042012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300042012, 
+        "Text": "Increases own water ATK by 20% (Turns: 2)\nIncreases own critical rate by 100% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -4571,6 +4831,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031300061009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300061009, 
+        "Text": "Unleashes a single-target water magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031300062001, 
         "Text": ""
     }, 
@@ -4671,6 +4941,36 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031300062011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300062011, 
+        "Text": "Increases all allies' critical resistance by 40% (Turns: 2)\nIncreases all allies' pierce resistance by 40% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300062012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300062012, 
+        "Text": "Increases all allies' critical resistance by 60% (Turns: 2)\nIncreases all allies' pierce resistance by 60% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300062013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300062013, 
+        "Text": "Increases all allies' critical resistance by 80% (Turns: 2)\nIncreases all allies' pierce resistance by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031300063001, 
         "Text": ""
     }, 
@@ -4728,6 +5028,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031300067004, 
         "Text": "Unleashes a single-target earth magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031300067005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031300067005, 
+        "Text": "Unleashes a single-target water magic attack."
     }, 
     {
         "ColumnName": "name", 
@@ -5571,6 +5881,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031400081006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400081006, 
+        "Text": "Unleashes a single-target water magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031400082001, 
         "Text": ""
     }, 
@@ -5621,6 +5941,36 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031400082007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400082007, 
+        "Text": "Heals all allies' HP by 20%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400082008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400082008, 
+        "Text": "Increases all allies' ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400082009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400082009, 
+        "Text": "Increases all allies' ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031400083001, 
         "Text": ""
     }, 
@@ -5658,6 +6008,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031400087003, 
         "Text": "Unleashes an all-target earth magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400087004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400087004, 
+        "Text": "Unleashes an all-target water magic attack"
     }, 
     {
         "ColumnName": "name", 
@@ -6861,6 +7221,146 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031400271010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400271010, 
+        "Text": "Unleashes a single-target water physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400271011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400271011, 
+        "Text": "Unleashes an all-target water physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272010, 
+        "Text": "Increases own pierce rate by 50% (Turns: 2)\nIncreases own ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272011, 
+        "Text": "Increases own pierce rate by 80% (Turns: 2)\nIncreases own ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272012, 
+        "Text": "Increases own ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272013, 
+        "Text": "Increases own ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272014, 
+        "Text": "Increases own guard penetration by 100% (Turns: 2)\nIncreases own pierce rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272015, 
+        "Text": "Increases own Secret Skill Gauge by 50%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272016, 
+        "Text": "Increases own Secret Skill Gauge by 60%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400272017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400272017, 
+        "Text": "Increases own Secret Skill Gauge by 60%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400273010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400273010, 
+        "Text": "Decreases Soul of Secrets damage by 50% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400273011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400273011, 
+        "Text": "Decreases Soul of Secrets damage by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400273012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400273012, 
+        "Text": "Decreases Soul of Secrets damage by 80% (Turns: 1)\nDecreases your Soul of Secrets gauge increase by 80% (Turns: 1)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031400277010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031400277010, 
+        "Text": "Unleashes an all-target water physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031500011001, 
         "Text": ""
     }, 
@@ -6878,6 +7378,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500011003, 
         "Text": "Unleashes an all-target light magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500011004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500011004, 
+        "Text": "Unleashes a single-target no attribute magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500011005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500011005, 
+        "Text": "Unleashes an all-target no attribute magic attack"
     }, 
     {
         "ColumnName": "name", 
@@ -6971,6 +7491,106 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012014, 
+        "Text": "Increases own ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012015, 
+        "Text": "Increases own ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012016, 
+        "Text": "Increases own pierce rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012017, 
+        "Text": "Increases own pierce rate by 100% (Turns: 2)\nIncreases own pierce power by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012018, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012018, 
+        "Text": "Increases own pierce rate by 100% (Turns: 2)\nIncreases own pierce power by 40% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012019, 
+        "Text": "Increases own Secret Skill Gauge by 70%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012020, 
+        "Text": "Increases own Secret Skill Gauge by 70%\nIncreases own pierce rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012021, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012021, 
+        "Text": "Increases own Secret Skill Gauge by 70%\nIncreases own pierce rate by 100% (Turns: 2)\nIncreases own pierce power by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500012022, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500012022, 
+        "Text": "Increases own Secret Skill Gauge by 70%\nIncreases own pierce rate by 100% (Turns: 2)\nIncreases own pierce power by 40% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500013001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500013001, 
+        "Text": "Decreases Soul of Divine Protection damage by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031500017001, 
         "Text": ""
     }, 
@@ -6988,6 +7608,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500017002, 
         "Text": "Unleashes an all-target fire magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500017003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500017003, 
+        "Text": "Unleashes an all-target no attribute magic attack"
     }, 
     {
         "ColumnName": "name", 
@@ -9378,6 +10008,246 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20031500157003, 
         "Text": "Unleashes a single-target space physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500241010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500241010, 
+        "Text": "Unleashes a single-target water physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500241011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500241011, 
+        "Text": "Unleashes an all-target water physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500242011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500242011, 
+        "Text": "Increases own ATK by 20% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500242012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500242012, 
+        "Text": "Increases own ATK by 25% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500242013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500242013, 
+        "Text": "Increases own pierce rate by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500242014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500242014, 
+        "Text": "Increases own pierce rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500242015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500242015, 
+        "Text": "Increases own pierce rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500243011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500243011, 
+        "Text": "Decreases all targets' pierce resistance by 20% (Turns: 2)\nDecreases Soul of Secrets damage by 50% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500243012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500243012, 
+        "Text": "Decreases all targets' pierce resistance by 20% (Turns: 2)\nDecreases Soul of Secrets damage by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500247010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500247010, 
+        "Text": "Unleashes an all-target water physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500301010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500301010, 
+        "Text": "Unleashes a single-target water physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500301011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500301011, 
+        "Text": "Unleashes an all-target water physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302012, 
+        "Text": "Increases own Secret Skill Gauge by 50%\nIncreases own critical resistance by 20% (Turns: 3)\nIncreases own pierce rate by 10% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302013, 
+        "Text": "Increases own Secret Skill Gauge by 50%\nIncreases own P-ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302015, 
+        "Text": "Increases own Secret Skill Gauge by 50%\nIncreases own critical resistance by 20% (Turns: 3)\nIncreases own pierce rate by 25% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302016, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302016, 
+        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own critical resistance by 20% (Turns: 2)\nIncreases own pierce rate by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302017, 
+        "Text": "Increases own Secret Skill Gauge by 50%\nIncreases own P-ATK by 15% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302018, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302018, 
+        "Text": "Increases own guard rate by 40% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302019, 
+        "Text": "Increases own guard rate by 40% (Turns: 2)\nDecreases Soul of Secrets damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302020, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302020, 
+        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own critical resistance by 20% (Turns: 2)\nIncreases own critical rate by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302021, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302021, 
+        "Text": "Increases own guard rate by 40% (Turns: 2)\nDecreases Soul of Secrets damage by 80% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302022, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302022, 
+        "Text": "Increases own ATK until the end of battle by 5%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500302023, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500302023, 
+        "Text": "Increases own ATK until the end of battle by 10%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500307014, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500307014, 
+        "Text": "Unleashes a single-target water physical attack."
     }, 
     {
         "ColumnName": "name", 
@@ -15551,6 +16421,66 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033001801001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001801001, 
+        "Text": "Unleashes a single-target water physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001801002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001801002, 
+        "Text": "Unleashes an all-target water physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001803001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001803001, 
+        "Text": "Decreases all targets' critical rate by 20% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001803002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001803002, 
+        "Text": "Decreases all targets' critical rate by 40% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001803003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001803003, 
+        "Text": "Decreases all targets' critical rate by 80% (Turns: 3)\nDecreases all targets' critical damage by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001803004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001803004, 
+        "Text": "Decreases all targets' DEF by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033001821001, 
         "Text": ""
     }, 
@@ -15621,6 +16551,56 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033001871001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001871001, 
+        "Text": "Unleashes a single-target water physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001872001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001872001, 
+        "Text": "Increases own counterattack rate by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001872002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001872002, 
+        "Text": "Increases own water ATK by 10% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001872003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001872003, 
+        "Text": "Increases own water ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001872004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001872004, 
+        "Text": "Increases own water ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033001891001, 
         "Text": ""
     }, 
@@ -15648,6 +16628,46 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033001892001, 
         "Text": "Increases own critical rate by 30% (Turns: 1)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001941001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001941001, 
+        "Text": "Unleashes a single-target water physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001942001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001942001, 
+        "Text": "Increases own DEF by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001942002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001942002, 
+        "Text": "Increases own DEF by 20% (Turns: 2)\nIncreases own pierce resistance by 50% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001942003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001942003, 
+        "Text": "Increases own DEF by 20% (Turns: 2)\nIncreases own pierce resistance by 80% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -16438,6 +17458,266 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002347001, 
         "Text": "Unleashes an all-target light magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002361001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002361001, 
+        "Text": "Unleashes a single-target water magic attack."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002361002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002361002, 
+        "Text": "Unleashes an all-target water magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362001, 
+        "Text": "Increases own ATK by 10% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362002, 
+        "Text": "Increases own ATK by 15% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362003, 
+        "Text": "Increases own ATK by 20% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362004, 
+        "Text": "Increases own ATK by 25% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362005, 
+        "Text": "Increases own ATK by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362006, 
+        "Text": "Increases own pierce rate by 40% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362007, 
+        "Text": "Increases own pierce rate by 50% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362008, 
+        "Text": "Increases own pierce rate by 60% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362009, 
+        "Text": "Increases own pierce rate by 80% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362010, 
+        "Text": "Increases own pierce rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362011, 
+        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Skills gauge increase by 60% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362012, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362012, 
+        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Skills gauge increase by 70% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002362013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002362013, 
+        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Skills gauge increase by 80% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363001, 
+        "Text": "Decreases your Soul of Skills gauge increase by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363002, 
+        "Text": "Decreases your Soul of Skills gauge increase by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363003, 
+        "Text": "Decreases Soul of Secrets damage by 30% (Turns: 3)\nDecreases your Soul of Secrets gauge increase by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363004, 
+        "Text": "Decreases Soul of Secrets damage by 50% (Turns: 3)\nDecreases your Soul of Secrets gauge increase by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363005, 
+        "Text": "Decreases Soul of Secrets damage by 50% (Turns: 3)\nDecreases your Soul of Secrets gauge increase by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363006, 
+        "Text": "Decreases Soul of Secrets damage by 70% (Turns: 3)\nDecreases your Soul of Secrets gauge increase by 70% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363007, 
+        "Text": "Decreases Soul of Secrets damage by 80% (Turns: 3)\nDecreases your Soul of Secrets gauge increase by 80% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363008, 
+        "Text": "Decreases all targets' Secret Skill Gauge by 60%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363009, 
+        "Text": "Decreases all targets' Secret Skill Gauge by 80%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002363010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002363010, 
+        "Text": "Decreases all targets' Secret Skill Gauge by 100%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002367001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002367001, 
+        "Text": "Unleashes an all-target water magic attack"
     }, 
     {
         "ColumnName": "name", 
@@ -18918,5 +20198,45 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20022500102016, 
         "Text": "When 3 vanguard have 75% or more HP, decreases all targets' DEF by 6% at start of turn"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20022500148001, 
+        "Text": "Training of the Maid"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20022500148001, 
+        "Text": "Increases all allies' wind ATK at start of battle by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color>\nIncreases water ATK by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20022500148002, 
+        "Text": "Yuletide Sparkle"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20022500148002, 
+        "Text": "Increases all allies' guard rate by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 3)\nIncreases all Soul of Skills gauges' increase by <color=#2BE41D><tag:card_effect_value_0>\uff05</color> (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20022500152015, 
+        "Text": "Combo - Pierce Resistance"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20022500152015, 
+        "Text": "When the enemy makes a combo attack, increases all allies' pierce resistance by 10% at start of the next turn"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20022500152016, 
+        "Text": "Combo - Pierce Resistance"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20022500152016, 
+        "Text": "When the enemy makes a combo attack, increases all allies' pierce resistance by 15% at start of the next turn"
     }
 ]

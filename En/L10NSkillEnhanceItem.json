@@ -208,5 +208,65 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 2300024, 
         "Text": "Benimaru, the Crimson Ogre Warrior only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300025, 
+        "Text": "Shion, the Bold Servant Strong Defense Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300025, 
+        "Text": "Shion, the Bold Servant only:\nSkill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300026, 
+        "Text": "Shion, the Bold Servant Strong Defense Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300026, 
+        "Text": "Shion, the Bold Servant only:\nSkill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300027, 
+        "Text": "Shion, the Bold Servant Strong Defense Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300027, 
+        "Text": "Shion, the Bold Servant only:\nSkill that enhances defense-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300028, 
+        "Text": "Shion, the Bold Servant Body and Spirit Enhancement"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300028, 
+        "Text": "Shion, the Bold Servant only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300029, 
+        "Text": "Shion, the Bold Servant Body and Spirit Empowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300029, 
+        "Text": "Shion, the Bold Servant only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2300030, 
+        "Text": "Shion, the Bold Servant Body and Spirit Superempowerment"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2300030, 
+        "Text": "Shion, the Bold Servant only:\nSkill that enhances body and spirit-changing skills' effects.\nSkill experience points received: <color=#2BE41D>100</color>"
     }
 ]

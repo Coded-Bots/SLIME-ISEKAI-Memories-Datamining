@@ -218,5 +218,20 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 302000060, 
         "Text": "Increase in enemy's durability anticipated\nQuick defeat through concentrated attack at start of battle recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000067, 
+        "Text": "Enemy that uses wind attacks has appeared"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000068, 
+        "Text": "Enemy that uses pierce rate UP at the start of battle has appeared. Defense-raising skills are recommended"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000069, 
+        "Text": "Enemy that uses pierce rate UP at the start of battle has appeared"
     }
 ]

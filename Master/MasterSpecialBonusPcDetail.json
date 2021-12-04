@@ -5,5 +5,12 @@
         "MasterSpecialBonusType": 1, 
         "ReleaseLabeloffset": "202111_event_akuma1", 
         "TargetMasterRewardGroupId": 802912400701
+    }, 
+    {
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailId": 100100200601, 
+        "MasterSpecialBonusType": 1, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TargetMasterRewardGroupId": 802951010001
     }
 ]

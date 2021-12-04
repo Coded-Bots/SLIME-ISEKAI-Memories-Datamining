@@ -1597,5 +1597,57 @@
         "SystemEffectType": 6, 
         "Turn": 0, 
         "Value": 6
+    }, 
+    {
+        "IsTemporary": false, 
+        "Labeloffset": "LuminousMaidCostume2021Christmas_buff_903", 
+        "MasterSystemEffectId": 20700000302322, 
+        "NormalCardType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "Probability": 10000, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SePathoffset": "battle/other/se_battle_other_221", 
+        "SystemEffectType": 2, 
+        "Turn": 0, 
+        "Value": 1
+    }, 
+    {
+        "IsTemporary": false, 
+        "Labeloffset": "LuminousMaidCostume2021Christmas_buff_903", 
+        "MasterSystemEffectId": 20700000202323, 
+        "NormalCardType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "Probability": 10000, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SePathoffset": "battle/other/se_battle_other_221", 
+        "SystemEffectType": 1, 
+        "Turn": 0, 
+        "Value": 1
+    }, 
+    {
+        "IsTemporary": false, 
+        "Labeloffset": "LuminousMaidCostume2021Christmas_passive_30", 
+        "MasterSystemEffectId": 20700001005324, 
+        "NormalCardType": 5, 
+        "PassiveSkillExecuteConditionLabeloffset": "PASSIVE_SYSTEM_START_BATTLE_PARTYCOUNT_3_ORHIGHER", 
+        "Probability": 10000, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SePathoffset": "battle/other/se_battle_other_222", 
+        "SystemEffectType": 21, 
+        "Turn": 0, 
+        "Value": 4
+    }, 
+    {
+        "IsTemporary": false, 
+        "Labeloffset": "LuminousMaidCostume2021Christmas_passive_31", 
+        "MasterSystemEffectId": 20700001005325, 
+        "NormalCardType": 5, 
+        "PassiveSkillExecuteConditionLabeloffset": "PASSIVE_SYSTEM_START_BATTLE_PARTYCOUNT_3_ORHIGHER", 
+        "Probability": 10000, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "SePathoffset": "battle/other/se_battle_other_222", 
+        "SystemEffectType": 21, 
+        "Turn": 0, 
+        "Value": 6
     }
 ]

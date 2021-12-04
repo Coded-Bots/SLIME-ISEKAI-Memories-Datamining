@@ -16,7 +16,17 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 2500004, 
+        "Text": "Rimuru buried in presents"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 2500005, 
         "Text": "Veldora receives advice from Ifrit"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2500007, 
+        "Text": "Miffed Maid Rimuru and the Merry Three"
     }
 ]

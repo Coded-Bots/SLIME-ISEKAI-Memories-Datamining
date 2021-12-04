@@ -196,6 +196,21 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 4104000141, 
+        "Text": "Clear with x2 or fewer incapacitated characters."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000142, 
+        "Text": "Clear with all characters surviving."
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 4104000143, 
+        "Text": "Clear in 14 turns or fewer."
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 4104001011, 
         "Text": "Win a battle"
     }, 

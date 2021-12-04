@@ -30,6 +30,16 @@
         "TargetValue": 0
     }, 
     {
+        "BackgroundImagePathoffset": "Image/LoginBonus/60000020004/loginBonusBg_60000020004", 
+        "DisplayPriority": 1, 
+        "Laps": 1, 
+        "LogoPathoffset": "Image/LoginBonus/60000020004/loginBonusLogo_60000020004", 
+        "MasterLoginBonusId": 60000020004, 
+        "MasterOgcLoginBonusTargetType": 3, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TargetValue": 0
+    }, 
+    {
         "BackgroundImagePathoffset": "Image/LoginBonus/60000020005/loginBonusBg_60000020005", 
         "DisplayPriority": 2, 
         "Laps": 1, 

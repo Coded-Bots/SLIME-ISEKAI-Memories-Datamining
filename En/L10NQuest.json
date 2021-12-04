@@ -1641,6 +1641,1126 @@
     }, 
     {
         "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006001, 
+        "Text": "It's Christmas! Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006002, 
+        "Text": "It's Christmas! Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006002, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006002, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006002, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006003, 
+        "Text": "Storeroom Discovery Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006003, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006003, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006004, 
+        "Text": "Storeroom Discovery Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006004, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006004, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006004, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006005, 
+        "Text": "Maid Practice! Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006005, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006005, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006006, 
+        "Text": "Maid Practice! Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006006, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006006, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006006, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006007, 
+        "Text": "Holiday Rush Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006007, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006007, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006008, 
+        "Text": "Holiday Rush Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006008, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006008, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006008, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006009, 
+        "Text": "Mixed-Up Maids Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006009, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006009, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006010, 
+        "Text": "Mixed-Up Maids Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006010, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006010, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006010, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006011, 
+        "Text": "More Mixed-Up Maids Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006011, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006011, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006011, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006012, 
+        "Text": "More Mixed-Up Maids Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006012, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006012, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006012, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006013, 
+        "Text": "Swift Defeat Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006013, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006013, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006013, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006014, 
+        "Text": "Swift Defeat Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006014, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006014, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006014, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006015, 
+        "Text": "Way of the Maid Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006015, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006015, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006015, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006016, 
+        "Text": "Way of the Maid Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006016, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006016, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006016, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006017, 
+        "Text": "A Maid's Duty Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006017, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006017, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006017, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006018, 
+        "Text": "A Maid's Duty Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006018, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006018, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006018, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006019, 
+        "Text": "The Christmas Feast Begins"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006019, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006019, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006019, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006020, 
+        "Text": "A Maid's Duty (Bonus Quest)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006020, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006020, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006020, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006101, 
+        "Text": "It's Christmas!"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006101, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006101, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006101, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006102, 
+        "Text": "Storeroom Discovery"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006102, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006102, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006102, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006103, 
+        "Text": "Maid Practice!"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006103, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006103, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006103, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006104, 
+        "Text": "Holiday Rush"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006104, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006104, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006104, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006105, 
+        "Text": "Mixed-Up Maids"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006105, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006105, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006105, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006106, 
+        "Text": "More Mixed-Up Maids"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006106, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006106, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006106, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006107, 
+        "Text": "Swift Defeat"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006107, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006107, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006107, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006108, 
+        "Text": "Way of the Maid"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006108, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006108, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006108, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006109, 
+        "Text": "A Maid's Duty"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006109, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006109, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006109, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006110, 
+        "Text": "A Maid's Duty (Bonus Quest)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006110, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006110, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006110, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006201, 
+        "Text": "It's Christmas!"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006201, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006201, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006201, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006202, 
+        "Text": "Storeroom Discovery"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006202, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006202, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006202, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006203, 
+        "Text": "Maid Practice!"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006203, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006203, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006203, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006204, 
+        "Text": "Holiday Rush"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006204, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006204, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006204, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006205, 
+        "Text": "Mixed-Up Maids"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006205, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006205, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006205, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006206, 
+        "Text": "More Mixed-Up Maids"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006206, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006206, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006206, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006207, 
+        "Text": "Swift Defeat"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006207, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006207, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006207, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006208, 
+        "Text": "Way of the Maid"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006208, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006208, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006208, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006209, 
+        "Text": "A Maid's Duty"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006209, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006209, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006209, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006210, 
+        "Text": "A Maid's Duty (Bonus Quest)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006210, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006210, 
+        "Text": "Nothing motivates me quite like facing an opponent I can eat later."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006210, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006301, 
+        "Text": "True Maids in Battle!"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006301, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006301, 
+        "Text": "When someone asks for my help, I just can't say no..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006301, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006302, 
+        "Text": "Sky Dragon Falls (Beginner)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006302, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006302, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006302, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006303, 
+        "Text": "Sky Dragon Falls (Normal)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006303, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006303, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006303, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006304, 
+        "Text": "Sky Dragon Falls (Expert 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006304, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006304, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006304, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006305, 
+        "Text": "Sky Dragon Falls (Expert 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006305, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006305, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006305, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014006306, 
+        "Text": "Sky Dragon Falls (Expert 3)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014006306, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014006306, 
+        "Text": "I've prepared all the skills I learned, and I'm ready to go."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014006306, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007001, 
+        "Text": "Maid in Tempest Part 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007002, 
+        "Text": "Maid in Tempest Part 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007002, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007002, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007003, 
+        "Text": "Maid in Tempest Part 3"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007003, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007003, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007004, 
+        "Text": "Maid in Tempest Part 4"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007004, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007004, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007004, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007105, 
+        "Text": "Challenge Quest: The Queen of Nightmares (Normal 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007105, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007105, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007105, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007106, 
+        "Text": "Challenge Quest: The Queen of Nightmares (Normal 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007106, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007106, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007106, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007107, 
+        "Text": "Challenge Quest: The Queen of Nightmares (Normal 3)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007107, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007107, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007107, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007208, 
+        "Text": "Challenge Quest: The Queen of Nightmares (Expert 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007208, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007208, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007208, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007209, 
+        "Text": "Challenge Quest: The Queen of Nightmares (Expert 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007209, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007209, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007209, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014007210, 
+        "Text": "Challenge Quest: The Queen of Nightmares (Master)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014007210, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014007210, 
+        "Text": "I get the feeling something insane is about to happen... I hope it's nothing too bad..."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014007210, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
         "LocalizationTargetId": 4013001001, 
         "Text": "Gobta's Request 1"
     }, 

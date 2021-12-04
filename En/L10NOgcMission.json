@@ -17,7 +17,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 600200001, 
-        "Text": "Enhance a piece of equipment"
+        "Text": "Level up a piece of equipment at the forge"
     }, 
     {
         "ColumnName": "description", 
@@ -1193,6 +1193,146 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 606280003, 
         "Text": "Log in to the app (Release Celebration Campaign 3)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460224, 
+        "Text": "Clear A Maid's Duty (Expert) in 7 turns or less: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460225, 
+        "Text": "Clear A Maid's Duty (Expert) in 7 turns or less: x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460226, 
+        "Text": "Clear A Maid's Duty (Expert) in 6 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460227, 
+        "Text": "Clear A Maid's Duty (Expert) in 6 turns or less: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606460228, 
+        "Text": "Clear A Maid's Duty (Expert) in 6 turns or less: x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540220, 
+        "Text": "Clear A Maid's Duty (Expert) with 5 surviving characters: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606540221, 
+        "Text": "Clear A Maid's Duty (Expert) with 5 surviving characters: x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606550222, 
+        "Text": "Clear A Maid's Duty (Expert) after your allies unleash Guard 3 times: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606550223, 
+        "Text": "Clear A Maid's Duty (Expert) after your allies unleash Guard 3 times: x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570217, 
+        "Text": "Clear A Maid's Duty (Expert) after your allies unleash 3 critical attacks"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570218, 
+        "Text": "Clear A Maid's Duty (Expert) after your allies unleash 3 critical attacks: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606570219, 
+        "Text": "Clear A Maid's Duty (Expert) after your allies unleash 3 critical attacks: x6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606440231, 
+        "Text": "Clear Sky Dragon Falls (Beginner) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606440232, 
+        "Text": "Clear Sky Dragon Falls (Normal) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606440233, 
+        "Text": "Clear Sky Dragon Falls (Expert 1) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606440234, 
+        "Text": "Clear Sky Dragon Falls (Expert 2) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606440235, 
+        "Text": "Clear Sky Dragon Falls (Expert 3) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470229, 
+        "Text": "Raise all of Shion, the Bold Servant's battle skills to level 7"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606470230, 
+        "Text": "Raise all of Shion, the Bold Servant's battle skills to the max level"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510236, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510237, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x3"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510238, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x5"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510239, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x7"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510240, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510241, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x15"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510242, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510243, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x25"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 606510244, 
+        "Text": "Get a Predator success in Sky Dragon Falls (Expert 3) after unleashing a 6 combo all with Soul of Divine Protection: x30"
     }, 
     {
         "ColumnName": "description", 
@@ -23778,5 +23918,275 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 600410099, 
         "Text": "Log in for 60 days"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410101, 
+        "Text": "Clear A Maid's Duty Part 2 (Beginner) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410102, 
+        "Text": "Forge a piece of equipment: x2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410103, 
+        "Text": "Clear A Maid's Duty Part 2 (Beginner) in 5 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410104, 
+        "Text": "Clear Storeroom Discovery Part 2 (Beginner)"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410105, 
+        "Text": "Reach level 60 with Shion, the Bold Servant"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410106, 
+        "Text": "Build a Holiday House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410107, 
+        "Text": "Clear A Maid's Duty Part 2 (Beginner) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410108, 
+        "Text": "Awaken Shion, the Bold Servant"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410109, 
+        "Text": "Complete all Maid for the Holidays (Beginner) quests"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410111, 
+        "Text": "Clear A Maid's Duty (Normal) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410112, 
+        "Text": "Evolve a piece of equipment to 3\u2605"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410113, 
+        "Text": "Clear Maid in Tempest Part 4 with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410114, 
+        "Text": "Raise Holiday House total facility level to 6"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410115, 
+        "Text": "Reach level 80 with Shion, the Bold Servant"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410116, 
+        "Text": "Clear A Maid's Duty (Normal) in 7 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410117, 
+        "Text": "Clear A Maid's Duty (Normal) with 5 surviving characters"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410118, 
+        "Text": "Reforge a piece of equipment: x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410119, 
+        "Text": "Complete all Maid for the Holidays (Normal) quests"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410121, 
+        "Text": "Clear A Maid's Duty (Expert) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410122, 
+        "Text": "Raise Holiday House total facility level to 10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410123, 
+        "Text": "Clear Maid in Tempest (Normal 1) quest"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410124, 
+        "Text": "Evolve a piece of equipment to 5\u2605"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410125, 
+        "Text": "Reach level 96 with Shion, the Bold Servant"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410126, 
+        "Text": "Clear A Maid's Duty (Expert) with 5 surviving characters: x10"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410127, 
+        "Text": "Clear A Maid's Duty (Expert) in 7 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410128, 
+        "Text": "Reforge a piece of equipment: x20"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410129, 
+        "Text": "Complete all Maid for the Holidays (Expert) quests"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410131, 
+        "Text": "Clear Maid in Tempest (Normal 1) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410132, 
+        "Text": "Clear Maid in Tempest (Normal 2) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410133, 
+        "Text": "Clear Maid in Tempest (Normal 1) in 9 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410134, 
+        "Text": "Clear Maid in Tempest (Normal 2) in 10 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410135, 
+        "Text": "Clear Maid in Tempest (Normal 1) after your allies unleash Guard 5 times"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410136, 
+        "Text": "Clear Maid in Tempest (Normal 3) quest"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410137, 
+        "Text": "Clear Maid in Tempest (Normal 1) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410138, 
+        "Text": "Clear Maid in Tempest (Normal 2) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410139, 
+        "Text": "Clear Maid in Tempest (Normal 2) after your allies unleash Guard 5 times"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410141, 
+        "Text": "Clear Maid in Tempest (Expert 1) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410142, 
+        "Text": "Clear Maid in Tempest (Expert 2) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410143, 
+        "Text": "Clear Maid in Tempest (Expert 1) in 11 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410144, 
+        "Text": "Clear Maid in Tempest (Expert 2) in 11 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410145, 
+        "Text": "Clear Maid in Tempest (Expert 1) after your allies unleash Guard 8 times"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410146, 
+        "Text": "Clear Maid in Tempest (Master) quest"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410147, 
+        "Text": "Clear Maid in Tempest (Expert 1) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410148, 
+        "Text": "Clear Maid in Tempest (Expert 2) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410149, 
+        "Text": "Clear Maid in Tempest (Expert 2) after your allies unleash Guard 5 times"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410151, 
+        "Text": "Clear Maid in Tempest (Master) with Shion, the Bold Servant in a battle slot"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410152, 
+        "Text": "Clear Maid in Tempest (Master) after unleashing a 6 combo all with Soul of Divine Protection"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410153, 
+        "Text": "Clear Maid in Tempest (Master) in 11 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410154, 
+        "Text": "Clear Maid in Tempest (Master) after unleashing a 6 combo all with Soul of Secrets"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410155, 
+        "Text": "Clear Maid in Tempest (Master) after your allies unleash Guard 8 times"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410156, 
+        "Text": "Clear Maid in Tempest (Master) in 12 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410157, 
+        "Text": "Clear Maid in Tempest (Master) after unleashing a 6 combo all with Soul of Skills"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410158, 
+        "Text": "Clear Maid in Tempest (Master) in 13 turns or less"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 600410159, 
+        "Text": "Complete all Maid in Tempest (Expert or harder) quests"
     }
 ]

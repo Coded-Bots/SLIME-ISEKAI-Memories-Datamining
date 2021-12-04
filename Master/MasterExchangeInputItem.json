@@ -342,5 +342,101 @@
         "MasterExchangeInputItemGroupId": 9002111500, 
         "MasterExchangeInputItemId": 9002111500, 
         "ReleaseLabeloffset": "202111_event_akuma1_exchange"
+    }, 
+    {
+        "Description": 429496729668, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 100, 
+        "MasterExchangeInputItemGroupId": 9002120010, 
+        "MasterExchangeInputItemId": 9002120010, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 858993459268, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 200, 
+        "MasterExchangeInputItemGroupId": 9002120020, 
+        "MasterExchangeInputItemId": 9002120020, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 1288490188884, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 300, 
+        "MasterExchangeInputItemGroupId": 9002120030, 
+        "MasterExchangeInputItemId": 9002120030, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation_mission"
+    }, 
+    {
+        "Description": 1717986918468, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 400, 
+        "MasterExchangeInputItemGroupId": 9002120040, 
+        "MasterExchangeInputItemId": 9002120040, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 2147483648068, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 500, 
+        "MasterExchangeInputItemGroupId": 9002120050, 
+        "MasterExchangeInputItemId": 9002120050, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 2576980377668, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 600, 
+        "MasterExchangeInputItemGroupId": 9002120060, 
+        "MasterExchangeInputItemId": 9002120060, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 4294967296068, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 1000, 
+        "MasterExchangeInputItemGroupId": 9002120100, 
+        "MasterExchangeInputItemId": 9002120100, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 8589934592068, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 2000, 
+        "MasterExchangeInputItemGroupId": 9002120200, 
+        "MasterExchangeInputItemId": 9002120200, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 12884901888068, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 3000, 
+        "MasterExchangeInputItemGroupId": 9002120300, 
+        "MasterExchangeInputItemId": 9002120300, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 17179869184068, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 4000, 
+        "MasterExchangeInputItemGroupId": 9002120400, 
+        "MasterExchangeInputItemId": 9002120400, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
+    }, 
+    {
+        "Description": 25769803776084, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 6000, 
+        "MasterExchangeInputItemGroupId": 9002120600, 
+        "MasterExchangeInputItemId": 9002120600, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation_mission"
+    }, 
+    {
+        "Description": 64424509440068, 
+        "ExchangeItemId": 2410001, 
+        "ItemAmount": 15000, 
+        "MasterExchangeInputItemGroupId": 9002121500, 
+        "MasterExchangeInputItemId": 9002121500, 
+        "ReleaseLabeloffset": "202112_event_xmas1_exchange"
     }
 ]

@@ -701,5 +701,43 @@
         "ReleaseLabeloffset": "202111_event_mini_kakusei", 
         "SageQuestStillImagePathoffset": "", 
         "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2005/Top_Banner_L"
+    }, 
+    {
+        "BannerImagePathoffset": "", 
+        "CampaignLabelTextoffset": "Quest.Event.Story.Predation.Opening", 
+        "ChapterType": 5, 
+        "ChapterUnlockCondition": 0, 
+        "ChapterUnlockConditionValue": 0, 
+        "ClearCountLimit": 0, 
+        "ClearCountLimitResetType": 0, 
+        "DifficultyUnlockBehavior": 1, 
+        "MasterChapterId": 4001002006, 
+        "MasterCharacterId": 0, 
+        "MasterReleaseId": 50000002026, 
+        "Name": 180, 
+        "Number": 7, 
+        "QuestsUnlockBehavior": 2, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "SageQuestStillImagePathoffset": "", 
+        "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2006/Top_Banner_L"
+    }, 
+    {
+        "BannerImagePathoffset": "", 
+        "CampaignLabelTextoffset": "", 
+        "ChapterType": 5, 
+        "ChapterUnlockCondition": 0, 
+        "ChapterUnlockConditionValue": 0, 
+        "ClearCountLimit": 0, 
+        "ClearCountLimitResetType": 0, 
+        "DifficultyUnlockBehavior": 1, 
+        "MasterChapterId": 4001002007, 
+        "MasterCharacterId": 0, 
+        "MasterReleaseId": 50000002032, 
+        "Name": 156, 
+        "Number": 6, 
+        "QuestsUnlockBehavior": 1, 
+        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "SageQuestStillImagePathoffset": "", 
+        "ThumbnailImagePathoffset": "Image/Event/StoryEvent/2007/Top_Banner_L"
     }
 ]

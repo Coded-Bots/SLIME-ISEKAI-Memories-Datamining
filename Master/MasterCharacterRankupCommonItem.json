@@ -686,6 +686,34 @@
         "Value3": 0
     }, 
     {
+        "Description": 208, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/CharaRankupUnique/LuminousMaidCostume2021Christmas/character_rankup_unique_item_LuminousMaidCostume2021Christmas_Item{0}", 
+        "Locationoffset": "", 
+        "MasterCharacterRankupCommonItemId": 90150030, 
+        "MaxLimit": 99999, 
+        "Name": 4294967520, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
+        "Value1": 1, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 204, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/CharaRankupUnique/ShionMaidCostume2021Christmas/character_rankup_unique_item_ShionMaidCostume2021Christmas_Item{0}", 
+        "Locationoffset": "", 
+        "MasterCharacterRankupCommonItemId": 90140027, 
+        "MaxLimit": 99999, 
+        "Name": 876173328600, 
+        "Rarity": 2, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "Value1": 0, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
         "Description": 160, 
         "Gold": 0, 
         "IconPathoffset": "Image/Item/CharaRankupUnique/DemonLordGeldDefault/character_rankup_unique_item_DemonLordGeldDefault_Item{0}", 
@@ -1003,6 +1031,20 @@
         "Name": 4294967484, 
         "Rarity": 3, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
+        "Value1": 1, 
+        "Value2": 0, 
+        "Value3": 0
+    }, 
+    {
+        "Description": 204, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/CharaRankupUnique/ShunaMaidCostume2021Christmas/character_rankup_unique_item_ShunaMaidCostume2021Christmas_Item{0}", 
+        "Locationoffset": "", 
+        "MasterCharacterRankupCommonItemId": 90250014, 
+        "MaxLimit": 99999, 
+        "Name": 4294967516, 
+        "Rarity": 3, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
         "Value1": 1, 
         "Value2": 0, 
         "Value3": 0

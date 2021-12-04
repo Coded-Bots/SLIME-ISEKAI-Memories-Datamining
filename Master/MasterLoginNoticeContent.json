@@ -193,5 +193,70 @@
         "NovelFilePathoffset": "", 
         "Priority": 1, 
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000804, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000008, 
+        "MovieFilePathoffset": "Movie/Lottery/lottery_c003_02.usm", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 4, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000803, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000008, 
+        "MovieFilePathoffset": "Movie/SpecialSkill/LuminousMaidCostume2021Christmas_SpecialSkill/LuminousMaidCostume2021Christmas_Battle_SpecialSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 3, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000802, 
+        "ImageFilePathoffset": "", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 1, 
+        "MasterLoginNoticeGroupId": 62000000008, 
+        "MovieFilePathoffset": "Movie/BlessSkill/ShunaMaidCostume2021Christmas_BlessSkill/ShunaMaidCostume2021Christmas_Battle_BlessSkill.usm", 
+        "MovieUseEnvelopeParent": true, 
+        "NovelFilePathoffset": "", 
+        "Priority": 2, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_town_gacha", 
+        "Id": 62100000801, 
+        "ImageFilePathoffset": "Image/LotteryInfo/500000024/LotteryLoginNotice_500000024", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000008, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000901, 
+        "ImageFilePathoffset": "Image/Event/StoryEvent/2006/LoginNotice_01", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000009, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation"
     }
 ]

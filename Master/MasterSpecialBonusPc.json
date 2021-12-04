@@ -115,5 +115,131 @@
         "MasterSpecialBonusPcGroupId": 4001002001, 
         "MasterSpecialBonusPcId": 100000000013, 
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "MasterPcId": 250014, 
+        "MasterPcType": 2, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 1, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006001, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 150030, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 1, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006002, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 150031, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 1, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006003, 
+        "ReleaseLabeloffset": "202112_event_xmas2_predation"
+    }, 
+    {
+        "MasterPcId": 140027, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 4, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006004, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 250002, 
+        "MasterPcType": 2, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 2, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006005, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 150010, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 2, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006006, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 150011, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 2, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006007, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 150013, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 2, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006008, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 240007, 
+        "MasterPcType": 2, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 3, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006009, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 140001, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 3, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006010, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 140010, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 3, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006011, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 140012, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 3, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006012, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 140021, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 3, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006013, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
+    }, 
+    {
+        "MasterPcId": 130001, 
+        "MasterPcType": 1, 
+        "MasterSpecialBonusPcDetailGroupId": 200601, 
+        "MasterSpecialBonusPcDetailValueGroupId": 5, 
+        "MasterSpecialBonusPcGroupId": 4001002006, 
+        "MasterSpecialBonusPcId": 100002006014, 
+        "ReleaseLabeloffset": "202112_event_xmas1"
     }
 ]

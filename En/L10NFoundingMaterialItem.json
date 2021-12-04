@@ -38,5 +38,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 1200006, 
         "Text": "You can build one Butler's House for each one in your possession."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1200007, 
+        "Text": "Holiday House Blueprint"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 1200007, 
+        "Text": "You can build one Holiday House for each one in your possession."
     }
 ]

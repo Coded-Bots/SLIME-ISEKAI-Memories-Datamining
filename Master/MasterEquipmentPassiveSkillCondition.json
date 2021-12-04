@@ -46,5 +46,11 @@
         "MasterEquipmentPassiveSkillConditionId": 1590000008, 
         "PcId": 140023, 
         "ReleaseLabeloffset": "202111_event_akuma1_start"
+    }, 
+    {
+        "MasterElementType": 0, 
+        "MasterEquipmentPassiveSkillConditionId": 1590000009, 
+        "PcId": 140027, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
     }
 ]

@@ -268,5 +268,20 @@
         "Value1": 8, 
         "Value2": 0, 
         "Value3": 0
+    }, 
+    {
+        "Description": 168, 
+        "Gold": 190, 
+        "IconPathoffset": "Image/Item/BlacksmithMaterial/1100030/blacksmith_material_1100030_Item{0}", 
+        "Locationoffset": "101", 
+        "MasterBlacksmithMaterialId": 1100030, 
+        "MasterEventId": 10000000020060, 
+        "MaxLimit": 99999, 
+        "Name": 34359738552, 
+        "Rarity": 2, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "Value1": 8, 
+        "Value2": 0, 
+        "Value3": 0
     }
 ]

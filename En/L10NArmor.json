@@ -48,5 +48,10 @@
         "ColumnName": "name", 
         "LocalizationTargetId": 1120310011, 
         "Text": "The Crimson Ogre Warrior's Surcoat"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 1120310012, 
+        "Text": "Holiday Maid Uniform"
     }
 ]

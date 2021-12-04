@@ -291,6 +291,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 90140027, 
+        "Text": "Shion, the Bold Servant Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90140027, 
+        "Text": "An item necessary in awakening Shion, the Bold Servant."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 90150001, 
         "Text": "Benimaru, the Samurai General of Hellfire Memory Stone"
     }, 
@@ -478,6 +488,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 90150028, 
         "Text": "An item necessary in awakening Rimuru Awaken, the Awakened Demon Lord."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90150030, 
+        "Text": "Luminus Valentine, the Queen of Yule Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150030, 
+        "Text": "An item necessary in awakening Luminus Valentine, the Queen of Yule."
     }, 
     {
         "ColumnName": "name", 
@@ -718,6 +738,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 90250009, 
         "Text": "An item necessary in awakening Shion, the Talented Secretary."
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 90250014, 
+        "Text": "Shuna, the Faithful Housemaid Contract Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90250014, 
+        "Text": "An item necessary in awakening Shuna, the Faithful Housemaid."
     }, 
     {
         "ColumnName": "name", 

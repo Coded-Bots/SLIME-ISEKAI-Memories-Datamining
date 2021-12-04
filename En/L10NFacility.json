@@ -231,6 +231,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 400001408, 
+        "Text": "Holiday House"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 400001408, 
+        "Text": "Your population will increase. You can build one Holiday House for every Holiday House Blueprint in your possession."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 400001502, 
         "Text": "Rimuru Trophy"
     }, 

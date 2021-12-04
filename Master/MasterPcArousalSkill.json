@@ -784,6 +784,38 @@
         "ReleaseLabeloffset": "202111_exchange_octagram_start"
     }, 
     {
+        "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "LuminousMaidCostume2021Christmas_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915003001, 
+        "MasterPcId": 150030, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "LuminousMaidCostume2021Christmas_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "LuminousMaidCostume2021Christmas_passive_30", 
+        "MasterPcArousalSkillId": 3915003003, 
+        "MasterPcId": 150030, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ArousalCount": 6, 
+        "ConditionPassiveSkillLabeloffset": "ShionMaidCostume2021Christmas_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3914002706, 
+        "MasterPcId": 140027, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
+        "ArousalCount": 8, 
+        "ConditionPassiveSkillLabeloffset": "ShionMaidCostume2021Christmas_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "ShionMaidCostume2021Christmas_passive_30", 
+        "MasterPcArousalSkillId": 3914002708, 
+        "MasterPcId": 140027, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start"
+    }, 
+    {
         "ArousalCount": 11, 
         "ConditionPassiveSkillLabeloffset": "OwnerDefault_passive_15", 
         "InvalidPassiveSkillLabeloffset": "", 
@@ -1150,5 +1182,21 @@
         "MasterPcArousalSkillId": 3925000903, 
         "MasterPcId": 250009, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_start"
+    }, 
+    {
+        "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "ShunaMaidCostume2021Christmas_passive_15", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3925001401, 
+        "MasterPcId": 250014, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "ShunaMaidCostume2021Christmas_passive_16", 
+        "InvalidPassiveSkillLabeloffset": "ShunaMaidCostume2021Christmas_passive_15", 
+        "MasterPcArousalSkillId": 3925001403, 
+        "MasterPcId": 250014, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1_start"
     }
 ]

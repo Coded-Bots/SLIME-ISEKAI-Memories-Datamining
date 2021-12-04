@@ -2376,6 +2376,86 @@
     }, 
     {
         "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002901, 
+        "Text": "So I see you've come to bring me an offering..."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002902, 
+        "Text": "I'll accept it as a symbol of your devotion."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002903, 
+        "Text": "Not bad. I believe you show promise."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002905, 
+        "Text": "I suppose I'll allow it. I am quite generous, after all."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002906, 
+        "Text": "I do not fear the sun.\nHowever, that doesn't stop it from being an eyesore."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002907, 
+        "Text": "I'm feeling a little hungry.\nPerhaps I should grab something sweet to snack on."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002908, 
+        "Text": "I love this time of day most of all."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002909, 
+        "Text": "How dare you doze off in my presence!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002910, 
+        "Text": "Oh, it's you."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002911, 
+        "Text": "You seem rushed off your feet as usual."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002913, 
+        "Text": "A gift? Why should I have to prepare such a thing?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002914, 
+        "Text": "'Christmas' is a festival celebrating a god, is it not?\nIn other words, it's all about me."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002917, 
+        "Text": "Perhaps I should incorporate this tradition into Luminism."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002920, 
+        "Text": "Not bad at all, if you ask me!"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002921, 
+        "Text": "Hey, quit ogling me like that."
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010002922, 
+        "Text": "Hmph. What a odd attire.\nMade to the the tailor's taste, I suppose?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010050101, 
         "Text": "Oho, an offering for me?"
     }, 

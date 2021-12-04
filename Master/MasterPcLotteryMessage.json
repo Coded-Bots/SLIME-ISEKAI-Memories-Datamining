@@ -180,5 +180,19 @@
         "MoviePathoffset": "sys/rimuru/voice_sys_rimuru_075_gacha", 
         "ReleaseLabeloffset": "Movie/SpecialSkill/RimuruDemonLord_Battle_SpecialSkill/RimuruDemonLord_Battle_SpecialSkill.usm", 
         "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150030, 
+        "MasterPcLotteryMessageId": 510000028, 
+        "MoviePathoffset": "sys/LuminousMaidCostume2021Christmas/voice_sys_luminous_039_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/LuminousMaidCostume2021Christmas_SpecialSkill/LuminousMaidCostume2021Christmas_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 250014, 
+        "MasterPcLotteryMessageId": 510000029, 
+        "MoviePathoffset": "sys/ShunaMaidCostume2021Christmas/voice_sys_shuna_072_gacha", 
+        "ReleaseLabeloffset": "Movie/BlessSkill/ShunaMaidCostume2021Christmas_BlessSkill/ShunaMaidCostume2021Christmas_Battle_BlessSkill.usm", 
+        "VoicePathoffset": ""
     }
 ]

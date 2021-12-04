@@ -5641,5 +5641,59 @@
         "TargetCount": 0, 
         "TargetId": 0, 
         "TargetLevel": 900
+    }, 
+    {
+        "ConditionType": 6, 
+        "MasterFacilityLevelConditionId": 410408011, 
+        "MasterFacilityLevelIdGroups": 406140801, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "TargetCount": 0, 
+        "TargetId": 1200007, 
+        "TargetLevel": 0
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410408021, 
+        "MasterFacilityLevelIdGroups": 406140802, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 100
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410408041, 
+        "MasterFacilityLevelIdGroups": 406140804, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 200
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410408061, 
+        "MasterFacilityLevelIdGroups": 406140806, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 250
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410408111, 
+        "MasterFacilityLevelIdGroups": 406140811, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 600
+    }, 
+    {
+        "ConditionType": 5, 
+        "MasterFacilityLevelConditionId": 410408161, 
+        "MasterFacilityLevelIdGroups": 406140816, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "TargetCount": 0, 
+        "TargetId": 0, 
+        "TargetLevel": 900
     }
 ]

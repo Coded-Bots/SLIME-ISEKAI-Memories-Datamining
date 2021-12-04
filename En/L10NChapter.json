@@ -96,6 +96,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 4001002006, 
+        "Text": "Maid for the Holidays"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 4001002007, 
+        "Text": "Maid in Tempest"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 4001003001, 
         "Text": "Gobta's Request"
     }, 

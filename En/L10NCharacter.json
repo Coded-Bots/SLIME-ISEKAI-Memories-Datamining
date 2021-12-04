@@ -406,6 +406,21 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 3001000029, 
+        "Text": "Luminus Valentine"
+    }, 
+    {
+        "ColumnName": "voice_actor", 
+        "LocalizationTargetId": 3001000029, 
+        "Text": "Lynn"
+    }, 
+    {
+        "ColumnName": "profile", 
+        "LocalizationTargetId": 3001000029, 
+        "Text": "One of the Demon Lords. In addition to being the one god of the Western Holy Church, she is also a vampire who has lived for an eternity. While attending the Walpurgis Council, she disguised herself as a maid. She provides protection to humans to make them happy, which makes their blood taste better. Her subordinates utilize the peoples' worship of Luminus to maintain rule in her nation, while she herself lives in secrecy in the inner sanctuary of Ruberios's church headquarters."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 3001000501, 
         "Text": "Veldora Tempest"
     }, 

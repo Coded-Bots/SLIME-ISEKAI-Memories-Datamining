@@ -49998,5 +49998,3005 @@
         "MasterPcLevelId": 3600231400, 
         "ReleaseLabeloffset": "", 
         "RequiredExp": 325467
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142101, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 0
+    }, 
+    {
+        "AddAttack": 4, 
+        "AddDefense": 4, 
+        "AddHp": 9, 
+        "Level": 2, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142102, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 16
+    }, 
+    {
+        "AddAttack": 7, 
+        "AddDefense": 7, 
+        "AddHp": 17, 
+        "Level": 3, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142103, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 41
+    }, 
+    {
+        "AddAttack": 11, 
+        "AddDefense": 11, 
+        "AddHp": 25, 
+        "Level": 4, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142104, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 76
+    }, 
+    {
+        "AddAttack": 14, 
+        "AddDefense": 14, 
+        "AddHp": 33, 
+        "Level": 5, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142105, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 123
+    }, 
+    {
+        "AddAttack": 18, 
+        "AddDefense": 18, 
+        "AddHp": 42, 
+        "Level": 6, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142106, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 185
+    }, 
+    {
+        "AddAttack": 21, 
+        "AddDefense": 21, 
+        "AddHp": 50, 
+        "Level": 7, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142107, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 267
+    }, 
+    {
+        "AddAttack": 25, 
+        "AddDefense": 25, 
+        "AddHp": 58, 
+        "Level": 8, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142108, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 374
+    }, 
+    {
+        "AddAttack": 28, 
+        "AddDefense": 28, 
+        "AddHp": 66, 
+        "Level": 9, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142109, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 511
+    }, 
+    {
+        "AddAttack": 32, 
+        "AddDefense": 32, 
+        "AddHp": 75, 
+        "Level": 10, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142110, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 683
+    }, 
+    {
+        "AddAttack": 35, 
+        "AddDefense": 35, 
+        "AddHp": 83, 
+        "Level": 11, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142111, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 976
+    }, 
+    {
+        "AddAttack": 39, 
+        "AddDefense": 39, 
+        "AddHp": 91, 
+        "Level": 12, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142112, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1293
+    }, 
+    {
+        "AddAttack": 42, 
+        "AddDefense": 42, 
+        "AddHp": 99, 
+        "Level": 13, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142113, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1634
+    }, 
+    {
+        "AddAttack": 46, 
+        "AddDefense": 46, 
+        "AddHp": 108, 
+        "Level": 14, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142114, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1998
+    }, 
+    {
+        "AddAttack": 49, 
+        "AddDefense": 49, 
+        "AddHp": 116, 
+        "Level": 15, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142115, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 2386
+    }, 
+    {
+        "AddAttack": 53, 
+        "AddDefense": 53, 
+        "AddHp": 124, 
+        "Level": 16, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142116, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 2797
+    }, 
+    {
+        "AddAttack": 56, 
+        "AddDefense": 56, 
+        "AddHp": 132, 
+        "Level": 17, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142117, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 3231
+    }, 
+    {
+        "AddAttack": 60, 
+        "AddDefense": 60, 
+        "AddHp": 141, 
+        "Level": 18, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142118, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 3687
+    }, 
+    {
+        "AddAttack": 63, 
+        "AddDefense": 63, 
+        "AddHp": 149, 
+        "Level": 19, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142119, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 4163
+    }, 
+    {
+        "AddAttack": 67, 
+        "AddDefense": 67, 
+        "AddHp": 157, 
+        "Level": 20, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142120, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 4658
+    }, 
+    {
+        "AddAttack": 70, 
+        "AddDefense": 70, 
+        "AddHp": 165, 
+        "Level": 21, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142121, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 5252
+    }, 
+    {
+        "AddAttack": 74, 
+        "AddDefense": 74, 
+        "AddHp": 174, 
+        "Level": 22, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142122, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 5870
+    }, 
+    {
+        "AddAttack": 77, 
+        "AddDefense": 77, 
+        "AddHp": 182, 
+        "Level": 23, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142123, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 6512
+    }, 
+    {
+        "AddAttack": 81, 
+        "AddDefense": 81, 
+        "AddHp": 190, 
+        "Level": 24, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142124, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 7179
+    }, 
+    {
+        "AddAttack": 84, 
+        "AddDefense": 84, 
+        "AddHp": 198, 
+        "Level": 25, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142125, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 7870
+    }, 
+    {
+        "AddAttack": 88, 
+        "AddDefense": 88, 
+        "AddHp": 207, 
+        "Level": 26, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142126, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 8586
+    }, 
+    {
+        "AddAttack": 91, 
+        "AddDefense": 91, 
+        "AddHp": 215, 
+        "Level": 27, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142127, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 9327
+    }, 
+    {
+        "AddAttack": 95, 
+        "AddDefense": 95, 
+        "AddHp": 223, 
+        "Level": 28, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142128, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 10094
+    }, 
+    {
+        "AddAttack": 98, 
+        "AddDefense": 98, 
+        "AddHp": 231, 
+        "Level": 29, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142129, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 10886
+    }, 
+    {
+        "AddAttack": 102, 
+        "AddDefense": 102, 
+        "AddHp": 240, 
+        "Level": 30, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142130, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 11703
+    }, 
+    {
+        "AddAttack": 105, 
+        "AddDefense": 105, 
+        "AddHp": 248, 
+        "Level": 31, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142131, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 12545
+    }, 
+    {
+        "AddAttack": 109, 
+        "AddDefense": 109, 
+        "AddHp": 256, 
+        "Level": 32, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142132, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 13413
+    }, 
+    {
+        "AddAttack": 112, 
+        "AddDefense": 112, 
+        "AddHp": 264, 
+        "Level": 33, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142133, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 14306
+    }, 
+    {
+        "AddAttack": 116, 
+        "AddDefense": 116, 
+        "AddHp": 273, 
+        "Level": 34, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142134, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 15224
+    }, 
+    {
+        "AddAttack": 119, 
+        "AddDefense": 119, 
+        "AddHp": 281, 
+        "Level": 35, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142135, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 16167
+    }, 
+    {
+        "AddAttack": 123, 
+        "AddDefense": 123, 
+        "AddHp": 289, 
+        "Level": 36, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142136, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 17134
+    }, 
+    {
+        "AddAttack": 126, 
+        "AddDefense": 126, 
+        "AddHp": 297, 
+        "Level": 37, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142137, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 18125
+    }, 
+    {
+        "AddAttack": 130, 
+        "AddDefense": 130, 
+        "AddHp": 306, 
+        "Level": 38, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142138, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 19140
+    }, 
+    {
+        "AddAttack": 133, 
+        "AddDefense": 133, 
+        "AddHp": 314, 
+        "Level": 39, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142139, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 20178
+    }, 
+    {
+        "AddAttack": 137, 
+        "AddDefense": 137, 
+        "AddHp": 322, 
+        "Level": 40, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142140, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 21239
+    }, 
+    {
+        "AddAttack": 140, 
+        "AddDefense": 140, 
+        "AddHp": 330, 
+        "Level": 41, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142141, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 22619
+    }, 
+    {
+        "AddAttack": 144, 
+        "AddDefense": 144, 
+        "AddHp": 339, 
+        "Level": 42, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142142, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 24041
+    }, 
+    {
+        "AddAttack": 147, 
+        "AddDefense": 147, 
+        "AddHp": 347, 
+        "Level": 43, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142143, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 25504
+    }, 
+    {
+        "AddAttack": 151, 
+        "AddDefense": 151, 
+        "AddHp": 355, 
+        "Level": 44, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142144, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 27008
+    }, 
+    {
+        "AddAttack": 154, 
+        "AddDefense": 154, 
+        "AddHp": 363, 
+        "Level": 45, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142145, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 28553
+    }, 
+    {
+        "AddAttack": 158, 
+        "AddDefense": 158, 
+        "AddHp": 372, 
+        "Level": 46, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142146, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 30138
+    }, 
+    {
+        "AddAttack": 161, 
+        "AddDefense": 161, 
+        "AddHp": 380, 
+        "Level": 47, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142147, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 31762
+    }, 
+    {
+        "AddAttack": 165, 
+        "AddDefense": 165, 
+        "AddHp": 388, 
+        "Level": 48, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142148, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 33425
+    }, 
+    {
+        "AddAttack": 168, 
+        "AddDefense": 168, 
+        "AddHp": 396, 
+        "Level": 49, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142149, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 35127
+    }, 
+    {
+        "AddAttack": 172, 
+        "AddDefense": 172, 
+        "AddHp": 405, 
+        "Level": 50, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142150, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 36866
+    }, 
+    {
+        "AddAttack": 175, 
+        "AddDefense": 175, 
+        "AddHp": 413, 
+        "Level": 51, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142151, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 38642
+    }, 
+    {
+        "AddAttack": 179, 
+        "AddDefense": 179, 
+        "AddHp": 421, 
+        "Level": 52, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142152, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 40453
+    }, 
+    {
+        "AddAttack": 182, 
+        "AddDefense": 182, 
+        "AddHp": 429, 
+        "Level": 53, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142153, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 42298
+    }, 
+    {
+        "AddAttack": 186, 
+        "AddDefense": 186, 
+        "AddHp": 438, 
+        "Level": 54, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142154, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 44177
+    }, 
+    {
+        "AddAttack": 189, 
+        "AddDefense": 189, 
+        "AddHp": 446, 
+        "Level": 55, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142155, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 46088
+    }, 
+    {
+        "AddAttack": 193, 
+        "AddDefense": 193, 
+        "AddHp": 454, 
+        "Level": 56, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142156, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 48029
+    }, 
+    {
+        "AddAttack": 196, 
+        "AddDefense": 196, 
+        "AddHp": 462, 
+        "Level": 57, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142157, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 49999
+    }, 
+    {
+        "AddAttack": 200, 
+        "AddDefense": 200, 
+        "AddHp": 471, 
+        "Level": 58, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142158, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 51997
+    }, 
+    {
+        "AddAttack": 203, 
+        "AddDefense": 203, 
+        "AddHp": 479, 
+        "Level": 59, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142159, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 54021
+    }, 
+    {
+        "AddAttack": 207, 
+        "AddDefense": 207, 
+        "AddHp": 487, 
+        "Level": 60, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142160, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 56069
+    }, 
+    {
+        "AddAttack": 210, 
+        "AddDefense": 210, 
+        "AddHp": 495, 
+        "Level": 61, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142161, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 59756
+    }, 
+    {
+        "AddAttack": 214, 
+        "AddDefense": 214, 
+        "AddHp": 504, 
+        "Level": 62, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142162, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 63517
+    }, 
+    {
+        "AddAttack": 217, 
+        "AddDefense": 217, 
+        "AddHp": 512, 
+        "Level": 63, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142163, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 67350
+    }, 
+    {
+        "AddAttack": 221, 
+        "AddDefense": 221, 
+        "AddHp": 520, 
+        "Level": 64, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142164, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 71252
+    }, 
+    {
+        "AddAttack": 224, 
+        "AddDefense": 224, 
+        "AddHp": 528, 
+        "Level": 65, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142165, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 75220
+    }, 
+    {
+        "AddAttack": 228, 
+        "AddDefense": 228, 
+        "AddHp": 537, 
+        "Level": 66, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142166, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 79251
+    }, 
+    {
+        "AddAttack": 231, 
+        "AddDefense": 231, 
+        "AddHp": 545, 
+        "Level": 67, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142167, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 83343
+    }, 
+    {
+        "AddAttack": 235, 
+        "AddDefense": 235, 
+        "AddHp": 553, 
+        "Level": 68, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142168, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 87492
+    }, 
+    {
+        "AddAttack": 238, 
+        "AddDefense": 238, 
+        "AddHp": 561, 
+        "Level": 69, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142169, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 91695
+    }, 
+    {
+        "AddAttack": 242, 
+        "AddDefense": 242, 
+        "AddHp": 570, 
+        "Level": 70, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142170, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 95949
+    }, 
+    {
+        "AddAttack": 245, 
+        "AddDefense": 245, 
+        "AddHp": 578, 
+        "Level": 71, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142171, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 100249
+    }, 
+    {
+        "AddAttack": 249, 
+        "AddDefense": 249, 
+        "AddHp": 586, 
+        "Level": 72, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142172, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 104592
+    }, 
+    {
+        "AddAttack": 252, 
+        "AddDefense": 252, 
+        "AddHp": 594, 
+        "Level": 73, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142173, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 108974
+    }, 
+    {
+        "AddAttack": 256, 
+        "AddDefense": 256, 
+        "AddHp": 603, 
+        "Level": 74, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142174, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 113392
+    }, 
+    {
+        "AddAttack": 259, 
+        "AddDefense": 259, 
+        "AddHp": 611, 
+        "Level": 75, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142175, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 117840
+    }, 
+    {
+        "AddAttack": 263, 
+        "AddDefense": 263, 
+        "AddHp": 619, 
+        "Level": 76, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142176, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 122315
+    }, 
+    {
+        "AddAttack": 266, 
+        "AddDefense": 266, 
+        "AddHp": 627, 
+        "Level": 77, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142177, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 126812
+    }, 
+    {
+        "AddAttack": 270, 
+        "AddDefense": 270, 
+        "AddHp": 636, 
+        "Level": 78, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142178, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 131327
+    }, 
+    {
+        "AddAttack": 273, 
+        "AddDefense": 273, 
+        "AddHp": 644, 
+        "Level": 79, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142179, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 135856
+    }, 
+    {
+        "AddAttack": 277, 
+        "AddDefense": 277, 
+        "AddHp": 652, 
+        "Level": 80, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142180, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 140394
+    }, 
+    {
+        "AddAttack": 281, 
+        "AddDefense": 281, 
+        "AddHp": 766, 
+        "Level": 81, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142181, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 148563
+    }, 
+    {
+        "AddAttack": 285, 
+        "AddDefense": 285, 
+        "AddHp": 880, 
+        "Level": 82, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142182, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 156814
+    }, 
+    {
+        "AddAttack": 290, 
+        "AddDefense": 290, 
+        "AddHp": 994, 
+        "Level": 83, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142183, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 165222
+    }, 
+    {
+        "AddAttack": 294, 
+        "AddDefense": 294, 
+        "AddHp": 1108, 
+        "Level": 84, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142184, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 173781
+    }, 
+    {
+        "AddAttack": 298, 
+        "AddDefense": 298, 
+        "AddHp": 1222, 
+        "Level": 85, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142185, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 182486
+    }, 
+    {
+        "AddAttack": 302, 
+        "AddDefense": 302, 
+        "AddHp": 1336, 
+        "Level": 86, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142186, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 191330
+    }, 
+    {
+        "AddAttack": 307, 
+        "AddDefense": 307, 
+        "AddHp": 1450, 
+        "Level": 87, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142187, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 200307
+    }, 
+    {
+        "AddAttack": 311, 
+        "AddDefense": 311, 
+        "AddHp": 1564, 
+        "Level": 88, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142188, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 209409
+    }, 
+    {
+        "AddAttack": 315, 
+        "AddDefense": 315, 
+        "AddHp": 1678, 
+        "Level": 89, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142189, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 218630
+    }, 
+    {
+        "AddAttack": 319, 
+        "AddDefense": 319, 
+        "AddHp": 1792, 
+        "Level": 90, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142190, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 227961
+    }, 
+    {
+        "AddAttack": 323, 
+        "AddDefense": 323, 
+        "AddHp": 1906, 
+        "Level": 91, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142191, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 237395
+    }, 
+    {
+        "AddAttack": 328, 
+        "AddDefense": 328, 
+        "AddHp": 2020, 
+        "Level": 92, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142192, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 246923
+    }, 
+    {
+        "AddAttack": 332, 
+        "AddDefense": 332, 
+        "AddHp": 2134, 
+        "Level": 93, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142193, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 256537
+    }, 
+    {
+        "AddAttack": 336, 
+        "AddDefense": 336, 
+        "AddHp": 2248, 
+        "Level": 94, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142194, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 266228
+    }, 
+    {
+        "AddAttack": 340, 
+        "AddDefense": 340, 
+        "AddHp": 2362, 
+        "Level": 95, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142195, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 275987
+    }, 
+    {
+        "AddAttack": 345, 
+        "AddDefense": 345, 
+        "AddHp": 2476, 
+        "Level": 96, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142196, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 285804
+    }, 
+    {
+        "AddAttack": 349, 
+        "AddDefense": 349, 
+        "AddHp": 2590, 
+        "Level": 97, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142197, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 295670
+    }, 
+    {
+        "AddAttack": 353, 
+        "AddDefense": 353, 
+        "AddHp": 2704, 
+        "Level": 98, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142198, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 305576
+    }, 
+    {
+        "AddAttack": 357, 
+        "AddDefense": 357, 
+        "AddHp": 2818, 
+        "Level": 99, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142199, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 315512
+    }, 
+    {
+        "AddAttack": 362, 
+        "AddDefense": 362, 
+        "AddHp": 2932, 
+        "Level": 100, 
+        "MasterPcLevelGroupId": 1421, 
+        "MasterPcLevelId": 3600142200, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 325467
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142201, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 0
+    }, 
+    {
+        "AddAttack": 4, 
+        "AddDefense": 3, 
+        "AddHp": 7, 
+        "Level": 2, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142202, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 16
+    }, 
+    {
+        "AddAttack": 8, 
+        "AddDefense": 6, 
+        "AddHp": 14, 
+        "Level": 3, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142203, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 41
+    }, 
+    {
+        "AddAttack": 12, 
+        "AddDefense": 9, 
+        "AddHp": 21, 
+        "Level": 4, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142204, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 76
+    }, 
+    {
+        "AddAttack": 16, 
+        "AddDefense": 12, 
+        "AddHp": 28, 
+        "Level": 5, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142205, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 123
+    }, 
+    {
+        "AddAttack": 20, 
+        "AddDefense": 15, 
+        "AddHp": 35, 
+        "Level": 6, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142206, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 185
+    }, 
+    {
+        "AddAttack": 24, 
+        "AddDefense": 18, 
+        "AddHp": 42, 
+        "Level": 7, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142207, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 267
+    }, 
+    {
+        "AddAttack": 28, 
+        "AddDefense": 21, 
+        "AddHp": 49, 
+        "Level": 8, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142208, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 374
+    }, 
+    {
+        "AddAttack": 32, 
+        "AddDefense": 24, 
+        "AddHp": 56, 
+        "Level": 9, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142209, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 511
+    }, 
+    {
+        "AddAttack": 36, 
+        "AddDefense": 27, 
+        "AddHp": 63, 
+        "Level": 10, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142210, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 683
+    }, 
+    {
+        "AddAttack": 40, 
+        "AddDefense": 30, 
+        "AddHp": 70, 
+        "Level": 11, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142211, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 976
+    }, 
+    {
+        "AddAttack": 44, 
+        "AddDefense": 33, 
+        "AddHp": 77, 
+        "Level": 12, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142212, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1293
+    }, 
+    {
+        "AddAttack": 48, 
+        "AddDefense": 36, 
+        "AddHp": 84, 
+        "Level": 13, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142213, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1634
+    }, 
+    {
+        "AddAttack": 52, 
+        "AddDefense": 39, 
+        "AddHp": 91, 
+        "Level": 14, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142214, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1998
+    }, 
+    {
+        "AddAttack": 56, 
+        "AddDefense": 42, 
+        "AddHp": 98, 
+        "Level": 15, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142215, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 2386
+    }, 
+    {
+        "AddAttack": 60, 
+        "AddDefense": 45, 
+        "AddHp": 105, 
+        "Level": 16, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142216, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 2797
+    }, 
+    {
+        "AddAttack": 64, 
+        "AddDefense": 48, 
+        "AddHp": 112, 
+        "Level": 17, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142217, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 3231
+    }, 
+    {
+        "AddAttack": 68, 
+        "AddDefense": 51, 
+        "AddHp": 119, 
+        "Level": 18, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142218, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 3687
+    }, 
+    {
+        "AddAttack": 72, 
+        "AddDefense": 54, 
+        "AddHp": 126, 
+        "Level": 19, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142219, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 4163
+    }, 
+    {
+        "AddAttack": 76, 
+        "AddDefense": 57, 
+        "AddHp": 133, 
+        "Level": 20, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142220, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 4658
+    }, 
+    {
+        "AddAttack": 80, 
+        "AddDefense": 60, 
+        "AddHp": 140, 
+        "Level": 21, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142221, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 5252
+    }, 
+    {
+        "AddAttack": 84, 
+        "AddDefense": 63, 
+        "AddHp": 147, 
+        "Level": 22, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142222, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 5870
+    }, 
+    {
+        "AddAttack": 88, 
+        "AddDefense": 66, 
+        "AddHp": 154, 
+        "Level": 23, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142223, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 6512
+    }, 
+    {
+        "AddAttack": 92, 
+        "AddDefense": 69, 
+        "AddHp": 161, 
+        "Level": 24, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142224, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 7179
+    }, 
+    {
+        "AddAttack": 96, 
+        "AddDefense": 72, 
+        "AddHp": 168, 
+        "Level": 25, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142225, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 7870
+    }, 
+    {
+        "AddAttack": 100, 
+        "AddDefense": 75, 
+        "AddHp": 175, 
+        "Level": 26, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142226, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 8586
+    }, 
+    {
+        "AddAttack": 104, 
+        "AddDefense": 78, 
+        "AddHp": 182, 
+        "Level": 27, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142227, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 9327
+    }, 
+    {
+        "AddAttack": 108, 
+        "AddDefense": 81, 
+        "AddHp": 189, 
+        "Level": 28, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142228, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 10094
+    }, 
+    {
+        "AddAttack": 112, 
+        "AddDefense": 84, 
+        "AddHp": 196, 
+        "Level": 29, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142229, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 10886
+    }, 
+    {
+        "AddAttack": 116, 
+        "AddDefense": 87, 
+        "AddHp": 203, 
+        "Level": 30, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142230, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 11703
+    }, 
+    {
+        "AddAttack": 120, 
+        "AddDefense": 90, 
+        "AddHp": 210, 
+        "Level": 31, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142231, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 12545
+    }, 
+    {
+        "AddAttack": 124, 
+        "AddDefense": 93, 
+        "AddHp": 217, 
+        "Level": 32, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142232, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 13413
+    }, 
+    {
+        "AddAttack": 128, 
+        "AddDefense": 96, 
+        "AddHp": 224, 
+        "Level": 33, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142233, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 14306
+    }, 
+    {
+        "AddAttack": 132, 
+        "AddDefense": 99, 
+        "AddHp": 231, 
+        "Level": 34, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142234, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 15224
+    }, 
+    {
+        "AddAttack": 136, 
+        "AddDefense": 102, 
+        "AddHp": 238, 
+        "Level": 35, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142235, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 16167
+    }, 
+    {
+        "AddAttack": 140, 
+        "AddDefense": 105, 
+        "AddHp": 245, 
+        "Level": 36, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142236, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 17134
+    }, 
+    {
+        "AddAttack": 144, 
+        "AddDefense": 108, 
+        "AddHp": 252, 
+        "Level": 37, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142237, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 18125
+    }, 
+    {
+        "AddAttack": 148, 
+        "AddDefense": 111, 
+        "AddHp": 259, 
+        "Level": 38, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142238, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 19140
+    }, 
+    {
+        "AddAttack": 152, 
+        "AddDefense": 114, 
+        "AddHp": 266, 
+        "Level": 39, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142239, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 20178
+    }, 
+    {
+        "AddAttack": 156, 
+        "AddDefense": 117, 
+        "AddHp": 273, 
+        "Level": 40, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142240, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 21239
+    }, 
+    {
+        "AddAttack": 160, 
+        "AddDefense": 120, 
+        "AddHp": 280, 
+        "Level": 41, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142241, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 22619
+    }, 
+    {
+        "AddAttack": 164, 
+        "AddDefense": 123, 
+        "AddHp": 287, 
+        "Level": 42, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142242, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 24041
+    }, 
+    {
+        "AddAttack": 168, 
+        "AddDefense": 126, 
+        "AddHp": 294, 
+        "Level": 43, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142243, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 25504
+    }, 
+    {
+        "AddAttack": 172, 
+        "AddDefense": 129, 
+        "AddHp": 301, 
+        "Level": 44, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142244, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 27008
+    }, 
+    {
+        "AddAttack": 176, 
+        "AddDefense": 132, 
+        "AddHp": 308, 
+        "Level": 45, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142245, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 28553
+    }, 
+    {
+        "AddAttack": 180, 
+        "AddDefense": 135, 
+        "AddHp": 315, 
+        "Level": 46, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142246, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 30138
+    }, 
+    {
+        "AddAttack": 184, 
+        "AddDefense": 138, 
+        "AddHp": 322, 
+        "Level": 47, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142247, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 31762
+    }, 
+    {
+        "AddAttack": 188, 
+        "AddDefense": 141, 
+        "AddHp": 329, 
+        "Level": 48, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142248, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 33425
+    }, 
+    {
+        "AddAttack": 192, 
+        "AddDefense": 144, 
+        "AddHp": 336, 
+        "Level": 49, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142249, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 35127
+    }, 
+    {
+        "AddAttack": 196, 
+        "AddDefense": 147, 
+        "AddHp": 343, 
+        "Level": 50, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142250, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 36866
+    }, 
+    {
+        "AddAttack": 200, 
+        "AddDefense": 150, 
+        "AddHp": 350, 
+        "Level": 51, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142251, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 38642
+    }, 
+    {
+        "AddAttack": 204, 
+        "AddDefense": 153, 
+        "AddHp": 357, 
+        "Level": 52, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142252, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 40453
+    }, 
+    {
+        "AddAttack": 208, 
+        "AddDefense": 156, 
+        "AddHp": 364, 
+        "Level": 53, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142253, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 42298
+    }, 
+    {
+        "AddAttack": 212, 
+        "AddDefense": 159, 
+        "AddHp": 371, 
+        "Level": 54, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142254, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 44177
+    }, 
+    {
+        "AddAttack": 216, 
+        "AddDefense": 162, 
+        "AddHp": 378, 
+        "Level": 55, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142255, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 46088
+    }, 
+    {
+        "AddAttack": 220, 
+        "AddDefense": 165, 
+        "AddHp": 385, 
+        "Level": 56, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142256, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 48029
+    }, 
+    {
+        "AddAttack": 224, 
+        "AddDefense": 168, 
+        "AddHp": 392, 
+        "Level": 57, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142257, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 49999
+    }, 
+    {
+        "AddAttack": 228, 
+        "AddDefense": 171, 
+        "AddHp": 399, 
+        "Level": 58, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142258, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 51997
+    }, 
+    {
+        "AddAttack": 232, 
+        "AddDefense": 174, 
+        "AddHp": 406, 
+        "Level": 59, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142259, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 54021
+    }, 
+    {
+        "AddAttack": 236, 
+        "AddDefense": 177, 
+        "AddHp": 413, 
+        "Level": 60, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142260, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 56069
+    }, 
+    {
+        "AddAttack": 240, 
+        "AddDefense": 180, 
+        "AddHp": 420, 
+        "Level": 61, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142261, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 59756
+    }, 
+    {
+        "AddAttack": 244, 
+        "AddDefense": 183, 
+        "AddHp": 427, 
+        "Level": 62, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142262, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 63517
+    }, 
+    {
+        "AddAttack": 248, 
+        "AddDefense": 186, 
+        "AddHp": 434, 
+        "Level": 63, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142263, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 67350
+    }, 
+    {
+        "AddAttack": 252, 
+        "AddDefense": 189, 
+        "AddHp": 441, 
+        "Level": 64, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142264, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 71252
+    }, 
+    {
+        "AddAttack": 256, 
+        "AddDefense": 192, 
+        "AddHp": 448, 
+        "Level": 65, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142265, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 75220
+    }, 
+    {
+        "AddAttack": 260, 
+        "AddDefense": 195, 
+        "AddHp": 455, 
+        "Level": 66, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142266, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 79251
+    }, 
+    {
+        "AddAttack": 264, 
+        "AddDefense": 198, 
+        "AddHp": 462, 
+        "Level": 67, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142267, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 83343
+    }, 
+    {
+        "AddAttack": 268, 
+        "AddDefense": 201, 
+        "AddHp": 469, 
+        "Level": 68, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142268, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 87492
+    }, 
+    {
+        "AddAttack": 272, 
+        "AddDefense": 204, 
+        "AddHp": 476, 
+        "Level": 69, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142269, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 91695
+    }, 
+    {
+        "AddAttack": 276, 
+        "AddDefense": 207, 
+        "AddHp": 483, 
+        "Level": 70, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142270, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 95949
+    }, 
+    {
+        "AddAttack": 280, 
+        "AddDefense": 210, 
+        "AddHp": 490, 
+        "Level": 71, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142271, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 100249
+    }, 
+    {
+        "AddAttack": 284, 
+        "AddDefense": 213, 
+        "AddHp": 497, 
+        "Level": 72, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142272, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 104592
+    }, 
+    {
+        "AddAttack": 288, 
+        "AddDefense": 216, 
+        "AddHp": 504, 
+        "Level": 73, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142273, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 108974
+    }, 
+    {
+        "AddAttack": 292, 
+        "AddDefense": 219, 
+        "AddHp": 511, 
+        "Level": 74, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142274, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 113392
+    }, 
+    {
+        "AddAttack": 296, 
+        "AddDefense": 222, 
+        "AddHp": 518, 
+        "Level": 75, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142275, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 117840
+    }, 
+    {
+        "AddAttack": 300, 
+        "AddDefense": 225, 
+        "AddHp": 525, 
+        "Level": 76, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142276, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 122315
+    }, 
+    {
+        "AddAttack": 304, 
+        "AddDefense": 228, 
+        "AddHp": 532, 
+        "Level": 77, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142277, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 126812
+    }, 
+    {
+        "AddAttack": 308, 
+        "AddDefense": 231, 
+        "AddHp": 539, 
+        "Level": 78, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142278, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 131327
+    }, 
+    {
+        "AddAttack": 312, 
+        "AddDefense": 234, 
+        "AddHp": 546, 
+        "Level": 79, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142279, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 135856
+    }, 
+    {
+        "AddAttack": 316, 
+        "AddDefense": 237, 
+        "AddHp": 553, 
+        "Level": 80, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142280, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 140394
+    }, 
+    {
+        "AddAttack": 321, 
+        "AddDefense": 241, 
+        "AddHp": 667, 
+        "Level": 81, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142281, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 148563
+    }, 
+    {
+        "AddAttack": 326, 
+        "AddDefense": 244, 
+        "AddHp": 781, 
+        "Level": 82, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142282, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 156814
+    }, 
+    {
+        "AddAttack": 330, 
+        "AddDefense": 248, 
+        "AddHp": 895, 
+        "Level": 83, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142283, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 165222
+    }, 
+    {
+        "AddAttack": 335, 
+        "AddDefense": 251, 
+        "AddHp": 1009, 
+        "Level": 84, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142284, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 173781
+    }, 
+    {
+        "AddAttack": 340, 
+        "AddDefense": 255, 
+        "AddHp": 1123, 
+        "Level": 85, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142285, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 182486
+    }, 
+    {
+        "AddAttack": 344, 
+        "AddDefense": 258, 
+        "AddHp": 1237, 
+        "Level": 86, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142286, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 191330
+    }, 
+    {
+        "AddAttack": 349, 
+        "AddDefense": 262, 
+        "AddHp": 1351, 
+        "Level": 87, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142287, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 200307
+    }, 
+    {
+        "AddAttack": 353, 
+        "AddDefense": 265, 
+        "AddHp": 1465, 
+        "Level": 88, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142288, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 209409
+    }, 
+    {
+        "AddAttack": 358, 
+        "AddDefense": 269, 
+        "AddHp": 1579, 
+        "Level": 89, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142289, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 218630
+    }, 
+    {
+        "AddAttack": 363, 
+        "AddDefense": 272, 
+        "AddHp": 1693, 
+        "Level": 90, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142290, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 227961
+    }, 
+    {
+        "AddAttack": 367, 
+        "AddDefense": 275, 
+        "AddHp": 1807, 
+        "Level": 91, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142291, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 237395
+    }, 
+    {
+        "AddAttack": 372, 
+        "AddDefense": 279, 
+        "AddHp": 1921, 
+        "Level": 92, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142292, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 246923
+    }, 
+    {
+        "AddAttack": 376, 
+        "AddDefense": 282, 
+        "AddHp": 2035, 
+        "Level": 93, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142293, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 256537
+    }, 
+    {
+        "AddAttack": 381, 
+        "AddDefense": 286, 
+        "AddHp": 2149, 
+        "Level": 94, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142294, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 266228
+    }, 
+    {
+        "AddAttack": 386, 
+        "AddDefense": 289, 
+        "AddHp": 2263, 
+        "Level": 95, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142295, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 275987
+    }, 
+    {
+        "AddAttack": 390, 
+        "AddDefense": 293, 
+        "AddHp": 2377, 
+        "Level": 96, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142296, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 285804
+    }, 
+    {
+        "AddAttack": 395, 
+        "AddDefense": 296, 
+        "AddHp": 2491, 
+        "Level": 97, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142297, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 295670
+    }, 
+    {
+        "AddAttack": 400, 
+        "AddDefense": 300, 
+        "AddHp": 2605, 
+        "Level": 98, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142298, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 305576
+    }, 
+    {
+        "AddAttack": 404, 
+        "AddDefense": 303, 
+        "AddHp": 2719, 
+        "Level": 99, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142299, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 315512
+    }, 
+    {
+        "AddAttack": 409, 
+        "AddDefense": 306, 
+        "AddHp": 2833, 
+        "Level": 100, 
+        "MasterPcLevelGroupId": 1422, 
+        "MasterPcLevelId": 3600142300, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 325467
+    }, 
+    {
+        "AddAttack": 0, 
+        "AddDefense": 0, 
+        "AddHp": 0, 
+        "Level": 1, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142301, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 0
+    }, 
+    {
+        "AddAttack": 3, 
+        "AddDefense": 5, 
+        "AddHp": 7, 
+        "Level": 2, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142302, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 16
+    }, 
+    {
+        "AddAttack": 6, 
+        "AddDefense": 10, 
+        "AddHp": 14, 
+        "Level": 3, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142303, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 41
+    }, 
+    {
+        "AddAttack": 9, 
+        "AddDefense": 15, 
+        "AddHp": 21, 
+        "Level": 4, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142304, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 76
+    }, 
+    {
+        "AddAttack": 12, 
+        "AddDefense": 20, 
+        "AddHp": 28, 
+        "Level": 5, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142305, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 123
+    }, 
+    {
+        "AddAttack": 15, 
+        "AddDefense": 25, 
+        "AddHp": 35, 
+        "Level": 6, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142306, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 185
+    }, 
+    {
+        "AddAttack": 18, 
+        "AddDefense": 30, 
+        "AddHp": 42, 
+        "Level": 7, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142307, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 267
+    }, 
+    {
+        "AddAttack": 21, 
+        "AddDefense": 35, 
+        "AddHp": 49, 
+        "Level": 8, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142308, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 374
+    }, 
+    {
+        "AddAttack": 24, 
+        "AddDefense": 40, 
+        "AddHp": 56, 
+        "Level": 9, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142309, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 511
+    }, 
+    {
+        "AddAttack": 27, 
+        "AddDefense": 45, 
+        "AddHp": 63, 
+        "Level": 10, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142310, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 683
+    }, 
+    {
+        "AddAttack": 30, 
+        "AddDefense": 50, 
+        "AddHp": 70, 
+        "Level": 11, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142311, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 976
+    }, 
+    {
+        "AddAttack": 33, 
+        "AddDefense": 55, 
+        "AddHp": 77, 
+        "Level": 12, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142312, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1293
+    }, 
+    {
+        "AddAttack": 36, 
+        "AddDefense": 60, 
+        "AddHp": 84, 
+        "Level": 13, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142313, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1634
+    }, 
+    {
+        "AddAttack": 39, 
+        "AddDefense": 65, 
+        "AddHp": 91, 
+        "Level": 14, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142314, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 1998
+    }, 
+    {
+        "AddAttack": 42, 
+        "AddDefense": 70, 
+        "AddHp": 98, 
+        "Level": 15, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142315, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 2386
+    }, 
+    {
+        "AddAttack": 45, 
+        "AddDefense": 75, 
+        "AddHp": 105, 
+        "Level": 16, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142316, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 2797
+    }, 
+    {
+        "AddAttack": 48, 
+        "AddDefense": 80, 
+        "AddHp": 112, 
+        "Level": 17, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142317, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 3231
+    }, 
+    {
+        "AddAttack": 51, 
+        "AddDefense": 85, 
+        "AddHp": 119, 
+        "Level": 18, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142318, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 3687
+    }, 
+    {
+        "AddAttack": 54, 
+        "AddDefense": 90, 
+        "AddHp": 126, 
+        "Level": 19, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142319, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 4163
+    }, 
+    {
+        "AddAttack": 57, 
+        "AddDefense": 95, 
+        "AddHp": 133, 
+        "Level": 20, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142320, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 4658
+    }, 
+    {
+        "AddAttack": 60, 
+        "AddDefense": 100, 
+        "AddHp": 140, 
+        "Level": 21, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142321, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 5252
+    }, 
+    {
+        "AddAttack": 63, 
+        "AddDefense": 105, 
+        "AddHp": 147, 
+        "Level": 22, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142322, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 5870
+    }, 
+    {
+        "AddAttack": 66, 
+        "AddDefense": 110, 
+        "AddHp": 154, 
+        "Level": 23, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142323, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 6512
+    }, 
+    {
+        "AddAttack": 69, 
+        "AddDefense": 115, 
+        "AddHp": 161, 
+        "Level": 24, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142324, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 7179
+    }, 
+    {
+        "AddAttack": 72, 
+        "AddDefense": 120, 
+        "AddHp": 168, 
+        "Level": 25, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142325, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 7870
+    }, 
+    {
+        "AddAttack": 75, 
+        "AddDefense": 125, 
+        "AddHp": 175, 
+        "Level": 26, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142326, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 8586
+    }, 
+    {
+        "AddAttack": 78, 
+        "AddDefense": 130, 
+        "AddHp": 182, 
+        "Level": 27, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142327, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 9327
+    }, 
+    {
+        "AddAttack": 81, 
+        "AddDefense": 135, 
+        "AddHp": 189, 
+        "Level": 28, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142328, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 10094
+    }, 
+    {
+        "AddAttack": 84, 
+        "AddDefense": 140, 
+        "AddHp": 196, 
+        "Level": 29, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142329, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 10886
+    }, 
+    {
+        "AddAttack": 87, 
+        "AddDefense": 145, 
+        "AddHp": 203, 
+        "Level": 30, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142330, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 11703
+    }, 
+    {
+        "AddAttack": 90, 
+        "AddDefense": 150, 
+        "AddHp": 210, 
+        "Level": 31, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142331, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 12545
+    }, 
+    {
+        "AddAttack": 93, 
+        "AddDefense": 155, 
+        "AddHp": 217, 
+        "Level": 32, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142332, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 13413
+    }, 
+    {
+        "AddAttack": 96, 
+        "AddDefense": 160, 
+        "AddHp": 224, 
+        "Level": 33, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142333, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 14306
+    }, 
+    {
+        "AddAttack": 99, 
+        "AddDefense": 165, 
+        "AddHp": 231, 
+        "Level": 34, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142334, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 15224
+    }, 
+    {
+        "AddAttack": 102, 
+        "AddDefense": 170, 
+        "AddHp": 238, 
+        "Level": 35, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142335, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 16167
+    }, 
+    {
+        "AddAttack": 105, 
+        "AddDefense": 175, 
+        "AddHp": 245, 
+        "Level": 36, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142336, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 17134
+    }, 
+    {
+        "AddAttack": 108, 
+        "AddDefense": 180, 
+        "AddHp": 252, 
+        "Level": 37, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142337, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 18125
+    }, 
+    {
+        "AddAttack": 111, 
+        "AddDefense": 185, 
+        "AddHp": 259, 
+        "Level": 38, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142338, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 19140
+    }, 
+    {
+        "AddAttack": 114, 
+        "AddDefense": 190, 
+        "AddHp": 266, 
+        "Level": 39, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142339, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 20178
+    }, 
+    {
+        "AddAttack": 117, 
+        "AddDefense": 195, 
+        "AddHp": 273, 
+        "Level": 40, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142340, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 21239
+    }, 
+    {
+        "AddAttack": 120, 
+        "AddDefense": 200, 
+        "AddHp": 280, 
+        "Level": 41, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142341, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 22619
+    }, 
+    {
+        "AddAttack": 123, 
+        "AddDefense": 205, 
+        "AddHp": 287, 
+        "Level": 42, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142342, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 24041
+    }, 
+    {
+        "AddAttack": 126, 
+        "AddDefense": 210, 
+        "AddHp": 294, 
+        "Level": 43, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142343, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 25504
+    }, 
+    {
+        "AddAttack": 129, 
+        "AddDefense": 215, 
+        "AddHp": 301, 
+        "Level": 44, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142344, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 27008
+    }, 
+    {
+        "AddAttack": 132, 
+        "AddDefense": 220, 
+        "AddHp": 308, 
+        "Level": 45, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142345, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 28553
+    }, 
+    {
+        "AddAttack": 135, 
+        "AddDefense": 225, 
+        "AddHp": 315, 
+        "Level": 46, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142346, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 30138
+    }, 
+    {
+        "AddAttack": 138, 
+        "AddDefense": 230, 
+        "AddHp": 322, 
+        "Level": 47, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142347, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 31762
+    }, 
+    {
+        "AddAttack": 141, 
+        "AddDefense": 235, 
+        "AddHp": 329, 
+        "Level": 48, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142348, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 33425
+    }, 
+    {
+        "AddAttack": 144, 
+        "AddDefense": 240, 
+        "AddHp": 336, 
+        "Level": 49, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142349, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 35127
+    }, 
+    {
+        "AddAttack": 147, 
+        "AddDefense": 245, 
+        "AddHp": 343, 
+        "Level": 50, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142350, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 36866
+    }, 
+    {
+        "AddAttack": 150, 
+        "AddDefense": 250, 
+        "AddHp": 350, 
+        "Level": 51, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142351, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 38642
+    }, 
+    {
+        "AddAttack": 153, 
+        "AddDefense": 255, 
+        "AddHp": 357, 
+        "Level": 52, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142352, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 40453
+    }, 
+    {
+        "AddAttack": 156, 
+        "AddDefense": 260, 
+        "AddHp": 364, 
+        "Level": 53, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142353, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 42298
+    }, 
+    {
+        "AddAttack": 159, 
+        "AddDefense": 265, 
+        "AddHp": 371, 
+        "Level": 54, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142354, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 44177
+    }, 
+    {
+        "AddAttack": 162, 
+        "AddDefense": 270, 
+        "AddHp": 378, 
+        "Level": 55, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142355, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 46088
+    }, 
+    {
+        "AddAttack": 165, 
+        "AddDefense": 275, 
+        "AddHp": 385, 
+        "Level": 56, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142356, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 48029
+    }, 
+    {
+        "AddAttack": 168, 
+        "AddDefense": 280, 
+        "AddHp": 392, 
+        "Level": 57, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142357, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 49999
+    }, 
+    {
+        "AddAttack": 171, 
+        "AddDefense": 285, 
+        "AddHp": 399, 
+        "Level": 58, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142358, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 51997
+    }, 
+    {
+        "AddAttack": 174, 
+        "AddDefense": 290, 
+        "AddHp": 406, 
+        "Level": 59, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142359, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 54021
+    }, 
+    {
+        "AddAttack": 177, 
+        "AddDefense": 295, 
+        "AddHp": 413, 
+        "Level": 60, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142360, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 56069
+    }, 
+    {
+        "AddAttack": 180, 
+        "AddDefense": 300, 
+        "AddHp": 420, 
+        "Level": 61, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142361, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 59756
+    }, 
+    {
+        "AddAttack": 183, 
+        "AddDefense": 305, 
+        "AddHp": 427, 
+        "Level": 62, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142362, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 63517
+    }, 
+    {
+        "AddAttack": 186, 
+        "AddDefense": 310, 
+        "AddHp": 434, 
+        "Level": 63, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142363, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 67350
+    }, 
+    {
+        "AddAttack": 189, 
+        "AddDefense": 315, 
+        "AddHp": 441, 
+        "Level": 64, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142364, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 71252
+    }, 
+    {
+        "AddAttack": 192, 
+        "AddDefense": 320, 
+        "AddHp": 448, 
+        "Level": 65, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142365, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 75220
+    }, 
+    {
+        "AddAttack": 195, 
+        "AddDefense": 325, 
+        "AddHp": 455, 
+        "Level": 66, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142366, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 79251
+    }, 
+    {
+        "AddAttack": 198, 
+        "AddDefense": 330, 
+        "AddHp": 462, 
+        "Level": 67, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142367, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 83343
+    }, 
+    {
+        "AddAttack": 201, 
+        "AddDefense": 335, 
+        "AddHp": 469, 
+        "Level": 68, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142368, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 87492
+    }, 
+    {
+        "AddAttack": 204, 
+        "AddDefense": 340, 
+        "AddHp": 476, 
+        "Level": 69, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142369, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 91695
+    }, 
+    {
+        "AddAttack": 207, 
+        "AddDefense": 345, 
+        "AddHp": 483, 
+        "Level": 70, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142370, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 95949
+    }, 
+    {
+        "AddAttack": 210, 
+        "AddDefense": 350, 
+        "AddHp": 490, 
+        "Level": 71, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142371, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 100249
+    }, 
+    {
+        "AddAttack": 213, 
+        "AddDefense": 355, 
+        "AddHp": 497, 
+        "Level": 72, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142372, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 104592
+    }, 
+    {
+        "AddAttack": 216, 
+        "AddDefense": 360, 
+        "AddHp": 504, 
+        "Level": 73, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142373, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 108974
+    }, 
+    {
+        "AddAttack": 219, 
+        "AddDefense": 365, 
+        "AddHp": 511, 
+        "Level": 74, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142374, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 113392
+    }, 
+    {
+        "AddAttack": 222, 
+        "AddDefense": 370, 
+        "AddHp": 518, 
+        "Level": 75, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142375, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 117840
+    }, 
+    {
+        "AddAttack": 225, 
+        "AddDefense": 375, 
+        "AddHp": 525, 
+        "Level": 76, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142376, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 122315
+    }, 
+    {
+        "AddAttack": 228, 
+        "AddDefense": 380, 
+        "AddHp": 532, 
+        "Level": 77, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142377, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 126812
+    }, 
+    {
+        "AddAttack": 231, 
+        "AddDefense": 385, 
+        "AddHp": 539, 
+        "Level": 78, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142378, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 131327
+    }, 
+    {
+        "AddAttack": 234, 
+        "AddDefense": 390, 
+        "AddHp": 546, 
+        "Level": 79, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142379, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 135856
+    }, 
+    {
+        "AddAttack": 237, 
+        "AddDefense": 395, 
+        "AddHp": 553, 
+        "Level": 80, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142380, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 140394
+    }, 
+    {
+        "AddAttack": 241, 
+        "AddDefense": 401, 
+        "AddHp": 667, 
+        "Level": 81, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142381, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 148563
+    }, 
+    {
+        "AddAttack": 244, 
+        "AddDefense": 407, 
+        "AddHp": 781, 
+        "Level": 82, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142382, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 156814
+    }, 
+    {
+        "AddAttack": 248, 
+        "AddDefense": 413, 
+        "AddHp": 895, 
+        "Level": 83, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142383, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 165222
+    }, 
+    {
+        "AddAttack": 251, 
+        "AddDefense": 419, 
+        "AddHp": 1009, 
+        "Level": 84, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142384, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 173781
+    }, 
+    {
+        "AddAttack": 255, 
+        "AddDefense": 424, 
+        "AddHp": 1123, 
+        "Level": 85, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142385, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 182486
+    }, 
+    {
+        "AddAttack": 258, 
+        "AddDefense": 430, 
+        "AddHp": 1237, 
+        "Level": 86, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142386, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 191330
+    }, 
+    {
+        "AddAttack": 262, 
+        "AddDefense": 436, 
+        "AddHp": 1351, 
+        "Level": 87, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142387, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 200307
+    }, 
+    {
+        "AddAttack": 265, 
+        "AddDefense": 442, 
+        "AddHp": 1465, 
+        "Level": 88, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142388, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 209409
+    }, 
+    {
+        "AddAttack": 269, 
+        "AddDefense": 448, 
+        "AddHp": 1579, 
+        "Level": 89, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142389, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 218630
+    }, 
+    {
+        "AddAttack": 272, 
+        "AddDefense": 453, 
+        "AddHp": 1693, 
+        "Level": 90, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142390, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 227961
+    }, 
+    {
+        "AddAttack": 275, 
+        "AddDefense": 459, 
+        "AddHp": 1807, 
+        "Level": 91, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142391, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 237395
+    }, 
+    {
+        "AddAttack": 279, 
+        "AddDefense": 465, 
+        "AddHp": 1921, 
+        "Level": 92, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142392, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 246923
+    }, 
+    {
+        "AddAttack": 282, 
+        "AddDefense": 471, 
+        "AddHp": 2035, 
+        "Level": 93, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142393, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 256537
+    }, 
+    {
+        "AddAttack": 286, 
+        "AddDefense": 476, 
+        "AddHp": 2149, 
+        "Level": 94, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142394, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 266228
+    }, 
+    {
+        "AddAttack": 289, 
+        "AddDefense": 482, 
+        "AddHp": 2263, 
+        "Level": 95, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142395, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 275987
+    }, 
+    {
+        "AddAttack": 293, 
+        "AddDefense": 488, 
+        "AddHp": 2377, 
+        "Level": 96, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142396, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 285804
+    }, 
+    {
+        "AddAttack": 296, 
+        "AddDefense": 494, 
+        "AddHp": 2491, 
+        "Level": 97, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142397, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 295670
+    }, 
+    {
+        "AddAttack": 300, 
+        "AddDefense": 500, 
+        "AddHp": 2605, 
+        "Level": 98, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142398, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 305576
+    }, 
+    {
+        "AddAttack": 303, 
+        "AddDefense": 505, 
+        "AddHp": 2719, 
+        "Level": 99, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142399, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 315512
+    }, 
+    {
+        "AddAttack": 306, 
+        "AddDefense": 511, 
+        "AddHp": 2833, 
+        "Level": 100, 
+        "MasterPcLevelGroupId": 1423, 
+        "MasterPcLevelId": 3600142400, 
+        "ReleaseLabeloffset": "202112_event_xmas1_start", 
+        "RequiredExp": 325467
     }
 ]

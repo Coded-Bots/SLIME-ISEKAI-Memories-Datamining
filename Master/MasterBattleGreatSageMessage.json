@@ -438,5 +438,35 @@
         "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
         "TriggerType": 5, 
         "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000067, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000068, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000069, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
     }
 ]

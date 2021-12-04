@@ -127,6 +127,16 @@
     {
         "ColumnName": "lottery_message", 
         "LocalizationTargetId": 510000027, 
-        "Text": "Devour all! Belzebuth!"
+        "Text": "Devour all! Beelzebub!"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000028, 
+        "Text": "You wretched dragon!\nWhy do you always have to interfere?!\nAnd don't tell me you've even forgotten my name?"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000029, 
+        "Text": "We just have to become True Maids, no matter what!"
     }
 ]

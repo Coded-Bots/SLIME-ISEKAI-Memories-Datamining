@@ -1426,5 +1426,1433 @@
         "MasterRewardGroupId": 802905050701, 
         "ReleaseLabeloffset": "202111_event_akuma1", 
         "TotalItemNum": 300000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600001, 
+        "MasterRewardGroupId": 802992408005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600002, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600003, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600004, 
+        "MasterRewardGroupId": 802992107005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600005, 
+        "MasterRewardGroupId": 802993001005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 1000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600006, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 1400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600007, 
+        "MasterRewardGroupId": 802992101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 1900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600008, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 2400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600009, 
+        "MasterRewardGroupId": 802982027002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 3000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600010, 
+        "MasterRewardGroupId": 802992104005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 3600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600011, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 4200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600012, 
+        "MasterRewardGroupId": 802992110005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 4700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600013, 
+        "MasterRewardGroupId": 802993001005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 5300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600014, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 5900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600015, 
+        "MasterRewardGroupId": 802992107005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 6500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600016, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 7100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600017, 
+        "MasterRewardGroupId": 802982027002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 7700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600018, 
+        "MasterRewardGroupId": 802992101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 8200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600019, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 8800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600020, 
+        "MasterRewardGroupId": 802992104005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 9600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600021, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 10300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600022, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 11100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600023, 
+        "MasterRewardGroupId": 802992110005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 11900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600024, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 12600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600025, 
+        "MasterRewardGroupId": 802992107005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 13400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600026, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 14100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600027, 
+        "MasterRewardGroupId": 802982027002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 14900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600028, 
+        "MasterRewardGroupId": 802992101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 15800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600029, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 16800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600030, 
+        "MasterRewardGroupId": 802992104005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 17700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600031, 
+        "MasterRewardGroupId": 802993001005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 18600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600032, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 19600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600033, 
+        "MasterRewardGroupId": 802992110005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 20500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600034, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 21400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600035, 
+        "MasterRewardGroupId": 802982027002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 22400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600036, 
+        "MasterRewardGroupId": 802992108003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 23300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600037, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 24200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600038, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 25400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600039, 
+        "MasterRewardGroupId": 802992102003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 26600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600040, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 27700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600041, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 28900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600042, 
+        "MasterRewardGroupId": 802992105003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 30100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600043, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 31200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600044, 
+        "MasterRewardGroupId": 802992111003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 32400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600045, 
+        "MasterRewardGroupId": 802982027002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 33600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600046, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 34700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600047, 
+        "MasterRewardGroupId": 802992108003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 35900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600048, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 37100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600049, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 38200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600050, 
+        "MasterRewardGroupId": 802992102003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 39400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600051, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 40600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600052, 
+        "MasterRewardGroupId": 802992105003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 41700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600053, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 42900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600054, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 44300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600055, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 45700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600056, 
+        "MasterRewardGroupId": 802992111003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 47100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600057, 
+        "MasterRewardGroupId": 802992408005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 48500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600058, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 49900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600059, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 51300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600060, 
+        "MasterRewardGroupId": 802992109001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 52700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600061, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 54100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600062, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 55500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600063, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 56900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600064, 
+        "MasterRewardGroupId": 802992103001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 58300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600065, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 59700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600066, 
+        "MasterRewardGroupId": 802993001005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 61100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600067, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 62500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600068, 
+        "MasterRewardGroupId": 802992106001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 63900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600069, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 65500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600070, 
+        "MasterRewardGroupId": 802992408005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 67200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600071, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 68800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600072, 
+        "MasterRewardGroupId": 802992112001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 70400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600073, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 72100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600074, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 73700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600075, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 75300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600076, 
+        "MasterRewardGroupId": 802992109001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 77000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600077, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 78700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600078, 
+        "MasterRewardGroupId": 802992408005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 80500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600079, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 82200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600080, 
+        "MasterRewardGroupId": 802992103001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 84000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600081, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 85700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600082, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 87500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600083, 
+        "MasterRewardGroupId": 802992106001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 89200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600084, 
+        "MasterRewardGroupId": 802991101003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 91000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600085, 
+        "MasterRewardGroupId": 802992112001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 92700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600086, 
+        "MasterRewardGroupId": 802992408005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 94500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600087, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 96200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600088, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 98000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600089, 
+        "MasterRewardGroupId": 802992107005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 99700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600090, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 101500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600091, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 103200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600092, 
+        "MasterRewardGroupId": 802992101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 105000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600093, 
+        "MasterRewardGroupId": 802993101002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 106700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600094, 
+        "MasterRewardGroupId": 802993001005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 108500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600095, 
+        "MasterRewardGroupId": 802992104005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 110200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600096, 
+        "MasterRewardGroupId": 802991901003, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 112000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600097, 
+        "MasterRewardGroupId": 802992110005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 113700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600098, 
+        "MasterRewardGroupId": 802982027001, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 115500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600099, 
+        "MasterRewardGroupId": 802991701005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 117200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600100, 
+        "MasterRewardGroupId": 802992408005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 120000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600101, 
+        "MasterRewardGroupId": 802992109002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 120700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600102, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 122500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600103, 
+        "MasterRewardGroupId": 802992103002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 124200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600104, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 126000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600105, 
+        "MasterRewardGroupId": 802992106002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 127700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600106, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 129500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600107, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 131200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600108, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 133000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600109, 
+        "MasterRewardGroupId": 802992112002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 134700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600110, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 136500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600111, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 138200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600112, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 140000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600113, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 141700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600114, 
+        "MasterRewardGroupId": 802992107010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 143500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600115, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 145200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600116, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 147000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600117, 
+        "MasterRewardGroupId": 802992101010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 148700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600118, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 150500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600119, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 152200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600120, 
+        "MasterRewardGroupId": 802992104010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 154000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600121, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 155700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600122, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 157500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600123, 
+        "MasterRewardGroupId": 802992110010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 159200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600124, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 161000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600125, 
+        "MasterRewardGroupId": 802992108005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 162700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600126, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 164500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600127, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 166200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600128, 
+        "MasterRewardGroupId": 802992102005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 168000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600129, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 169700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600130, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 171500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600131, 
+        "MasterRewardGroupId": 802992105005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 173200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600132, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 175000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600133, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 176700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600134, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 178500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600135, 
+        "MasterRewardGroupId": 802992111005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 180200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600136, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 182000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600137, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 183700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600138, 
+        "MasterRewardGroupId": 802992109002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 185500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600139, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 187200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600140, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 189000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600141, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 190700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600142, 
+        "MasterRewardGroupId": 802992103002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 192500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600143, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 194200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600144, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 196000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600145, 
+        "MasterRewardGroupId": 802992106002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 197700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600146, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 199500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600147, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 201200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600148, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 202800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600149, 
+        "MasterRewardGroupId": 802992112002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 204500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600150, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 206100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600151, 
+        "MasterRewardGroupId": 802992107010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 207700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600152, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 209400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600153, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 211000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600154, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 212600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600155, 
+        "MasterRewardGroupId": 802992101010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 214300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600156, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 215900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600157, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 217500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600158, 
+        "MasterRewardGroupId": 802992104010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 219200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600159, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 220800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600160, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 222400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600161, 
+        "MasterRewardGroupId": 802992110010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 224100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600162, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 225700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600163, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 227300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600164, 
+        "MasterRewardGroupId": 802992108005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 229000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600165, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 230600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600166, 
+        "MasterRewardGroupId": 802992102005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 232200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600167, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 233900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600168, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 235500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600169, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 237100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600170, 
+        "MasterRewardGroupId": 802992105005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 238800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600171, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 240400
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600172, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 242000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600173, 
+        "MasterRewardGroupId": 802992111005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 243700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600174, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 245300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600175, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 246900
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600176, 
+        "MasterRewardGroupId": 802992109002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 248600
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600177, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 250200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600178, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 251800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600179, 
+        "MasterRewardGroupId": 802992103002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 253500
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600180, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 255100
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600181, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 256700
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600182, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 258200
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600183, 
+        "MasterRewardGroupId": 802992106002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 259800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600184, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 261300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600185, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 262800
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600186, 
+        "MasterRewardGroupId": 802992112002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 264300
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600187, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 266000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600188, 
+        "MasterRewardGroupId": 802992109002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 268000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600189, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 270000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600190, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 272000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600191, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 274000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600192, 
+        "MasterRewardGroupId": 802992103002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 276000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600193, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 278000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600194, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 280000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600195, 
+        "MasterRewardGroupId": 802992106002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 282000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600196, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 284000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600197, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 286000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600198, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 288000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600199, 
+        "MasterRewardGroupId": 802992112002, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 290000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600200, 
+        "MasterRewardGroupId": 802991101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 292000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600201, 
+        "MasterRewardGroupId": 802991701010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 294000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600202, 
+        "MasterRewardGroupId": 802993101005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 296000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600203, 
+        "MasterRewardGroupId": 802991901005, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 298000
+    }, 
+    {
+        "MasterEventId": 10000000020060, 
+        "MasterEventTotalCollectedItemRewardId": 10010200600204, 
+        "MasterRewardGroupId": 802993001010, 
+        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "TotalItemNum": 300000
     }
 ]
