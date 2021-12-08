@@ -790,5 +790,101 @@
         "Rate": 70, 
         "ReleaseLabeloffset": "202112_lottery_xmas1", 
         "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003001, 
+        "MasterOgcLotteryRewardGroupId": 3000, 
+        "Rate": 5400, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003002, 
+        "MasterOgcLotteryRewardGroupId": 3001, 
+        "Rate": 2700, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 3
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003003, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "Rate": 1000, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003004, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "Rate": 500, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003005, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "Rate": 230, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003006, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "Rate": 100, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 30, 
+        "MasterOgcLotteryRateId": 503003007, 
+        "MasterOgcLotteryRewardGroupId": 5012, 
+        "Rate": 70, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 31, 
+        "MasterOgcLotteryRateId": 503003101, 
+        "MasterOgcLotteryRewardGroupId": 4000, 
+        "Rate": 6400, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 31, 
+        "MasterOgcLotteryRateId": 503003102, 
+        "MasterOgcLotteryRewardGroupId": 4001, 
+        "Rate": 3200, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 4
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 31, 
+        "MasterOgcLotteryRateId": 503003103, 
+        "MasterOgcLotteryRewardGroupId": 5000, 
+        "Rate": 230, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 31, 
+        "MasterOgcLotteryRateId": 503003104, 
+        "MasterOgcLotteryRewardGroupId": 5001, 
+        "Rate": 100, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 5
+    }, 
+    {
+        "MasterOgcLotteryRateGroupId": 31, 
+        "MasterOgcLotteryRateId": 503003105, 
+        "MasterOgcLotteryRewardGroupId": 5012, 
+        "Rate": 70, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "ShowRarity": 5
     }
 ]

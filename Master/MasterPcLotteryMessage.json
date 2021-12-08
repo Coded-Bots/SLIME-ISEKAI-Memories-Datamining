@@ -194,5 +194,12 @@
         "MoviePathoffset": "sys/ShunaMaidCostume2021Christmas/voice_sys_shuna_072_gacha", 
         "ReleaseLabeloffset": "Movie/BlessSkill/ShunaMaidCostume2021Christmas_BlessSkill/ShunaMaidCostume2021Christmas_Battle_BlessSkill.usm", 
         "VoicePathoffset": ""
+    }, 
+    {
+        "MasterPcId": 150031, 
+        "MasterPcLotteryMessageId": 510000030, 
+        "MoviePathoffset": "sys/RimuruMaidCostume2021Christmas/voice_sys_rimuru_080_gacha", 
+        "ReleaseLabeloffset": "Movie/SpecialSkill/RimuruMaidCostume2021Christmas_Battle_SpecialSkill/RimuruMaidCostume2021Christmas_Battle_SpecialSkill.usm", 
+        "VoicePathoffset": ""
     }
 ]

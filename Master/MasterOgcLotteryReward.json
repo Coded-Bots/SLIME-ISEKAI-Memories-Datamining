@@ -1433,5 +1433,26 @@
         "MasterOgcLotteryRewardGroupId": 5009, 
         "MasterOgcLotteryRewardId": 504500901, 
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "LotteryRewardId": 150030, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5013, 
+        "MasterOgcLotteryRewardId": 504501301, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "LotteryRewardId": 250014, 
+        "LotteryRewardType": 3, 
+        "MasterOgcLotteryRewardGroupId": 5011, 
+        "MasterOgcLotteryRewardId": 504501101, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "LotteryRewardId": 150031, 
+        "LotteryRewardType": 2, 
+        "MasterOgcLotteryRewardGroupId": 5012, 
+        "MasterOgcLotteryRewardId": 504501201, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2"
     }
 ]

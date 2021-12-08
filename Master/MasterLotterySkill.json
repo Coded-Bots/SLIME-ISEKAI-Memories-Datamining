@@ -46,5 +46,23 @@
         "MasterOgcLotteryShopId": 500000023, 
         "MasterPcId": 150028, 
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
+    }, 
+    {
+        "MasterLotterySkillId": 509000011, 
+        "MasterOgcLotteryShopId": 500000024, 
+        "MasterPcId": 150030, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "MasterLotterySkillId": 509000012, 
+        "MasterOgcLotteryShopId": 500000024, 
+        "MasterPcId": 250014, 
+        "ReleaseLabeloffset": "202112_lottery_xmas1"
+    }, 
+    {
+        "MasterLotterySkillId": 509000013, 
+        "MasterOgcLotteryShopId": 500000025, 
+        "MasterPcId": 150031, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2"
     }
 ]

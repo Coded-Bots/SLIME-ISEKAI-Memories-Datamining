@@ -118,5 +118,15 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 505000012, 
         "Text": "Ticket used in the Troop Recruit: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 505000013, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 505000013, 
+        "Text": "Ticket used in the Troop Recruit: Maid for the Holidays Part 2"
     }
 ]

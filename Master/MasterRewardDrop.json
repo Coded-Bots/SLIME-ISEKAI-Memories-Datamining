@@ -28872,7 +28872,7 @@
         "RewardRarity3": 0
     }, 
     {
-        "DropRate": 7200, 
+        "DropRate": 7500, 
         "MasterRewardDropGroupId": 2005000759, 
         "MasterRewardDropId": 4100075903, 
         "MasterRewardId1": 811772302001, 
@@ -28908,7 +28908,7 @@
         "RewardRarity3": 0
     }, 
     {
-        "DropRate": 1000, 
+        "DropRate": 700, 
         "MasterRewardDropGroupId": 2005000759, 
         "MasterRewardDropId": 4100075906, 
         "MasterRewardId1": 811772303001, 
@@ -29004,7 +29004,7 @@
         "RewardRarity3": 0
     }, 
     {
-        "DropRate": 5500, 
+        "DropRate": 6400, 
         "MasterRewardDropGroupId": 2005000761, 
         "MasterRewardDropId": 4100076103, 
         "MasterRewardId1": 811772302001, 
@@ -29040,7 +29040,7 @@
         "RewardRarity3": 0
     }, 
     {
-        "DropRate": 2700, 
+        "DropRate": 1800, 
         "MasterRewardDropGroupId": 2005000761, 
         "MasterRewardDropId": 4100076106, 
         "MasterRewardId1": 811772303001, 
@@ -29136,7 +29136,7 @@
         "RewardRarity3": 0
     }, 
     {
-        "DropRate": 3700, 
+        "DropRate": 5200, 
         "MasterRewardDropGroupId": 2005000763, 
         "MasterRewardDropId": 4100076303, 
         "MasterRewardId1": 811772302002, 
@@ -29172,7 +29172,7 @@
         "RewardRarity3": 0
     }, 
     {
-        "DropRate": 4500, 
+        "DropRate": 3000, 
         "MasterRewardDropGroupId": 2005000763, 
         "MasterRewardDropId": 4100076306, 
         "MasterRewardId1": 811772303001, 

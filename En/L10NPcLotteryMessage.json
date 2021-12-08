@@ -138,5 +138,10 @@
         "ColumnName": "lottery_message", 
         "LocalizationTargetId": 510000029, 
         "Text": "We just have to become True Maids, no matter what!"
+    }, 
+    {
+        "ColumnName": "lottery_message", 
+        "LocalizationTargetId": 510000030, 
+        "Text": "You've stayed by my side, and you always make me so happy to be around you. \nTo me, that's the best gift of all."
     }
 ]

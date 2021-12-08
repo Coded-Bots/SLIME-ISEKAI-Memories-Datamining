@@ -2642,7 +2642,7 @@
     {
         "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014007105, 
-        "Text": "Challenge Quest: The Queen of Nightmares (Normal 1)"
+        "Text": "Challenge: The Queen of Nightmares (Normal 1)"
     }, 
     {
         "ColumnName": "avatar_message", 
@@ -2662,7 +2662,7 @@
     {
         "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014007106, 
-        "Text": "Challenge Quest: The Queen of Nightmares (Normal 2)"
+        "Text": "Challenge: The Queen of Nightmares (Normal 2)"
     }, 
     {
         "ColumnName": "avatar_message", 
@@ -2682,7 +2682,7 @@
     {
         "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014007107, 
-        "Text": "Challenge Quest: The Queen of Nightmares (Normal 3)"
+        "Text": "Challenge: The Queen of Nightmares (Normal 3)"
     }, 
     {
         "ColumnName": "avatar_message", 
@@ -2702,7 +2702,7 @@
     {
         "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014007208, 
-        "Text": "Challenge Quest: The Queen of Nightmares (Expert 1)"
+        "Text": "Challenge: The Queen of Nightmares (Expert 1)"
     }, 
     {
         "ColumnName": "avatar_message", 
@@ -2722,7 +2722,7 @@
     {
         "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014007209, 
-        "Text": "Challenge Quest: The Queen of Nightmares (Expert 2)"
+        "Text": "Challenge: The Queen of Nightmares (Expert 2)"
     }, 
     {
         "ColumnName": "avatar_message", 
@@ -2742,7 +2742,7 @@
     {
         "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014007210, 
-        "Text": "Challenge Quest: The Queen of Nightmares (Master)"
+        "Text": "Challenge: The Queen of Nightmares (Master)"
     }, 
     {
         "ColumnName": "avatar_message", 

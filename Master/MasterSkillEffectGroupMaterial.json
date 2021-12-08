@@ -2715,7 +2715,7 @@
         "MasterSkillEffectGroupMaterialId": 20031400133003, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "PhobioDefault_debuff_03", 
-        "SkillIconImagePathoffset": "Image/Skill/002/01/{1}/IcSkill_002_01_{1}_{0}", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Phobio/PhobioDefault/PhobioDefault_Battle_ActiveSkill_Debuff/PhobioDefault_Battle_ActiveSkill_Debuff"
     }, 
@@ -18635,7 +18635,7 @@
         "MasterSkillEffectGroupMaterialId": 20033002363001, 
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_01", 
-        "SkillIconImagePathoffset": "Image/Skill/041/08/{1}/IcSkill_041_08_{1}_{0}", 
+        "SkillIconImagePathoffset": "Image/Skill/041/12/{1}/IcSkill_041_12_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
     }, 
@@ -18645,7 +18645,7 @@
         "MasterSkillEffectGroupMaterialId": 20033002363002, 
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_02", 
-        "SkillIconImagePathoffset": "Image/Skill/041/08/{1}/IcSkill_041_08_{1}_{0}", 
+        "SkillIconImagePathoffset": "Image/Skill/041/12/{1}/IcSkill_041_12_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
     }, 
@@ -18705,7 +18705,7 @@
         "MasterSkillEffectGroupMaterialId": 20033002363008, 
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_08", 
-        "SkillIconImagePathoffset": "Image/Skill/041/21/{1}/IcSkill_041_21_{1}_{0}", 
+        "SkillIconImagePathoffset": "Image/Skill/010/01/{1}/IcSkill_010_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
     }, 
@@ -18715,7 +18715,7 @@
         "MasterSkillEffectGroupMaterialId": 20033002363009, 
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_09", 
-        "SkillIconImagePathoffset": "Image/Skill/041/21/{1}/IcSkill_041_21_{1}_{0}", 
+        "SkillIconImagePathoffset": "Image/Skill/010/01/{1}/IcSkill_010_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
     }, 
@@ -18725,7 +18725,7 @@
         "MasterSkillEffectGroupMaterialId": 20033002363010, 
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SkillEffectGroupLabeloffset": "SkyDragonWaterAttribute_debuff_10", 
-        "SkillIconImagePathoffset": "Image/Skill/041/21/{1}/IcSkill_041_21_{1}_{0}", 
+        "SkillIconImagePathoffset": "Image/Skill/010/01/{1}/IcSkill_010_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/SkyDragon/SkyDragonWaterAttribute/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff/SkyDragonWaterAttribute_Battle_ActiveSkill_Debuff"
     }, 
@@ -18886,6 +18886,66 @@
         "ReleaseLabeloffset": "202112_event_xmas1_start", 
         "SkillEffectGroupLabeloffset": "ShionMaidCostume2021Christmas_passive_31", 
         "SkillIconImagePathoffset": "Image/PassiveSkill/021/02/2/IcPassiveSkill_021_02_2", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500311901, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SkillEffectGroupLabeloffset": "RimuruMaidCostume2021Christmas_normal_901", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "Setting/Effect/Battle/Rimuru/RimuruMaidCostume2021Christmas/S_RimuruMaidCostume2021Christmas_Finish", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500317901, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SkillEffectGroupLabeloffset": "RimuruMaidCostume2021Christmas_special_901", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 5, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/SpecialSkill/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_SpecialSkill/RimuruMaidCostume2021Christmas_Battle_SpecialSkill"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500312901, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SkillEffectGroupLabeloffset": "RimuruMaidCostume2021Christmas_buff_901", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_ActiveSkill_Buff/RimuruMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20011500312902, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SkillEffectGroupLabeloffset": "RimuruMaidCostume2021Christmas_buff_902", 
+        "SkillIconImagePathoffset": "Image/Skill/056/01/{1}/IcSkill_056_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_ActiveSkill_Buff/RimuruMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500322030, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SkillEffectGroupLabeloffset": "RimuruMaidCostume2021Christmas_passive_30", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/025/01/1/IcPassiveSkill_025_01_1", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20011500322031, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SkillEffectGroupLabeloffset": "RimuruMaidCostume2021Christmas_passive_31", 
+        "SkillIconImagePathoffset": "Image/PassiveSkill/025/01/2/IcPassiveSkill_025_01_2", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": ""
     }, 
@@ -19117,7 +19177,7 @@
         "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_19", 
         "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
-        "TimelinePathoffset": ""
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
     }, 
     {
         "AfterEffectPathoffset": "", 
@@ -19127,7 +19187,7 @@
         "SkillEffectGroupLabeloffset": "LuminousMaidCostume2021Christmas_buff_20", 
         "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
-        "TimelinePathoffset": ""
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff/LuminousMaidCostume2021Christmas_Battle_ActiveSkill_Buff"
     }, 
     {
         "AfterEffectPathoffset": "", 

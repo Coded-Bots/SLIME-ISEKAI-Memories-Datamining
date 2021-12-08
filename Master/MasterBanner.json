@@ -66,6 +66,17 @@
         "Value": 500000024
     }, 
     {
+        "BannerType": 0, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
+        "MasterBannerId": 80000000007, 
+        "Pathoffset": "Image/LotteryInfo/500000025/LotteryBanner_500000025", 
+        "Priority": 112088993, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "Urloffset": "", 
+        "Value": 500000025
+    }, 
+    {
         "BannerType": 1, 
         "HasAdditionalCondition": false, 
         "LimitTime": 0, 

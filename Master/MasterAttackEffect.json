@@ -2002,6 +2002,32 @@
         "Value": 22000
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_RimuruMaidCostume2021Christmas_01", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20215003123011, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 3, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 10000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_RimuruMaidCostume2021Christmas_02", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20215003123021, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 3, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 41000
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Heal_S_Impart", 
         "Labeloffset": "Attack_LuminousMaidCostume2021Christmas_03", 
         "MasterAttackCulcType": 2, 
@@ -11047,7 +11073,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_222", 
         "TargetType": 1, 
-        "Value": -6000
+        "Value": -5000
     }, 
     {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Offense_Impart", 
@@ -11060,7 +11086,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_222", 
         "TargetType": 1, 
-        "Value": -8000
+        "Value": -5000
     }, 
     {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Offense_Impart", 
@@ -11073,7 +11099,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_222", 
         "TargetType": 1, 
-        "Value": -10000
+        "Value": -5000
     }, 
     {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Blow_Hit_Default", 

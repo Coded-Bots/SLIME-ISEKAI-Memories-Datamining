@@ -816,6 +816,22 @@
         "ReleaseLabeloffset": "202112_event_xmas1_start"
     }, 
     {
+        "ArousalCount": 1, 
+        "ConditionPassiveSkillLabeloffset": "RimuruMaidCostume2021Christmas_passive_30", 
+        "InvalidPassiveSkillLabeloffset": "", 
+        "MasterPcArousalSkillId": 3915003101, 
+        "MasterPcId": 150031, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start"
+    }, 
+    {
+        "ArousalCount": 3, 
+        "ConditionPassiveSkillLabeloffset": "RimuruMaidCostume2021Christmas_passive_31", 
+        "InvalidPassiveSkillLabeloffset": "RimuruMaidCostume2021Christmas_passive_30", 
+        "MasterPcArousalSkillId": 3915003103, 
+        "MasterPcId": 150031, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start"
+    }, 
+    {
         "ArousalCount": 11, 
         "ConditionPassiveSkillLabeloffset": "OwnerDefault_passive_15", 
         "InvalidPassiveSkillLabeloffset": "", 

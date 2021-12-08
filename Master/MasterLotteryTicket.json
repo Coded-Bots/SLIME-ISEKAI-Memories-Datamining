@@ -118,5 +118,15 @@
         "Name": 618475290780, 
         "Rarity": 1, 
         "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "Description": 4294967440, 
+        "Gold": 100, 
+        "IconPathoffset": "Image/Item/LotteryTicket/505000001/lottery_ticket_item_505000001_Item{0}", 
+        "MasterLotteryTicketId": 505000013, 
+        "MaxLimit": 99999, 
+        "Name": 618475290780, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start"
     }
 ]

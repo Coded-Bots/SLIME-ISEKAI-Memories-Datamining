@@ -26610,6 +26610,51 @@
         "ValueType": 1
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Defense_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "RimuruMaidCostume2021Christmas_buff_901", 
+        "MasterBuffEffectId": 20300300000177, 
+        "ParameterType": 2, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "battle/other/se_battle_other_060", 
+        "TargetType": 3, 
+        "Turn": 3, 
+        "Value": 2000, 
+        "ValueType": 0
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Defense_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "RimuruMaidCostume2021Christmas_buff_901", 
+        "MasterBuffEffectId": 20300100000076, 
+        "ParameterType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "battle/other/se_battle_other_202", 
+        "TargetType": 3, 
+        "Turn": 3, 
+        "Value": 3000, 
+        "ValueType": 0
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Guard_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": true, 
+        "Labeloffset": "RimuruMaidCostume2021Christmas_buff_902", 
+        "MasterBuffEffectId": 20303700000018, 
+        "ParameterType": 408, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "battle/other/se_battle_other_058", 
+        "TargetType": 3, 
+        "Turn": 1, 
+        "Value": 1500, 
+        "ValueType": 1
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Penetrate_Impart", 
         "BuffType": 1, 
         "IsTemporary": false, 
@@ -26637,6 +26682,36 @@
         "TargetType": 5, 
         "Turn": 0, 
         "Value": 1200, 
+        "ValueType": 1
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": false, 
+        "Labeloffset": "RimuruMaidCostume2021Christmas_passive_30", 
+        "MasterBuffEffectId": 20300400000154, 
+        "ParameterType": 100, 
+        "PassiveSkillExecuteConditionLabeloffset": "PASSIVE_BUFF_SELF_GUARD_BUFF", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "battle/other/se_battle_other_124", 
+        "TargetType": 5, 
+        "Turn": 0, 
+        "Value": 700, 
+        "ValueType": 1
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Satisfaction_Impart", 
+        "BuffType": 1, 
+        "IsTemporary": false, 
+        "Labeloffset": "RimuruMaidCostume2021Christmas_passive_31", 
+        "MasterBuffEffectId": 20300400000155, 
+        "ParameterType": 100, 
+        "PassiveSkillExecuteConditionLabeloffset": "PASSIVE_BUFF_SELF_GUARD_BUFF", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "SePathoffset": "battle/other/se_battle_other_124", 
+        "TargetType": 5, 
+        "Turn": 0, 
+        "Value": 1100, 
         "ValueType": 1
     }, 
     {
@@ -26800,7 +26875,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_123", 
         "TargetType": 5, 
-        "Turn": 2, 
+        "Turn": 3, 
         "Value": 4000, 
         "ValueType": 1
     }, 
@@ -26815,7 +26890,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_123", 
         "TargetType": 5, 
-        "Turn": 2, 
+        "Turn": 3, 
         "Value": 5000, 
         "ValueType": 1
     }, 
@@ -26830,7 +26905,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_123", 
         "TargetType": 5, 
-        "Turn": 2, 
+        "Turn": 3, 
         "Value": 6000, 
         "ValueType": 1
     }, 
@@ -26845,7 +26920,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_123", 
         "TargetType": 5, 
-        "Turn": 2, 
+        "Turn": 3, 
         "Value": 8000, 
         "ValueType": 1
     }, 
@@ -26860,7 +26935,7 @@
         "ReleaseLabeloffset": "202112_event_xmas2_predation", 
         "SePathoffset": "battle/other/se_battle_other_123", 
         "TargetType": 5, 
-        "Turn": 2, 
+        "Turn": 3, 
         "Value": 10000, 
         "ValueType": 1
     }

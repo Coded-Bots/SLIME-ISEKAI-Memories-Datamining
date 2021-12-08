@@ -116,6 +116,11 @@
     }, 
     {
         "ColumnName": "acting_voice_text", 
+        "LocalizationTargetId": 3010000124, 
+        "Text": "Hehe, does it look good on me?"
+    }, 
+    {
+        "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010000300, 
         "Text": ""
     }, 

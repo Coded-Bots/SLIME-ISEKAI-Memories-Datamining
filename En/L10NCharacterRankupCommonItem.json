@@ -501,6 +501,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 90150031, 
+        "Text": "Rimuru Tempest, the Master of Maids Memory Stone"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 90150031, 
+        "Text": "An item necessary in awakening Rimuru Tempest, the Master of Maids."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 90150033, 
         "Text": "Milim Nava, the Proud Dragon Demon Lord Memory Stone"
     }, 

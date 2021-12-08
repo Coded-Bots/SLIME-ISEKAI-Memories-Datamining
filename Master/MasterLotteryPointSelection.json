@@ -194,5 +194,12 @@
         "MasterRewardGroupId": 802100250014, 
         "ReleaseLabeloffset": "202112_lottery_xmas1", 
         "SelectionPoint": 300
+    }, 
+    {
+        "MasterLotteryPointSelectionId": 507000056, 
+        "MasterOgcLotteryShopId": 500000025, 
+        "MasterRewardGroupId": 802100150031, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2", 
+        "SelectionPoint": 200
     }
 ]

@@ -3001,6 +3001,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20011500311901, 
+        "Text": "Normal Attack"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500311901, 
+        "Text": "Unleashes a single-target wind physical attack."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20011500312030, 
         "Text": "Troop - Skill UP"
     }, 
@@ -3018,6 +3028,56 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20011500312031, 
         "Text": "When your troop contains 3 or more battle characters, increases skill points by 6 at the start of battle (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500312901, 
+        "Text": "Gift of Magic"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500312901, 
+        "Text": "Increases all allies' DEF by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 3)\nIncreases all allies' max HP by <color=#2BE41D><tag:buff_effect_value_1>\uff05</color> (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500312902, 
+        "Text": "Happiness Illuminate"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500312902, 
+        "Text": "Increases all allies' guard power by <color=#2BE41D><tag:buff_effect_value_0>\uff05</color> (Turns: 1)\nIncreases Soul of Skills damage until the end of battle by <color=#2BE41D><tag:card_effect_value_0>\uff05</color>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500317901, 
+        "Text": "Present Explosion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500317901, 
+        "Text": "Unleashes a single-target wind physical attack for <color=#2BE41D><tag:attack_effect_value_0>\uff05</color> normal damage"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500322030, 
+        "Text": "Effect - Critical Rate UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500322030, 
+        "Text": "When affected by Guard Rate UP, increases own critical rate by 7% at start of turn (available in support formation)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20011500322031, 
+        "Text": "Effect - Critical Rate UP"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20011500322031, 
+        "Text": "When affected by Guard Rate UP, increases own critical rate by 11% at start of turn (available in support formation)"
     }, 
     {
         "ColumnName": "name", 
@@ -17537,7 +17597,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362006, 
-        "Text": "Increases own pierce rate by 40% (Turns: 2)"
+        "Text": "Increases own pierce rate by 40% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17547,7 +17607,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362007, 
-        "Text": "Increases own pierce rate by 50% (Turns: 2)"
+        "Text": "Increases own pierce rate by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17557,7 +17617,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362008, 
-        "Text": "Increases own pierce rate by 60% (Turns: 2)"
+        "Text": "Increases own pierce rate by 60% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17567,7 +17627,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362009, 
-        "Text": "Increases own pierce rate by 80% (Turns: 2)"
+        "Text": "Increases own pierce rate by 80% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17577,7 +17637,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362010, 
-        "Text": "Increases own pierce rate by 100% (Turns: 2)"
+        "Text": "Increases own pierce rate by 100% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17587,7 +17647,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362011, 
-        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Skills gauge increase by 60% (Turns: 3)"
+        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Divine Protection gauge increase by 60% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17597,7 +17657,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362012, 
-        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Skills gauge increase by 70% (Turns: 3)"
+        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Divine Protection gauge increase by 70% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17607,7 +17667,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002362013, 
-        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Skills gauge increase by 80% (Turns: 3)"
+        "Text": "Increases own Secret Skill Gauge by 60%\nDecreases your Soul of Divine Protection gauge increase by 80% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17617,7 +17677,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002363001, 
-        "Text": "Decreases your Soul of Skills gauge increase by 30% (Turns: 3)"
+        "Text": "Decreases your Soul of Divine Protection gauge increase by 30% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17627,7 +17687,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002363002, 
-        "Text": "Decreases your Soul of Skills gauge increase by 50% (Turns: 3)"
+        "Text": "Decreases your Soul of Divine Protection gauge increase by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17687,7 +17747,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002363008, 
-        "Text": "Decreases all targets' Secret Skill Gauge by 60%"
+        "Text": "Decreases secret skill damage by 50% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -17697,7 +17757,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002363009, 
-        "Text": "Decreases all targets' Secret Skill Gauge by 80%"
+        "Text": "Decreases secret skill damage by 50% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -17707,7 +17767,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002363010, 
-        "Text": "Decreases all targets' Secret Skill Gauge by 100%"
+        "Text": "Decreases secret skill damage by 50% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 

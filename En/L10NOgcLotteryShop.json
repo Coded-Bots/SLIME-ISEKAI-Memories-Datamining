@@ -258,5 +258,25 @@
         "ColumnName": "ad_text2", 
         "LocalizationTargetId": 500000024, 
         "Text": "<style=LotteryCopyHoly>Gain a </style><style=LotteryCopyFire>special effect</style>\n<style=LotteryCopyHoly> in the event: Maid for the Holidays!</style>"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 500000025, 
+        "Text": "Troop Recruit: Maid for the Holidays Part 2"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 500000025, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "ad_text1", 
+        "LocalizationTargetId": 500000025, 
+        "Text": "<style=LotteryCopyHoly>Gain a </style><style=LotteryCopyFire>special effect</style>\n<style=LotteryCopyHoly> in the event: Maid for the Holidays!</style>"
+    }, 
+    {
+        "ColumnName": "ad_text2", 
+        "LocalizationTargetId": 500000025, 
+        "Text": "<style=LotteryCopyHoly>Gain a </style><style=LotteryCopyFire>special effect</style>\n<style=LotteryCopyHoly> in the event: Maid for the Holidays!</style>"
     }
 ]

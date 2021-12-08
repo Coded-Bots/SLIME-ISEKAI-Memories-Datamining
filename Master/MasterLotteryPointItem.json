@@ -52,5 +52,14 @@
         "MasterOgcLotteryShopId": 500000024, 
         "MaxLimit": 20000, 
         "ReleaseLabeloffset": "202112_lottery_xmas1_start"
+    }, 
+    {
+        "ExchangeMasterRewardGroupId": 802102400004, 
+        "ExchangeRate": 1, 
+        "ExchangeReleaseLabeloffset": "202112_lottery_xmas2_exchange", 
+        "MasterLotteryPointItemId": 508000008, 
+        "MasterOgcLotteryShopId": 500000025, 
+        "MaxLimit": 20000, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start"
     }
 ]

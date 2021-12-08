@@ -1316,7 +1316,7 @@
         "SwapCharacterVoicePathoffset": "ba/pc/milim/Common/voice_ba_pc_milim_012_damage", 
         "TownAvatarHidden": false, 
         "UnitChangeActionHomeId": 3014001500, 
-        "UnitChangeActionId": 3010001523, 
+        "UnitChangeActionId": 3010001520, 
         "VictoryTimelinePathoffset": "Setting/Cutscene/Battle/Victory/Milim/MilimDefault/MilimDefaultVictory"
     }, 
     {
@@ -1636,7 +1636,7 @@
         "SwapCharacterVoicePathoffset": "ba/pc/milim/Common/voice_ba_pc_milim_012_damage", 
         "TownAvatarHidden": false, 
         "UnitChangeActionHomeId": 3014001500, 
-        "UnitChangeActionId": 3010001523, 
+        "UnitChangeActionId": 3010001520, 
         "VictoryTimelinePathoffset": "Setting/Cutscene/Battle/Victory/Milim/MilimWithoutMantle/MilimWithoutMantleVictory"
     }, 
     {
@@ -1756,7 +1756,7 @@
         "SwapCharacterVoicePathoffset": "ba/pc/milim/Common/voice_ba_pc_milim_012_damage", 
         "TownAvatarHidden": false, 
         "UnitChangeActionHomeId": 3014001500, 
-        "UnitChangeActionId": 3010001523, 
+        "UnitChangeActionId": 3010001520, 
         "VictoryTimelinePathoffset": "Setting/Cutscene/Battle/Victory/Milim/MilimOriginalArrangeSimple/MilimOriginalArrangeSimpleVictory"
     }, 
     {
@@ -2158,6 +2158,46 @@
         "UnitChangeActionHomeId": 3014000501, 
         "UnitChangeActionId": 3010000521, 
         "VictoryTimelinePathoffset": "Setting/Cutscene/Battle/Victory/Shion/ShionMaidCostume2021Christmas/ShionMaidCostume2021ChristmasVictory"
+    }, 
+    {
+        "AppearTimelinePathoffset": "Setting/Cutscene/Battle/StartAct/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021ChristmasStartAct", 
+        "AvatarPathoffset": "Setting/Battle/CharacterAvatar/Ally/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas", 
+        "BattleTalkFacePathoffset": "", 
+        "BattleVoiceGroupIdoffset": "", 
+        "BulletPathoffset": "", 
+        "CanChangeAppearance": true, 
+        "CanVoiceAppearance": true, 
+        "CardImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaCard", 
+        "CombinationAttackTimelinePath4offset": "Setting/Cutscene/Battle/CombinationAttack/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_CombinationAttack_4", 
+        "CombinationAttackTimelinePath5offset": "Setting/Cutscene/Battle/CombinationAttack/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_CombinationAttack_5", 
+        "CombinationAttackTimelinePath6offset": "Setting/Cutscene/Battle/CombinationAttack/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_CombinationAttack_6", 
+        "CombinationAttackTimelinePathLeftoffset": "Setting/Cutscene/Battle/CombinationAttack/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_CombinationAttack_Left", 
+        "CombinationAttackTimelinePathRightoffset": "Setting/Cutscene/Battle/CombinationAttack/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_CombinationAttack_Right", 
+        "ContinueRevivalVoicePathoffset": "ba/pc/rimuru/Common/voice_ba_pc_rimuru_034_resuit", 
+        "CutinImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaCutin", 
+        "DistanceForDetail": 0.0, 
+        "FinishAttackTimelinePathoffset": "Setting/Cutscene/Battle/FinishAttack/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas_Battle_FinishAttack", 
+        "HomeAvatarPathoffset": "Setting/Home/CharacterAvatar/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas", 
+        "IconImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaPartyM", 
+        "LastCutinImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/6/RimuruMaidCostume2021Christmas_6_CharaCutin", 
+        "LastPcDetailIllustrationPathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/6/RimuruMaidCostume2021Christmas_6_CharaInfo", 
+        "MasterBackgroundGroupId": 14, 
+        "MasterPcId": 150031, 
+        "OffsetXForDetail": 0.0, 
+        "PcDetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas", 
+        "PcDetailIllustrationPathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaInfo", 
+        "PcDetailSettingPathoffset": "Setting/PcDetail/PcDetailCharaDisplaySetting/Pc/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021Christmas", 
+        "PowerfulAttackTimelinePathoffset": "", 
+        "QuestFaildVoicePathoffset": "ba/pc/rimuru/Common/voice_ba_pc_rimuru_033_resuit", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "ShotEffectPathoffset": "", 
+        "SlimeFlag": 0, 
+        "StripImagePathoffset": "Image/Character/PC/RimuruMaidCostume2021Christmas/5/RimuruMaidCostume2021Christmas_5_CharaPartyL", 
+        "SwapCharacterVoicePathoffset": "ba/pc/rimuru/Common/voice_ba_pc_rimuru_012_damage", 
+        "TownAvatarHidden": false, 
+        "UnitChangeActionHomeId": 0, 
+        "UnitChangeActionId": 3010000122, 
+        "VictoryTimelinePathoffset": "Setting/Cutscene/Battle/Victory/Rimuru/RimuruMaidCostume2021Christmas/RimuruMaidCostume2021ChristmasVictory"
     }, 
     {
         "AppearTimelinePathoffset": "", 

@@ -531,6 +531,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 150031, 
+        "Text": "Rimuru Tempest"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 150031, 
+        "Text": "Master of Maids"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 150033, 
         "Text": "Milim Nava"
     }, 

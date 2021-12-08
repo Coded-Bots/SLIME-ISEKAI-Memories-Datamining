@@ -201,6 +201,11 @@
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 803000000141, 
+        "Text": "A token of apology for the delay of Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 803000010000, 
         "Text": "Equipment made at the forge"
     }, 

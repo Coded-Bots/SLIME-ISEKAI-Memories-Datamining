@@ -9,6 +9,14 @@
     }, 
     {
         "AliveType": 1, 
+        "MasterCharacterId": 3001000001, 
+        "MasterWaveTalkCharacterConditionId": 4004001001, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "TalkConditionLabeloffset": "RimuruMaidCostume2021Christmas_Talk_Normal", 
+        "TargetType": 2
+    }, 
+    {
+        "AliveType": 1, 
         "MasterCharacterId": 3001000003, 
         "MasterWaveTalkCharacterConditionId": 4004000003, 
         "ReleaseLabeloffset": "", 

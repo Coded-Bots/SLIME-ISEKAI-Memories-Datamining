@@ -6922,17 +6922,17 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000003, 
-        "Text": "Magicule"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000004, 
         "Text": "Attack Magistone"
     }, 
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 811200000004, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 811200000005, 
-        "Text": "Magic Ore"
+        "Text": "Magicrystal"
     }, 
     {
         "ColumnName": "description", 
@@ -6942,7 +6942,7 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000007, 
-        "Text": "Training Magistone"
+        "Text": "Gold Coin"
     }, 
     {
         "ColumnName": "description", 
@@ -6952,157 +6952,117 @@
     {
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000009, 
-        "Text": "Stamina Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000010, 
-        "Text": "Attack Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000011, 
-        "Text": "Magic Ore"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000012, 
-        "Text": "Defense Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000013, 
-        "Text": "Training Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000014, 
-        "Text": "Octagram Emblem"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000015, 
-        "Text": "Defense Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000016, 
-        "Text": "Gold Coin"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000017, 
-        "Text": "Training Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000018, 
-        "Text": "Magic Ore"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000019, 
-        "Text": "Intelligence Magistone"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000020, 
-        "Text": "Magicule"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000021, 
-        "Text": "Stamina Magiblock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000022, 
-        "Text": "Giant Grindstone"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000023, 
-        "Text": "Attack Magiblock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000024, 
-        "Text": "Gold Coin"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000025, 
-        "Text": "Defense Magiblock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000026, 
-        "Text": "Magic Ore"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000027, 
-        "Text": "Training Magiblock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000028, 
-        "Text": "Magicule"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000029, 
-        "Text": "Intelligence Magirock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000030, 
-        "Text": "Giant Grindstone"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000031, 
-        "Text": "Stamina Magistone"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000032, 
-        "Text": "Gold Coin"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000033, 
-        "Text": "Attack Magistone"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000034, 
-        "Text": "Magic Ore"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000035, 
-        "Text": "Defense Magistone"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000036, 
-        "Text": "Magicule"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000037, 
         "Text": "Training Magistone"
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 811200000038, 
-        "Text": "Giant Grindstone"
+        "LocalizationTargetId": 811200000010, 
+        "Text": "Magicule"
     }, 
     {
         "ColumnName": "description", 
-        "LocalizationTargetId": 811200000039, 
-        "Text": "Intelligence Magiblock"
+        "LocalizationTargetId": 811200000011, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000012, 
+        "Text": "Stamina Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000013, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000014, 
+        "Text": "Attack Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000015, 
+        "Text": "Octagram Emblem"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000016, 
+        "Text": "Defense Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000017, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000018, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000019, 
+        "Text": "Training Magirock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000020, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000021, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000022, 
+        "Text": "Stamina Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000023, 
+        "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000024, 
+        "Text": "Attack Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000025, 
+        "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000026, 
+        "Text": "Magicule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000027, 
+        "Text": "Magicrystal"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000028, 
+        "Text": "Defense Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000029, 
+        "Text": "Recruit Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000030, 
+        "Text": "Training Magiblock"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811200000031, 
+        "Text": "Recruit Ticket"
     }, 
     {
         "ColumnName": "description", 
@@ -7403,156 +7363,6 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811200000260, 
         "Text": "Intelligence Magiblock"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000301, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000302, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000303, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000304, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000305, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000306, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000307, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000308, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000309, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000310, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000311, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000312, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000313, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000314, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000315, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000316, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000317, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000318, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000319, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000320, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000321, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000322, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000323, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000324, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000325, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000326, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000327, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000328, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000329, 
-        "Text": "Magicrystal"
-    }, 
-    {
-        "ColumnName": "description", 
-        "LocalizationTargetId": 811200000330, 
-        "Text": "Magicrystal"
     }, 
     {
         "ColumnName": "description", 
@@ -12943,6 +12753,11 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811900150030, 
         "Text": "Luminus Valentine, the Queen of Yule"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811900150031, 
+        "Text": "Rimuru Tempest, the Master of Maids"
     }, 
     {
         "ColumnName": "description", 
@@ -20518,5 +20333,320 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 811000000294, 
         "Text": "Rimuru, the Awakened Demon Lord Recruit Selection Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000296, 
+        "Text": "Bronze Blacksmith's Hammer"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000297, 
+        "Text": "Recruit Ticket: Maid for the Holidays Part 1"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000298, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000299, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000300, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000301, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000302, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000303, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000304, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000305, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000306, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000307, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000308, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000309, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000310, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000311, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000312, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000313, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000314, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000315, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000316, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000317, 
+        "Text": "Gold Coin"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000318, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000319, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000320, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000321, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000322, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000323, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000324, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000325, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000326, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000327, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000328, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000329, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000330, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000331, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000332, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000333, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000334, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000335, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000336, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000337, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000338, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000339, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000340, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000341, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000342, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000343, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000344, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000345, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000346, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000347, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000348, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000349, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000350, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000351, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000352, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000353, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000354, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000355, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000356, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000357, 
+        "Text": "Healing Potion"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 811000000358, 
+        "Text": "Healing Potion"
     }
 ]

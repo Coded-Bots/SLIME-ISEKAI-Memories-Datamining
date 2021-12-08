@@ -304,6 +304,30 @@
         "ReleaseLabeloffset": "202112_lottery_xmas1_exchange"
     }, 
     {
+        "CloseAtoffset": "2022/01/04 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001029, 
+        "OpenAtoffset": "2021/12/08 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001030, 
+        "OpenAtoffset": "2021/12/08 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_start"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001031, 
+        "OpenAtoffset": "2022/01/04 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_exchange"
+    }, 
+    {
         "CloseAtoffset": "2021/12/15 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000001032, 
