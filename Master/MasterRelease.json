@@ -352,6 +352,14 @@
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup_exchange"
     }, 
     {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000001051, 
+        "OpenAtoffset": "2021/12/08 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_wavetalk_start"
+    }, 
+    {
         "CloseAtoffset": "2021/05/31 8:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000002001, 
@@ -496,6 +504,46 @@
         "ReleaseLabeloffset": "202111_event_ministory_veldora_mission_short"
     }, 
     {
+        "CloseAtoffset": "2021/12/15 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002020, 
+        "OpenAtoffset": "2021/12/10 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
+        "CloseAtoffset": "", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002021, 
+        "OpenAtoffset": "2021/12/10 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/18 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002022, 
+        "OpenAtoffset": "2021/12/10 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_exchange"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/18 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002023, 
+        "OpenAtoffset": "2021/12/10 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_mission"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/27 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002024, 
+        "OpenAtoffset": "2021/12/22 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_result"
+    }, 
+    {
         "CloseAtoffset": "2021/11/30 5:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000002025, 
@@ -568,6 +616,14 @@
         "ReleaseLabeloffset": "202112_event_ministory_xmas_start"
     }, 
     {
+        "CloseAtoffset": "2021/12/22 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002041, 
+        "OpenAtoffset": "2021/12/15 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_wait"
+    }, 
+    {
         "CloseAtoffset": "2021/11/30 1:59:59", 
         "IsLocal": false, 
         "MasterReleaseId": 50000002051, 
@@ -582,6 +638,22 @@
         "OpenAtoffset": "2021/11/09 2:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "202111_event_ministory_veldora_home_banner"
+    }, 
+    {
+        "CloseAtoffset": "2021/12/29 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002053, 
+        "OpenAtoffset": "2021/12/10 2:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202112_event_xmas2_house_event"
+    }, 
+    {
+        "CloseAtoffset": "2022/03/22 5:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000002054, 
+        "OpenAtoffset": "2021/12/22 6:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_reward"
     }, 
     {
         "CloseAtoffset": "2021/05/31 8:59:59", 
@@ -774,5 +846,13 @@
         "OpenAtoffset": "2021/09/30 15:00:00", 
         "Region": 15, 
         "ReleaseLabeloffset": "initial"
+    }, 
+    {
+        "CloseAtoffset": "2037/12/31 14:59:59", 
+        "IsLocal": false, 
+        "MasterReleaseId": 50000060001, 
+        "OpenAtoffset": "2019/12/31 15:00:00", 
+        "Region": 15, 
+        "ReleaseLabeloffset": "1.0.20_system_common"
     }
 ]

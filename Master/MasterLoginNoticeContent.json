@@ -196,6 +196,19 @@
     }, 
     {
         "BgmFilePathoffset": "bgm_battle_predation", 
+        "Id": 62100000701, 
+        "ImageFilePathoffset": "Image/Event/HighScoreEvent/2004/LoginNotice_01", 
+        "Interval": 0, 
+        "MasterLoginNoticeContentType": 0, 
+        "MasterLoginNoticeGroupId": 62000000007, 
+        "MovieFilePathoffset": "", 
+        "MovieUseEnvelopeParent": false, 
+        "NovelFilePathoffset": "", 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
+        "BgmFilePathoffset": "bgm_battle_predation", 
         "Id": 62100000804, 
         "ImageFilePathoffset": "", 
         "Interval": 0, 

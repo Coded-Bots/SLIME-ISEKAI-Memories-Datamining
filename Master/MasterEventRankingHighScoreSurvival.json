@@ -1,1 +1,138 @@
-[]
+[
+    {
+        "MasterEventId": 21474836480401, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000001, 
+        "RateMax": 0, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 4294967697, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000002, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 8589934993, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000003, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 12884902289, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000004, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 17179869585, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000005, 
+        "RateMax": 9999, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 42949672960402, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000006, 
+        "RateMax": 0, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 10000
+    }, 
+    {
+        "MasterEventId": 4294967698, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000007, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 8000
+    }, 
+    {
+        "MasterEventId": 8589934994, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000008, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6000
+    }, 
+    {
+        "MasterEventId": 12884902290, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000009, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 4000
+    }, 
+    {
+        "MasterEventId": 17179869586, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000010, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 21474836882, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000011, 
+        "RateMax": 9999, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 64424509440403, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000012, 
+        "RateMax": 0, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 15000
+    }, 
+    {
+        "MasterEventId": 4294967699, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000013, 
+        "RateMax": 1, 
+        "RateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 12000
+    }, 
+    {
+        "MasterEventId": 8589934995, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000014, 
+        "RateMax": 2, 
+        "RateMin": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 9000
+    }, 
+    {
+        "MasterEventId": 12884902291, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000015, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6000
+    }, 
+    {
+        "MasterEventId": 17179869587, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000016, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3000
+    }, 
+    {
+        "MasterEventId": 21474836883, 
+        "MasterEventRankingHighScoreSurvivalId": 10080000000017, 
+        "RateMax": 9999, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }
+]

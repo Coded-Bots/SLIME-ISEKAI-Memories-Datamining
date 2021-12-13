@@ -87486,6 +87486,76 @@
     }, 
     {
         "ColumnName": "text", 
+        "LocalizationTargetId": 30123800271, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800272, 
+        "Text": "Great Rimuru! Are you enjoying Christmas?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800311, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800312, 
+        "Text": "Well, there was a lot to handle...But I'm having a good time. You and Shuna did a great job."
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800361, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800362, 
+        "Text": "Thank you! However, the fun has just begun!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800401, 
+        "Text": "Shion"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800402, 
+        "Text": "We've prepared a band to make the feast even better!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800451, 
+        "Text": "Rimuru"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800452, 
+        "Text": "You really went that far?!"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800071, 
+        "Text": "Christmas Event"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800072, 
+        "Text": "View the Christmas Event?"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800471, 
+        "Text": "Change BGM"
+    }, 
+    {
+        "ColumnName": "text", 
+        "LocalizationTargetId": 30123800472, 
+        "Text": "Change to the Christmas BGM?"
+    }, 
+    {
+        "ColumnName": "text", 
         "LocalizationTargetId": 30081100201, 
         "Text": "Kaijin"
     }, 

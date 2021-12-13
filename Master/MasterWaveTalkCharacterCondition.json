@@ -2,6 +2,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000001, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Rimuru_Talk_Normal", 
@@ -10,14 +11,16 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000001, 
+        "MasterPcId": 150031, 
         "MasterWaveTalkCharacterConditionId": 4004001001, 
-        "ReleaseLabeloffset": "202112_lottery_xmas2_start", 
+        "ReleaseLabeloffset": "202112_lottery_xmas2_wavetalk_start", 
         "TalkConditionLabeloffset": "RimuruMaidCostume2021Christmas_Talk_Normal", 
         "TargetType": 2
     }, 
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000003, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000003, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Benimaru_Talk_Normal", 
@@ -26,6 +29,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000004, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000004, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Gobta_Talk_Normal", 
@@ -34,6 +38,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000005, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000005, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Shion_Talk_Normal", 
@@ -42,6 +47,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000006, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000006, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Ranga_Talk_Normal", 
@@ -50,6 +56,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000007, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000007, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Soei_Talk_Normal", 
@@ -58,6 +65,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000008, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000008, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Rigurd_Talk_Normal", 
@@ -66,6 +74,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000009, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000009, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "GazelDwargo_Talk_Normal", 
@@ -74,6 +83,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000010, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000010, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Shuna_Talk_Normal", 
@@ -82,6 +92,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000011, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000011, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Treyni_Talk_Normal", 
@@ -90,6 +101,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000012, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000012, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Trya_Talk_Normal", 
@@ -98,6 +110,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000013, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000013, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Shizu_Talk_Normal", 
@@ -106,6 +119,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000014, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000014, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Gelmud_Talk_Normal", 
@@ -114,6 +128,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000015, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000015, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Milim_Talk_Normal", 
@@ -122,6 +137,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000016, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000016, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Gabiru_Talk_Normal", 
@@ -130,6 +146,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000017, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000017, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Geld_Talk_Normal", 
@@ -138,6 +155,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000018, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000018, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Hakuro_Talk_Normal", 
@@ -146,6 +164,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000019, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000019, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Kurobei_Talk_Normal", 
@@ -154,6 +173,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000020, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000020, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Ryota_Talk_Normal", 
@@ -162,6 +182,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000021, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000021, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Alice_Talk_Normal", 
@@ -170,6 +191,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000022, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000022, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Kenya_Talk_Normal", 
@@ -178,6 +200,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000023, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000023, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Gail_Talk_Normal", 
@@ -186,6 +209,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000024, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000024, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Beretta_Talk_Normal", 
@@ -194,6 +218,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000025, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000025, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Chloe_Talk_Normal", 
@@ -202,6 +227,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000026, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000026, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Yuuki_Talk_Normal", 
@@ -210,6 +236,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000027, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000027, 
         "ReleaseLabeloffset": "", 
         "TalkConditionLabeloffset": "Phobio_Talk_Normal", 
@@ -218,6 +245,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000028, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000028, 
         "ReleaseLabeloffset": "202111_lottery_akuma1_start", 
         "TalkConditionLabeloffset": "Diablo_Talk_Normal", 
@@ -226,6 +254,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000029, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000029, 
         "ReleaseLabeloffset": "202112_lottery_xmas1_start", 
         "TalkConditionLabeloffset": "Luminous_Talk_Normal", 
@@ -234,6 +263,7 @@
     {
         "AliveType": 1, 
         "MasterCharacterId": 3001000501, 
+        "MasterPcId": 0, 
         "MasterWaveTalkCharacterConditionId": 4004000501, 
         "ReleaseLabeloffset": "202111_lottery_veldora_pickup_start", 
         "TalkConditionLabeloffset": "Veldora_Talk_Normal", 

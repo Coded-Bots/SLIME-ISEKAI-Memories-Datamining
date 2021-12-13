@@ -10131,6 +10131,166 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 10002004001, 
+        "Text": "Soldier"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004002, 
+        "Text": "Wizard"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004007, 
+        "Text": "Gazel Dwargo"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004009, 
+        "Text": "Brutish Adventurer"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004010, 
+        "Text": "Savage Adventurer"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004103, 
+        "Text": "Soldier"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004103, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004104, 
+        "Text": "Wizard"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004104, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004111, 
+        "Text": "Brutish Adventurer"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004111, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004112, 
+        "Text": "Savage Adventurer"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004112, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004205, 
+        "Text": "Soldier"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004205, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004206, 
+        "Text": "Wizard"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004206, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004208, 
+        "Text": "Gazel Dwargo"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004208, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004213, 
+        "Text": "Brutish Adventurer"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004213, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004214, 
+        "Text": "Savage Adventurer"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004214, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004215, 
+        "Text": "Armorsaurus"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004215, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 10002004216, 
+        "Text": "Gazel Dwargo"
+    }, 
+    {
+        "ColumnName": "affiliation_name", 
+        "LocalizationTargetId": 10002004216, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 10002005001, 
         "Text": "Shion"
     }, 

@@ -333,5 +333,15 @@
         "Labeloffset": "battle.blessconfirm.title", 
         "MasterBattleMessageId": 2007000069, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.ranking.weak.score", 
+        "MasterBattleMessageId": 2007000070, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "battle.ranking.alive.score", 
+        "MasterBattleMessageId": 2007000071, 
+        "ReleaseLabeloffset": ""
     }
 ]

@@ -143,5 +143,15 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 809000029, 
         "Text": "This quest will consume {0} before moving out.\nContinue?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000030, 
+        "Text": "Ranking Details"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 809000031, 
+        "Text": "Ranking is typically updated in real-time, but it may take time for up-to-date information to be applied.\nIf your score is updated following the end of the event, it will not be applied to the ranking."
     }
 ]

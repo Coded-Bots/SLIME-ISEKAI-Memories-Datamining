@@ -2996,11 +2996,6 @@
     }, 
     {
         "ColumnName": "acting_voice_text", 
-        "LocalizationTargetId": 3010050819, 
-        "Text": "..."
-    }, 
-    {
-        "ColumnName": "acting_voice_text", 
         "LocalizationTargetId": 3010050820, 
         "Text": "..."
     }, 

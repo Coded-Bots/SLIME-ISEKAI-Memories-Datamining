@@ -22,8 +22,8 @@
         "Nameoffset": "\u9b54\u7269\u306e\u56fd\u306e\u60aa\u9b54\u79d8\u66f8", 
         "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
         "RankingResultReleaseLabeloffset": "", 
-        "RankingRewardReleaseLabeloffset": null, 
-        "ReleaseLabeloffset": "202111_event_akuma1", 
+        "RankingRewardReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "", 
         "TopBgmPathoffset": "bgm_dungeon_preinitiation"
     }, 
     {
@@ -49,8 +49,8 @@
         "Nameoffset": "\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u30fb\u30a6\u30a3\u30ba\u30fb\u30c7\u30a3\u30a2\u30d6\u30ed", 
         "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
         "RankingResultReleaseLabeloffset": "", 
-        "RankingRewardReleaseLabeloffset": null, 
-        "ReleaseLabeloffset": "202111_event_ministory_diablo", 
+        "RankingRewardReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "", 
         "TopBgmPathoffset": ""
     }, 
     {
@@ -76,9 +76,36 @@
         "Nameoffset": "\u30f4\u30a7\u30eb\u30c9\u30e9\u306e\u30b9\u30e9\u30a4\u30e0\u89b3\u5bdf\u65e5\u8a18", 
         "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
         "RankingResultReleaseLabeloffset": "", 
-        "RankingRewardReleaseLabeloffset": null, 
-        "ReleaseLabeloffset": "202111_event_ministory_veldora", 
+        "RankingRewardReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "", 
         "TopBgmPathoffset": ""
+    }, 
+    {
+        "BackgroundBossImagePathoffset": "Image/Event/HighScoreEvent/2004/Boss_Bg", 
+        "BackgroundQuestImagePathoffset": "Image/Event/HighScoreEvent/2004/Quest_Bg", 
+        "BackgroundTopBossImagePathoffset": "Image/Event/HighScoreEvent/2004/Top_Bg", 
+        "BackgroundTopImagePathoffset": "Image/Event/HighScoreEvent/2004/Top_Bg", 
+        "BossClearCountLimit": 0, 
+        "BossQuestBgmPathoffset": "bgm_dungeon_preinitiation", 
+        "CollectedItemId": 2400009, 
+        "EventType": 2, 
+        "HowToPlayId": 4001002004, 
+        "IconBossPathoffset": "Image/Event/HighScoreEvent/2004/Boss_TopButton", 
+        "IconQuestPathoffset": "Image/Event/HighScoreEvent/2004/Quest_TopButton", 
+        "LogoBossPathoffset": "Image/Event/HighScoreEvent/2004/Logo", 
+        "LogoQuestPathoffset": "Image/Event/HighScoreEvent/2004/Logo", 
+        "LogoTopPathoffset": "Image/Event/HighScoreEvent/2004/Logo", 
+        "MasterBossQuestGroupId": 4006002005, 
+        "MasterChapterId": 4001002004, 
+        "MasterEventId": 10000000000004, 
+        "MasterItemExchangeBannerId": 0, 
+        "MasterQuestGroupId": 4006002004, 
+        "Nameoffset": "\u6b66\u52c7\u796d", 
+        "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
+        "RankingResultReleaseLabeloffset": "event_ranking_01_01", 
+        "RankingRewardReleaseLabeloffset": "202111_event_wfestival1_wait", 
+        "ReleaseLabeloffset": "202111_event_wfestival1_result", 
+        "TopBgmPathoffset": "bgm_dungeon_preinitiation"
     }, 
     {
         "BackgroundBossImagePathoffset": "", 
@@ -103,8 +130,8 @@
         "Nameoffset": "\u899a\u9192\u8a66\u7df4", 
         "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
         "RankingResultReleaseLabeloffset": "", 
-        "RankingRewardReleaseLabeloffset": null, 
-        "ReleaseLabeloffset": "202111_event_mini_kakusei", 
+        "RankingRewardReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "", 
         "TopBgmPathoffset": ""
     }, 
     {
@@ -130,8 +157,8 @@
         "Nameoffset": "\u30e1\u30a4\u30c9 in \u30cf\u30c3\u30d4\u30fc\u30db\u30ea\u30c7\u30fc", 
         "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
         "RankingResultReleaseLabeloffset": "", 
-        "RankingRewardReleaseLabeloffset": null, 
-        "ReleaseLabeloffset": "202112_event_xmas1", 
+        "RankingRewardReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "", 
         "TopBgmPathoffset": "bgm_dungeon_preinitiation"
     }, 
     {
@@ -157,8 +184,8 @@
         "Nameoffset": "\u30e1\u30a4\u30c9 in Tempest", 
         "QuestBgmPathoffset": "bgm_dungeon_preinitiation", 
         "RankingResultReleaseLabeloffset": "", 
-        "RankingRewardReleaseLabeloffset": null, 
-        "ReleaseLabeloffset": "202112_event_ministory_xmas", 
+        "RankingRewardReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "", 
         "TopBgmPathoffset": ""
     }
 ]

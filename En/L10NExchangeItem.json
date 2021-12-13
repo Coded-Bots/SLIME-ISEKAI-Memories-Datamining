@@ -61,6 +61,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 2400009, 
+        "Text": "Tempest Points"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2400009, 
+        "Text": "Points earned in the Hero's Jubilee event."
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 2400999, 
         "Text": "Recruit Bazaar Points"
     }, 

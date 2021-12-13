@@ -4550,6 +4550,19 @@
         "Value": 25000
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Buff_Offense_Impart", 
+        "Labeloffset": "Attack_GazelDwargoDefault_09", 
+        "MasterAttackCulcType": 2, 
+        "MasterAttackEffectId": 20215000535092, 
+        "MasterAttackType": 3, 
+        "MasterElementType": 6, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "battle/other/se_battle_other_222", 
+        "TargetType": 5, 
+        "Value": 10000
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
         "Labeloffset": "Attack_GazelDwargoDefault_10", 
         "MasterAttackCulcType": 0, 
@@ -7177,6 +7190,32 @@
     }, 
     {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_HooliganADefault_09", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230002400091, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 10000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_HooliganADefault_10", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230002401101, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "", 
+        "TargetType": 1, 
+        "Value": 6000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
         "Labeloffset": "Attack_HooliganBDefault_01", 
         "MasterAttackCulcType": 0, 
         "MasterAttackEffectId": 20230002500011, 
@@ -7275,6 +7314,32 @@
         "MasterElementType": 1, 
         "PassiveSkillExecuteConditionLabeloffset": "", 
         "ReleaseLabeloffset": "", 
+        "SePathoffset": "", 
+        "TargetType": 1, 
+        "Value": 6000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_HooliganBDefault_09", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230002500091, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 10000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_HooliganBDefault_10", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230002501101, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
         "SePathoffset": "", 
         "TargetType": 1, 
         "Value": 6000
@@ -9295,6 +9360,32 @@
         "Value": 6000
     }, 
     {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_SoldierDefault_05", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230015800050, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 10000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Slash_Hit_Default", 
+        "Labeloffset": "Attack_SoldierDefault_06", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230015801060, 
+        "MasterAttackType": 0, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "", 
+        "TargetType": 1, 
+        "Value": 6000
+    }, 
+    {
         "AssetPathoffset": "Setting/Effect/Battle/Common/C_Magic_Hit_Holy", 
         "Labeloffset": "Attack_SorcererDefault_03", 
         "MasterAttackCulcType": 0, 
@@ -9316,6 +9407,32 @@
         "MasterElementType": 6, 
         "PassiveSkillExecuteConditionLabeloffset": "", 
         "ReleaseLabeloffset": "", 
+        "SePathoffset": "", 
+        "TargetType": 1, 
+        "Value": 6000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Magic_Hit_Default", 
+        "Labeloffset": "Attack_SorcererDefault_05", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230017610051, 
+        "MasterAttackType": 1, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SePathoffset": "", 
+        "TargetType": 0, 
+        "Value": 10000
+    }, 
+    {
+        "AssetPathoffset": "Setting/Effect/Battle/Common/C_Magic_Hit_Default", 
+        "Labeloffset": "Attack_SorcererDefault_06", 
+        "MasterAttackCulcType": 0, 
+        "MasterAttackEffectId": 20230017611061, 
+        "MasterAttackType": 1, 
+        "MasterElementType": 0, 
+        "PassiveSkillExecuteConditionLabeloffset": "", 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
         "SePathoffset": "", 
         "TargetType": 1, 
         "Value": 6000

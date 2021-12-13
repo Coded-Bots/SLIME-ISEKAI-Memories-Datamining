@@ -4172,6 +4172,86 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052027, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_27", 
+        "SkillIconImagePathoffset": "Image/Skill/052/01/{1}/IcSkill_052_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052028, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_28", 
+        "SkillIconImagePathoffset": "Image/Skill/005/02/{1}/IcSkill_005_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052029, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_29", 
+        "SkillIconImagePathoffset": "Image/Skill/005/02/{1}/IcSkill_005_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052030, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_30", 
+        "SkillIconImagePathoffset": "Image/Skill/005/02/{1}/IcSkill_005_02_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052031, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_31", 
+        "SkillIconImagePathoffset": "Image/Skill/027/01/{1}/IcSkill_027_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052032, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_32", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052033, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_33", 
+        "SkillIconImagePathoffset": "Image/Skill/041/13/{1}/IcSkill_041_13_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
+        "MasterSkillEffectGroupMaterialId": 20031500052034, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "GazelDwargoDefault_buff_34", 
+        "SkillIconImagePathoffset": "Image/Skill/052/01/{1}/IcSkill_052_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/GazelDwargo/GazelDwargoDefault/GazelDwargoDefault_Battle_ActiveSkill_Buff/GazelDwargoDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "Image/Character/PC/GazelDwargoDefault/5/GazelDwargoDefault_5_CharaCard", 
         "MasterSkillEffectGroupMaterialId": 20031500053001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "GazelDwargoDefault_debuff_01", 
@@ -8872,9 +8952,49 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000241009, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganADefault_normal_09", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000241010, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganADefault_normal_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033000242001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "HooliganADefault_buff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganA/HooliganADefault/HooliganADefault_Battle_ActiveSkill_Buff/HooliganADefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000242002, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganADefault_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganA/HooliganADefault/HooliganADefault_Battle_ActiveSkill_Buff/HooliganADefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000242003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganADefault_buff_03", 
         "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganA/HooliganADefault/HooliganADefault_Battle_ActiveSkill_Buff/HooliganADefault_Battle_ActiveSkill_Buff"
@@ -8916,6 +9036,16 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "HooliganADefault_debuff_02", 
         "SkillIconImagePathoffset": "Image/Skill/002/01/{1}/IcSkill_002_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganA/HooliganADefault/HooliganADefault_Battle_ActiveSkill_Debuff/HooliganADefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000243005, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganADefault_debuff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/012/01/{1}/IcSkill_012_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganA/HooliganADefault/HooliganADefault_Battle_ActiveSkill_Debuff/HooliganADefault_Battle_ActiveSkill_Debuff"
     }, 
@@ -8992,10 +9122,60 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000251009, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_normal_09", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000251010, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_normal_10", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033000252001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "HooliganBDefault_buff_01", 
         "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Buff/HooliganBDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000252002, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_buff_02", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Buff/HooliganBDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000252003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Buff/HooliganBDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000252004, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Buff/HooliganBDefault_Battle_ActiveSkill_Buff"
     }, 
@@ -9032,10 +9212,40 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000252008, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_buff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Buff/HooliganBDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033000253002, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "HooliganBDefault_debuff_02", 
         "SkillIconImagePathoffset": "Image/Skill/002/01/{1}/IcSkill_002_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Debuff/HooliganBDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000253005, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_debuff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/041/26/{1}/IcSkill_041_26_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Debuff/HooliganBDefault_Battle_ActiveSkill_Debuff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033000253006, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "HooliganBDefault_debuff_06", 
+        "SkillIconImagePathoffset": "Image/Skill/041/26/{1}/IcSkill_041_26_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/HooliganB/HooliganBDefault/HooliganBDefault_Battle_ActiveSkill_Debuff/HooliganBDefault_Battle_ActiveSkill_Debuff"
     }, 
@@ -12082,6 +12292,26 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001761003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_normal_03", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001761004, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_normal_04", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033001762001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "SorcererDefault_buff_01", 
@@ -12116,6 +12346,76 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "SorcererDefault_buff_04", 
         "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001762005, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_buff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001762006, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_buff_06", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001762007, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_buff_07", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001762008, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_buff_08", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001763001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_debuff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/041/25/{1}/IcSkill_041_25_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001763003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_debuff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/001/01/{1}/IcSkill_001_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001763004, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SorcererDefault_debuff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/031/05/{1}/IcSkill_031_05_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Sorcerer/SorcererDefault/SorcererDefault_Battle_ActiveSkill_Buff/SorcererDefault_Battle_ActiveSkill_Buff"
     }, 
@@ -16392,6 +16692,26 @@
     {
         "AfterEffectPathoffset": "", 
         "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001581003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SoldierDefault_normal_03", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001581004, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SoldierDefault_normal_04", 
+        "SkillIconImagePathoffset": "", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": ""
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
         "MasterSkillEffectGroupMaterialId": 20033001582001, 
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "SoldierDefault_buff_01", 
@@ -16406,6 +16726,16 @@
         "ReleaseLabeloffset": "", 
         "SkillEffectGroupLabeloffset": "SoldierDefault_buff_02", 
         "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soldier/SoldierDefault/SoldierDefault_Battle_ActiveSkill_Buff/SoldierDefault_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033001582003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "SoldierDefault_buff_03", 
+        "SkillIconImagePathoffset": "Image/Skill/005/02/{1}/IcSkill_005_02_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Soldier/SoldierDefault/SoldierDefault_Battle_ActiveSkill_Buff/SoldierDefault_Battle_ActiveSkill_Buff"
     }, 
@@ -16548,6 +16878,36 @@
         "SkillIconImagePathoffset": "Image/Skill/023/01/{1}/IcSkill_023_01_{1}_{0}", 
         "TimelineDisplayType": 0, 
         "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Armorsaurus/ArmorsaurusLargeSize/ArmorsaurusLargeSize_Battle_ActiveSkill_Buff/ArmorsaurusLargeSize_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002442004, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "ArmorsaurusLargeSize_buff_04", 
+        "SkillIconImagePathoffset": "Image/Skill/025/01/{1}/IcSkill_025_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Armorsaurus/ArmorsaurusLargeSize/ArmorsaurusLargeSize_Battle_ActiveSkill_Buff/ArmorsaurusLargeSize_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002442005, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "ArmorsaurusLargeSize_buff_05", 
+        "SkillIconImagePathoffset": "Image/Skill/011/01/{1}/IcSkill_011_01_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Armorsaurus/ArmorsaurusLargeSize/ArmorsaurusLargeSize_Battle_ActiveSkill_Buff/ArmorsaurusLargeSize_Battle_ActiveSkill_Buff"
+    }, 
+    {
+        "AfterEffectPathoffset": "", 
+        "CardImagePathoffset": "", 
+        "MasterSkillEffectGroupMaterialId": 20033002443001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "SkillEffectGroupLabeloffset": "ArmorsaurusLargeSize_debuff_01", 
+        "SkillIconImagePathoffset": "Image/Skill/031/06/{1}/IcSkill_031_06_{1}_{0}", 
+        "TimelineDisplayType": 0, 
+        "TimelinePathoffset": "Setting/Cutscene/Battle/Skill/ActiveSkill/Armorsaurus/ArmorsaurusLargeSize/ArmorsaurusLargeSize_Battle_ActiveSkill_Debuff/ArmorsaurusLargeSize_Battle_ActiveSkill_Debuff"
     }, 
     {
         "AfterEffectPathoffset": "", 

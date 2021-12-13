@@ -113,6 +113,17 @@
         "BannerType": 1, 
         "HasAdditionalCondition": false, 
         "LimitTime": 0, 
+        "MasterBannerId": 80000100004, 
+        "Pathoffset": "Image/Event/HighScoreEvent/2004/Top_Banner_S", 
+        "Priority": 111264996, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Urloffset": "", 
+        "Value": 4001002004
+    }, 
+    {
+        "BannerType": 1, 
+        "HasAdditionalCondition": false, 
+        "LimitTime": 0, 
         "MasterBannerId": 80000100005, 
         "Pathoffset": "Image/Event/StoryEvent/2006/Top_Banner_S", 
         "Priority": 111304995, 

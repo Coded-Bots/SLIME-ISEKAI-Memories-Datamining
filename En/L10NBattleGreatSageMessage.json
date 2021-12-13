@@ -221,6 +221,36 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 302000061, 
+        "Text": "Confirmed enemy that can increase ATK. Single-target attacks recommended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000062, 
+        "Text": "Confirmed enemy with significant counterattack rate increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000063, 
+        "Text": "Confirmed enemy with significant durability increase"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000064, 
+        "Text": "Confirmed enemy with temporary ability increase effect. Concentrated attack when enhancement wears off recommended."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000065, 
+        "Text": "Confirmed enemy with low critical resistance."
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000066, 
+        "Text": "Incoming poison attack anticipated"
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 302000067, 
         "Text": "Enemy that uses wind attacks has appeared"
     }, 
@@ -233,5 +263,10 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 302000069, 
         "Text": "Enemy that uses pierce rate UP at the start of battle has appeared"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 302000070, 
+        "Text": "Confirmed enemy that can increase ATK."
     }
 ]

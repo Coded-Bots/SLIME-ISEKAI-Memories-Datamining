@@ -1,1 +1,514 @@
-[]
+[
+    {
+        "MasterEventId": 17179869485, 
+        "MasterEventRankingHighScoreTurnId": 10070000000001, 
+        "RateMax": 4, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 21474836781, 
+        "MasterEventRankingHighScoreTurnId": 10070000000002, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 25769804077, 
+        "MasterEventRankingHighScoreTurnId": 10070000000003, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 30064771373, 
+        "MasterEventRankingHighScoreTurnId": 10070000000004, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 34359738669, 
+        "MasterEventRankingHighScoreTurnId": 10070000000005, 
+        "RateMax": 9999, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 17179869486, 
+        "MasterEventRankingHighScoreTurnId": 10070000000006, 
+        "RateMax": 4, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 21474836782, 
+        "MasterEventRankingHighScoreTurnId": 10070000000007, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 25769804078, 
+        "MasterEventRankingHighScoreTurnId": 10070000000008, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 30064771374, 
+        "MasterEventRankingHighScoreTurnId": 10070000000009, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 34359738670, 
+        "MasterEventRankingHighScoreTurnId": 10070000000010, 
+        "RateMax": 9999, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 25769804079, 
+        "MasterEventRankingHighScoreTurnId": 10070000000011, 
+        "RateMax": 6, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6500
+    }, 
+    {
+        "MasterEventId": 30064771375, 
+        "MasterEventRankingHighScoreTurnId": 10070000000012, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 34359738671, 
+        "MasterEventRankingHighScoreTurnId": 10070000000013, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 38654705967, 
+        "MasterEventRankingHighScoreTurnId": 10070000000014, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 42949673263, 
+        "MasterEventRankingHighScoreTurnId": 10070000000015, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 47244640559, 
+        "MasterEventRankingHighScoreTurnId": 10070000000016, 
+        "RateMax": 9999, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 17179869488, 
+        "MasterEventRankingHighScoreTurnId": 10070000000017, 
+        "RateMax": 4, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6500
+    }, 
+    {
+        "MasterEventId": 21474836784, 
+        "MasterEventRankingHighScoreTurnId": 10070000000018, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 25769804080, 
+        "MasterEventRankingHighScoreTurnId": 10070000000019, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 30064771376, 
+        "MasterEventRankingHighScoreTurnId": 10070000000020, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 34359738672, 
+        "MasterEventRankingHighScoreTurnId": 10070000000021, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 38654705968, 
+        "MasterEventRankingHighScoreTurnId": 10070000000022, 
+        "RateMax": 9999, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 30064771377, 
+        "MasterEventRankingHighScoreTurnId": 10070000000023, 
+        "RateMax": 7, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6500
+    }, 
+    {
+        "MasterEventId": 34359738673, 
+        "MasterEventRankingHighScoreTurnId": 10070000000024, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 38654705969, 
+        "MasterEventRankingHighScoreTurnId": 10070000000025, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 42949673265, 
+        "MasterEventRankingHighScoreTurnId": 10070000000026, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 47244640561, 
+        "MasterEventRankingHighScoreTurnId": 10070000000027, 
+        "RateMax": 11, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 51539607857, 
+        "MasterEventRankingHighScoreTurnId": 10070000000028, 
+        "RateMax": 9999, 
+        "RateMin": 12, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 21474836786, 
+        "MasterEventRankingHighScoreTurnId": 10070000000029, 
+        "RateMax": 5, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6500
+    }, 
+    {
+        "MasterEventId": 25769804082, 
+        "MasterEventRankingHighScoreTurnId": 10070000000030, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 30064771378, 
+        "MasterEventRankingHighScoreTurnId": 10070000000031, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 34359738674, 
+        "MasterEventRankingHighScoreTurnId": 10070000000032, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 38654705970, 
+        "MasterEventRankingHighScoreTurnId": 10070000000033, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 42949673266, 
+        "MasterEventRankingHighScoreTurnId": 10070000000034, 
+        "RateMax": 9999, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 25769804083, 
+        "MasterEventRankingHighScoreTurnId": 10070000000035, 
+        "RateMax": 6, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6500
+    }, 
+    {
+        "MasterEventId": 30064771379, 
+        "MasterEventRankingHighScoreTurnId": 10070000000036, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 34359738675, 
+        "MasterEventRankingHighScoreTurnId": 10070000000037, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 38654705971, 
+        "MasterEventRankingHighScoreTurnId": 10070000000038, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 42949673267, 
+        "MasterEventRankingHighScoreTurnId": 10070000000039, 
+        "RateMax": 10, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 47244640563, 
+        "MasterEventRankingHighScoreTurnId": 10070000000040, 
+        "RateMax": 9999, 
+        "RateMin": 11, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 21474836788, 
+        "MasterEventRankingHighScoreTurnId": 10070000000041, 
+        "RateMax": 5, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 10000
+    }, 
+    {
+        "MasterEventId": 25769804084, 
+        "MasterEventRankingHighScoreTurnId": 10070000000042, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 8000
+    }, 
+    {
+        "MasterEventId": 30064771380, 
+        "MasterEventRankingHighScoreTurnId": 10070000000043, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6000
+    }, 
+    {
+        "MasterEventId": 34359738676, 
+        "MasterEventRankingHighScoreTurnId": 10070000000044, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 4000
+    }, 
+    {
+        "MasterEventId": 38654705972, 
+        "MasterEventRankingHighScoreTurnId": 10070000000045, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 42949673268, 
+        "MasterEventRankingHighScoreTurnId": 10070000000046, 
+        "RateMax": 9999, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 8589934901, 
+        "MasterEventRankingHighScoreTurnId": 10070000000047, 
+        "RateMax": 2, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 24000
+    }, 
+    {
+        "MasterEventId": 12884902197, 
+        "MasterEventRankingHighScoreTurnId": 10070000000048, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 21000
+    }, 
+    {
+        "MasterEventId": 17179869493, 
+        "MasterEventRankingHighScoreTurnId": 10070000000049, 
+        "RateMax": 4, 
+        "RateMin": 4, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 18000
+    }, 
+    {
+        "MasterEventId": 21474836789, 
+        "MasterEventRankingHighScoreTurnId": 10070000000050, 
+        "RateMax": 5, 
+        "RateMin": 5, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 15000
+    }, 
+    {
+        "MasterEventId": 25769804085, 
+        "MasterEventRankingHighScoreTurnId": 10070000000051, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 12000
+    }, 
+    {
+        "MasterEventId": 30064771381, 
+        "MasterEventRankingHighScoreTurnId": 10070000000052, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 9000
+    }, 
+    {
+        "MasterEventId": 34359738677, 
+        "MasterEventRankingHighScoreTurnId": 10070000000053, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6000
+    }, 
+    {
+        "MasterEventId": 38654705973, 
+        "MasterEventRankingHighScoreTurnId": 10070000000054, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3000
+    }, 
+    {
+        "MasterEventId": 42949673269, 
+        "MasterEventRankingHighScoreTurnId": 10070000000055, 
+        "RateMax": 9999, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }, 
+    {
+        "MasterEventId": 8589934902, 
+        "MasterEventRankingHighScoreTurnId": 10070000000056, 
+        "RateMax": 2, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 11000
+    }, 
+    {
+        "MasterEventId": 12884902198, 
+        "MasterEventRankingHighScoreTurnId": 10070000000057, 
+        "RateMax": 3, 
+        "RateMin": 3, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 9500
+    }, 
+    {
+        "MasterEventId": 17179869494, 
+        "MasterEventRankingHighScoreTurnId": 10070000000058, 
+        "RateMax": 4, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 8000
+    }, 
+    {
+        "MasterEventId": 21474836790, 
+        "MasterEventRankingHighScoreTurnId": 10070000000059, 
+        "RateMax": 5, 
+        "RateMin": 0, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 6500
+    }, 
+    {
+        "MasterEventId": 25769804086, 
+        "MasterEventRankingHighScoreTurnId": 10070000000060, 
+        "RateMax": 6, 
+        "RateMin": 6, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 5000
+    }, 
+    {
+        "MasterEventId": 30064771382, 
+        "MasterEventRankingHighScoreTurnId": 10070000000061, 
+        "RateMax": 7, 
+        "RateMin": 7, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 3500
+    }, 
+    {
+        "MasterEventId": 34359738678, 
+        "MasterEventRankingHighScoreTurnId": 10070000000062, 
+        "RateMax": 8, 
+        "RateMin": 8, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 2000
+    }, 
+    {
+        "MasterEventId": 38654705974, 
+        "MasterEventRankingHighScoreTurnId": 10070000000063, 
+        "RateMax": 9, 
+        "RateMin": 9, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 500
+    }, 
+    {
+        "MasterEventId": 42949673270, 
+        "MasterEventRankingHighScoreTurnId": 10070000000064, 
+        "RateMax": 9999, 
+        "RateMin": 10, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "Score": 0
+    }
+]

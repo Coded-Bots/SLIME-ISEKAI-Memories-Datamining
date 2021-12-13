@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 2700001, 
+        "Text": "Boss Battle Ticket"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 2700001, 
+        "Text": "Item required to participate in the Boss Battle in the Hero's Jubilee event."
+    }
+]

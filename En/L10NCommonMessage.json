@@ -663,5 +663,25 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 808010109, 
         "Text": "Protection Character"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010200, 
+        "Text": "Unlock by clearing the event quest {0}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010201, 
+        "Text": "Top {0}% - {1}%"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010202, 
+        "Text": "<color=#ED4B39>Insufficient {0} Tickets.</color>\nGo to a quest to receive tickets?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 808010203, 
+        "Text": "The event period has ended"
     }
 ]

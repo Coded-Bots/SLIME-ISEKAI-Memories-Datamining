@@ -1428,6 +1428,223 @@
         "TotalItemNum": 300000
     }, 
     {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002001, 
+        "MasterRewardGroupId": 802300000001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 100
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002002, 
+        "MasterRewardGroupId": 802300000002, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 250
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002003, 
+        "MasterRewardGroupId": 802300000003, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 400
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002004, 
+        "MasterRewardGroupId": 802300000004, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 550
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002005, 
+        "MasterRewardGroupId": 802300000005, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 700
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002006, 
+        "MasterRewardGroupId": 802300000006, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 850
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002007, 
+        "MasterRewardGroupId": 802300000007, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 1000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002008, 
+        "MasterRewardGroupId": 802300000008, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 1200
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002009, 
+        "MasterRewardGroupId": 802300000009, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 1400
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002010, 
+        "MasterRewardGroupId": 802300000010, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 1600
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002011, 
+        "MasterRewardGroupId": 802300000011, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 1800
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002012, 
+        "MasterRewardGroupId": 802300000012, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 2000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002013, 
+        "MasterRewardGroupId": 802300000013, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 2300
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002014, 
+        "MasterRewardGroupId": 802300000014, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 2600
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002015, 
+        "MasterRewardGroupId": 802300000015, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 3000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002016, 
+        "MasterRewardGroupId": 802300000016, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 3300
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002017, 
+        "MasterRewardGroupId": 802300000017, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 3600
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002018, 
+        "MasterRewardGroupId": 802300000018, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 4000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002019, 
+        "MasterRewardGroupId": 802300000019, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 4400
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002020, 
+        "MasterRewardGroupId": 802300000020, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 4800
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002021, 
+        "MasterRewardGroupId": 802300000021, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 5200
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002022, 
+        "MasterRewardGroupId": 802300000022, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 5600
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002023, 
+        "MasterRewardGroupId": 802300000023, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 6000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002024, 
+        "MasterRewardGroupId": 802300000024, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 6500
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002025, 
+        "MasterRewardGroupId": 802300000025, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 7000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002026, 
+        "MasterRewardGroupId": 802300000026, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 7500
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002027, 
+        "MasterRewardGroupId": 802300000027, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 8000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002028, 
+        "MasterRewardGroupId": 802300000028, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 8500
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002029, 
+        "MasterRewardGroupId": 802300000029, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 9000
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002030, 
+        "MasterRewardGroupId": 802300000030, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 9500
+    }, 
+    {
+        "MasterEventId": 10000000000004, 
+        "MasterEventTotalCollectedItemRewardId": 10010000002031, 
+        "MasterRewardGroupId": 802300000031, 
+        "ReleaseLabeloffset": "202111_event_wfestival1", 
+        "TotalItemNum": 10000
+    }, 
+    {
         "MasterEventId": 10000000020060, 
         "MasterEventTotalCollectedItemRewardId": 10010200600001, 
         "MasterRewardGroupId": 802992408005, 

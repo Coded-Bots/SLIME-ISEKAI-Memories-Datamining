@@ -11380,6 +11380,396 @@
         "RewardType": 7
     }, 
     {
+        "Description": 4294967376, 
+        "MasterRewardGroupId": 802300000101, 
+        "MasterRewardId": 811200000101, 
+        "Quantity": 1, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2700001, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 8589934672, 
+        "MasterRewardGroupId": 802300000102, 
+        "MasterRewardId": 811200000102, 
+        "Quantity": 2, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2700001, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 12884901968, 
+        "MasterRewardGroupId": 802300000103, 
+        "MasterRewardId": 811200000103, 
+        "Quantity": 3, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2700001, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 214748364880, 
+        "MasterRewardGroupId": 802300000104, 
+        "MasterRewardId": 811200000104, 
+        "Quantity": 50, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 257698037840, 
+        "MasterRewardGroupId": 802300000105, 
+        "MasterRewardId": 811200000105, 
+        "Quantity": 60, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 300647710800, 
+        "MasterRewardGroupId": 802300000106, 
+        "MasterRewardId": 811200000106, 
+        "Quantity": 70, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 343597383760, 
+        "MasterRewardGroupId": 802300000107, 
+        "MasterRewardId": 811200000107, 
+        "Quantity": 80, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 386547056720, 
+        "MasterRewardGroupId": 802300000108, 
+        "MasterRewardId": 811200000108, 
+        "Quantity": 90, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 429496729680, 
+        "MasterRewardGroupId": 802300000109, 
+        "MasterRewardId": 811200000109, 
+        "Quantity": 100, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 472446402640, 
+        "MasterRewardGroupId": 802300000110, 
+        "MasterRewardId": 811200000110, 
+        "Quantity": 110, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 515396075600, 
+        "MasterRewardGroupId": 802300000111, 
+        "MasterRewardId": 811200000111, 
+        "Quantity": 120, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 558345748560, 
+        "MasterRewardGroupId": 802300000112, 
+        "MasterRewardId": 811200000112, 
+        "Quantity": 130, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 601295421520, 
+        "MasterRewardGroupId": 802300000113, 
+        "MasterRewardId": 811200000113, 
+        "Quantity": 140, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 644245094480, 
+        "MasterRewardGroupId": 802300000114, 
+        "MasterRewardId": 811200000114, 
+        "Quantity": 150, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 687194767440, 
+        "MasterRewardGroupId": 802300000115, 
+        "MasterRewardId": 811200000115, 
+        "Quantity": 160, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 730144440400, 
+        "MasterRewardGroupId": 802300000116, 
+        "MasterRewardId": 811200000116, 
+        "Quantity": 170, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 773094113360, 
+        "MasterRewardGroupId": 802300000117, 
+        "MasterRewardId": 811200000117, 
+        "Quantity": 180, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 816043786320, 
+        "MasterRewardGroupId": 802300000118, 
+        "MasterRewardId": 811200000118, 
+        "Quantity": 190, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 858993459280, 
+        "MasterRewardGroupId": 802300000119, 
+        "MasterRewardId": 811200000119, 
+        "Quantity": 200, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 901943132240, 
+        "MasterRewardGroupId": 802300000120, 
+        "MasterRewardId": 811200000120, 
+        "Quantity": 210, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 944892805200, 
+        "MasterRewardGroupId": 802300000121, 
+        "MasterRewardId": 811200000121, 
+        "Quantity": 220, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 987842478160, 
+        "MasterRewardGroupId": 802300000122, 
+        "MasterRewardId": 811200000122, 
+        "Quantity": 230, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1030792151120, 
+        "MasterRewardGroupId": 802300000123, 
+        "MasterRewardId": 811200000123, 
+        "Quantity": 240, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1073741824080, 
+        "MasterRewardGroupId": 802300000124, 
+        "MasterRewardId": 811200000124, 
+        "Quantity": 250, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1116691497040, 
+        "MasterRewardGroupId": 802300000125, 
+        "MasterRewardId": 811200000125, 
+        "Quantity": 260, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1159641170000, 
+        "MasterRewardGroupId": 802300000126, 
+        "MasterRewardId": 811200000126, 
+        "Quantity": 270, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1202590842960, 
+        "MasterRewardGroupId": 802300000127, 
+        "MasterRewardId": 811200000127, 
+        "Quantity": 280, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1245540515920, 
+        "MasterRewardGroupId": 802300000128, 
+        "MasterRewardId": 811200000128, 
+        "Quantity": 290, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1288490188880, 
+        "MasterRewardGroupId": 802300000129, 
+        "MasterRewardId": 811200000129, 
+        "Quantity": 300, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1331439861840, 
+        "MasterRewardGroupId": 802300000130, 
+        "MasterRewardId": 811200000130, 
+        "Quantity": 310, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1374389534800, 
+        "MasterRewardGroupId": 802300000131, 
+        "MasterRewardId": 811200000131, 
+        "Quantity": 320, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1417339207760, 
+        "MasterRewardGroupId": 802300000132, 
+        "MasterRewardId": 811200000132, 
+        "Quantity": 330, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1460288880720, 
+        "MasterRewardGroupId": 802300000133, 
+        "MasterRewardId": 811200000133, 
+        "Quantity": 340, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1503238553680, 
+        "MasterRewardGroupId": 802300000134, 
+        "MasterRewardId": 811200000134, 
+        "Quantity": 350, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1546188226640, 
+        "MasterRewardGroupId": 802300000135, 
+        "MasterRewardId": 811200000135, 
+        "Quantity": 360, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1589137899600, 
+        "MasterRewardGroupId": 802300000136, 
+        "MasterRewardId": 811200000136, 
+        "Quantity": 370, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1632087572560, 
+        "MasterRewardGroupId": 802300000137, 
+        "MasterRewardId": 811200000137, 
+        "Quantity": 380, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1675037245520, 
+        "MasterRewardGroupId": 802300000138, 
+        "MasterRewardId": 811200000138, 
+        "Quantity": 390, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
+        "Description": 1717986918480, 
+        "MasterRewardGroupId": 802300000139, 
+        "MasterRewardId": 811200000139, 
+        "Quantity": 400, 
+        "ReceiveType": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 2400009, 
+        "RewardType": 1
+    }, 
+    {
         "Description": 4294967344, 
         "MasterRewardGroupId": 802300000201, 
         "MasterRewardId": 811200000201, 
@@ -11978,6 +12368,136 @@
         "ReleaseLabeloffset": "", 
         "RewardItemId": 2100015, 
         "RewardType": 1
+    }, 
+    {
+        "Description": 85899346000, 
+        "MasterRewardGroupId": 802300010020, 
+        "MasterRewardId": 811200010020, 
+        "Quantity": 20, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 128849018960, 
+        "MasterRewardGroupId": 802300010030, 
+        "MasterRewardId": 811200010030, 
+        "Quantity": 30, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 214748364880, 
+        "MasterRewardGroupId": 802300010050, 
+        "MasterRewardId": 811200010050, 
+        "Quantity": 50, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 300647710800, 
+        "MasterRewardGroupId": 802300010070, 
+        "MasterRewardId": 811200010070, 
+        "Quantity": 70, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 515396075600, 
+        "MasterRewardGroupId": 802300010120, 
+        "MasterRewardId": 811200010120, 
+        "Quantity": 120, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 687194767440, 
+        "MasterRewardGroupId": 802300010160, 
+        "MasterRewardId": 811200010160, 
+        "Quantity": 160, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 858993459280, 
+        "MasterRewardGroupId": 802300010200, 
+        "MasterRewardId": 811200010200, 
+        "Quantity": 200, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1030792151120, 
+        "MasterRewardGroupId": 802300010240, 
+        "MasterRewardId": 811200010240, 
+        "Quantity": 240, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1159641170000, 
+        "MasterRewardGroupId": 802300010270, 
+        "MasterRewardId": 811200010270, 
+        "Quantity": 270, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1288490188880, 
+        "MasterRewardGroupId": 802300010300, 
+        "MasterRewardId": 811200010300, 
+        "Quantity": 300, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1503238553680, 
+        "MasterRewardGroupId": 802300010350, 
+        "MasterRewardId": 811200010350, 
+        "Quantity": 350, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1717986918480, 
+        "MasterRewardGroupId": 802300010400, 
+        "MasterRewardId": 811200010400, 
+        "Quantity": 400, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
+    }, 
+    {
+        "Description": 1932735283280, 
+        "MasterRewardGroupId": 802300010450, 
+        "MasterRewardId": 811200010450, 
+        "Quantity": 450, 
+        "ReceiveType": 2, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "RewardItemId": 3000001, 
+        "RewardType": 5
     }, 
     {
         "Description": 4294967344, 

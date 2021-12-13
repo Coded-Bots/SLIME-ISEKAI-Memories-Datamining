@@ -1,6 +1,36 @@
 [
     {
         "ColumnName": "description", 
+        "LocalizationTargetId": 50008000001, 
+        "Text": "Awakened Demon Lord"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 50008000002, 
+        "Text": "Demon Peer"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 50008000003, 
+        "Text": "Arch Demon"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 50008000004, 
+        "Text": "Greater Demon"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 50008000005, 
+        "Text": "Demon"
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 50008000006, 
+        "Text": "Lesser Demon"
+    }, 
+    {
+        "ColumnName": "description", 
         "LocalizationTargetId": 50008000007, 
         "Text": "Monster"
     }

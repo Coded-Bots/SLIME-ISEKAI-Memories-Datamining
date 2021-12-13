@@ -226,5 +226,17 @@
         "Name": 901943132188, 
         "ReleaseLabeloffset": "", 
         "UsageTransitionState": 0
+    }, 
+    {
+        "Hidden": false, 
+        "ItemFilterType": 3, 
+        "ItemModalType": 3, 
+        "ItemType": 213, 
+        "Labeloffset": "boss_ticket_item", 
+        "LocalizationKeyoffset": "", 
+        "MasterItemCategoryId": 1000020, 
+        "Name": 914828034108, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start", 
+        "UsageTransitionState": 0
     }
 ]

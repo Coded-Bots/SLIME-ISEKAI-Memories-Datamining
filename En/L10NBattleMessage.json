@@ -333,5 +333,15 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 2007000069, 
         "Text": "{0} Lv.{1}"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000070, 
+        "Text": "Weakness Damage Score"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 2007000071, 
+        "Text": "Survivor Score"
     }
 ]

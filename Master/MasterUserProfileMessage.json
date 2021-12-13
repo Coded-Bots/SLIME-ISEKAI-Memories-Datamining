@@ -18,5 +18,35 @@
         "DefineNameoffset": "User.Cautiion.Copy.UID", 
         "MasterUserProfileMessageId": 815000004, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.S", 
+        "MasterUserProfileMessageId": 815000005, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.A", 
+        "MasterUserProfileMessageId": 815000006, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.B", 
+        "MasterUserProfileMessageId": 815000007, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.C", 
+        "MasterUserProfileMessageId": 815000008, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.D", 
+        "MasterUserProfileMessageId": 815000009, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "User.Rank.Label.E", 
+        "MasterUserProfileMessageId": 815000010, 
+        "ReleaseLabeloffset": ""
     }
 ]

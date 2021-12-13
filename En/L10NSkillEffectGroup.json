@@ -8471,6 +8471,86 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052027, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052027, 
+        "Text": "Increases own pierce resistance by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052028, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052028, 
+        "Text": "Increases own P-ATK until the end of battle by 5%\nChance to stun a single target: 100% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052029, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052029, 
+        "Text": "Increases own P-ATK until the end of battle by 5%\nChance to stun all targets: 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052030, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052030, 
+        "Text": "Increases own P-ATK until the end of battle by 5%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052031, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052031, 
+        "Text": "Increases own counterattack rate by 100% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052032, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052032, 
+        "Text": "Increases own Secret Skill Gauge by 100%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052033, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052033, 
+        "Text": "Increases own Secret Skill Gauge by 100%\nIncreases own P-ATK until the end of battle by 5%\nIncreases own light ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20031500052034, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20031500052034, 
+        "Text": "Increases own pierce resistance until the end of battle by 50%\nIncreases own DEF by 50% (Turns: 6)\nIncreases own DEF by 100% (Turns: 5)\nIncreases own DEF by 150% (Turns: 4)\nIncreases own DEF by 200% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20031500053001, 
         "Text": ""
     }, 
@@ -12931,6 +13011,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033000241009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000241009, 
+        "Text": "Unleashes a single-target no attribute physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000241010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000241010, 
+        "Text": "Unleashes an all-target no attribute physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033000242001, 
         "Text": ""
     }, 
@@ -12938,6 +13038,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000242001, 
         "Text": "Increases own ATK by 15% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000242002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000242002, 
+        "Text": "Increases own ATK by 15% (Turns: 4)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000242003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000242003, 
+        "Text": "Increases own ATK by 25% (Turns: 4)\nDecreases all targets' guard rate by 20% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 
@@ -12981,6 +13101,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033000243005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000243005, 
+        "Text": "Decreases all targets' DEF by 10% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033000251001, 
         "Text": ""
     }, 
@@ -13048,6 +13178,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000251008, 
         "Text": "Unleashes an all-target earth physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000251009, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000251009, 
+        "Text": "Unleashes a single-target no attribute physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000251010, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000251010, 
+        "Text": "Unleashes an all-target no attribute physical attack"
     }, 
     {
         "ColumnName": "name", 
@@ -13058,6 +13208,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000252001, 
         "Text": "Increases all allies' critical rate by 10% (Turns: 4)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000252002, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000252002, 
+        "Text": "Increases own DEF by 10% (Turns: 4)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000252003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000252003, 
+        "Text": "Increases own DEF by 10% (Turns: 4)\nDecreases all targets' ATK by 15% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000252004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000252004, 
+        "Text": "Increases own guard rate by 30% (Turns: 2)"
     }, 
     {
         "ColumnName": "name", 
@@ -13091,6 +13271,16 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033000252008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000252008, 
+        "Text": "Increases own guard rate by 30% (Turns: 2)\nDecreases all targets' ATK by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033000253002, 
         "Text": ""
     }, 
@@ -13098,6 +13288,26 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033000253002, 
         "Text": "Decreases all targets' ATK by 30% (Turns: 4)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000253005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000253005, 
+        "Text": "Decreases Soul of Divine Protection damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033000253006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033000253006, 
+        "Text": "Decreases your Soul of Divine Protection gauge increase by 50% (Turns: 3)\nDecreases Soul of Divine Protection damage by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -16101,6 +16311,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033001581003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001581003, 
+        "Text": "Unleashes a single-target no attribute physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001581004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001581004, 
+        "Text": "Unleashes an all-target no attribute physical attack"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033001582001, 
         "Text": ""
     }, 
@@ -16118,6 +16348,16 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033001582002, 
         "Text": "Increases own guard rate by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001582003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001582003, 
+        "Text": "Increases own P-ATK by 15% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -16441,6 +16681,26 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 20033001761003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001761003, 
+        "Text": "Unleashes a single-target no attribute magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001761004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001761004, 
+        "Text": "Unleashes an all-target no attribute magic attack"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 20033001762001, 
         "Text": ""
     }, 
@@ -16478,6 +16738,76 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033001762004, 
         "Text": "Increases own M-ATK by 20% (Turns: 3)\nIncreases own critical rate by 20% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762005, 
+        "Text": "Increases all allies' ATK until the end of battle by 5%\nDecreases Soul of Secrets damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762006, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762006, 
+        "Text": "Increases all allies' ATK until the end of battle by 5%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762007, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762007, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%\nIncreases own DEF by 50% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001762008, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001762008, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001763001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001763001, 
+        "Text": "Decreases Soul of Secrets damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001763003, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001763003, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%\nIncreases own DEF by 50% (Turns: 2)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033001763004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033001763004, 
+        "Text": "Increases all allies' ATK until the end of battle by 10%\nChance to stun a single target: 100% (Turns: 2)\nDecreases Soul of Secrets damage by 50% (Turns: 3)"
     }, 
     {
         "ColumnName": "name", 
@@ -17978,6 +18308,36 @@
         "ColumnName": "description", 
         "LocalizationTargetId": 20033002442003, 
         "Text": "Increases own guard rate by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002442004, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002442004, 
+        "Text": "Increases own critical rate by 30% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002442005, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002442005, 
+        "Text": "Increases own DEF by 100% (Turns: 2)\nDecreases your Soul of Skills gauge increase by 50% (Turns: 3)\nDecreases Soul of Skills damage by 50% (Turns: 3)"
+    }, 
+    {
+        "ColumnName": "name", 
+        "LocalizationTargetId": 20033002443001, 
+        "Text": ""
+    }, 
+    {
+        "ColumnName": "description", 
+        "LocalizationTargetId": 20033002443001, 
+        "Text": "Chance to poison all targets: 100% (Turns: 4)"
     }, 
     {
         "ColumnName": "name", 

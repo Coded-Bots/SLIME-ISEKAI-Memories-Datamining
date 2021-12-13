@@ -54234,6 +54234,90 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "Labeloffset": "field_400001701_1_27_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800271, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_27_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800272, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_31_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800311, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_31_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800312, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_36_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800361, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_36_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800362, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_40_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800401, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_40_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800402, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_45_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800451, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_45_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800452, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_7_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800071, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_7_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800072, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_47_1", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800471, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Labeloffset": "field_400001701_1_47_2", 
+        "LuaScriptFileNameoffset": "field_400001701_1", 
+        "MasterLuaScriptTextId": 30123800472, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
         "Labeloffset": "chara_Trya_04_start_9_1", 
         "LuaScriptFileNameoffset": "chara_Trya_04_start", 
         "MasterLuaScriptTextId": 30045000091, 

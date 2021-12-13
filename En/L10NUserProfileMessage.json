@@ -18,5 +18,35 @@
         "ColumnName": "message", 
         "LocalizationTargetId": 815000004, 
         "Text": "Chancellor ID copied"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000005, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000006, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000007, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000008, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000009, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 815000010, 
+        "Text": "Hero's Jubilee"
     }
 ]

@@ -663,5 +663,25 @@
         "DefineNameoffset": "rank.select.type.name.blesspc", 
         "MasterCommonMessageId": 808010109, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "event.highscore.ranking.boss.locked.caution", 
+        "MasterCommonMessageId": 808010200, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "event.highscore.ranking.rank.range", 
+        "MasterCommonMessageId": 808010201, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "event.highscore.ranking.boss.ticket.item.lack.caution", 
+        "MasterCommonMessageId": 808010202, 
+        "ReleaseLabeloffset": ""
+    }, 
+    {
+        "DefineNameoffset": "event.highscore.ranking.end.caution", 
+        "MasterCommonMessageId": 808010203, 
+        "ReleaseLabeloffset": ""
     }
 ]

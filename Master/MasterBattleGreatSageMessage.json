@@ -442,6 +442,66 @@
     {
         "ConditionCount": 1, 
         "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000061, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000062, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000063, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000064, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000065, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000066, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
         "MasterBattleGreatSageMessageId": 302000067, 
         "MaxDisplayCount": 0, 
         "Priority": 100, 
@@ -463,6 +523,16 @@
         "ConditionCount": 1, 
         "ConditionType": 601, 
         "MasterBattleGreatSageMessageId": 302000069, 
+        "MaxDisplayCount": 0, 
+        "Priority": 100, 
+        "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 
+        "TriggerType": 5, 
+        "Voiceoffset": ""
+    }, 
+    {
+        "ConditionCount": 1, 
+        "ConditionType": 601, 
+        "MasterBattleGreatSageMessageId": 302000070, 
         "MaxDisplayCount": 0, 
         "Priority": 100, 
         "ReleaseLabeloffset": "gen/kenja/voice_gen_kenja_001", 

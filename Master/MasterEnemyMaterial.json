@@ -882,6 +882,15 @@
         "ReleaseLabeloffset": "202111_event_akuma2_predation"
     }, 
     {
+        "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/GazelDwargo/GazelDwargoHolyAttribute/GazelDwargoHolyAttribute", 
+        "DistanceForDetail": 4.199999809265137, 
+        "IconImagePathoffset": "Image/Character/Enemy/GazelDwargoHolyAttribute/GazelDwargoHolyAttribute_EnemyThumbM", 
+        "IsHitEffectRoot": false, 
+        "MasterEnemyMaterialId": 20000300235, 
+        "OffsetXForDetail": 1.100000023841858, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
         "DetailAvatarPathoffset": "Setting/PcDetail/CharacterAvatar/Luminous/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas", 
         "DistanceForDetail": 4.199999809265137, 
         "IconImagePathoffset": "Image/Character/Enemy/LuminousMaidCostume2021Christmas/LuminousMaidCostume2021Christmas_EnemyThumbM", 

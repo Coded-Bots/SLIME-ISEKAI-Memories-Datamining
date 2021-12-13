@@ -550,5 +550,71 @@
         "Id": 7000018005, 
         "ReleaseLabeloffset": "1.0.10_system_epranking", 
         "Value": 100000
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait_time.super_short", 
+        "Id": 7000019001, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 800
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait_time.short", 
+        "Id": 7000019002, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 2000
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait_time.lower_middle", 
+        "Id": 7000019003, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 3200
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait_time.upper_middle", 
+        "Id": 7000019004, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 4000
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait_time.long", 
+        "Id": 7000019005, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 4500
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait_time.super_long", 
+        "Id": 7000019006, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 5000
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait.body_size.super_short", 
+        "Id": 7000019007, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 10
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait.body_size.short", 
+        "Id": 7000019008, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 30
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait.body_size.lower_middle", 
+        "Id": 7000019009, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 45
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait.body_size.upper_middle", 
+        "Id": 7000019010, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 60
+    }, 
+    {
+        "DefineNameoffset": "novel.auto.wait.body_size.long", 
+        "Id": 7000019011, 
+        "ReleaseLabeloffset": "1.0.20_system_common", 
+        "Value": 80
     }
 ]

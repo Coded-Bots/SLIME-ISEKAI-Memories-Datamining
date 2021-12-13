@@ -649,5 +649,40 @@
         "DefineNameoffset": "sound.bgm.main_theme", 
         "Id": 8500001030, 
         "ReleaseLabeloffset": ""
+    }, 
+    {
+        "Addressoffset": "Image/PredationBonus/006/PredationBonus_006", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/PredationBonus/006/PredationBonus_006.png", 
+        "DefineNameoffset": "image.battle.high.score.result.icon.alive", 
+        "Id": 8500001031, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
+        "Addressoffset": "Image/PredationBonus/004/PredationBonus_004", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/PredationBonus/004/PredationBonus_004.png", 
+        "DefineNameoffset": "image.battle.high.score.result.icon.damage", 
+        "Id": 8500001032, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
+        "Addressoffset": "Image/PredationBonus/005/PredationBonus_005", 
+        "AssetPathoffset": "Assets/AssetBundles/Image/PredationBonus/005/PredationBonus_005.png", 
+        "DefineNameoffset": "image.battle.high.score.result.icon.received.damage", 
+        "Id": 8500001033, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
+        "Addressoffset": "bgm_town_xmas_01", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/BGM/bgm_town_xmas_01/bgm_town_xmas_01.asset", 
+        "DefineNameoffset": "sound.bgm_town_xmas_01", 
+        "Id": 8500001034, 
+        "ReleaseLabeloffset": "202112_event_xmas2_house_event"
+    }, 
+    {
+        "Addressoffset": "facility/0000/se_facility_0000_130", 
+        "AssetPathoffset": "Assets/AssetBundles/Sound/AudioClipSource/SE/facility/0000/se_facility_0000_130.asset", 
+        "DefineNameoffset": "sound.se.facility.130", 
+        "Id": 8500001035, 
+        "ReleaseLabeloffset": ""
     }
 ]

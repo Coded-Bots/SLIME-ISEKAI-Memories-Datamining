@@ -758,5 +758,43 @@
         "Priority": 1, 
         "ReleaseLabeloffset": "202111_event_akuma2_predation", 
         "ScriptNameoffset": "field_400001407_1"
+    }, 
+    {
+        "ActingMotionoffset": "Idle", 
+        "ColliderSize": 3.0, 
+        "Direction": 180.0, 
+        "FacilityLevelFrom": 1, 
+        "FacilityLevelTo": 10, 
+        "MasterCharacterAppearanceType": 5, 
+        "MasterCharacterFacilityId": 3016014081, 
+        "MasterCharacterId": 0, 
+        "MasterCharacterMobGroupType": 0, 
+        "MasterFacilityId": 400001408, 
+        "OffsetY": 1.0, 
+        "PinNo": 1, 
+        "PosX": 1.5299999713897705, 
+        "PosY": 1.7999999523162842, 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202112_event_xmas2_house_event", 
+        "ScriptNameoffset": "field_400001701_1"
+    }, 
+    {
+        "ActingMotionoffset": "Idle", 
+        "ColliderSize": 3.0, 
+        "Direction": 180.0, 
+        "FacilityLevelFrom": 11, 
+        "FacilityLevelTo": 0, 
+        "MasterCharacterAppearanceType": 5, 
+        "MasterCharacterFacilityId": 3016014082, 
+        "MasterCharacterId": 0, 
+        "MasterCharacterMobGroupType": 0, 
+        "MasterFacilityId": 400001408, 
+        "OffsetY": 1.0, 
+        "PinNo": 2, 
+        "PosX": 1.5, 
+        "PosY": 1.7999999523162842, 
+        "Priority": 1, 
+        "ReleaseLabeloffset": "202112_event_xmas2_house_event", 
+        "ScriptNameoffset": "field_400001701_1"
     }
 ]

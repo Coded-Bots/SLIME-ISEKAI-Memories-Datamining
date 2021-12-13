@@ -1641,6 +1641,206 @@
     }, 
     {
         "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005001, 
+        "Text": "Normal Battle (Beginner 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005001, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005001, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005002, 
+        "Text": "Normal Battle (Beginner 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005002, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005002, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005002, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005003, 
+        "Text": "Normal Battle (Normal 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005003, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005003, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005003, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005004, 
+        "Text": "Normal Battle (Normal 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005004, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005004, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005004, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005005, 
+        "Text": "Normal Battle (Expert 1)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005005, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005005, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005005, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005006, 
+        "Text": "Normal Battle (Expert 2)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005006, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005006, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005006, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005007, 
+        "Text": "Normal Battle (Expert 3)"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005007, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005007, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005007, 
+        "Text": "There are no powerful individuals in this quest. Form a troop that exceeds the recommended EP using characters of the recommended attribute."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005008, 
+        "Text": "Boss Battle 1"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005008, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005008, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005008, 
+        "Text": "A powerful individual that uses a powerful attack appears in the second half. Quick defeat through concentrated attack is recommended."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005009, 
+        "Text": "Boss Battle 2"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005009, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005009, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005009, 
+        "Text": "A powerful individual that uses a powerful attack appears in the second half. Quick defeat through concentrated attack is recommended."
+    }, 
+    {
+        "ColumnName": "quest_name", 
+        "LocalizationTargetId": 4014005010, 
+        "Text": "Boss Battle EX"
+    }, 
+    {
+        "ColumnName": "avatar_message", 
+        "LocalizationTargetId": 4014005010, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "avatar_home_rimuru_message", 
+        "LocalizationTargetId": 4014005010, 
+        "Text": "Let's have a feast after this is all over."
+    }, 
+    {
+        "ColumnName": "sage_guide", 
+        "LocalizationTargetId": 4014005010, 
+        "Text": "A powerful individual that uses a powerful attack appears in the second half. Quick defeat through concentrated attack is recommended."
+    }, 
+    {
+        "ColumnName": "quest_name", 
         "LocalizationTargetId": 4014006001, 
         "Text": "It's Christmas! Part 1"
     }, 

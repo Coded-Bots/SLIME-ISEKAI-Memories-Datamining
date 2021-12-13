@@ -77,6 +77,17 @@
         "ReleaseLabeloffset": ""
     }, 
     {
+        "Description": 4294967440, 
+        "Gold": 0, 
+        "IconPathoffset": "Image/Item/Exchange/2400009/exchange_item_2400009_Item{0}", 
+        "Locationoffset": "", 
+        "MasterExchangeItemId": 2400009, 
+        "MaxLimit": 999999, 
+        "Name": 618475290780, 
+        "Rarity": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
         "Description": 4294967432, 
         "Gold": 0, 
         "IconPathoffset": "Image/Item/Exchange/2410001/exchange_item_2410001_Item{0}", 

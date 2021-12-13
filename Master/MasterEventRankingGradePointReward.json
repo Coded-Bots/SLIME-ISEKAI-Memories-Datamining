@@ -1,1 +1,821 @@
-[]
+[
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000001, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000002, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000003, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000004, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000005, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000006, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000007, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000008, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000009, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000010, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000011, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000012, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000013, 
+        "MasterUserGradeId": 50008000001, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000014, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000015, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000016, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000017, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000018, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000019, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000020, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000021, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000022, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000023, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000024, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000025, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000026, 
+        "MasterUserGradeId": 50008000002, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000027, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000028, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000029, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000030, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000031, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000032, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000033, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000034, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000035, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000036, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000037, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000038, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000039, 
+        "MasterUserGradeId": 50008000003, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 350, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000040, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 250, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000041, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000042, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000043, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000044, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000045, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000046, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000047, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000048, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000049, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000050, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000051, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000052, 
+        "MasterUserGradeId": 50008000004, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 400, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000053, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 300, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000054, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 250, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000055, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 250, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000056, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000057, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000058, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000059, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000060, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000061, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000062, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000063, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000064, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": -50, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000065, 
+        "MasterUserGradeId": 50008000005, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 550, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000066, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 500, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000067, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 450, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000068, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 400, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000069, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 350, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000070, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 300, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000071, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 250, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000072, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 250, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000073, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000074, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000075, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 150, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000076, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 100, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000077, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000078, 
+        "MasterUserGradeId": 50008000006, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 650, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000079, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 500, 
+        "RankRateMin": 1, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 600, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000080, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 1000, 
+        "RankRateMin": 501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 550, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000081, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 1500, 
+        "RankRateMin": 1001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 550, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000082, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 2000, 
+        "RankRateMin": 1501, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 500, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000083, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 3000, 
+        "RankRateMin": 2001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 500, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000084, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 4000, 
+        "RankRateMin": 3001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 450, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000085, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 5000, 
+        "RankRateMin": 4001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 450, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000086, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 6000, 
+        "RankRateMin": 5001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 400, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000087, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 7000, 
+        "RankRateMin": 6001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 300, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000088, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 8000, 
+        "RankRateMin": 7001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 300, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000089, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 9000, 
+        "RankRateMin": 8001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 200, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000090, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 9900, 
+        "RankRateMin": 9001, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }, 
+    {
+        "GradePoint": 0, 
+        "MasterEventId": 10000000000004, 
+        "MasterEventRankingGradePointRewardId": 10030000000091, 
+        "MasterUserGradeId": 50008000007, 
+        "RankRateMax": 10000, 
+        "RankRateMin": 9901, 
+        "ReleaseLabeloffset": "202111_event_wfestival1_start"
+    }
+]

@@ -2072,6 +2072,48 @@
         "WaitTime": 60
     }, 
     {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "RimuruMaidCostume2021Christmas_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001155, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "RimuruMaidCostume2021Christmas_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001156, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
+        "MasterCharacterId": 3001000001, 
+        "MasterPcId": 0, 
+        "MasterWaveCharacterConditionoffset": "RimuruMaidCostume2021Christmas_Talk_Normal", 
+        "MasterWaveQuestConditionoffset": "", 
+        "MasterWaveTalkContentId": 4003001157, 
+        "NextTalkLabeloffset": "", 
+        "Rate": 10, 
+        "ReleaseLabeloffset": null, 
+        "TalkIndex": 1, 
+        "TalkLabeloffset": "Before_Normal", 
+        "VoicePathoffset": "", 
+        "WaitTime": 64
+    }, 
+    {
         "MasterCharacterId": 3001000003, 
         "MasterPcId": 0, 
         "MasterWaveCharacterConditionoffset": "", 

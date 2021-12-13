@@ -91,6 +91,11 @@
     }, 
     {
         "ColumnName": "name", 
+        "LocalizationTargetId": 4001002004, 
+        "Text": "Hero's Jubilee"
+    }, 
+    {
+        "ColumnName": "name", 
         "LocalizationTargetId": 4001002005, 
         "Text": "Awakening Trials"
     }, 

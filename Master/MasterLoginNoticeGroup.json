@@ -30,6 +30,11 @@
         "ReleaseLabeloffset": "202111_lottery_buyusai_pickup"
     }, 
     {
+        "MasterLoginNoticeGroupId": 62000000007, 
+        "Priority": 30, 
+        "ReleaseLabeloffset": "202111_event_wfestival1"
+    }, 
+    {
         "MasterLoginNoticeGroupId": 62000000008, 
         "Priority": 31, 
         "ReleaseLabeloffset": "202112_lottery_xmas1"

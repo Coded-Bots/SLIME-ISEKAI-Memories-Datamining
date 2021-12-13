@@ -1,8 +1,44 @@
 [
     {
+        "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_07", 
+        "MasterUserGradeId": 50008000001, 
+        "ReleaseLabeloffset": "S", 
+        "RequireGradePoint": 1201
+    }, 
+    {
+        "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_06", 
+        "MasterUserGradeId": 50008000002, 
+        "ReleaseLabeloffset": "A", 
+        "RequireGradePoint": 1001
+    }, 
+    {
+        "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_05", 
+        "MasterUserGradeId": 50008000003, 
+        "ReleaseLabeloffset": "B", 
+        "RequireGradePoint": 801
+    }, 
+    {
+        "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_04", 
+        "MasterUserGradeId": 50008000004, 
+        "ReleaseLabeloffset": "C", 
+        "RequireGradePoint": 601
+    }, 
+    {
+        "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_03", 
+        "MasterUserGradeId": 50008000005, 
+        "ReleaseLabeloffset": "D", 
+        "RequireGradePoint": 401
+    }, 
+    {
+        "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_02", 
+        "MasterUserGradeId": 50008000006, 
+        "ReleaseLabeloffset": "E", 
+        "RequireGradePoint": 201
+    }, 
+    {
         "GradeIconPathoffset": "Image/IcRank/01/IcRank_01_01", 
         "MasterUserGradeId": 50008000007, 
-        "ReleaseLabeloffset": "", 
+        "ReleaseLabeloffset": "F", 
         "RequireGradePoint": 0
     }
 ]

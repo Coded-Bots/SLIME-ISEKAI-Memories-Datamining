@@ -741,6 +741,21 @@
     }, 
     {
         "ColumnName": "message", 
+        "LocalizationTargetId": 4003001155, 
+        "Text": "Okay, so where's our next stop?"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001156, 
+        "Text": "Time to deliver some holiday cheer!"
+    }, 
+    {
+        "ColumnName": "message", 
+        "LocalizationTargetId": 4003001157, 
+        "Text": "Seems like you don't need any presents."
+    }, 
+    {
+        "ColumnName": "message", 
         "LocalizationTargetId": 4003003001, 
         "Text": "Okay!"
     }, 
